@@ -4,16 +4,19 @@ import SnackbarProvider from 'react-simple-snackbar';
 
 import EntityCards from '../components/entity-cards';
 import Container from '../components/container';
+import { GlobalStateProvider } from '../hooks/GlobalState';
 
 const IndexPage = ({ data }) => {
 	const { entities } = data.entity;
-	// console.log(entities); // eslint-disable-line no-console
+	console.log(entities); // eslint-disable-line no-console
 
 	return (
 		<SnackbarProvider>
-			<Container>
-				<EntityCards entities={entities} />
-			</Container>
+			<GlobalStateProvider>
+				<Container>
+					<EntityCards entities={entities} />
+				</Container>
+			</GlobalStateProvider>
 		</SnackbarProvider>
 	);
 };

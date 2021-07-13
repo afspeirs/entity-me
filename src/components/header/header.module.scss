@@ -2,13 +2,14 @@
 	color: var(--clr-light);
 	background-color: var(--clr-theme);
 
-	::selection {
+	h1 ::selection {
 		color: var(--clr-theme);
 		background-color: var(--clr-light);
 	}
 }
 
 .content {
+	display: flex;
 	margin: 0 auto;
 	max-width: 960px;
 	padding: 1.45rem 1.0875rem;
@@ -16,6 +17,7 @@
 	h1 {
 		margin: 0;
 		font-size: 1.6em;
+		margin-right: auto;
 
 		sup {
 			font-size: 0.65em;

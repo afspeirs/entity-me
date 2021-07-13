@@ -1,12 +1,24 @@
+import { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import { useSnackbar } from 'react-simple-snackbar';
 
 import * as styles from './entity-cards.module.scss';
+import { useGlobalState } from '../../hooks/GlobalState';
 
 const EntityCards = ({ entities }) => {
+	const [{ search }] = useGlobalState();
+	const [filteredEntities, setFilteredEntities] = useState([]);
+
 	const [openSnackbar] = useSnackbar({
 		position: 'bottom-left',
 	});
+
+	useEffect(async () => {
+		const filter = await Promise.all(entities.filter((entity) => entity.info
+			.find((info) => info.text.toLowerCase().includes(search.text.toLowerCase()))));
+
+		setFilteredEntities(filter);
+	}, [search]);
 
 	const handleEntityClick = (text) => {
 		const arrayOfEntities = text.split(' ');
@@ -17,7 +29,6 @@ const EntityCards = ({ entities }) => {
 		navigator.clipboard.writeText(arrayOfEntities[0])
 			.then(() => {
 				openSnackbar(`Copied the following character to the clipboard: ${arrayOfEntities[0]}`);
-				// console.log(`Copied the following character to the clipboard: ${arrayOfEntities[0]}`);
 			})
 			.catch((error) => {
 				console.error(`Could not copy text: ${error}`); // eslint-disable-line no-console
@@ -26,7 +37,16 @@ const EntityCards = ({ entities }) => {
 
 	return (
 		<div className={styles.container}>
-			{entities.map((entity) => (
+			{filteredEntities.length === 0 && (
+				<div className={styles.card}>
+					<div className={styles.placeholder}>
+						No results found for:
+						<br />
+						{`"${search.text}"`}
+					</div>
+				</div>
+			)}
+			{filteredEntities.map((entity) => (
 				<div
 					key={entity.title}
 					className={styles.card}

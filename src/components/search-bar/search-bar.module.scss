@@ -1,0 +1,26 @@
+.root {
+	position: relative;
+}
+
+.search {
+	padding: 10px;
+	padding-right: 30px;
+}
+
+.clear {
+	all: unset;
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	width: 32px;
+	cursor: pointer;
+	color: black;
+	text-align: center;
+	transition: background-color 0.2s ease;
+
+	&:focus,
+	&:hover {
+		background-color: rgba(0, 0, 0, 0.1);
+	}
+}

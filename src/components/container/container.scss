@@ -1,46 +1,46 @@
 @import './variables';
 
 html {
-  overscroll-behavior: none;
-  overflow: hidden;
+	overscroll-behavior: none;
+	overflow: hidden;
 }
 
 body {
-  margin: 0;
-  font-family: sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	margin: 0;
+	font-family: sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 *,
 *:before,
 *:after {
-  box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 ::selection {
-  color: var(--clr-light);
-  background-color: var(--clr-theme);
+	color: var(--clr-light);
+	background-color: var(--clr-theme);
 }
 
 ::-webkit-scrollbar {
-  max-width: 8px;
-  max-height: 8px;
+	max-width: 8px;
+	max-height: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: transparent;
+	background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: #ccc;
+	background: #ccc;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #aaa;
+	background: #aaa;
 }
 ::-webkit-scrollbar-thumb:active {
-  background: #888;
+	background: #888;
 }
 ::-webkit-scrollbar-button {
-  background: #ccc;
-  height: 0;
-  width: 0;
+	background: #ccc;
+	height: 0;
+	width: 0;
 }

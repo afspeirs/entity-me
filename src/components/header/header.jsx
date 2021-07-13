@@ -1,5 +1,6 @@
 import { useStaticQuery, graphql } from 'gatsby';
 
+import SearchBar from '../search-bar';
 import * as styles from './header.module.scss';
 
 const Header = () => {
@@ -25,6 +26,8 @@ const Header = () => {
 					{title}
 					<sup><code>{version}</code></sup>
 				</h1>
+
+				<SearchBar />
 			</div>
 		</header>
 	);
