@@ -1,0 +1,5506 @@
+[
+  {
+    "character": "∀",
+    "decimal": "8704",
+    "hex": "2200",
+    "entity": "&forall;",
+    "description": "FOR ALL",
+    "note": ""
+  },
+  {
+    "character": "∁",
+    "decimal": "8705",
+    "hex": "2201",
+    "entity": "",
+    "description": "COMPLEMENT",
+    "note": ""
+  },
+  {
+    "character": "∂",
+    "decimal": "8706",
+    "hex": "2202",
+    "entity": "&part;",
+    "description": "PARTIAL DIFFERENTIAL",
+    "note": ""
+  },
+  {
+    "character": "∃",
+    "decimal": "8707",
+    "hex": "2203",
+    "entity": "&exist;",
+    "description": "THERE EXISTS",
+    "note": ""
+  },
+  {
+    "character": "∄",
+    "decimal": "8708",
+    "hex": "2204",
+    "entity": "",
+    "description": "THERE DOES NOT EXIST",
+    "note": ""
+  },
+  {
+    "character": "∅",
+    "decimal": "8709",
+    "hex": "2205",
+    "entity": "&empty;",
+    "description": "EMPTY SET",
+    "note": ""
+  },
+  {
+    "character": "∆",
+    "decimal": "8710",
+    "hex": "2206",
+    "entity": "",
+    "description": "INCREMENT",
+    "note": ""
+  },
+  {
+    "character": "∇",
+    "decimal": "8711",
+    "hex": "2207",
+    "entity": "&nabla;",
+    "description": "NABLA",
+    "note": ""
+  },
+  {
+    "character": "∈",
+    "decimal": "8712",
+    "hex": "2208",
+    "entity": "&isin;",
+    "description": "ELEMENT OF",
+    "note": ""
+  },
+  {
+    "character": "∉",
+    "decimal": "8713",
+    "hex": "2209",
+    "entity": "&notin;",
+    "description": "NOT AN ELEMENT OF",
+    "note": ""
+  },
+  {
+    "character": "∊",
+    "decimal": "8714",
+    "hex": "220A",
+    "entity": "",
+    "description": "SMALL ELEMENT OF",
+    "note": ""
+  },
+  {
+    "character": "∋",
+    "decimal": "8715",
+    "hex": "220B",
+    "entity": "&ni;",
+    "description": "CONTAINS AS MEMBER",
+    "note": ""
+  },
+  {
+    "character": "∌",
+    "decimal": "8716",
+    "hex": "220C",
+    "entity": "",
+    "description": "DOES NOT CONTAIN AS MEMBER",
+    "note": ""
+  },
+  {
+    "character": "∍",
+    "decimal": "8717",
+    "hex": "220D",
+    "entity": "",
+    "description": "SMALL CONTAINS AS MEMBER",
+    "note": ""
+  },
+  {
+    "character": "∎",
+    "decimal": "8718",
+    "hex": "220E",
+    "entity": "",
+    "description": "END OF PROOF",
+    "note": ""
+  },
+  {
+    "character": "∏",
+    "decimal": "8719",
+    "hex": "220F",
+    "entity": "&prod;",
+    "description": "N-ARY PRODUCT",
+    "note": ""
+  },
+  {
+    "character": "∐",
+    "decimal": "8720",
+    "hex": "2210",
+    "entity": "",
+    "description": "N-ARY COPRODUCT",
+    "note": ""
+  },
+  {
+    "character": "∑",
+    "decimal": "8721",
+    "hex": "2211",
+    "entity": "&sum;",
+    "description": "N-ARY SUMMATION",
+    "note": ""
+  },
+  {
+    "character": "−",
+    "decimal": "8722",
+    "hex": "2212",
+    "entity": "&minus;",
+    "description": "MINUS SIGN",
+    "note": ""
+  },
+  {
+    "character": "∓",
+    "decimal": "8723",
+    "hex": "2213",
+    "entity": "",
+    "description": "MINUS-OR-PLUS SIGN",
+    "note": ""
+  },
+  {
+    "character": "∔",
+    "decimal": "8724",
+    "hex": "2214",
+    "entity": "",
+    "description": "DOT PLUS",
+    "note": ""
+  },
+  {
+    "character": "∕",
+    "decimal": "8725",
+    "hex": "2215",
+    "entity": "",
+    "description": "DIVISION SLASH",
+    "note": ""
+  },
+  {
+    "character": "∖",
+    "decimal": "8726",
+    "hex": "2216",
+    "entity": "",
+    "description": "SET MINUS",
+    "note": ""
+  },
+  {
+    "character": "∗",
+    "decimal": "8727",
+    "hex": "2217",
+    "entity": "&lowast;",
+    "description": "ASTERISK OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "∘",
+    "decimal": "8728",
+    "hex": "2218",
+    "entity": "",
+    "description": "RING OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "∙",
+    "decimal": "8729",
+    "hex": "2219",
+    "entity": "",
+    "description": "BULLET OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "√",
+    "decimal": "8730",
+    "hex": "221A",
+    "entity": "&radic;",
+    "description": "SQUARE ROOT",
+    "note": ""
+  },
+  {
+    "character": "∛",
+    "decimal": "8731",
+    "hex": "221B",
+    "entity": "",
+    "description": "CUBE ROOT",
+    "note": ""
+  },
+  {
+    "character": "∜",
+    "decimal": "8732",
+    "hex": "221C",
+    "entity": "",
+    "description": "FOURTH ROOT",
+    "note": ""
+  },
+  {
+    "character": "∝",
+    "decimal": "8733",
+    "hex": "221D",
+    "entity": "&prop;",
+    "description": "PROPORTIONAL TO",
+    "note": ""
+  },
+  {
+    "character": "∞",
+    "decimal": "8734",
+    "hex": "221E",
+    "entity": "&infin;",
+    "description": "INFINITY",
+    "note": ""
+  },
+  {
+    "character": "∟",
+    "decimal": "8735",
+    "hex": "221F",
+    "entity": "",
+    "description": "RIGHT ANGLE",
+    "note": ""
+  },
+  {
+    "character": "∠",
+    "decimal": "8736",
+    "hex": "2220",
+    "entity": "&ang;",
+    "description": "ANGLE",
+    "note": ""
+  },
+  {
+    "character": "∡",
+    "decimal": "8737",
+    "hex": "2221",
+    "entity": "",
+    "description": "MEASURED ANGLE",
+    "note": ""
+  },
+  {
+    "character": "∢",
+    "decimal": "8738",
+    "hex": "2222",
+    "entity": "",
+    "description": "SPHERICAL ANGLE",
+    "note": ""
+  },
+  {
+    "character": "∣",
+    "decimal": "8739",
+    "hex": "2223",
+    "entity": "",
+    "description": "DIVIDES",
+    "note": ""
+  },
+  {
+    "character": "∤",
+    "decimal": "8740",
+    "hex": "2224",
+    "entity": "",
+    "description": "DOES NOT DIVIDE",
+    "note": ""
+  },
+  {
+    "character": "∥",
+    "decimal": "8741",
+    "hex": "2225",
+    "entity": "",
+    "description": "PARALLEL TO",
+    "note": ""
+  },
+  {
+    "character": "∦",
+    "decimal": "8742",
+    "hex": "2226",
+    "entity": "",
+    "description": "NOT PARALLEL TO",
+    "note": ""
+  },
+  {
+    "character": "∧",
+    "decimal": "8743",
+    "hex": "2227",
+    "entity": "&and;",
+    "description": "LOGICAL AND",
+    "note": ""
+  },
+  {
+    "character": "∨",
+    "decimal": "8744",
+    "hex": "2228",
+    "entity": "&or;",
+    "description": "LOGICAL OR",
+    "note": ""
+  },
+  {
+    "character": "∩",
+    "decimal": "8745",
+    "hex": "2229",
+    "entity": "&cap;",
+    "description": "INTERSECTION",
+    "note": ""
+  },
+  {
+    "character": "∪",
+    "decimal": "8746",
+    "hex": "222A",
+    "entity": "&cup;",
+    "description": "UNION",
+    "note": ""
+  },
+  {
+    "character": "∫",
+    "decimal": "8747",
+    "hex": "222B",
+    "entity": "&int;",
+    "description": "INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∬",
+    "decimal": "8748",
+    "hex": "222C",
+    "entity": "",
+    "description": "DOUBLE INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∭",
+    "decimal": "8749",
+    "hex": "222D",
+    "entity": "",
+    "description": "TRIPLE INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∮",
+    "decimal": "8750",
+    "hex": "222E",
+    "entity": "",
+    "description": "CONTOUR INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∯",
+    "decimal": "8751",
+    "hex": "222F",
+    "entity": "",
+    "description": "SURFACE INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∰",
+    "decimal": "8752",
+    "hex": "2230",
+    "entity": "",
+    "description": "VOLUME INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∱",
+    "decimal": "8753",
+    "hex": "2231",
+    "entity": "",
+    "description": "CLOCKWISE INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∲",
+    "decimal": "8754",
+    "hex": "2232",
+    "entity": "",
+    "description": "CLOCKWISE CONTOUR INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∳",
+    "decimal": "8755",
+    "hex": "2233",
+    "entity": "",
+    "description": "ANTICLOCKWISE CONTOUR INTEGRAL",
+    "note": ""
+  },
+  {
+    "character": "∴",
+    "decimal": "8756",
+    "hex": "2234",
+    "entity": "&there4;",
+    "description": "THEREFORE",
+    "note": ""
+  },
+  {
+    "character": "∵",
+    "decimal": "8757",
+    "hex": "2235",
+    "entity": "",
+    "description": "BECAUSE",
+    "note": ""
+  },
+  {
+    "character": "∶",
+    "decimal": "8758",
+    "hex": "2236",
+    "entity": "",
+    "description": "RATIO",
+    "note": ""
+  },
+  {
+    "character": "∷",
+    "decimal": "8759",
+    "hex": "2237",
+    "entity": "",
+    "description": "PROPORTION",
+    "note": ""
+  },
+  {
+    "character": "∸",
+    "decimal": "8760",
+    "hex": "2238",
+    "entity": "",
+    "description": "DOT MINUS",
+    "note": ""
+  },
+  {
+    "character": "∹",
+    "decimal": "8761",
+    "hex": "2239",
+    "entity": "",
+    "description": "EXCESS",
+    "note": ""
+  },
+  {
+    "character": "∺",
+    "decimal": "8762",
+    "hex": "223A",
+    "entity": "",
+    "description": "GEOMETRIC PROPORTION",
+    "note": ""
+  },
+  {
+    "character": "∻",
+    "decimal": "8763",
+    "hex": "223B",
+    "entity": "",
+    "description": "HOMOTHETIC",
+    "note": ""
+  },
+  {
+    "character": "∼",
+    "decimal": "8764",
+    "hex": "223C",
+    "entity": "&sim;",
+    "description": "TILDE OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "∽",
+    "decimal": "8765",
+    "hex": "223D",
+    "entity": "",
+    "description": "REVERSED TILDE",
+    "note": ""
+  },
+  {
+    "character": "∾",
+    "decimal": "8766",
+    "hex": "223E",
+    "entity": "",
+    "description": "INVERTED LAZY S",
+    "note": ""
+  },
+  {
+    "character": "∿",
+    "decimal": "8767",
+    "hex": "223F",
+    "entity": "",
+    "description": "SINE WAVE",
+    "note": ""
+  },
+  {
+    "character": "≀",
+    "decimal": "8768",
+    "hex": "2240",
+    "entity": "",
+    "description": "WREATH PRODUCT",
+    "note": ""
+  },
+  {
+    "character": "≁",
+    "decimal": "8769",
+    "hex": "2241",
+    "entity": "",
+    "description": "NOT TILDE",
+    "note": ""
+  },
+  {
+    "character": "≂",
+    "decimal": "8770",
+    "hex": "2242",
+    "entity": "",
+    "description": "MINUS TILDE",
+    "note": ""
+  },
+  {
+    "character": "≃",
+    "decimal": "8771",
+    "hex": "2243",
+    "entity": "",
+    "description": "ASYMPTOTICALLY EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≄",
+    "decimal": "8772",
+    "hex": "2244",
+    "entity": "",
+    "description": "NOT ASYMPTOTICALLY EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≅",
+    "decimal": "8773",
+    "hex": "2245",
+    "entity": "&cong;",
+    "description": "APPROXIMATELY EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≆",
+    "decimal": "8774",
+    "hex": "2246",
+    "entity": "",
+    "description": "APPROXIMATELY BUT NOT ACTUALLY EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≇",
+    "decimal": "8775",
+    "hex": "2247",
+    "entity": "",
+    "description": "NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≈",
+    "decimal": "8776",
+    "hex": "2248",
+    "entity": "&asymp;",
+    "description": "ALMOST EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≉",
+    "decimal": "8777",
+    "hex": "2249",
+    "entity": "",
+    "description": "NOT ALMOST EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≊",
+    "decimal": "8778",
+    "hex": "224A",
+    "entity": "",
+    "description": "ALMOST EQUAL OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≋",
+    "decimal": "8779",
+    "hex": "224B",
+    "entity": "",
+    "description": "TRIPLE TILDE",
+    "note": ""
+  },
+  {
+    "character": "≌",
+    "decimal": "8780",
+    "hex": "224C",
+    "entity": "",
+    "description": "ALL EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≍",
+    "decimal": "8781",
+    "hex": "224D",
+    "entity": "",
+    "description": "EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≎",
+    "decimal": "8782",
+    "hex": "224E",
+    "entity": "",
+    "description": "GEOMETRICALLY EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≏",
+    "decimal": "8783",
+    "hex": "224F",
+    "entity": "",
+    "description": "DIFFERENCE BETWEEN",
+    "note": ""
+  },
+  {
+    "character": "≐",
+    "decimal": "8784",
+    "hex": "2250",
+    "entity": "",
+    "description": "APPROACHES THE LIMIT",
+    "note": ""
+  },
+  {
+    "character": "≑",
+    "decimal": "8785",
+    "hex": "2251",
+    "entity": "",
+    "description": "GEOMETRICALLY EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≒",
+    "decimal": "8786",
+    "hex": "2252",
+    "entity": "",
+    "description": "APPROXIMATELY EQUAL TO OR THE IMAGE OF",
+    "note": ""
+  },
+  {
+    "character": "≓",
+    "decimal": "8787",
+    "hex": "2253",
+    "entity": "",
+    "description": "IMAGE OF OR APPROXIMATELY EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≔",
+    "decimal": "8788",
+    "hex": "2254",
+    "entity": "",
+    "description": "COLON EQUALS",
+    "note": ""
+  },
+  {
+    "character": "≕",
+    "decimal": "8789",
+    "hex": "2255",
+    "entity": "",
+    "description": "EQUALS COLON",
+    "note": ""
+  },
+  {
+    "character": "≖",
+    "decimal": "8790",
+    "hex": "2256",
+    "entity": "",
+    "description": "RING IN EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≗",
+    "decimal": "8791",
+    "hex": "2257",
+    "entity": "",
+    "description": "RING EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≘",
+    "decimal": "8792",
+    "hex": "2258",
+    "entity": "",
+    "description": "CORRESPONDS TO",
+    "note": ""
+  },
+  {
+    "character": "≙",
+    "decimal": "8793",
+    "hex": "2259",
+    "entity": "",
+    "description": "ESTIMATES",
+    "note": ""
+  },
+  {
+    "character": "≚",
+    "decimal": "8794",
+    "hex": "225A",
+    "entity": "",
+    "description": "EQUIANGULAR TO",
+    "note": ""
+  },
+  {
+    "character": "≛",
+    "decimal": "8795",
+    "hex": "225B",
+    "entity": "",
+    "description": "STAR EQUALS",
+    "note": ""
+  },
+  {
+    "character": "≜",
+    "decimal": "8796",
+    "hex": "225C",
+    "entity": "",
+    "description": "DELTA EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≝",
+    "decimal": "8797",
+    "hex": "225D",
+    "entity": "",
+    "description": "EQUAL TO BY DEFINITION",
+    "note": ""
+  },
+  {
+    "character": "≞",
+    "decimal": "8798",
+    "hex": "225E",
+    "entity": "",
+    "description": "MEASURED BY",
+    "note": ""
+  },
+  {
+    "character": "≟",
+    "decimal": "8799",
+    "hex": "225F",
+    "entity": "",
+    "description": "QUESTIONED EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≠",
+    "decimal": "8800",
+    "hex": "2260",
+    "entity": "&ne;",
+    "description": "NOT EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≡",
+    "decimal": "8801",
+    "hex": "2261",
+    "entity": "&equiv;",
+    "description": "IDENTICAL TO",
+    "note": ""
+  },
+  {
+    "character": "≢",
+    "decimal": "8802",
+    "hex": "2262",
+    "entity": "",
+    "description": "NOT IDENTICAL TO",
+    "note": ""
+  },
+  {
+    "character": "≣",
+    "decimal": "8803",
+    "hex": "2263",
+    "entity": "",
+    "description": "STRICTLY EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≤",
+    "decimal": "8804",
+    "hex": "2264",
+    "entity": "&le;",
+    "description": "LESS-THAN OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≥",
+    "decimal": "8805",
+    "hex": "2265",
+    "entity": "&ge;",
+    "description": "GREATER-THAN OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≦",
+    "decimal": "8806",
+    "hex": "2266",
+    "entity": "",
+    "description": "LESS-THAN OVER EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≧",
+    "decimal": "8807",
+    "hex": "2267",
+    "entity": "",
+    "description": "GREATER-THAN OVER EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≨",
+    "decimal": "8808",
+    "hex": "2268",
+    "entity": "",
+    "description": "LESS-THAN BUT NOT EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≩",
+    "decimal": "8809",
+    "hex": "2269",
+    "entity": "",
+    "description": "GREATER-THAN BUT NOT EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≪",
+    "decimal": "8810",
+    "hex": "226A",
+    "entity": "",
+    "description": "MUCH LESS-THAN",
+    "note": ""
+  },
+  {
+    "character": "≫",
+    "decimal": "8811",
+    "hex": "226B",
+    "entity": "",
+    "description": "MUCH GREATER-THAN",
+    "note": ""
+  },
+  {
+    "character": "≬",
+    "decimal": "8812",
+    "hex": "226C",
+    "entity": "",
+    "description": "BETWEEN",
+    "note": ""
+  },
+  {
+    "character": "≭",
+    "decimal": "8813",
+    "hex": "226D",
+    "entity": "",
+    "description": "NOT EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≮",
+    "decimal": "8814",
+    "hex": "226E",
+    "entity": "",
+    "description": "NOT LESS-THAN",
+    "note": ""
+  },
+  {
+    "character": "≯",
+    "decimal": "8815",
+    "hex": "226F",
+    "entity": "",
+    "description": "NOT GREATER-THAN",
+    "note": ""
+  },
+  {
+    "character": "≰",
+    "decimal": "8816",
+    "hex": "2270",
+    "entity": "",
+    "description": "NEITHER LESS-THAN NOR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≱",
+    "decimal": "8817",
+    "hex": "2271",
+    "entity": "",
+    "description": "NEITHER GREATER-THAN NOR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≲",
+    "decimal": "8818",
+    "hex": "2272",
+    "entity": "",
+    "description": "LESS-THAN OR EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≳",
+    "decimal": "8819",
+    "hex": "2273",
+    "entity": "",
+    "description": "GREATER-THAN OR EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≴",
+    "decimal": "8820",
+    "hex": "2274",
+    "entity": "",
+    "description": "NEITHER LESS-THAN NOR EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≵",
+    "decimal": "8821",
+    "hex": "2275",
+    "entity": "",
+    "description": "NEITHER GREATER-THAN NOR EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≶",
+    "decimal": "8822",
+    "hex": "2276",
+    "entity": "",
+    "description": "LESS-THAN OR GREATER-THAN",
+    "note": ""
+  },
+  {
+    "character": "≷",
+    "decimal": "8823",
+    "hex": "2277",
+    "entity": "",
+    "description": "GREATER-THAN OR LESS-THAN",
+    "note": ""
+  },
+  {
+    "character": "≸",
+    "decimal": "8824",
+    "hex": "2278",
+    "entity": "",
+    "description": "NEITHER LESS-THAN NOR GREATER-THAN",
+    "note": ""
+  },
+  {
+    "character": "≹",
+    "decimal": "8825",
+    "hex": "2279",
+    "entity": "",
+    "description": "NEITHER GREATER-THAN NOR LESS-THAN",
+    "note": ""
+  },
+  {
+    "character": "≺",
+    "decimal": "8826",
+    "hex": "227A",
+    "entity": "",
+    "description": "PRECEDES",
+    "note": ""
+  },
+  {
+    "character": "≻",
+    "decimal": "8827",
+    "hex": "227B",
+    "entity": "",
+    "description": "SUCCEEDS",
+    "note": ""
+  },
+  {
+    "character": "≼",
+    "decimal": "8828",
+    "hex": "227C",
+    "entity": "",
+    "description": "PRECEDES OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≽",
+    "decimal": "8829",
+    "hex": "227D",
+    "entity": "",
+    "description": "SUCCEEDS OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "≾",
+    "decimal": "8830",
+    "hex": "227E",
+    "entity": "",
+    "description": "PRECEDES OR EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "≿",
+    "decimal": "8831",
+    "hex": "227F",
+    "entity": "",
+    "description": "SUCCEEDS OR EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "⊀",
+    "decimal": "8832",
+    "hex": "2280",
+    "entity": "",
+    "description": "DOES NOT PRECEDE",
+    "note": ""
+  },
+  {
+    "character": "⊁",
+    "decimal": "8833",
+    "hex": "2281",
+    "entity": "",
+    "description": "DOES NOT SUCCEED",
+    "note": ""
+  },
+  {
+    "character": "⊂",
+    "decimal": "8834",
+    "hex": "2282",
+    "entity": "&sub;",
+    "description": "SUBSET OF",
+    "note": ""
+  },
+  {
+    "character": "⊃",
+    "decimal": "8835",
+    "hex": "2283",
+    "entity": "&sup;",
+    "description": "SUPERSET OF",
+    "note": ""
+  },
+  {
+    "character": "⊄",
+    "decimal": "8836",
+    "hex": "2284",
+    "entity": "&nsub;",
+    "description": "NOT A SUBSET OF",
+    "note": ""
+  },
+  {
+    "character": "⊅",
+    "decimal": "8837",
+    "hex": "2285",
+    "entity": "",
+    "description": "NOT A SUPERSET OF",
+    "note": ""
+  },
+  {
+    "character": "⊆",
+    "decimal": "8838",
+    "hex": "2286",
+    "entity": "&sube;",
+    "description": "SUBSET OF OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊇",
+    "decimal": "8839",
+    "hex": "2287",
+    "entity": "&supe;",
+    "description": "SUPERSET OF OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊈",
+    "decimal": "8840",
+    "hex": "2288",
+    "entity": "",
+    "description": "NEITHER A SUBSET OF NOR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊉",
+    "decimal": "8841",
+    "hex": "2289",
+    "entity": "",
+    "description": "NEITHER A SUPERSET OF NOR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊊",
+    "decimal": "8842",
+    "hex": "228A",
+    "entity": "",
+    "description": "SUBSET OF WITH NOT EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊋",
+    "decimal": "8843",
+    "hex": "228B",
+    "entity": "",
+    "description": "SUPERSET OF WITH NOT EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊌",
+    "decimal": "8844",
+    "hex": "228C",
+    "entity": "",
+    "description": "MULTISET",
+    "note": ""
+  },
+  {
+    "character": "⊍",
+    "decimal": "8845",
+    "hex": "228D",
+    "entity": "",
+    "description": "MULTISET MULTIPLICATION",
+    "note": ""
+  },
+  {
+    "character": "⊎",
+    "decimal": "8846",
+    "hex": "228E",
+    "entity": "",
+    "description": "MULTISET UNION",
+    "note": ""
+  },
+  {
+    "character": "⊏",
+    "decimal": "8847",
+    "hex": "228F",
+    "entity": "",
+    "description": "SQUARE IMAGE OF",
+    "note": ""
+  },
+  {
+    "character": "⊐",
+    "decimal": "8848",
+    "hex": "2290",
+    "entity": "",
+    "description": "SQUARE ORIGINAL OF",
+    "note": ""
+  },
+  {
+    "character": "⊑",
+    "decimal": "8849",
+    "hex": "2291",
+    "entity": "",
+    "description": "SQUARE IMAGE OF OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊒",
+    "decimal": "8850",
+    "hex": "2292",
+    "entity": "",
+    "description": "SQUARE ORIGINAL OF OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊓",
+    "decimal": "8851",
+    "hex": "2293",
+    "entity": "",
+    "description": "SQUARE CAP",
+    "note": ""
+  },
+  {
+    "character": "⊔",
+    "decimal": "8852",
+    "hex": "2294",
+    "entity": "",
+    "description": "SQUARE CUP",
+    "note": ""
+  },
+  {
+    "character": "⊕",
+    "decimal": "8853",
+    "hex": "2295",
+    "entity": "&oplus;",
+    "description": "CIRCLED PLUS",
+    "note": ""
+  },
+  {
+    "character": "⊖",
+    "decimal": "8854",
+    "hex": "2296",
+    "entity": "",
+    "description": "CIRCLED MINUS",
+    "note": ""
+  },
+  {
+    "character": "⊗",
+    "decimal": "8855",
+    "hex": "2297",
+    "entity": "&otimes;",
+    "description": "CIRCLED TIMES",
+    "note": ""
+  },
+  {
+    "character": "⊘",
+    "decimal": "8856",
+    "hex": "2298",
+    "entity": "",
+    "description": "CIRCLED DIVISION SLASH",
+    "note": ""
+  },
+  {
+    "character": "⊙",
+    "decimal": "8857",
+    "hex": "2299",
+    "entity": "",
+    "description": "CIRCLED DOT OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "⊚",
+    "decimal": "8858",
+    "hex": "229A",
+    "entity": "",
+    "description": "CIRCLED RING OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "⊛",
+    "decimal": "8859",
+    "hex": "229B",
+    "entity": "",
+    "description": "CIRCLED ASTERISK OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "⊜",
+    "decimal": "8860",
+    "hex": "229C",
+    "entity": "",
+    "description": "CIRCLED EQUALS",
+    "note": ""
+  },
+  {
+    "character": "⊝",
+    "decimal": "8861",
+    "hex": "229D",
+    "entity": "",
+    "description": "CIRCLED DASH",
+    "note": ""
+  },
+  {
+    "character": "⊞",
+    "decimal": "8862",
+    "hex": "229E",
+    "entity": "",
+    "description": "SQUARED PLUS",
+    "note": ""
+  },
+  {
+    "character": "⊟",
+    "decimal": "8863",
+    "hex": "229F",
+    "entity": "",
+    "description": "SQUARED MINUS",
+    "note": ""
+  },
+  {
+    "character": "⊠",
+    "decimal": "8864",
+    "hex": "22A0",
+    "entity": "",
+    "description": "SQUARED TIMES",
+    "note": ""
+  },
+  {
+    "character": "⊡",
+    "decimal": "8865",
+    "hex": "22A1",
+    "entity": "",
+    "description": "SQUARED DOT OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "⊢",
+    "decimal": "8866",
+    "hex": "22A2",
+    "entity": "",
+    "description": "RIGHT TACK",
+    "note": ""
+  },
+  {
+    "character": "⊣",
+    "decimal": "8867",
+    "hex": "22A3",
+    "entity": "",
+    "description": "LEFT TACK",
+    "note": ""
+  },
+  {
+    "character": "⊤",
+    "decimal": "8868",
+    "hex": "22A4",
+    "entity": "",
+    "description": "DOWN TACK",
+    "note": ""
+  },
+  {
+    "character": "⊥",
+    "decimal": "8869",
+    "hex": "22A5",
+    "entity": "&perp;",
+    "description": "UP TACK",
+    "note": ""
+  },
+  {
+    "character": "⊦",
+    "decimal": "8870",
+    "hex": "22A6",
+    "entity": "",
+    "description": "ASSERTION",
+    "note": ""
+  },
+  {
+    "character": "⊧",
+    "decimal": "8871",
+    "hex": "22A7",
+    "entity": "",
+    "description": "MODELS",
+    "note": ""
+  },
+  {
+    "character": "⊨",
+    "decimal": "8872",
+    "hex": "22A8",
+    "entity": "",
+    "description": "TRUE",
+    "note": ""
+  },
+  {
+    "character": "⊩",
+    "decimal": "8873",
+    "hex": "22A9",
+    "entity": "",
+    "description": "FORCES",
+    "note": ""
+  },
+  {
+    "character": "⊪",
+    "decimal": "8874",
+    "hex": "22AA",
+    "entity": "",
+    "description": "TRIPLE VERTICAL BAR RIGHT TURNSTILE",
+    "note": ""
+  },
+  {
+    "character": "⊫",
+    "decimal": "8875",
+    "hex": "22AB",
+    "entity": "",
+    "description": "DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE",
+    "note": ""
+  },
+  {
+    "character": "⊬",
+    "decimal": "8876",
+    "hex": "22AC",
+    "entity": "",
+    "description": "DOES NOT PROVE",
+    "note": ""
+  },
+  {
+    "character": "⊭",
+    "decimal": "8877",
+    "hex": "22AD",
+    "entity": "",
+    "description": "NOT TRUE",
+    "note": ""
+  },
+  {
+    "character": "⊮",
+    "decimal": "8878",
+    "hex": "22AE",
+    "entity": "",
+    "description": "DOES NOT FORCE",
+    "note": ""
+  },
+  {
+    "character": "⊯",
+    "decimal": "8879",
+    "hex": "22AF",
+    "entity": "",
+    "description": "NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE",
+    "note": ""
+  },
+  {
+    "character": "⊰",
+    "decimal": "8880",
+    "hex": "22B0",
+    "entity": "",
+    "description": "PRECEDES UNDER RELATION",
+    "note": ""
+  },
+  {
+    "character": "⊱",
+    "decimal": "8881",
+    "hex": "22B1",
+    "entity": "",
+    "description": "SUCCEEDS UNDER RELATION",
+    "note": ""
+  },
+  {
+    "character": "⊲",
+    "decimal": "8882",
+    "hex": "22B2",
+    "entity": "",
+    "description": "NORMAL SUBGROUP OF",
+    "note": ""
+  },
+  {
+    "character": "⊳",
+    "decimal": "8883",
+    "hex": "22B3",
+    "entity": "",
+    "description": "CONTAINS AS NORMAL SUBGROUP",
+    "note": ""
+  },
+  {
+    "character": "⊴",
+    "decimal": "8884",
+    "hex": "22B4",
+    "entity": "",
+    "description": "NORMAL SUBGROUP OF OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊵",
+    "decimal": "8885",
+    "hex": "22B5",
+    "entity": "",
+    "description": "CONTAINS AS NORMAL SUBGROUP OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⊶",
+    "decimal": "8886",
+    "hex": "22B6",
+    "entity": "",
+    "description": "ORIGINAL OF",
+    "note": ""
+  },
+  {
+    "character": "⊷",
+    "decimal": "8887",
+    "hex": "22B7",
+    "entity": "",
+    "description": "IMAGE OF",
+    "note": ""
+  },
+  {
+    "character": "⊸",
+    "decimal": "8888",
+    "hex": "22B8",
+    "entity": "",
+    "description": "MULTIMAP",
+    "note": ""
+  },
+  {
+    "character": "⊹",
+    "decimal": "8889",
+    "hex": "22B9",
+    "entity": "",
+    "description": "HERMITIAN CONJUGATE MATRIX",
+    "note": ""
+  },
+  {
+    "character": "⊺",
+    "decimal": "8890",
+    "hex": "22BA",
+    "entity": "",
+    "description": "INTERCALATE",
+    "note": ""
+  },
+  {
+    "character": "⊻",
+    "decimal": "8891",
+    "hex": "22BB",
+    "entity": "",
+    "description": "XOR",
+    "note": ""
+  },
+  {
+    "character": "⊼",
+    "decimal": "8892",
+    "hex": "22BC",
+    "entity": "",
+    "description": "NAND",
+    "note": ""
+  },
+  {
+    "character": "⊽",
+    "decimal": "8893",
+    "hex": "22BD",
+    "entity": "",
+    "description": "NOR",
+    "note": ""
+  },
+  {
+    "character": "⊾",
+    "decimal": "8894",
+    "hex": "22BE",
+    "entity": "",
+    "description": "RIGHT ANGLE WITH ARC",
+    "note": ""
+  },
+  {
+    "character": "⊿",
+    "decimal": "8895",
+    "hex": "22BF",
+    "entity": "",
+    "description": "RIGHT TRIANGLE",
+    "note": ""
+  },
+  {
+    "character": "⋀",
+    "decimal": "8896",
+    "hex": "22C0",
+    "entity": "",
+    "description": "N-ARY LOGICAL AND",
+    "note": ""
+  },
+  {
+    "character": "⋁",
+    "decimal": "8897",
+    "hex": "22C1",
+    "entity": "",
+    "description": "N-ARY LOGICAL OR",
+    "note": ""
+  },
+  {
+    "character": "⋂",
+    "decimal": "8898",
+    "hex": "22C2",
+    "entity": "",
+    "description": "N-ARY INTERSECTION",
+    "note": ""
+  },
+  {
+    "character": "⋃",
+    "decimal": "8899",
+    "hex": "22C3",
+    "entity": "",
+    "description": "N-ARY UNION",
+    "note": ""
+  },
+  {
+    "character": "⋄",
+    "decimal": "8900",
+    "hex": "22C4",
+    "entity": "",
+    "description": "DIAMOND OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "⋅",
+    "decimal": "8901",
+    "hex": "22C5",
+    "entity": "&sdot;",
+    "description": "DOT OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "⋆",
+    "decimal": "8902",
+    "hex": "22C6",
+    "entity": "",
+    "description": "STAR OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "⋇",
+    "decimal": "8903",
+    "hex": "22C7",
+    "entity": "",
+    "description": "DIVISION TIMES",
+    "note": ""
+  },
+  {
+    "character": "⋈",
+    "decimal": "8904",
+    "hex": "22C8",
+    "entity": "",
+    "description": "BOWTIE",
+    "note": ""
+  },
+  {
+    "character": "⋉",
+    "decimal": "8905",
+    "hex": "22C9",
+    "entity": "",
+    "description": "LEFT NORMAL FACTOR SEMIDIRECT PRODUCT",
+    "note": ""
+  },
+  {
+    "character": "⋊",
+    "decimal": "8906",
+    "hex": "22CA",
+    "entity": "",
+    "description": "RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT",
+    "note": ""
+  },
+  {
+    "character": "⋋",
+    "decimal": "8907",
+    "hex": "22CB",
+    "entity": "",
+    "description": "LEFT SEMIDIRECT PRODUCT",
+    "note": ""
+  },
+  {
+    "character": "⋌",
+    "decimal": "8908",
+    "hex": "22CC",
+    "entity": "",
+    "description": "RIGHT SEMIDIRECT PRODUCT",
+    "note": ""
+  },
+  {
+    "character": "⋍",
+    "decimal": "8909",
+    "hex": "22CD",
+    "entity": "",
+    "description": "REVERSED TILDE EQUALS",
+    "note": ""
+  },
+  {
+    "character": "⋎",
+    "decimal": "8910",
+    "hex": "22CE",
+    "entity": "",
+    "description": "CURLY LOGICAL OR",
+    "note": ""
+  },
+  {
+    "character": "⋏",
+    "decimal": "8911",
+    "hex": "22CF",
+    "entity": "",
+    "description": "CURLY LOGICAL AND",
+    "note": ""
+  },
+  {
+    "character": "⋐",
+    "decimal": "8912",
+    "hex": "22D0",
+    "entity": "",
+    "description": "DOUBLE SUBSET",
+    "note": ""
+  },
+  {
+    "character": "⋑",
+    "decimal": "8913",
+    "hex": "22D1",
+    "entity": "",
+    "description": "DOUBLE SUPERSET",
+    "note": ""
+  },
+  {
+    "character": "⋒",
+    "decimal": "8914",
+    "hex": "22D2",
+    "entity": "",
+    "description": "DOUBLE INTERSECTION",
+    "note": ""
+  },
+  {
+    "character": "⋓",
+    "decimal": "8915",
+    "hex": "22D3",
+    "entity": "",
+    "description": "DOUBLE UNION",
+    "note": ""
+  },
+  {
+    "character": "⋔",
+    "decimal": "8916",
+    "hex": "22D4",
+    "entity": "",
+    "description": "PITCHFORK",
+    "note": ""
+  },
+  {
+    "character": "⋕",
+    "decimal": "8917",
+    "hex": "22D5",
+    "entity": "",
+    "description": "EQUAL AND PARALLEL TO",
+    "note": ""
+  },
+  {
+    "character": "⋖",
+    "decimal": "8918",
+    "hex": "22D6",
+    "entity": "",
+    "description": "LESS-THAN WITH DOT",
+    "note": ""
+  },
+  {
+    "character": "⋗",
+    "decimal": "8919",
+    "hex": "22D7",
+    "entity": "",
+    "description": "GREATER-THAN WITH DOT",
+    "note": ""
+  },
+  {
+    "character": "⋘",
+    "decimal": "8920",
+    "hex": "22D8",
+    "entity": "",
+    "description": "VERY MUCH LESS-THAN",
+    "note": ""
+  },
+  {
+    "character": "⋙",
+    "decimal": "8921",
+    "hex": "22D9",
+    "entity": "",
+    "description": "VERY MUCH GREATER-THAN",
+    "note": ""
+  },
+  {
+    "character": "⋚",
+    "decimal": "8922",
+    "hex": "22DA",
+    "entity": "",
+    "description": "LESS-THAN EQUAL TO OR GREATER-THAN",
+    "note": ""
+  },
+  {
+    "character": "⋛",
+    "decimal": "8923",
+    "hex": "22DB",
+    "entity": "",
+    "description": "GREATER-THAN EQUAL TO OR LESS-THAN",
+    "note": ""
+  },
+  {
+    "character": "⋜",
+    "decimal": "8924",
+    "hex": "22DC",
+    "entity": "",
+    "description": "EQUAL TO OR LESS-THAN",
+    "note": ""
+  },
+  {
+    "character": "⋝",
+    "decimal": "8925",
+    "hex": "22DD",
+    "entity": "",
+    "description": "EQUAL TO OR GREATER-THAN",
+    "note": ""
+  },
+  {
+    "character": "⋞",
+    "decimal": "8926",
+    "hex": "22DE",
+    "entity": "",
+    "description": "EQUAL TO OR PRECEDES",
+    "note": ""
+  },
+  {
+    "character": "⋟",
+    "decimal": "8927",
+    "hex": "22DF",
+    "entity": "",
+    "description": "EQUAL TO OR SUCCEEDS",
+    "note": ""
+  },
+  {
+    "character": "⋠",
+    "decimal": "8928",
+    "hex": "2,20E+01",
+    "entity": "",
+    "description": "DOES NOT PRECEDE OR EQUAL",
+    "note": ""
+  },
+  {
+    "character": "⋡",
+    "decimal": "8929",
+    "hex": "2,20E+02",
+    "entity": "",
+    "description": "DOES NOT SUCCEED OR EQUAL",
+    "note": ""
+  },
+  {
+    "character": "⋢",
+    "decimal": "8930",
+    "hex": "2,20E+03",
+    "entity": "",
+    "description": "NOT SQUARE IMAGE OF OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⋣",
+    "decimal": "8931",
+    "hex": "2,20E+04",
+    "entity": "",
+    "description": "NOT SQUARE ORIGINAL OF OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⋤",
+    "decimal": "8932",
+    "hex": "2,20E+05",
+    "entity": "",
+    "description": "SQUARE IMAGE OF OR NOT EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⋥",
+    "decimal": "8933",
+    "hex": "2,20E+06",
+    "entity": "",
+    "description": "SQUARE ORIGINAL OF OR NOT EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⋦",
+    "decimal": "8934",
+    "hex": "2,20E+07",
+    "entity": "",
+    "description": "LESS-THAN BUT NOT EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "⋧",
+    "decimal": "8935",
+    "hex": "2,20E+08",
+    "entity": "",
+    "description": "GREATER-THAN BUT NOT EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "⋨",
+    "decimal": "8936",
+    "hex": "2,20E+09",
+    "entity": "",
+    "description": "PRECEDES BUT NOT EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "⋩",
+    "decimal": "8937",
+    "hex": "2,20E+10",
+    "entity": "",
+    "description": "SUCCEEDS BUT NOT EQUIVALENT TO",
+    "note": ""
+  },
+  {
+    "character": "⋪",
+    "decimal": "8938",
+    "hex": "22EA",
+    "entity": "",
+    "description": "NOT NORMAL SUBGROUP OF",
+    "note": ""
+  },
+  {
+    "character": "⋫",
+    "decimal": "8939",
+    "hex": "22EB",
+    "entity": "",
+    "description": "DOES NOT CONTAIN AS NORMAL SUBGROUP",
+    "note": ""
+  },
+  {
+    "character": "⋬",
+    "decimal": "8940",
+    "hex": "22EC",
+    "entity": "",
+    "description": "NOT NORMAL SUBGROUP OF OR EQUAL TO",
+    "note": ""
+  },
+  {
+    "character": "⋭",
+    "decimal": "8941",
+    "hex": "22ED",
+    "entity": "",
+    "description": "DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL",
+    "note": ""
+  },
+  {
+    "character": "⋮",
+    "decimal": "8942",
+    "hex": "22EE",
+    "entity": "",
+    "description": "VERTICAL ELLIPSIS",
+    "note": ""
+  },
+  {
+    "character": "⋯",
+    "decimal": "8943",
+    "hex": "22EF",
+    "entity": "",
+    "description": "MIDLINE HORIZONTAL ELLIPSIS",
+    "note": ""
+  },
+  {
+    "character": "⋰",
+    "decimal": "8944",
+    "hex": "22F0",
+    "entity": "",
+    "description": "UP RIGHT DIAGONAL ELLIPSIS",
+    "note": ""
+  },
+  {
+    "character": "⋱",
+    "decimal": "8945",
+    "hex": "22F1",
+    "entity": "",
+    "description": "DOWN RIGHT DIAGONAL ELLIPSIS",
+    "note": ""
+  },
+  {
+    "character": "⋲",
+    "decimal": "8946",
+    "hex": "22F2",
+    "entity": "",
+    "description": "ELEMENT OF WITH LONG HORIZONTAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⋳",
+    "decimal": "8947",
+    "hex": "22F3",
+    "entity": "",
+    "description": "ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⋴",
+    "decimal": "8948",
+    "hex": "22F4",
+    "entity": "",
+    "description": "SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⋵",
+    "decimal": "8949",
+    "hex": "22F5",
+    "entity": "",
+    "description": "ELEMENT OF WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "⋶",
+    "decimal": "8950",
+    "hex": "22F6",
+    "entity": "",
+    "description": "ELEMENT OF WITH OVERBAR",
+    "note": ""
+  },
+  {
+    "character": "⋷",
+    "decimal": "8951",
+    "hex": "22F7",
+    "entity": "",
+    "description": "SMALL ELEMENT OF WITH OVERBAR",
+    "note": ""
+  },
+  {
+    "character": "⋸",
+    "decimal": "8952",
+    "hex": "22F8",
+    "entity": "",
+    "description": "ELEMENT OF WITH UNDERBAR",
+    "note": ""
+  },
+  {
+    "character": "⋹",
+    "decimal": "8953",
+    "hex": "22F9",
+    "entity": "",
+    "description": "ELEMENT OF WITH TWO HORIZONTAL STROKES",
+    "note": ""
+  },
+  {
+    "character": "⋺",
+    "decimal": "8954",
+    "hex": "22FA",
+    "entity": "",
+    "description": "CONTAINS WITH LONG HORIZONTAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⋻",
+    "decimal": "8955",
+    "hex": "22FB",
+    "entity": "",
+    "description": "CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⋼",
+    "decimal": "8956",
+    "hex": "22FC",
+    "entity": "",
+    "description": "SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⋽",
+    "decimal": "8957",
+    "hex": "22FD",
+    "entity": "",
+    "description": "CONTAINS WITH OVERBAR",
+    "note": ""
+  },
+  {
+    "character": "⋾",
+    "decimal": "8958",
+    "hex": "22FE",
+    "entity": "",
+    "description": "SMALL CONTAINS WITH OVERBAR",
+    "note": ""
+  },
+  {
+    "character": "⋿",
+    "decimal": "8959",
+    "hex": "22FF",
+    "entity": "",
+    "description": "Z NOTATION BAG MEMBERSHIP",
+    "note": ""
+  },
+  {
+    "character": "⟀",
+    "decimal": "10176",
+    "hex": "27C0",
+    "entity": "",
+    "description": "THREE DIMENSIONAL ANGLE",
+    "note": ""
+  },
+  {
+    "character": "⟁",
+    "decimal": "10177",
+    "hex": "27C1",
+    "entity": "",
+    "description": "WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE",
+    "note": ""
+  },
+  {
+    "character": "⟂",
+    "decimal": "10178",
+    "hex": "27C2",
+    "entity": "",
+    "description": "PERPENDICULAR",
+    "note": ""
+  },
+  {
+    "character": "⟃",
+    "decimal": "10179",
+    "hex": "27C3",
+    "entity": "",
+    "description": "OPEN SUBSET",
+    "note": ""
+  },
+  {
+    "character": "⟄",
+    "decimal": "10180",
+    "hex": "27C4",
+    "entity": "",
+    "description": "OPEN SUPERSET",
+    "note": ""
+  },
+  {
+    "character": "⟅",
+    "decimal": "10181",
+    "hex": "27C5",
+    "entity": "",
+    "description": "LEFT S-SHAPED BAG DELIMITER",
+    "note": ""
+  },
+  {
+    "character": "⟆",
+    "decimal": "10182",
+    "hex": "27C6",
+    "entity": "",
+    "description": "RIGHT S-SHAPED BAG DELIMITER",
+    "note": ""
+  },
+  {
+    "character": "⟇",
+    "decimal": "10183",
+    "hex": "27C7",
+    "entity": "",
+    "description": "OR WITH DOT INSIDE",
+    "note": ""
+  },
+  {
+    "character": "⟈",
+    "decimal": "10184",
+    "hex": "27C8",
+    "entity": "",
+    "description": "REVERSE SOLIDUS PRECEDING SUBSET",
+    "note": ""
+  },
+  {
+    "character": "⟉",
+    "decimal": "10185",
+    "hex": "27C9",
+    "entity": "",
+    "description": "SUPERSET PRECEDING SOLIDUS",
+    "note": ""
+  },
+  {
+    "character": "⟊",
+    "decimal": "10186",
+    "hex": "27CA",
+    "entity": "",
+    "description": "VERTICAL BAR WITH HORIZONTAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⟋",
+    "decimal": "10187",
+    "hex": "27CB",
+    "entity": "",
+    "description": "MATHEMATICAL RISING DIAGONAL",
+    "note": ""
+  },
+  {
+    "character": "⟌",
+    "decimal": "10188",
+    "hex": "27CC",
+    "entity": "",
+    "description": "LONG DIVISION",
+    "note": ""
+  },
+  {
+    "character": "⟍",
+    "decimal": "10189",
+    "hex": "27CD",
+    "entity": "",
+    "description": "MATHEMATICAL FALLING DIAGONAL",
+    "note": ""
+  },
+  {
+    "character": "⟎",
+    "decimal": "10190",
+    "hex": "27CE",
+    "entity": "",
+    "description": "SQUARED LOGICAL AND",
+    "note": ""
+  },
+  {
+    "character": "⟏",
+    "decimal": "10191",
+    "hex": "27CF",
+    "entity": "",
+    "description": "SQUARED LOGICAL OR",
+    "note": ""
+  },
+  {
+    "character": "⟐",
+    "decimal": "10192",
+    "hex": "27D0",
+    "entity": "",
+    "description": "WHITE DIAMOND WITH CENTRED DOT",
+    "note": ""
+  },
+  {
+    "character": "⟑",
+    "decimal": "10193",
+    "hex": "27D1",
+    "entity": "",
+    "description": "AND WITH DOT",
+    "note": ""
+  },
+  {
+    "character": "⟒",
+    "decimal": "10194",
+    "hex": "27D2",
+    "entity": "",
+    "description": "ELEMENT OF OPENING UPWARDS",
+    "note": ""
+  },
+  {
+    "character": "⟓",
+    "decimal": "10195",
+    "hex": "27D3",
+    "entity": "",
+    "description": "LOWER RIGHT CORNER WITH DOT",
+    "note": ""
+  },
+  {
+    "character": "⟔",
+    "decimal": "10196",
+    "hex": "27D4",
+    "entity": "",
+    "description": "UPPER LEFT CORNER WITH DOT",
+    "note": ""
+  },
+  {
+    "character": "⟕",
+    "decimal": "10197",
+    "hex": "27D5",
+    "entity": "",
+    "description": "LEFT OUTER JOIN",
+    "note": ""
+  },
+  {
+    "character": "⟖",
+    "decimal": "10198",
+    "hex": "27D6",
+    "entity": "",
+    "description": "RIGHT OUTER JOIN",
+    "note": ""
+  },
+  {
+    "character": "⟗",
+    "decimal": "10199",
+    "hex": "27D7",
+    "entity": "",
+    "description": "FULL OUTER JOIN",
+    "note": ""
+  },
+  {
+    "character": "⟘",
+    "decimal": "10200",
+    "hex": "27D8",
+    "entity": "",
+    "description": "LARGE UP TACK",
+    "note": ""
+  },
+  {
+    "character": "⟙",
+    "decimal": "10201",
+    "hex": "27D9",
+    "entity": "",
+    "description": "LARGE DOWN TACK",
+    "note": ""
+  },
+  {
+    "character": "⟚",
+    "decimal": "10202",
+    "hex": "27DA",
+    "entity": "",
+    "description": "LEFT AND RIGHT DOUBLE TURNSTILE",
+    "note": ""
+  },
+  {
+    "character": "⟛",
+    "decimal": "10203",
+    "hex": "27DB",
+    "entity": "",
+    "description": "LEFT AND RIGHT TACK",
+    "note": ""
+  },
+  {
+    "character": "⟜",
+    "decimal": "10204",
+    "hex": "27DC",
+    "entity": "",
+    "description": "LEFT MULTIMAP",
+    "note": ""
+  },
+  {
+    "character": "⟝",
+    "decimal": "10205",
+    "hex": "27DD",
+    "entity": "",
+    "description": "LONG RIGHT TACK",
+    "note": ""
+  },
+  {
+    "character": "⟞",
+    "decimal": "10206",
+    "hex": "27DE",
+    "entity": "",
+    "description": "LONG LEFT TACK",
+    "note": ""
+  },
+  {
+    "character": "⟟",
+    "decimal": "10207",
+    "hex": "27DF",
+    "entity": "",
+    "description": "UP TACK WITH CIRCLE ABOVE",
+    "note": ""
+  },
+  {
+    "character": "⟠",
+    "decimal": "10208",
+    "hex": "2,70E+01",
+    "entity": "",
+    "description": "LOZENGE DIVIDED BY HORIZONTAL RULE",
+    "note": ""
+  },
+  {
+    "character": "⟡",
+    "decimal": "10209",
+    "hex": "2,70E+02",
+    "entity": "",
+    "description": "WHITE CONCAVE-SIDED DIAMOND",
+    "note": ""
+  },
+  {
+    "character": "⟢",
+    "decimal": "10210",
+    "hex": "2,70E+03",
+    "entity": "",
+    "description": "WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK",
+    "note": ""
+  },
+  {
+    "character": "⟣",
+    "decimal": "10211",
+    "hex": "2,70E+04",
+    "entity": "",
+    "description": "WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK",
+    "note": ""
+  },
+  {
+    "character": "⟤",
+    "decimal": "10212",
+    "hex": "2,70E+05",
+    "entity": "",
+    "description": "WHITE SQUARE WITH LEFTWARDS TICK",
+    "note": ""
+  },
+  {
+    "character": "⟥",
+    "decimal": "10213",
+    "hex": "2,70E+06",
+    "entity": "",
+    "description": "WHITE SQUARE WITH RIGHTWARDS TICK",
+    "note": ""
+  },
+  {
+    "character": "⟦",
+    "decimal": "10214",
+    "hex": "2,70E+07",
+    "entity": "",
+    "description": "MATHEMATICAL LEFT WHITE SQUARE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⟧",
+    "decimal": "10215",
+    "hex": "2,70E+08",
+    "entity": "",
+    "description": "MATHEMATICAL RIGHT WHITE SQUARE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⟨",
+    "decimal": "10216",
+    "hex": "2,70E+09",
+    "entity": "",
+    "description": "MATHEMATICAL LEFT ANGLE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⟩",
+    "decimal": "10217",
+    "hex": "2,70E+10",
+    "entity": "",
+    "description": "MATHEMATICAL RIGHT ANGLE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⟪",
+    "decimal": "10218",
+    "hex": "27EA",
+    "entity": "",
+    "description": "MATHEMATICAL LEFT DOUBLE ANGLE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⟫",
+    "decimal": "10219",
+    "hex": "27EB",
+    "entity": "",
+    "description": "MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⟬",
+    "decimal": "10220",
+    "hex": "27EC",
+    "entity": "",
+    "description": "MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⟭",
+    "decimal": "10221",
+    "hex": "27ED",
+    "entity": "",
+    "description": "MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⟮",
+    "decimal": "10222",
+    "hex": "27EE",
+    "entity": "",
+    "description": "MATHEMATICAL LEFT FLATTENED PARENTHESIS",
+    "note": ""
+  },
+  {
+    "character": "⟯",
+    "decimal": "10223",
+    "hex": "27EF",
+    "entity": "",
+    "description": "MATHEMATICAL RIGHT FLATTENED PARENTHESIS",
+    "note": ""
+  },
+  {
+    "character": "⦀",
+    "decimal": "10624",
+    "hex": "2980",
+    "entity": "",
+    "description": "TRIPLE VERTICAL BAR DELIMITER",
+    "note": ""
+  },
+  {
+    "character": "⦁",
+    "decimal": "10625",
+    "hex": "2981",
+    "entity": "",
+    "description": "Z NOTATION SPOT",
+    "note": ""
+  },
+  {
+    "character": "⦂",
+    "decimal": "10626",
+    "hex": "2982",
+    "entity": "",
+    "description": "Z NOTATION TYPE COLON",
+    "note": ""
+  },
+  {
+    "character": "⦃",
+    "decimal": "10627",
+    "hex": "2983",
+    "entity": "",
+    "description": "LEFT WHITE CURLY BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦄",
+    "decimal": "10628",
+    "hex": "2984",
+    "entity": "",
+    "description": "RIGHT WHITE CURLY BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦅",
+    "decimal": "10629",
+    "hex": "2985",
+    "entity": "",
+    "description": "LEFT WHITE PARENTHESIS",
+    "note": ""
+  },
+  {
+    "character": "⦆",
+    "decimal": "10630",
+    "hex": "2986",
+    "entity": "",
+    "description": "RIGHT WHITE PARENTHESIS",
+    "note": ""
+  },
+  {
+    "character": "⦇",
+    "decimal": "10631",
+    "hex": "2987",
+    "entity": "",
+    "description": "Z NOTATION LEFT IMAGE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦈",
+    "decimal": "10632",
+    "hex": "2988",
+    "entity": "",
+    "description": "Z NOTATION RIGHT IMAGE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦉",
+    "decimal": "10633",
+    "hex": "2989",
+    "entity": "",
+    "description": "Z NOTATION LEFT BINDING BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦊",
+    "decimal": "10634",
+    "hex": "298A",
+    "entity": "",
+    "description": "Z NOTATION RIGHT BINDING BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦋",
+    "decimal": "10635",
+    "hex": "298B",
+    "entity": "",
+    "description": "LEFT SQUARE BRACKET WITH UNDERBAR",
+    "note": ""
+  },
+  {
+    "character": "⦌",
+    "decimal": "10636",
+    "hex": "298C",
+    "entity": "",
+    "description": "RIGHT SQUARE BRACKET WITH UNDERBAR",
+    "note": ""
+  },
+  {
+    "character": "⦍",
+    "decimal": "10637",
+    "hex": "298D",
+    "entity": "",
+    "description": "LEFT SQUARE BRACKET WITH TICK IN TOP CORNER",
+    "note": ""
+  },
+  {
+    "character": "⦎",
+    "decimal": "10638",
+    "hex": "298E",
+    "entity": "",
+    "description": "RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER",
+    "note": ""
+  },
+  {
+    "character": "⦏",
+    "decimal": "10639",
+    "hex": "298F",
+    "entity": "",
+    "description": "LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER",
+    "note": ""
+  },
+  {
+    "character": "⦐",
+    "decimal": "10640",
+    "hex": "2990",
+    "entity": "",
+    "description": "RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER",
+    "note": ""
+  },
+  {
+    "character": "⦑",
+    "decimal": "10641",
+    "hex": "2991",
+    "entity": "",
+    "description": "LEFT ANGLE BRACKET WITH DOT",
+    "note": ""
+  },
+  {
+    "character": "⦒",
+    "decimal": "10642",
+    "hex": "2992",
+    "entity": "",
+    "description": "RIGHT ANGLE BRACKET WITH DOT",
+    "note": ""
+  },
+  {
+    "character": "⦓",
+    "decimal": "10643",
+    "hex": "2993",
+    "entity": "",
+    "description": "LEFT ARC LESS-THAN BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦔",
+    "decimal": "10644",
+    "hex": "2994",
+    "entity": "",
+    "description": "RIGHT ARC GREATER-THAN BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦕",
+    "decimal": "10645",
+    "hex": "2995",
+    "entity": "",
+    "description": "DOUBLE LEFT ARC GREATER-THAN BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦖",
+    "decimal": "10646",
+    "hex": "2996",
+    "entity": "",
+    "description": "DOUBLE RIGHT ARC LESS-THAN BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦗",
+    "decimal": "10647",
+    "hex": "2997",
+    "entity": "",
+    "description": "LEFT BLACK TORTOISE SHELL BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦘",
+    "decimal": "10648",
+    "hex": "2998",
+    "entity": "",
+    "description": "RIGHT BLACK TORTOISE SHELL BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⦙",
+    "decimal": "10649",
+    "hex": "2999",
+    "entity": "",
+    "description": "DOTTED FENCE",
+    "note": ""
+  },
+  {
+    "character": "⦚",
+    "decimal": "10650",
+    "hex": "299A",
+    "entity": "",
+    "description": "VERTICAL ZIGZAG LINE",
+    "note": ""
+  },
+  {
+    "character": "⦛",
+    "decimal": "10651",
+    "hex": "299B",
+    "entity": "",
+    "description": "MEASURED ANGLE OPENING LEFT",
+    "note": ""
+  },
+  {
+    "character": "⦜",
+    "decimal": "10652",
+    "hex": "299C",
+    "entity": "",
+    "description": "RIGHT ANGLE VARIANT WITH SQUARE",
+    "note": ""
+  },
+  {
+    "character": "⦝",
+    "decimal": "10653",
+    "hex": "299D",
+    "entity": "",
+    "description": "MEASURED RIGHT ANGLE WITH DOT",
+    "note": ""
+  },
+  {
+    "character": "⦞",
+    "decimal": "10654",
+    "hex": "299E",
+    "entity": "",
+    "description": "ANGLE WITH S INSIDE",
+    "note": ""
+  },
+  {
+    "character": "⦟",
+    "decimal": "10655",
+    "hex": "299F",
+    "entity": "",
+    "description": "ACUTE ANGLE",
+    "note": ""
+  },
+  {
+    "character": "⦠",
+    "decimal": "10656",
+    "hex": "29A0",
+    "entity": "",
+    "description": "SPHERICAL ANGLE OPENING LEFT",
+    "note": ""
+  },
+  {
+    "character": "⦡",
+    "decimal": "10657",
+    "hex": "29A1",
+    "entity": "",
+    "description": "SPHERICAL ANGLE OPENING UP",
+    "note": ""
+  },
+  {
+    "character": "⦢",
+    "decimal": "10658",
+    "hex": "29A2",
+    "entity": "",
+    "description": "TURNED ANGLE",
+    "note": ""
+  },
+  {
+    "character": "⦣",
+    "decimal": "10659",
+    "hex": "29A3",
+    "entity": "",
+    "description": "REVERSED ANGLE",
+    "note": ""
+  },
+  {
+    "character": "⦤",
+    "decimal": "10660",
+    "hex": "29A4",
+    "entity": "",
+    "description": "ANGLE WITH UNDERBAR",
+    "note": ""
+  },
+  {
+    "character": "⦥",
+    "decimal": "10661",
+    "hex": "29A5",
+    "entity": "",
+    "description": "REVERSED ANGLE WITH UNDERBAR",
+    "note": ""
+  },
+  {
+    "character": "⦦",
+    "decimal": "10662",
+    "hex": "29A6",
+    "entity": "",
+    "description": "OBLIQUE ANGLE OPENING UP",
+    "note": ""
+  },
+  {
+    "character": "⦧",
+    "decimal": "10663",
+    "hex": "29A7",
+    "entity": "",
+    "description": "OBLIQUE ANGLE OPENING DOWN",
+    "note": ""
+  },
+  {
+    "character": "⦨",
+    "decimal": "10664",
+    "hex": "29A8",
+    "entity": "",
+    "description": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "⦩",
+    "decimal": "10665",
+    "hex": "29A9",
+    "entity": "",
+    "description": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "⦪",
+    "decimal": "10666",
+    "hex": "29AA",
+    "entity": "",
+    "description": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "⦫",
+    "decimal": "10667",
+    "hex": "29AB",
+    "entity": "",
+    "description": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "⦬",
+    "decimal": "10668",
+    "hex": "29AC",
+    "entity": "",
+    "description": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP",
+    "note": ""
+  },
+  {
+    "character": "⦭",
+    "decimal": "10669",
+    "hex": "29AD",
+    "entity": "",
+    "description": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP",
+    "note": ""
+  },
+  {
+    "character": "⦮",
+    "decimal": "10670",
+    "hex": "29AE",
+    "entity": "",
+    "description": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN",
+    "note": ""
+  },
+  {
+    "character": "⦯",
+    "decimal": "10671",
+    "hex": "29AF",
+    "entity": "",
+    "description": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN",
+    "note": ""
+  },
+  {
+    "character": "⦰",
+    "decimal": "10672",
+    "hex": "29B0",
+    "entity": "",
+    "description": "REVERSED EMPTY SET",
+    "note": ""
+  },
+  {
+    "character": "⦱",
+    "decimal": "10673",
+    "hex": "29B1",
+    "entity": "",
+    "description": "EMPTY SET WITH OVERBAR",
+    "note": ""
+  },
+  {
+    "character": "⦲",
+    "decimal": "10674",
+    "hex": "29B2",
+    "entity": "",
+    "description": "EMPTY SET WITH SMALL CIRCLE ABOVE",
+    "note": ""
+  },
+  {
+    "character": "⦳",
+    "decimal": "10675",
+    "hex": "29B3",
+    "entity": "",
+    "description": "EMPTY SET WITH RIGHT ARROW ABOVE",
+    "note": ""
+  },
+  {
+    "character": "⦴",
+    "decimal": "10676",
+    "hex": "29B4",
+    "entity": "",
+    "description": "EMPTY SET WITH LEFT ARROW ABOVE",
+    "note": ""
+  },
+  {
+    "character": "⦵",
+    "decimal": "10677",
+    "hex": "29B5",
+    "entity": "",
+    "description": "CIRCLE WITH HORIZONTAL BAR",
+    "note": ""
+  },
+  {
+    "character": "⦶",
+    "decimal": "10678",
+    "hex": "29B6",
+    "entity": "",
+    "description": "CIRCLED VERTICAL BAR",
+    "note": ""
+  },
+  {
+    "character": "⦷",
+    "decimal": "10679",
+    "hex": "29B7",
+    "entity": "",
+    "description": "CIRCLED PARALLEL",
+    "note": ""
+  },
+  {
+    "character": "⦸",
+    "decimal": "10680",
+    "hex": "29B8",
+    "entity": "",
+    "description": "CIRCLED REVERSE SOLIDUS",
+    "note": ""
+  },
+  {
+    "character": "⦹",
+    "decimal": "10681",
+    "hex": "29B9",
+    "entity": "",
+    "description": "CIRCLED PERPENDICULAR",
+    "note": ""
+  },
+  {
+    "character": "⦺",
+    "decimal": "10682",
+    "hex": "29BA",
+    "entity": "",
+    "description": "CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR",
+    "note": ""
+  },
+  {
+    "character": "⦻",
+    "decimal": "10683",
+    "hex": "29BB",
+    "entity": "",
+    "description": "CIRCLE WITH SUPERIMPOSED X",
+    "note": ""
+  },
+  {
+    "character": "⦼",
+    "decimal": "10684",
+    "hex": "29BC",
+    "entity": "",
+    "description": "CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN",
+    "note": ""
+  },
+  {
+    "character": "⦽",
+    "decimal": "10685",
+    "hex": "29BD",
+    "entity": "",
+    "description": "UP ARROW THROUGH CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "⦾",
+    "decimal": "10686",
+    "hex": "29BE",
+    "entity": "",
+    "description": "CIRCLED WHITE BULLET",
+    "note": ""
+  },
+  {
+    "character": "⦿",
+    "decimal": "10687",
+    "hex": "29BF",
+    "entity": "",
+    "description": "CIRCLED BULLET",
+    "note": ""
+  },
+  {
+    "character": "⧀",
+    "decimal": "10688",
+    "hex": "29C0",
+    "entity": "",
+    "description": "CIRCLED LESS-THAN",
+    "note": ""
+  },
+  {
+    "character": "⧁",
+    "decimal": "10689",
+    "hex": "29C1",
+    "entity": "",
+    "description": "CIRCLED GREATER-THAN",
+    "note": ""
+  },
+  {
+    "character": "⧂",
+    "decimal": "10690",
+    "hex": "29C2",
+    "entity": "",
+    "description": "CIRCLE WITH SMALL CIRCLE TO THE RIGHT",
+    "note": ""
+  },
+  {
+    "character": "⧃",
+    "decimal": "10691",
+    "hex": "29C3",
+    "entity": "",
+    "description": "CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT",
+    "note": ""
+  },
+  {
+    "character": "⧄",
+    "decimal": "10692",
+    "hex": "29C4",
+    "entity": "",
+    "description": "SQUARED RISING DIAGONAL SLASH",
+    "note": ""
+  },
+  {
+    "character": "⧅",
+    "decimal": "10693",
+    "hex": "29C5",
+    "entity": "",
+    "description": "SQUARED FALLING DIAGONAL SLASH",
+    "note": ""
+  },
+  {
+    "character": "⧆",
+    "decimal": "10694",
+    "hex": "29C6",
+    "entity": "",
+    "description": "SQUARED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "⧇",
+    "decimal": "10695",
+    "hex": "29C7",
+    "entity": "",
+    "description": "SQUARED SMALL CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "⧈",
+    "decimal": "10696",
+    "hex": "29C8",
+    "entity": "",
+    "description": "SQUARED SQUARE",
+    "note": ""
+  },
+  {
+    "character": "⧉",
+    "decimal": "10697",
+    "hex": "29C9",
+    "entity": "",
+    "description": "TWO JOINED SQUARES",
+    "note": ""
+  },
+  {
+    "character": "⧊",
+    "decimal": "10698",
+    "hex": "29CA",
+    "entity": "",
+    "description": "TRIANGLE WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "⧋",
+    "decimal": "10699",
+    "hex": "29CB",
+    "entity": "",
+    "description": "TRIANGLE WITH UNDERBAR",
+    "note": ""
+  },
+  {
+    "character": "⧌",
+    "decimal": "10700",
+    "hex": "29CC",
+    "entity": "",
+    "description": "S IN TRIANGLE",
+    "note": ""
+  },
+  {
+    "character": "⧍",
+    "decimal": "10701",
+    "hex": "29CD",
+    "entity": "",
+    "description": "TRIANGLE WITH SERIFS AT BOTTOM",
+    "note": ""
+  },
+  {
+    "character": "⧎",
+    "decimal": "10702",
+    "hex": "29CE",
+    "entity": "",
+    "description": "RIGHT TRIANGLE ABOVE LEFT TRIANGLE",
+    "note": ""
+  },
+  {
+    "character": "⧏",
+    "decimal": "10703",
+    "hex": "29CF",
+    "entity": "",
+    "description": "LEFT TRIANGLE BESIDE VERTICAL BAR",
+    "note": ""
+  },
+  {
+    "character": "⧐",
+    "decimal": "10704",
+    "hex": "29D0",
+    "entity": "",
+    "description": "VERTICAL BAR BESIDE RIGHT TRIANGLE",
+    "note": ""
+  },
+  {
+    "character": "⧑",
+    "decimal": "10705",
+    "hex": "29D1",
+    "entity": "",
+    "description": "BOWTIE WITH LEFT HALF BLACK",
+    "note": ""
+  },
+  {
+    "character": "⧒",
+    "decimal": "10706",
+    "hex": "29D2",
+    "entity": "",
+    "description": "BOWTIE WITH RIGHT HALF BLACK",
+    "note": ""
+  },
+  {
+    "character": "⧓",
+    "decimal": "10707",
+    "hex": "29D3",
+    "entity": "",
+    "description": "BLACK BOWTIE",
+    "note": ""
+  },
+  {
+    "character": "⧔",
+    "decimal": "10708",
+    "hex": "29D4",
+    "entity": "",
+    "description": "TIMES WITH LEFT HALF BLACK",
+    "note": ""
+  },
+  {
+    "character": "⧕",
+    "decimal": "10709",
+    "hex": "29D5",
+    "entity": "",
+    "description": "TIMES WITH RIGHT HALF BLACK",
+    "note": ""
+  },
+  {
+    "character": "⧖",
+    "decimal": "10710",
+    "hex": "29D6",
+    "entity": "",
+    "description": "WHITE HOURGLASS",
+    "note": ""
+  },
+  {
+    "character": "⧗",
+    "decimal": "10711",
+    "hex": "29D7",
+    "entity": "",
+    "description": "BLACK HOURGLASS",
+    "note": ""
+  },
+  {
+    "character": "⧘",
+    "decimal": "10712",
+    "hex": "29D8",
+    "entity": "",
+    "description": "LEFT WIGGLY FENCE",
+    "note": ""
+  },
+  {
+    "character": "⧙",
+    "decimal": "10713",
+    "hex": "29D9",
+    "entity": "",
+    "description": "RIGHT WIGGLY FENCE",
+    "note": ""
+  },
+  {
+    "character": "⧚",
+    "decimal": "10714",
+    "hex": "29DA",
+    "entity": "",
+    "description": "LEFT DOUBLE WIGGLY FENCE",
+    "note": ""
+  },
+  {
+    "character": "⧛",
+    "decimal": "10715",
+    "hex": "29DB",
+    "entity": "",
+    "description": "RIGHT DOUBLE WIGGLY FENCE",
+    "note": ""
+  },
+  {
+    "character": "⧜",
+    "decimal": "10716",
+    "hex": "29DC",
+    "entity": "",
+    "description": "INCOMPLETE INFINITY",
+    "note": ""
+  },
+  {
+    "character": "⧝",
+    "decimal": "10717",
+    "hex": "29DD",
+    "entity": "",
+    "description": "TIE OVER INFINITY",
+    "note": ""
+  },
+  {
+    "character": "⧞",
+    "decimal": "10718",
+    "hex": "29DE",
+    "entity": "",
+    "description": "INFINITY NEGATED WITH VERTICAL BAR",
+    "note": ""
+  },
+  {
+    "character": "⧟",
+    "decimal": "10719",
+    "hex": "29DF",
+    "entity": "",
+    "description": "DOUBLE-ENDED MULTIMAP",
+    "note": ""
+  },
+  {
+    "character": "⧠",
+    "decimal": "10720",
+    "hex": "2,90E+01",
+    "entity": "",
+    "description": "SQUARE WITH CONTOURED OUTLINE",
+    "note": ""
+  },
+  {
+    "character": "⧡",
+    "decimal": "10721",
+    "hex": "2,90E+02",
+    "entity": "",
+    "description": "INCREASES AS",
+    "note": ""
+  },
+  {
+    "character": "⧢",
+    "decimal": "10722",
+    "hex": "2,90E+03",
+    "entity": "",
+    "description": "SHUFFLE PRODUCT",
+    "note": ""
+  },
+  {
+    "character": "⧣",
+    "decimal": "10723",
+    "hex": "2,90E+04",
+    "entity": "",
+    "description": "EQUALS SIGN AND SLANTED PARALLEL",
+    "note": ""
+  },
+  {
+    "character": "⧤",
+    "decimal": "10724",
+    "hex": "2,90E+05",
+    "entity": "",
+    "description": "EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE",
+    "note": ""
+  },
+  {
+    "character": "⧥",
+    "decimal": "10725",
+    "hex": "2,90E+06",
+    "entity": "",
+    "description": "IDENTICAL TO AND SLANTED PARALLEL",
+    "note": ""
+  },
+  {
+    "character": "⧦",
+    "decimal": "10726",
+    "hex": "2,90E+07",
+    "entity": "",
+    "description": "GLEICH STARK",
+    "note": ""
+  },
+  {
+    "character": "⧧",
+    "decimal": "10727",
+    "hex": "2,90E+08",
+    "entity": "",
+    "description": "THERMODYNAMIC",
+    "note": ""
+  },
+  {
+    "character": "⧨",
+    "decimal": "10728",
+    "hex": "2,90E+09",
+    "entity": "",
+    "description": "DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK",
+    "note": ""
+  },
+  {
+    "character": "⧩",
+    "decimal": "10729",
+    "hex": "2,90E+10",
+    "entity": "",
+    "description": "DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK",
+    "note": ""
+  },
+  {
+    "character": "⧪",
+    "decimal": "10730",
+    "hex": "29EA",
+    "entity": "",
+    "description": "BLACK DIAMOND WITH DOWN ARROW",
+    "note": ""
+  },
+  {
+    "character": "⧫",
+    "decimal": "10731",
+    "hex": "29EB",
+    "entity": "",
+    "description": "BLACK LOZENGE",
+    "note": ""
+  },
+  {
+    "character": "⧬",
+    "decimal": "10732",
+    "hex": "29EC",
+    "entity": "",
+    "description": "WHITE CIRCLE WITH DOWN ARROW",
+    "note": ""
+  },
+  {
+    "character": "⧭",
+    "decimal": "10733",
+    "hex": "29ED",
+    "entity": "",
+    "description": "BLACK CIRCLE WITH DOWN ARROW",
+    "note": ""
+  },
+  {
+    "character": "⧮",
+    "decimal": "10734",
+    "hex": "29EE",
+    "entity": "",
+    "description": "ERROR-BARRED WHITE SQUARE",
+    "note": ""
+  },
+  {
+    "character": "⧯",
+    "decimal": "10735",
+    "hex": "29EF",
+    "entity": "",
+    "description": "ERROR-BARRED BLACK SQUARE",
+    "note": ""
+  },
+  {
+    "character": "⧰",
+    "decimal": "10736",
+    "hex": "29F0",
+    "entity": "",
+    "description": "ERROR-BARRED WHITE DIAMOND",
+    "note": ""
+  },
+  {
+    "character": "⧱",
+    "decimal": "10737",
+    "hex": "29F1",
+    "entity": "",
+    "description": "ERROR-BARRED BLACK DIAMOND",
+    "note": ""
+  },
+  {
+    "character": "⧲",
+    "decimal": "10738",
+    "hex": "29F2",
+    "entity": "",
+    "description": "ERROR-BARRED WHITE CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "⧳",
+    "decimal": "10739",
+    "hex": "29F3",
+    "entity": "",
+    "description": "ERROR-BARRED BLACK CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "⧴",
+    "decimal": "10740",
+    "hex": "29F4",
+    "entity": "",
+    "description": "RULE-DELAYED",
+    "note": ""
+  },
+  {
+    "character": "⧵",
+    "decimal": "10741",
+    "hex": "29F5",
+    "entity": "",
+    "description": "REVERSE SOLIDUS OPERATOR",
+    "note": ""
+  },
+  {
+    "character": "⧶",
+    "decimal": "10742",
+    "hex": "29F6",
+    "entity": "",
+    "description": "SOLIDUS WITH OVERBAR",
+    "note": ""
+  },
+  {
+    "character": "⧷",
+    "decimal": "10743",
+    "hex": "29F7",
+    "entity": "",
+    "description": "REVERSE SOLIDUS WITH HORIZONTAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⧸",
+    "decimal": "10744",
+    "hex": "29F8",
+    "entity": "",
+    "description": "BIG SOLIDUS",
+    "note": ""
+  },
+  {
+    "character": "⧹",
+    "decimal": "10745",
+    "hex": "29F9",
+    "entity": "",
+    "description": "BIG REVERSE SOLIDUS",
+    "note": ""
+  },
+  {
+    "character": "⧺",
+    "decimal": "10746",
+    "hex": "29FA",
+    "entity": "",
+    "description": "DOUBLE PLUS",
+    "note": ""
+  },
+  {
+    "character": "⧻",
+    "decimal": "10747",
+    "hex": "29FB",
+    "entity": "",
+    "description": "TRIPLE PLUS",
+    "note": ""
+  },
+  {
+    "character": "⧼",
+    "decimal": "10748",
+    "hex": "29FC",
+    "entity": "",
+    "description": "LEFT-POINTING CURVED ANGLE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⧽",
+    "decimal": "10749",
+    "hex": "29FD",
+    "entity": "",
+    "description": "RIGHT-POINTING CURVED ANGLE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "⧾",
+    "decimal": "10750",
+    "hex": "29FE",
+    "entity": "",
+    "description": "TINY",
+    "note": ""
+  },
+  {
+    "character": "⧿",
+    "decimal": "10751",
+    "hex": "29FF",
+    "entity": "",
+    "description": "MINY",
+    "note": ""
+  },
+  {
+    "character": "⨀",
+    "decimal": "10752",
+    "hex": "2A00",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨁",
+    "decimal": "10753",
+    "hex": "2A01",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨂",
+    "decimal": "10754",
+    "hex": "2A02",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨃",
+    "decimal": "10755",
+    "hex": "2A03",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨄",
+    "decimal": "10756",
+    "hex": "2A04",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨅",
+    "decimal": "10757",
+    "hex": "2A05",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨆",
+    "decimal": "10758",
+    "hex": "2A06",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨇",
+    "decimal": "10759",
+    "hex": "2A07",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨈",
+    "decimal": "10760",
+    "hex": "2A08",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨉",
+    "decimal": "10761",
+    "hex": "2A09",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨊",
+    "decimal": "10762",
+    "hex": "2A0A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨋",
+    "decimal": "10763",
+    "hex": "2A0B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨌",
+    "decimal": "10764",
+    "hex": "2A0C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨍",
+    "decimal": "10765",
+    "hex": "2A0D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨎",
+    "decimal": "10766",
+    "hex": "2A0E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨏",
+    "decimal": "10767",
+    "hex": "2A0F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨐",
+    "decimal": "10768",
+    "hex": "2A10",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨑",
+    "decimal": "10769",
+    "hex": "2A11",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨒",
+    "decimal": "10770",
+    "hex": "2A12",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨓",
+    "decimal": "10771",
+    "hex": "2A13",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨔",
+    "decimal": "10772",
+    "hex": "2A14",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨕",
+    "decimal": "10773",
+    "hex": "2A15",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨖",
+    "decimal": "10774",
+    "hex": "2A16",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨗",
+    "decimal": "10775",
+    "hex": "2A17",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨘",
+    "decimal": "10776",
+    "hex": "2A18",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨙",
+    "decimal": "10777",
+    "hex": "2A19",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨚",
+    "decimal": "10778",
+    "hex": "2A1A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨛",
+    "decimal": "10779",
+    "hex": "2A1B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨜",
+    "decimal": "10780",
+    "hex": "2A1C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨝",
+    "decimal": "10781",
+    "hex": "2A1D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨞",
+    "decimal": "10782",
+    "hex": "2A1E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨟",
+    "decimal": "10783",
+    "hex": "2A1F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨠",
+    "decimal": "10784",
+    "hex": "2A20",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨡",
+    "decimal": "10785",
+    "hex": "2A21",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨢",
+    "decimal": "10786",
+    "hex": "2A22",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨣",
+    "decimal": "10787",
+    "hex": "2A23",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨤",
+    "decimal": "10788",
+    "hex": "2A24",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨥",
+    "decimal": "10789",
+    "hex": "2A25",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨦",
+    "decimal": "10790",
+    "hex": "2A26",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨧",
+    "decimal": "10791",
+    "hex": "2A27",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨨",
+    "decimal": "10792",
+    "hex": "2A28",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨩",
+    "decimal": "10793",
+    "hex": "2A29",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨪",
+    "decimal": "10794",
+    "hex": "2A2A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨫",
+    "decimal": "10795",
+    "hex": "2A2B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨬",
+    "decimal": "10796",
+    "hex": "2A2C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨭",
+    "decimal": "10797",
+    "hex": "2A2D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨮",
+    "decimal": "10798",
+    "hex": "2A2E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨯",
+    "decimal": "10799",
+    "hex": "2A2F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨰",
+    "decimal": "10800",
+    "hex": "2A30",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨱",
+    "decimal": "10801",
+    "hex": "2A31",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨲",
+    "decimal": "10802",
+    "hex": "2A32",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨳",
+    "decimal": "10803",
+    "hex": "2A33",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨴",
+    "decimal": "10804",
+    "hex": "2A34",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨵",
+    "decimal": "10805",
+    "hex": "2A35",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨶",
+    "decimal": "10806",
+    "hex": "2A36",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨷",
+    "decimal": "10807",
+    "hex": "2A37",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨸",
+    "decimal": "10808",
+    "hex": "2A38",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨹",
+    "decimal": "10809",
+    "hex": "2A39",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨺",
+    "decimal": "10810",
+    "hex": "2A3A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨻",
+    "decimal": "10811",
+    "hex": "2A3B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨼",
+    "decimal": "10812",
+    "hex": "2A3C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨽",
+    "decimal": "10813",
+    "hex": "2A3D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨾",
+    "decimal": "10814",
+    "hex": "2A3E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⨿",
+    "decimal": "10815",
+    "hex": "2A3F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩀",
+    "decimal": "10816",
+    "hex": "2A40",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩁",
+    "decimal": "10817",
+    "hex": "2A41",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩂",
+    "decimal": "10818",
+    "hex": "2A42",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩃",
+    "decimal": "10819",
+    "hex": "2A43",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩄",
+    "decimal": "10820",
+    "hex": "2A44",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩅",
+    "decimal": "10821",
+    "hex": "2A45",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩆",
+    "decimal": "10822",
+    "hex": "2A46",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩇",
+    "decimal": "10823",
+    "hex": "2A47",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩈",
+    "decimal": "10824",
+    "hex": "2A48",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩉",
+    "decimal": "10825",
+    "hex": "2A49",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩊",
+    "decimal": "10826",
+    "hex": "2A4A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩋",
+    "decimal": "10827",
+    "hex": "2A4B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩌",
+    "decimal": "10828",
+    "hex": "2A4C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩍",
+    "decimal": "10829",
+    "hex": "2A4D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩎",
+    "decimal": "10830",
+    "hex": "2A4E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩏",
+    "decimal": "10831",
+    "hex": "2A4F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩐",
+    "decimal": "10832",
+    "hex": "2A50",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩑",
+    "decimal": "10833",
+    "hex": "2A51",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩒",
+    "decimal": "10834",
+    "hex": "2A52",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩓",
+    "decimal": "10835",
+    "hex": "2A53",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩔",
+    "decimal": "10836",
+    "hex": "2A54",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩕",
+    "decimal": "10837",
+    "hex": "2A55",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩖",
+    "decimal": "10838",
+    "hex": "2A56",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩗",
+    "decimal": "10839",
+    "hex": "2A57",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩘",
+    "decimal": "10840",
+    "hex": "2A58",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩙",
+    "decimal": "10841",
+    "hex": "2A59",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩚",
+    "decimal": "10842",
+    "hex": "2A5A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩛",
+    "decimal": "10843",
+    "hex": "2A5B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩜",
+    "decimal": "10844",
+    "hex": "2A5C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩝",
+    "decimal": "10845",
+    "hex": "2A5D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩞",
+    "decimal": "10846",
+    "hex": "2A5E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩟",
+    "decimal": "10847",
+    "hex": "2A5F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩠",
+    "decimal": "10848",
+    "hex": "2A60",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩡",
+    "decimal": "10849",
+    "hex": "2A61",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩢",
+    "decimal": "10850",
+    "hex": "2A62",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩣",
+    "decimal": "10851",
+    "hex": "2A63",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩤",
+    "decimal": "10852",
+    "hex": "2A64",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩥",
+    "decimal": "10853",
+    "hex": "2A65",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩦",
+    "decimal": "10854",
+    "hex": "2A66",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩧",
+    "decimal": "10855",
+    "hex": "2A67",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩨",
+    "decimal": "10856",
+    "hex": "2A68",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩩",
+    "decimal": "10857",
+    "hex": "2A69",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩪",
+    "decimal": "10858",
+    "hex": "2A6A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩫",
+    "decimal": "10859",
+    "hex": "2A6B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩬",
+    "decimal": "10860",
+    "hex": "2A6C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩭",
+    "decimal": "10861",
+    "hex": "2A6D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩮",
+    "decimal": "10862",
+    "hex": "2A6E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩯",
+    "decimal": "10863",
+    "hex": "2A6F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩰",
+    "decimal": "10864",
+    "hex": "2A70",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩱",
+    "decimal": "10865",
+    "hex": "2A71",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩲",
+    "decimal": "10866",
+    "hex": "2A72",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩳",
+    "decimal": "10867",
+    "hex": "2A73",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩴",
+    "decimal": "10868",
+    "hex": "2A74",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩵",
+    "decimal": "10869",
+    "hex": "2A75",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩶",
+    "decimal": "10870",
+    "hex": "2A76",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩷",
+    "decimal": "10871",
+    "hex": "2A77",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩸",
+    "decimal": "10872",
+    "hex": "2A78",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩹",
+    "decimal": "10873",
+    "hex": "2A79",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩺",
+    "decimal": "10874",
+    "hex": "2A7A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩻",
+    "decimal": "10875",
+    "hex": "2A7B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩼",
+    "decimal": "10876",
+    "hex": "2A7C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩽",
+    "decimal": "10877",
+    "hex": "2A7D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩾",
+    "decimal": "10878",
+    "hex": "2A7E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⩿",
+    "decimal": "10879",
+    "hex": "2A7F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪀",
+    "decimal": "10880",
+    "hex": "2A80",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪁",
+    "decimal": "10881",
+    "hex": "2A81",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪂",
+    "decimal": "10882",
+    "hex": "2A82",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪃",
+    "decimal": "10883",
+    "hex": "2A83",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪄",
+    "decimal": "10884",
+    "hex": "2A84",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪅",
+    "decimal": "10885",
+    "hex": "2A85",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪆",
+    "decimal": "10886",
+    "hex": "2A86",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪇",
+    "decimal": "10887",
+    "hex": "2A87",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪈",
+    "decimal": "10888",
+    "hex": "2A88",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪉",
+    "decimal": "10889",
+    "hex": "2A89",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪊",
+    "decimal": "10890",
+    "hex": "2A8A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪋",
+    "decimal": "10891",
+    "hex": "2A8B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪌",
+    "decimal": "10892",
+    "hex": "2A8C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪍",
+    "decimal": "10893",
+    "hex": "2A8D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪎",
+    "decimal": "10894",
+    "hex": "2A8E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪏",
+    "decimal": "10895",
+    "hex": "2A8F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪐",
+    "decimal": "10896",
+    "hex": "2A90",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪑",
+    "decimal": "10897",
+    "hex": "2A91",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪒",
+    "decimal": "10898",
+    "hex": "2A92",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪓",
+    "decimal": "10899",
+    "hex": "2A93",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪔",
+    "decimal": "10900",
+    "hex": "2A94",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪕",
+    "decimal": "10901",
+    "hex": "2A95",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪖",
+    "decimal": "10902",
+    "hex": "2A96",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪗",
+    "decimal": "10903",
+    "hex": "2A97",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪘",
+    "decimal": "10904",
+    "hex": "2A98",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪙",
+    "decimal": "10905",
+    "hex": "2A99",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪚",
+    "decimal": "10906",
+    "hex": "2A9A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪛",
+    "decimal": "10907",
+    "hex": "2A9B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪜",
+    "decimal": "10908",
+    "hex": "2A9C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪝",
+    "decimal": "10909",
+    "hex": "2A9D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪞",
+    "decimal": "10910",
+    "hex": "2A9E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪟",
+    "decimal": "10911",
+    "hex": "2A9F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪠",
+    "decimal": "10912",
+    "hex": "2AA0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪡",
+    "decimal": "10913",
+    "hex": "2AA1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪢",
+    "decimal": "10914",
+    "hex": "2AA2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪣",
+    "decimal": "10915",
+    "hex": "2AA3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪤",
+    "decimal": "10916",
+    "hex": "2AA4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪥",
+    "decimal": "10917",
+    "hex": "2AA5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪦",
+    "decimal": "10918",
+    "hex": "2AA6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪧",
+    "decimal": "10919",
+    "hex": "2AA7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪨",
+    "decimal": "10920",
+    "hex": "2AA8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪩",
+    "decimal": "10921",
+    "hex": "2AA9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪪",
+    "decimal": "10922",
+    "hex": "2AAA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪫",
+    "decimal": "10923",
+    "hex": "2AAB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪬",
+    "decimal": "10924",
+    "hex": "2AAC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪭",
+    "decimal": "10925",
+    "hex": "2AAD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪮",
+    "decimal": "10926",
+    "hex": "2AAE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪯",
+    "decimal": "10927",
+    "hex": "2AAF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪰",
+    "decimal": "10928",
+    "hex": "2AB0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪱",
+    "decimal": "10929",
+    "hex": "2AB1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪲",
+    "decimal": "10930",
+    "hex": "2AB2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪳",
+    "decimal": "10931",
+    "hex": "2AB3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪴",
+    "decimal": "10932",
+    "hex": "2AB4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪵",
+    "decimal": "10933",
+    "hex": "2AB5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪶",
+    "decimal": "10934",
+    "hex": "2AB6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪷",
+    "decimal": "10935",
+    "hex": "2AB7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪸",
+    "decimal": "10936",
+    "hex": "2AB8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪹",
+    "decimal": "10937",
+    "hex": "2AB9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪺",
+    "decimal": "10938",
+    "hex": "2ABA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪻",
+    "decimal": "10939",
+    "hex": "2ABB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪼",
+    "decimal": "10940",
+    "hex": "2ABC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪽",
+    "decimal": "10941",
+    "hex": "2ABD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪾",
+    "decimal": "10942",
+    "hex": "2ABE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⪿",
+    "decimal": "10943",
+    "hex": "2ABF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫀",
+    "decimal": "10944",
+    "hex": "2AC0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫁",
+    "decimal": "10945",
+    "hex": "2AC1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫂",
+    "decimal": "10946",
+    "hex": "2AC2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫃",
+    "decimal": "10947",
+    "hex": "2AC3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫄",
+    "decimal": "10948",
+    "hex": "2AC4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫅",
+    "decimal": "10949",
+    "hex": "2AC5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫆",
+    "decimal": "10950",
+    "hex": "2AC6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫇",
+    "decimal": "10951",
+    "hex": "2AC7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫈",
+    "decimal": "10952",
+    "hex": "2AC8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫉",
+    "decimal": "10953",
+    "hex": "2AC9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫊",
+    "decimal": "10954",
+    "hex": "2ACA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫋",
+    "decimal": "10955",
+    "hex": "2ACB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫌",
+    "decimal": "10956",
+    "hex": "2ACC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫍",
+    "decimal": "10957",
+    "hex": "2ACD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫎",
+    "decimal": "10958",
+    "hex": "2ACE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫏",
+    "decimal": "10959",
+    "hex": "2ACF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫐",
+    "decimal": "10960",
+    "hex": "2AD0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫑",
+    "decimal": "10961",
+    "hex": "2AD1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫒",
+    "decimal": "10962",
+    "hex": "2AD2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫓",
+    "decimal": "10963",
+    "hex": "2AD3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫔",
+    "decimal": "10964",
+    "hex": "2AD4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫕",
+    "decimal": "10965",
+    "hex": "2AD5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫖",
+    "decimal": "10966",
+    "hex": "2AD6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫗",
+    "decimal": "10967",
+    "hex": "2AD7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫘",
+    "decimal": "10968",
+    "hex": "2AD8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫙",
+    "decimal": "10969",
+    "hex": "2AD9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫚",
+    "decimal": "10970",
+    "hex": "2ADA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫛",
+    "decimal": "10971",
+    "hex": "2ADB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫝̸",
+    "decimal": "10972",
+    "hex": "2ADC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫝",
+    "decimal": "10973",
+    "hex": "2ADD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫞",
+    "decimal": "10974",
+    "hex": "2ADE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫟",
+    "decimal": "10975",
+    "hex": "2ADF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫠",
+    "decimal": "10976",
+    "hex": "2AE0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫡",
+    "decimal": "10977",
+    "hex": "2AE1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫢",
+    "decimal": "10978",
+    "hex": "2AE2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫣",
+    "decimal": "10979",
+    "hex": "2AE3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫤",
+    "decimal": "10980",
+    "hex": "2AE4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫥",
+    "decimal": "10981",
+    "hex": "2AE5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫦",
+    "decimal": "10982",
+    "hex": "2AE6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫧",
+    "decimal": "10983",
+    "hex": "2AE7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫨",
+    "decimal": "10984",
+    "hex": "2AE8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫩",
+    "decimal": "10985",
+    "hex": "2AE9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫪",
+    "decimal": "10986",
+    "hex": "2AEA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫫",
+    "decimal": "10987",
+    "hex": "2AEB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫬",
+    "decimal": "10988",
+    "hex": "2AEC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫭",
+    "decimal": "10989",
+    "hex": "2AED",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫮",
+    "decimal": "10990",
+    "hex": "2AEE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫯",
+    "decimal": "10991",
+    "hex": "2AEF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫰",
+    "decimal": "10992",
+    "hex": "2AF0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫱",
+    "decimal": "10993",
+    "hex": "2AF1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫲",
+    "decimal": "10994",
+    "hex": "2AF2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫳",
+    "decimal": "10995",
+    "hex": "2AF3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫴",
+    "decimal": "10996",
+    "hex": "2AF4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫵",
+    "decimal": "10997",
+    "hex": "2AF5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫶",
+    "decimal": "10998",
+    "hex": "2AF6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫷",
+    "decimal": "10999",
+    "hex": "2AF7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫸",
+    "decimal": "11000",
+    "hex": "2AF8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫹",
+    "decimal": "11001",
+    "hex": "2AF9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫺",
+    "decimal": "11002",
+    "hex": "2AFA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫻",
+    "decimal": "11003",
+    "hex": "2AFB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫼",
+    "decimal": "11004",
+    "hex": "2AFC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫽",
+    "decimal": "11005",
+    "hex": "2AFD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫾",
+    "decimal": "11006",
+    "hex": "2AFE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⫿",
+    "decimal": "11007",
+    "hex": "2AFF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  }
+]

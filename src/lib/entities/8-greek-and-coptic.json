@@ -1,0 +1,1074 @@
+[
+  {
+    "character": "Ͱ",
+    "decimal": "880",
+    "hex": "370",
+    "entity": "",
+    "description": "CAPITAL LETTER HETA",
+    "note": ""
+  },
+  {
+    "character": "ͱ",
+    "decimal": "881",
+    "hex": "371",
+    "entity": "",
+    "description": "SMALL LETTER HETA",
+    "note": ""
+  },
+  {
+    "character": "Ͳ",
+    "decimal": "882",
+    "hex": "372",
+    "entity": "",
+    "description": "CAPITAL LETTER ARCHAIC SAMPI",
+    "note": ""
+  },
+  {
+    "character": "ͳ",
+    "decimal": "883",
+    "hex": "373",
+    "entity": "",
+    "description": "SMALL LETTER ARCHAIC SAMPI",
+    "note": ""
+  },
+  {
+    "character": "ʹ",
+    "decimal": "884",
+    "hex": "374",
+    "entity": "",
+    "description": "NUMERAL SIGN",
+    "note": ""
+  },
+  {
+    "character": "͵",
+    "decimal": "885",
+    "hex": "375",
+    "entity": "",
+    "description": "LOWER NUMERAL SIGN",
+    "note": ""
+  },
+  {
+    "character": "Ͷ",
+    "decimal": "886",
+    "hex": "376",
+    "entity": "",
+    "description": "CAPITAL LETTER PAMPHYLIAN DIGAMMA",
+    "note": ""
+  },
+  {
+    "character": "ͷ",
+    "decimal": "887",
+    "hex": "377",
+    "entity": "",
+    "description": "SMALL LETTER PAMPHYLIAN DIGAMMA",
+    "note": ""
+  },
+  {
+    "character": "ͺ",
+    "decimal": "890",
+    "hex": "037A",
+    "entity": "",
+    "description": "YPOGEGRAMMENI",
+    "note": ""
+  },
+  {
+    "character": "ͻ",
+    "decimal": "891",
+    "hex": "037B",
+    "entity": "",
+    "description": "SMALL REVERSED LUNATE SIGMA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ͼ",
+    "decimal": "892",
+    "hex": "037C",
+    "entity": "",
+    "description": "SMALL DOTTED LUNATE SIGMA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ͽ",
+    "decimal": "893",
+    "hex": "037D",
+    "entity": "",
+    "description": "SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": ";",
+    "decimal": "894",
+    "hex": "037E",
+    "entity": "",
+    "description": "QUESTION MARK",
+    "note": ""
+  },
+  {
+    "character": "΄",
+    "decimal": "900",
+    "hex": "384",
+    "entity": "",
+    "description": "TONOS",
+    "note": ""
+  },
+  {
+    "character": "΅",
+    "decimal": "901",
+    "hex": "385",
+    "entity": "",
+    "description": "DIALYTIKA TONOS",
+    "note": ""
+  },
+  {
+    "character": "Ά",
+    "decimal": "902",
+    "hex": "386",
+    "entity": "",
+    "description": "CAPITAL LETTER ALPHA WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "·",
+    "decimal": "903",
+    "hex": "387",
+    "entity": "",
+    "description": "ANO TELEIA",
+    "note": ""
+  },
+  {
+    "character": "Έ",
+    "decimal": "904",
+    "hex": "388",
+    "entity": "",
+    "description": "CAPITAL LETTER EPSILON WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "Ή",
+    "decimal": "905",
+    "hex": "389",
+    "entity": "",
+    "description": "CAPITAL LETTER ETA WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "Ί",
+    "decimal": "906",
+    "hex": "038A",
+    "entity": "",
+    "description": "CAPITAL LETTER IOTA WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "Ό",
+    "decimal": "908",
+    "hex": "038C",
+    "entity": "",
+    "description": "CAPITAL LETTER OMICRON WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "Ύ",
+    "decimal": "910",
+    "hex": "038E",
+    "entity": "",
+    "description": "CAPITAL LETTER UPSILON WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "Ώ",
+    "decimal": "911",
+    "hex": "038F",
+    "entity": "",
+    "description": "CAPITAL LETTER OMEGA WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "ΐ",
+    "decimal": "912",
+    "hex": "390",
+    "entity": "",
+    "description": "SMALL LETTER IOTA WITH DIALYTIKA AND TONOS",
+    "note": ""
+  },
+  {
+    "character": "Α",
+    "decimal": "913",
+    "hex": "391",
+    "entity": "&Alpha;",
+    "description": "CAPITAL LETTER ALPHA",
+    "note": ""
+  },
+  {
+    "character": "Β",
+    "decimal": "914",
+    "hex": "392",
+    "entity": "&Beta;",
+    "description": "CAPITAL LETTER BETA",
+    "note": ""
+  },
+  {
+    "character": "Γ",
+    "decimal": "915",
+    "hex": "393",
+    "entity": "&Gamma;",
+    "description": "CAPITAL LETTER GAMMA",
+    "note": ""
+  },
+  {
+    "character": "Δ",
+    "decimal": "916",
+    "hex": "394",
+    "entity": "&Delta;",
+    "description": "CAPITAL LETTER DELTA",
+    "note": ""
+  },
+  {
+    "character": "Ε",
+    "decimal": "917",
+    "hex": "395",
+    "entity": "&Epsilon;",
+    "description": "CAPITAL LETTER EPSILON",
+    "note": ""
+  },
+  {
+    "character": "Ζ",
+    "decimal": "918",
+    "hex": "396",
+    "entity": "&Zeta;",
+    "description": "CAPITAL LETTER ZETA",
+    "note": ""
+  },
+  {
+    "character": "Η",
+    "decimal": "919",
+    "hex": "397",
+    "entity": "&Eta;",
+    "description": "CAPITAL LETTER ETA",
+    "note": ""
+  },
+  {
+    "character": "Θ",
+    "decimal": "920",
+    "hex": "398",
+    "entity": "&Theta;",
+    "description": "CAPITAL LETTER THETA",
+    "note": ""
+  },
+  {
+    "character": "Ι",
+    "decimal": "921",
+    "hex": "399",
+    "entity": "&Iota;",
+    "description": "CAPITAL LETTER IOTA",
+    "note": ""
+  },
+  {
+    "character": "Κ",
+    "decimal": "922",
+    "hex": "039A",
+    "entity": "&Kappa;",
+    "description": "CAPITAL LETTER KAPPA",
+    "note": ""
+  },
+  {
+    "character": "Λ",
+    "decimal": "923",
+    "hex": "039B",
+    "entity": "&Lambda;",
+    "description": "CAPITAL LETTER LAMBDA",
+    "note": ""
+  },
+  {
+    "character": "Μ",
+    "decimal": "924",
+    "hex": "039C",
+    "entity": "&Mu;",
+    "description": "CAPITAL LETTER MU",
+    "note": ""
+  },
+  {
+    "character": "Ν",
+    "decimal": "925",
+    "hex": "039D",
+    "entity": "&Nu;",
+    "description": "CAPITAL LETTER NU",
+    "note": ""
+  },
+  {
+    "character": "Ξ",
+    "decimal": "926",
+    "hex": "039E",
+    "entity": "&Xi;",
+    "description": "CAPITAL LETTER XI",
+    "note": ""
+  },
+  {
+    "character": "Ο",
+    "decimal": "927",
+    "hex": "039F",
+    "entity": "&Omicron;",
+    "description": "CAPITAL LETTER OMICRON",
+    "note": ""
+  },
+  {
+    "character": "Π",
+    "decimal": "928",
+    "hex": "03A0",
+    "entity": "&Pi;",
+    "description": "CAPITAL LETTER PI",
+    "note": ""
+  },
+  {
+    "character": "Ρ",
+    "decimal": "929",
+    "hex": "03A1",
+    "entity": "&Rho;",
+    "description": "CAPITAL LETTER RHO",
+    "note": ""
+  },
+  {
+    "character": "Σ",
+    "decimal": "931",
+    "hex": "03A3",
+    "entity": "&Sigma;",
+    "description": "CAPITAL LETTER SIGMA",
+    "note": ""
+  },
+  {
+    "character": "Τ",
+    "decimal": "932",
+    "hex": "03A4",
+    "entity": "&Tau;",
+    "description": "CAPITAL LETTER TAU",
+    "note": ""
+  },
+  {
+    "character": "Υ",
+    "decimal": "933",
+    "hex": "03A5",
+    "entity": "&Upsilon;",
+    "description": "CAPITAL LETTER UPSILON",
+    "note": ""
+  },
+  {
+    "character": "Φ",
+    "decimal": "934",
+    "hex": "03A6",
+    "entity": "&Phi;",
+    "description": "CAPITAL LETTER PHI",
+    "note": ""
+  },
+  {
+    "character": "Χ",
+    "decimal": "935",
+    "hex": "03A7",
+    "entity": "&Chi;",
+    "description": "CAPITAL LETTER CHI",
+    "note": ""
+  },
+  {
+    "character": "Ψ",
+    "decimal": "936",
+    "hex": "03A8",
+    "entity": "&Psi;",
+    "description": "CAPITAL LETTER PSI",
+    "note": ""
+  },
+  {
+    "character": "Ω",
+    "decimal": "937",
+    "hex": "03A9",
+    "entity": "&Omega;",
+    "description": "CAPITAL LETTER OMEGA",
+    "note": ""
+  },
+  {
+    "character": "Ϊ",
+    "decimal": "938",
+    "hex": "03AA",
+    "entity": "",
+    "description": "CAPITAL LETTER IOTA WITH DIALYTIKA",
+    "note": ""
+  },
+  {
+    "character": "Ϋ",
+    "decimal": "939",
+    "hex": "03AB",
+    "entity": "",
+    "description": "CAPITAL LETTER UPSILON WITH DIALYTIKA",
+    "note": ""
+  },
+  {
+    "character": "ά",
+    "decimal": "940",
+    "hex": "03AC",
+    "entity": "",
+    "description": "SMALL LETTER ALPHA WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "έ",
+    "decimal": "941",
+    "hex": "03AD",
+    "entity": "",
+    "description": "SMALL LETTER EPSILON WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "ή",
+    "decimal": "942",
+    "hex": "03AE",
+    "entity": "",
+    "description": "SMALL LETTER ETA WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "ί",
+    "decimal": "943",
+    "hex": "03AF",
+    "entity": "",
+    "description": "SMALL LETTER IOTA WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "ΰ",
+    "decimal": "944",
+    "hex": "03B0",
+    "entity": "",
+    "description": "SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS",
+    "note": ""
+  },
+  {
+    "character": "α",
+    "decimal": "945",
+    "hex": "03B1",
+    "entity": "&alpha;",
+    "description": "SMALL LETTER ALPHA",
+    "note": ""
+  },
+  {
+    "character": "β",
+    "decimal": "946",
+    "hex": "03B2",
+    "entity": "&beta;",
+    "description": "SMALL LETTER BETA",
+    "note": ""
+  },
+  {
+    "character": "γ",
+    "decimal": "947",
+    "hex": "03B3",
+    "entity": "&gamma;",
+    "description": "SMALL LETTER GAMMA",
+    "note": ""
+  },
+  {
+    "character": "δ",
+    "decimal": "948",
+    "hex": "03B4",
+    "entity": "&delta;",
+    "description": "SMALL LETTER DELTA",
+    "note": ""
+  },
+  {
+    "character": "ε",
+    "decimal": "949",
+    "hex": "03B5",
+    "entity": "&epsilon;",
+    "description": "SMALL LETTER EPSILON",
+    "note": ""
+  },
+  {
+    "character": "ζ",
+    "decimal": "950",
+    "hex": "03B6",
+    "entity": "&zeta;",
+    "description": "SMALL LETTER ZETA",
+    "note": ""
+  },
+  {
+    "character": "η",
+    "decimal": "951",
+    "hex": "03B7",
+    "entity": "&eta;",
+    "description": "SMALL LETTER ETA",
+    "note": ""
+  },
+  {
+    "character": "θ",
+    "decimal": "952",
+    "hex": "03B8",
+    "entity": "&theta;",
+    "description": "SMALL LETTER THETA",
+    "note": ""
+  },
+  {
+    "character": "ι",
+    "decimal": "953",
+    "hex": "03B9",
+    "entity": "&iota;",
+    "description": "SMALL LETTER IOTA",
+    "note": ""
+  },
+  {
+    "character": "κ",
+    "decimal": "954",
+    "hex": "03BA",
+    "entity": "&kappa;",
+    "description": "SMALL LETTER KAPPA",
+    "note": ""
+  },
+  {
+    "character": "λ",
+    "decimal": "955",
+    "hex": "03BB",
+    "entity": "&lambda;",
+    "description": "SMALL LETTER LAMBDA",
+    "note": ""
+  },
+  {
+    "character": "μ",
+    "decimal": "956",
+    "hex": "03BC",
+    "entity": "&mu;",
+    "description": "SMALL LETTER MU",
+    "note": ""
+  },
+  {
+    "character": "ν",
+    "decimal": "957",
+    "hex": "03BD",
+    "entity": "&nu;",
+    "description": "SMALL LETTER NU",
+    "note": ""
+  },
+  {
+    "character": "ξ",
+    "decimal": "958",
+    "hex": "03BE",
+    "entity": "&xi;",
+    "description": "SMALL LETTER XI",
+    "note": ""
+  },
+  {
+    "character": "ο",
+    "decimal": "959",
+    "hex": "03BF",
+    "entity": "&omicron;",
+    "description": "SMALL LETTER OMICRON",
+    "note": ""
+  },
+  {
+    "character": "π",
+    "decimal": "960",
+    "hex": "03C0",
+    "entity": "&pi;",
+    "description": "SMALL LETTER PI",
+    "note": ""
+  },
+  {
+    "character": "ρ",
+    "decimal": "961",
+    "hex": "03C1",
+    "entity": "&rho;",
+    "description": "SMALL LETTER RHO",
+    "note": ""
+  },
+  {
+    "character": "ς",
+    "decimal": "962",
+    "hex": "03C2",
+    "entity": "&sigmaf;",
+    "description": "SMALL LETTER FINAL SIGMA",
+    "note": ""
+  },
+  {
+    "character": "σ",
+    "decimal": "963",
+    "hex": "03C3",
+    "entity": "&sigma;",
+    "description": "SMALL LETTER SIGMA",
+    "note": ""
+  },
+  {
+    "character": "τ",
+    "decimal": "964",
+    "hex": "03C4",
+    "entity": "&tau;",
+    "description": "SMALL LETTER TAU",
+    "note": ""
+  },
+  {
+    "character": "υ",
+    "decimal": "965",
+    "hex": "03C5",
+    "entity": "&upsilon;",
+    "description": "SMALL LETTER UPSILON",
+    "note": ""
+  },
+  {
+    "character": "φ",
+    "decimal": "966",
+    "hex": "03C6",
+    "entity": "&phi;",
+    "description": "SMALL LETTER PHI",
+    "note": ""
+  },
+  {
+    "character": "χ",
+    "decimal": "967",
+    "hex": "03C7",
+    "entity": "&chi;",
+    "description": "SMALL LETTER CHI",
+    "note": ""
+  },
+  {
+    "character": "ψ",
+    "decimal": "968",
+    "hex": "03C8",
+    "entity": "&psi;",
+    "description": "SMALL LETTER PSI",
+    "note": ""
+  },
+  {
+    "character": "ω",
+    "decimal": "969",
+    "hex": "03C9",
+    "entity": "&omega;",
+    "description": "SMALL LETTER OMEGA",
+    "note": ""
+  },
+  {
+    "character": "ϊ",
+    "decimal": "970",
+    "hex": "03CA",
+    "entity": "",
+    "description": "SMALL LETTER IOTA WITH DIALYTIKA",
+    "note": ""
+  },
+  {
+    "character": "ϋ",
+    "decimal": "971",
+    "hex": "03CB",
+    "entity": "",
+    "description": "SMALL LETTER UPSILON WITH DIALYTIKA",
+    "note": ""
+  },
+  {
+    "character": "ό",
+    "decimal": "972",
+    "hex": "03CC",
+    "entity": "",
+    "description": "SMALL LETTER OMICRON WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "ύ",
+    "decimal": "973",
+    "hex": "03CD",
+    "entity": "",
+    "description": "SMALL LETTER UPSILON WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "ώ",
+    "decimal": "974",
+    "hex": "03CE",
+    "entity": "",
+    "description": "SMALL LETTER OMEGA WITH TONOS",
+    "note": ""
+  },
+  {
+    "character": "Ϗ",
+    "decimal": "975",
+    "hex": "03CF",
+    "entity": "",
+    "description": "CAPITAL KAI SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϐ",
+    "decimal": "976",
+    "hex": "03D0",
+    "entity": "",
+    "description": "BETA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϑ",
+    "decimal": "977",
+    "hex": "03D1",
+    "entity": "&thetasym;",
+    "description": "THETA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϒ",
+    "decimal": "978",
+    "hex": "03D2",
+    "entity": "&upsih;",
+    "description": "UPSILON WITH HOOK SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϓ",
+    "decimal": "979",
+    "hex": "03D3",
+    "entity": "",
+    "description": "UPSILON WITH ACUTE AND HOOK SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϔ",
+    "decimal": "980",
+    "hex": "03D4",
+    "entity": "",
+    "description": "UPSILON WITH DIAERESIS AND HOOK SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϕ",
+    "decimal": "981",
+    "hex": "03D5",
+    "entity": "&straightphi;",
+    "description": "PHI SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϖ",
+    "decimal": "982",
+    "hex": "03D6",
+    "entity": "&piv;",
+    "description": "PI SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϗ",
+    "decimal": "983",
+    "hex": "03D7",
+    "entity": "",
+    "description": "KAI SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "Ϙ",
+    "decimal": "984",
+    "hex": "03D8",
+    "entity": "",
+    "description": "LETTER ARCHAIC KOPPA",
+    "note": ""
+  },
+  {
+    "character": "ϙ",
+    "decimal": "985",
+    "hex": "03D9",
+    "entity": "",
+    "description": "SMALL LETTER ARCHAIC KOPPA",
+    "note": ""
+  },
+  {
+    "character": "Ϛ",
+    "decimal": "986",
+    "hex": "03DA",
+    "entity": "",
+    "description": "LETTER STIGMA",
+    "note": ""
+  },
+  {
+    "character": "ϛ",
+    "decimal": "987",
+    "hex": "03DB",
+    "entity": "",
+    "description": "SMALL LETTER STIGMA",
+    "note": ""
+  },
+  {
+    "character": "Ϝ",
+    "decimal": "988",
+    "hex": "03DC",
+    "entity": "&Gammad;",
+    "description": "LETTER DIGAMMA",
+    "note": ""
+  },
+  {
+    "character": "ϝ",
+    "decimal": "989",
+    "hex": "03DD",
+    "entity": "&gammad;",
+    "description": "SMALL LETTER DIGAMMA",
+    "note": ""
+  },
+  {
+    "character": "Ϟ",
+    "decimal": "990",
+    "hex": "03DE",
+    "entity": "",
+    "description": "LETTER KOPPA",
+    "note": ""
+  },
+  {
+    "character": "ϟ",
+    "decimal": "991",
+    "hex": "03DF",
+    "entity": "",
+    "description": "SMALL LETTER KOPPA",
+    "note": ""
+  },
+  {
+    "character": "Ϡ",
+    "decimal": "992",
+    "hex": "3,00E+00",
+    "entity": "",
+    "description": "LETTER SAMPI",
+    "note": ""
+  },
+  {
+    "character": "ϡ",
+    "decimal": "993",
+    "hex": "3,00E+01",
+    "entity": "",
+    "description": "SMALL LETTER SAMPI",
+    "note": ""
+  },
+  {
+    "character": "Ϣ",
+    "decimal": "994",
+    "hex": "3,00E+02",
+    "entity": "",
+    "description": "COPTIC CAPITAL LETTER SHEI",
+    "note": ""
+  },
+  {
+    "character": "ϣ",
+    "decimal": "995",
+    "hex": "3,00E+03",
+    "entity": "",
+    "description": "COPTIC SMALL LETTER SHEI",
+    "note": ""
+  },
+  {
+    "character": "Ϥ",
+    "decimal": "996",
+    "hex": "3,00E+04",
+    "entity": "",
+    "description": "COPTIC CAPITAL LETTER FEI",
+    "note": ""
+  },
+  {
+    "character": "ϥ",
+    "decimal": "997",
+    "hex": "3,00E+05",
+    "entity": "",
+    "description": "COPTIC SMALL LETTER FEI",
+    "note": ""
+  },
+  {
+    "character": "Ϧ",
+    "decimal": "998",
+    "hex": "3,00E+06",
+    "entity": "",
+    "description": "COPTIC CAPITAL LETTER KHEI",
+    "note": ""
+  },
+  {
+    "character": "ϧ",
+    "decimal": "999",
+    "hex": "3,00E+07",
+    "entity": "",
+    "description": "COPTIC SMALL LETTER KHEI",
+    "note": ""
+  },
+  {
+    "character": "Ϩ",
+    "decimal": "1000",
+    "hex": "3,00E+08",
+    "entity": "",
+    "description": "COPTIC CAPITAL LETTER HORI",
+    "note": ""
+  },
+  {
+    "character": "ϩ",
+    "decimal": "1001",
+    "hex": "3,00E+09",
+    "entity": "",
+    "description": "COPTIC SMALL LETTER HORI",
+    "note": ""
+  },
+  {
+    "character": "Ϫ",
+    "decimal": "1002",
+    "hex": "03EA",
+    "entity": "",
+    "description": "COPTIC CAPITAL LETTER GANGIA",
+    "note": ""
+  },
+  {
+    "character": "ϫ",
+    "decimal": "1003",
+    "hex": "03EB",
+    "entity": "",
+    "description": "COPTIC SMALL LETTER GANGIA",
+    "note": ""
+  },
+  {
+    "character": "Ϭ",
+    "decimal": "1004",
+    "hex": "03EC",
+    "entity": "",
+    "description": "COPTIC CAPITAL LETTER SHIMA",
+    "note": ""
+  },
+  {
+    "character": "ϭ",
+    "decimal": "1005",
+    "hex": "03ED",
+    "entity": "",
+    "description": "COPTIC SMALL LETTER SHIMA",
+    "note": ""
+  },
+  {
+    "character": "Ϯ",
+    "decimal": "1006",
+    "hex": "03EE",
+    "entity": "",
+    "description": "COPTIC CAPITAL LETTER DEI",
+    "note": ""
+  },
+  {
+    "character": "ϯ",
+    "decimal": "1007",
+    "hex": "03EF",
+    "entity": "",
+    "description": "COPTIC SMALL LETTER DEI",
+    "note": ""
+  },
+  {
+    "character": "ϰ",
+    "decimal": "1008",
+    "hex": "03F0",
+    "entity": "&varkappa;",
+    "description": "KAPPA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϱ",
+    "decimal": "1009",
+    "hex": "03F1",
+    "entity": "&varrho;",
+    "description": "RHO SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϲ",
+    "decimal": "1010",
+    "hex": "03F2",
+    "entity": "",
+    "description": "LUNATE SIGMA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϳ",
+    "decimal": "1011",
+    "hex": "03F3",
+    "entity": "",
+    "description": "LETTER YOT",
+    "note": ""
+  },
+  {
+    "character": "ϴ",
+    "decimal": "1012",
+    "hex": "03F4",
+    "entity": "",
+    "description": "CAPITAL THETA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ϵ",
+    "decimal": "1013",
+    "hex": "03F5",
+    "entity": "&straightepsilon;",
+    "description": "LUNATE EPSILON SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "϶",
+    "decimal": "1014",
+    "hex": "03F6",
+    "entity": "&backepsilon;",
+    "description": "REVERSED LUNATE EPSILON SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "Ϸ",
+    "decimal": "1015",
+    "hex": "03F7",
+    "entity": "",
+    "description": "CAPITAL LETTER SHO",
+    "note": ""
+  },
+  {
+    "character": "ϸ",
+    "decimal": "1016",
+    "hex": "03F8",
+    "entity": "",
+    "description": "SMALL LETTER SHO",
+    "note": ""
+  },
+  {
+    "character": "Ϲ",
+    "decimal": "1017",
+    "hex": "03F9",
+    "entity": "",
+    "description": "CAPITAL LUNATE SIGMA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "Ϻ",
+    "decimal": "1018",
+    "hex": "03FA",
+    "entity": "",
+    "description": "CAPITAL LETTER SAN",
+    "note": ""
+  },
+  {
+    "character": "ϻ",
+    "decimal": "1019",
+    "hex": "03FB",
+    "entity": "",
+    "description": "SMALL LETTER SAN",
+    "note": ""
+  },
+  {
+    "character": "ϼ",
+    "decimal": "1020",
+    "hex": "03FC",
+    "entity": "",
+    "description": "RHO WITH STROKE SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "Ͻ",
+    "decimal": "1021",
+    "hex": "03FD",
+    "entity": "",
+    "description": "CAPITAL REVERSED LUNATE SIGMA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "Ͼ",
+    "decimal": "1022",
+    "hex": "03FE",
+    "entity": "",
+    "description": "CAPITAL DOTTED LUNATE SIGMA SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "Ͽ",
+    "decimal": "1023",
+    "hex": "03FF",
+    "entity": "",
+    "description": "CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL",
+    "note": ""
+  }
+]

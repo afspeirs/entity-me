@@ -1,0 +1,2050 @@
+[
+  {
+    "character": "🀀",
+    "decimal": "126976",
+    "hex": "1F000",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀁",
+    "decimal": "126977",
+    "hex": "1F001",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀂",
+    "decimal": "126978",
+    "hex": "1F002",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀃",
+    "decimal": "126979",
+    "hex": "1F003",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀄",
+    "decimal": "126980",
+    "hex": "1F004",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀅",
+    "decimal": "126981",
+    "hex": "1F005",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀆",
+    "decimal": "126982",
+    "hex": "1F006",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀇",
+    "decimal": "126983",
+    "hex": "1F007",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀈",
+    "decimal": "126984",
+    "hex": "1F008",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀉",
+    "decimal": "126985",
+    "hex": "1F009",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀊",
+    "decimal": "126986",
+    "hex": "1F00A",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀋",
+    "decimal": "126987",
+    "hex": "1F00B",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀌",
+    "decimal": "126988",
+    "hex": "1F00C",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀍",
+    "decimal": "126989",
+    "hex": "1F00D",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀎",
+    "decimal": "126990",
+    "hex": "1F00E",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀏",
+    "decimal": "126991",
+    "hex": "1F00F",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀐",
+    "decimal": "126992",
+    "hex": "1F010",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀑",
+    "decimal": "126993",
+    "hex": "1F011",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀒",
+    "decimal": "126994",
+    "hex": "1F012",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀓",
+    "decimal": "126995",
+    "hex": "1F013",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀔",
+    "decimal": "126996",
+    "hex": "1F014",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀕",
+    "decimal": "126997",
+    "hex": "1F015",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀖",
+    "decimal": "126998",
+    "hex": "1F016",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀗",
+    "decimal": "126999",
+    "hex": "1F017",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀘",
+    "decimal": "127000",
+    "hex": "1F018",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀙",
+    "decimal": "127001",
+    "hex": "1F019",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀚",
+    "decimal": "127002",
+    "hex": "1F01A",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀛",
+    "decimal": "127003",
+    "hex": "1F01B",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀜",
+    "decimal": "127004",
+    "hex": "1F01C",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀝",
+    "decimal": "127005",
+    "hex": "1F01D",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀞",
+    "decimal": "127006",
+    "hex": "1F01E",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀟",
+    "decimal": "127007",
+    "hex": "1F01F",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀠",
+    "decimal": "127008",
+    "hex": "1F020",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀡",
+    "decimal": "127009",
+    "hex": "1F021",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀢",
+    "decimal": "127010",
+    "hex": "1F022",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀣",
+    "decimal": "127011",
+    "hex": "1F023",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀤",
+    "decimal": "127012",
+    "hex": "1F024",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀥",
+    "decimal": "127013",
+    "hex": "1F025",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀦",
+    "decimal": "127014",
+    "hex": "1F026",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀧",
+    "decimal": "127015",
+    "hex": "1F027",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀨",
+    "decimal": "127016",
+    "hex": "1F028",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀩",
+    "decimal": "127017",
+    "hex": "1F029",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀪",
+    "decimal": "127018",
+    "hex": "1F02A",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀫",
+    "decimal": "127019",
+    "hex": "1F02B",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀬",
+    "decimal": "127020",
+    "hex": "1F02C",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀭",
+    "decimal": "127021",
+    "hex": "1F02D",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀮",
+    "decimal": "127022",
+    "hex": "1F02E",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀯",
+    "decimal": "127023",
+    "hex": "1F02F",
+    "entity": "",
+    "description": "",
+    "note": "Mahjong Tiles"
+  },
+  {
+    "character": "🀰",
+    "decimal": "127024",
+    "hex": "1F030",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀱",
+    "decimal": "127025",
+    "hex": "1F031",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀲",
+    "decimal": "127026",
+    "hex": "1F032",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀳",
+    "decimal": "127027",
+    "hex": "1F033",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀴",
+    "decimal": "127028",
+    "hex": "1F034",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀵",
+    "decimal": "127029",
+    "hex": "1F035",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀶",
+    "decimal": "127030",
+    "hex": "1F036",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀷",
+    "decimal": "127031",
+    "hex": "1F037",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀸",
+    "decimal": "127032",
+    "hex": "1F038",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀹",
+    "decimal": "127033",
+    "hex": "1F039",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀺",
+    "decimal": "127034",
+    "hex": "1F03A",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀻",
+    "decimal": "127035",
+    "hex": "1F03B",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀼",
+    "decimal": "127036",
+    "hex": "1F03C",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀽",
+    "decimal": "127037",
+    "hex": "1F03D",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀾",
+    "decimal": "127038",
+    "hex": "1F03E",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🀿",
+    "decimal": "127039",
+    "hex": "1F03F",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁀",
+    "decimal": "127040",
+    "hex": "1F040",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁁",
+    "decimal": "127041",
+    "hex": "1F041",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁂",
+    "decimal": "127042",
+    "hex": "1F042",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁃",
+    "decimal": "127043",
+    "hex": "1F043",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁄",
+    "decimal": "127044",
+    "hex": "1F044",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁅",
+    "decimal": "127045",
+    "hex": "1F045",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁆",
+    "decimal": "127046",
+    "hex": "1F046",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁇",
+    "decimal": "127047",
+    "hex": "1F047",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁈",
+    "decimal": "127048",
+    "hex": "1F048",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁉",
+    "decimal": "127049",
+    "hex": "1F049",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁊",
+    "decimal": "127050",
+    "hex": "1F04A",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁋",
+    "decimal": "127051",
+    "hex": "1F04B",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁌",
+    "decimal": "127052",
+    "hex": "1F04C",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁍",
+    "decimal": "127053",
+    "hex": "1F04D",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁎",
+    "decimal": "127054",
+    "hex": "1F04E",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁏",
+    "decimal": "127055",
+    "hex": "1F04F",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁐",
+    "decimal": "127056",
+    "hex": "1F050",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁑",
+    "decimal": "127057",
+    "hex": "1F051",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁒",
+    "decimal": "127058",
+    "hex": "1F052",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁓",
+    "decimal": "127059",
+    "hex": "1F053",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁔",
+    "decimal": "127060",
+    "hex": "1F054",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁕",
+    "decimal": "127061",
+    "hex": "1F055",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁖",
+    "decimal": "127062",
+    "hex": "1F056",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁗",
+    "decimal": "127063",
+    "hex": "1F057",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁘",
+    "decimal": "127064",
+    "hex": "1F058",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁙",
+    "decimal": "127065",
+    "hex": "1F059",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁚",
+    "decimal": "127066",
+    "hex": "1F05A",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁛",
+    "decimal": "127067",
+    "hex": "1F05B",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁜",
+    "decimal": "127068",
+    "hex": "1F05C",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁝",
+    "decimal": "127069",
+    "hex": "1F05D",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁞",
+    "decimal": "127070",
+    "hex": "1F05E",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁟",
+    "decimal": "127071",
+    "hex": "1F05F",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁠",
+    "decimal": "127072",
+    "hex": "1F060",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁡",
+    "decimal": "127073",
+    "hex": "1F061",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁢",
+    "decimal": "127074",
+    "hex": "1F062",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁣",
+    "decimal": "127075",
+    "hex": "1F063",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁤",
+    "decimal": "127076",
+    "hex": "1F064",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁥",
+    "decimal": "127077",
+    "hex": "1F065",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁦",
+    "decimal": "127078",
+    "hex": "1F066",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁧",
+    "decimal": "127079",
+    "hex": "1F067",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁨",
+    "decimal": "127080",
+    "hex": "1F068",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁩",
+    "decimal": "127081",
+    "hex": "1F069",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁪",
+    "decimal": "127082",
+    "hex": "1F06A",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁫",
+    "decimal": "127083",
+    "hex": "1F06B",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁬",
+    "decimal": "127084",
+    "hex": "1F06C",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁭",
+    "decimal": "127085",
+    "hex": "1F06D",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁮",
+    "decimal": "127086",
+    "hex": "1F06E",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁯",
+    "decimal": "127087",
+    "hex": "1F06F",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁰",
+    "decimal": "127088",
+    "hex": "1F070",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁱",
+    "decimal": "127089",
+    "hex": "1F071",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁲",
+    "decimal": "127090",
+    "hex": "1F072",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁳",
+    "decimal": "127091",
+    "hex": "1F073",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁴",
+    "decimal": "127092",
+    "hex": "1F074",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁵",
+    "decimal": "127093",
+    "hex": "1F075",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁶",
+    "decimal": "127094",
+    "hex": "1F076",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁷",
+    "decimal": "127095",
+    "hex": "1F077",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁸",
+    "decimal": "127096",
+    "hex": "1F078",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁹",
+    "decimal": "127097",
+    "hex": "1F079",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁺",
+    "decimal": "127098",
+    "hex": "1F07A",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁻",
+    "decimal": "127099",
+    "hex": "1F07B",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁼",
+    "decimal": "127100",
+    "hex": "1F07C",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁽",
+    "decimal": "127101",
+    "hex": "1F07D",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁾",
+    "decimal": "127102",
+    "hex": "1F07E",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🁿",
+    "decimal": "127103",
+    "hex": "1F07F",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂀",
+    "decimal": "127104",
+    "hex": "1F080",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂁",
+    "decimal": "127105",
+    "hex": "1F081",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂂",
+    "decimal": "127106",
+    "hex": "1F082",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂃",
+    "decimal": "127107",
+    "hex": "1F083",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂄",
+    "decimal": "127108",
+    "hex": "1F084",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂅",
+    "decimal": "127109",
+    "hex": "1F085",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂆",
+    "decimal": "127110",
+    "hex": "1F086",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂇",
+    "decimal": "127111",
+    "hex": "1F087",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂈",
+    "decimal": "127112",
+    "hex": "1F088",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂉",
+    "decimal": "127113",
+    "hex": "1F089",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂊",
+    "decimal": "127114",
+    "hex": "1F08A",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂋",
+    "decimal": "127115",
+    "hex": "1F08B",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂌",
+    "decimal": "127116",
+    "hex": "1F08C",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂍",
+    "decimal": "127117",
+    "hex": "1F08D",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂎",
+    "decimal": "127118",
+    "hex": "1F08E",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂏",
+    "decimal": "127119",
+    "hex": "1F08F",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂐",
+    "decimal": "127120",
+    "hex": "1F090",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂑",
+    "decimal": "127121",
+    "hex": "1F091",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂒",
+    "decimal": "127122",
+    "hex": "1F092",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂓",
+    "decimal": "127123",
+    "hex": "1F093",
+    "entity": "",
+    "description": "",
+    "note": "Domino Tiles"
+  },
+  {
+    "character": "🂔",
+    "decimal": "127124",
+    "hex": "1F094",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂕",
+    "decimal": "127125",
+    "hex": "1F095",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂖",
+    "decimal": "127126",
+    "hex": "1F096",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂗",
+    "decimal": "127127",
+    "hex": "1F097",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂘",
+    "decimal": "127128",
+    "hex": "1F098",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂙",
+    "decimal": "127129",
+    "hex": "1F099",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂚",
+    "decimal": "127130",
+    "hex": "1F09A",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂛",
+    "decimal": "127131",
+    "hex": "1F09B",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂜",
+    "decimal": "127132",
+    "hex": "1F09C",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂝",
+    "decimal": "127133",
+    "hex": "1F09D",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂞",
+    "decimal": "127134",
+    "hex": "1F09E",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂟",
+    "decimal": "127135",
+    "hex": "1F09F",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🂠",
+    "decimal": "127136",
+    "hex": "1F0A0",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂡",
+    "decimal": "127137",
+    "hex": "1F0A1",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂢",
+    "decimal": "127138",
+    "hex": "1F0A2",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂣",
+    "decimal": "127139",
+    "hex": "1F0A3",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂤",
+    "decimal": "127140",
+    "hex": "1F0A4",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂥",
+    "decimal": "127141",
+    "hex": "1F0A5",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂦",
+    "decimal": "127142",
+    "hex": "1F0A6",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂧",
+    "decimal": "127143",
+    "hex": "1F0A7",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂨",
+    "decimal": "127144",
+    "hex": "1F0A8",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂩",
+    "decimal": "127145",
+    "hex": "1F0A9",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂪",
+    "decimal": "127146",
+    "hex": "1F0AA",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂫",
+    "decimal": "127147",
+    "hex": "1F0AB",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂬",
+    "decimal": "127148",
+    "hex": "1F0AC",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂭",
+    "decimal": "127149",
+    "hex": "1F0AD",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂮",
+    "decimal": "127150",
+    "hex": "1F0AE",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂯",
+    "decimal": "127151",
+    "hex": "1F0AF",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂰",
+    "decimal": "127152",
+    "hex": "1F0B0",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂱",
+    "decimal": "127153",
+    "hex": "1F0B1",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂲",
+    "decimal": "127154",
+    "hex": "1F0B2",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂳",
+    "decimal": "127155",
+    "hex": "1F0B3",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂴",
+    "decimal": "127156",
+    "hex": "1F0B4",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂵",
+    "decimal": "127157",
+    "hex": "1F0B5",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂶",
+    "decimal": "127158",
+    "hex": "1F0B6",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂷",
+    "decimal": "127159",
+    "hex": "1F0B7",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂸",
+    "decimal": "127160",
+    "hex": "1F0B8",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂹",
+    "decimal": "127161",
+    "hex": "1F0B9",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂺",
+    "decimal": "127162",
+    "hex": "1F0BA",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂻",
+    "decimal": "127163",
+    "hex": "1F0BB",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂼",
+    "decimal": "127164",
+    "hex": "1F0BC",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂽",
+    "decimal": "127165",
+    "hex": "1F0BD",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂾",
+    "decimal": "127166",
+    "hex": "1F0BE",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🂿",
+    "decimal": "127167",
+    "hex": "1F0BF",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃀",
+    "decimal": "127168",
+    "hex": "1F0C0",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃁",
+    "decimal": "127169",
+    "hex": "1F0C1",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃂",
+    "decimal": "127170",
+    "hex": "1F0C2",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃃",
+    "decimal": "127171",
+    "hex": "1F0C3",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃄",
+    "decimal": "127172",
+    "hex": "1F0C4",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃅",
+    "decimal": "127173",
+    "hex": "1F0C5",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃆",
+    "decimal": "127174",
+    "hex": "1F0C6",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃇",
+    "decimal": "127175",
+    "hex": "1F0C7",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃈",
+    "decimal": "127176",
+    "hex": "1F0C8",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃉",
+    "decimal": "127177",
+    "hex": "1F0C9",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃊",
+    "decimal": "127178",
+    "hex": "1F0CA",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃋",
+    "decimal": "127179",
+    "hex": "1F0CB",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃌",
+    "decimal": "127180",
+    "hex": "1F0CC",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃍",
+    "decimal": "127181",
+    "hex": "1F0CD",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃎",
+    "decimal": "127182",
+    "hex": "1F0CE",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃏",
+    "decimal": "127183",
+    "hex": "1F0CF",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃐",
+    "decimal": "127184",
+    "hex": "1F0D0",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃑",
+    "decimal": "127185",
+    "hex": "1F0D1",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃒",
+    "decimal": "127186",
+    "hex": "1F0D2",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃓",
+    "decimal": "127187",
+    "hex": "1F0D3",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃔",
+    "decimal": "127188",
+    "hex": "1F0D4",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃕",
+    "decimal": "127189",
+    "hex": "1F0D5",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃖",
+    "decimal": "127190",
+    "hex": "1F0D6",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃗",
+    "decimal": "127191",
+    "hex": "1F0D7",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃘",
+    "decimal": "127192",
+    "hex": "1F0D8",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃙",
+    "decimal": "127193",
+    "hex": "1F0D9",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃚",
+    "decimal": "127194",
+    "hex": "1F0DA",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃛",
+    "decimal": "127195",
+    "hex": "1F0DB",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃜",
+    "decimal": "127196",
+    "hex": "1F0DC",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃝",
+    "decimal": "127197",
+    "hex": "1F0DD",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃞",
+    "decimal": "127198",
+    "hex": "1F0DE",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃟",
+    "decimal": "127199",
+    "hex": "1F0DF",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃠",
+    "decimal": "127200",
+    "hex": "1F0E0",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃡",
+    "decimal": "127201",
+    "hex": "1F0E1",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃢",
+    "decimal": "127202",
+    "hex": "1F0E2",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃣",
+    "decimal": "127203",
+    "hex": "1F0E3",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃤",
+    "decimal": "127204",
+    "hex": "1F0E4",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃥",
+    "decimal": "127205",
+    "hex": "1F0E5",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃦",
+    "decimal": "127206",
+    "hex": "1F0E6",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃧",
+    "decimal": "127207",
+    "hex": "1F0E7",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃨",
+    "decimal": "127208",
+    "hex": "1F0E8",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃩",
+    "decimal": "127209",
+    "hex": "1F0E9",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃪",
+    "decimal": "127210",
+    "hex": "1F0EA",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃫",
+    "decimal": "127211",
+    "hex": "1F0EB",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃬",
+    "decimal": "127212",
+    "hex": "1F0EC",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃭",
+    "decimal": "127213",
+    "hex": "1F0ED",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃮",
+    "decimal": "127214",
+    "hex": "1F0EE",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃯",
+    "decimal": "127215",
+    "hex": "1F0EF",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃰",
+    "decimal": "127216",
+    "hex": "1F0F0",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃱",
+    "decimal": "127217",
+    "hex": "1F0F1",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃲",
+    "decimal": "127218",
+    "hex": "1F0F2",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃳",
+    "decimal": "127219",
+    "hex": "1F0F3",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃴",
+    "decimal": "127220",
+    "hex": "1F0F4",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃵",
+    "decimal": "127221",
+    "hex": "1F0F5",
+    "entity": "",
+    "description": "",
+    "note": "Playing Cards"
+  },
+  {
+    "character": "🃶",
+    "decimal": "127222",
+    "hex": "1F0F6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃷",
+    "decimal": "127223",
+    "hex": "1F0F7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃸",
+    "decimal": "127224",
+    "hex": "1F0F8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃹",
+    "decimal": "127225",
+    "hex": "1F0F9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃺",
+    "decimal": "127226",
+    "hex": "1F0FA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃻",
+    "decimal": "127227",
+    "hex": "1F0FB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃼",
+    "decimal": "127228",
+    "hex": "1F0FC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃽",
+    "decimal": "127229",
+    "hex": "1F0FD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃾",
+    "decimal": "127230",
+    "hex": "1F0FE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🃿",
+    "decimal": "127231",
+    "hex": "1F0FF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  }
+]

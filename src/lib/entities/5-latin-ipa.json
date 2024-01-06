@@ -1,0 +1,754 @@
+[
+  {
+    "character": "ɐ",
+    "decimal": "592",
+    "hex": "250",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED A",
+    "note": ""
+  },
+  {
+    "character": "ɑ",
+    "decimal": "593",
+    "hex": "251",
+    "entity": "",
+    "description": "LATIN SMALL LETTER ALPHA",
+    "note": ""
+  },
+  {
+    "character": "ɒ",
+    "decimal": "594",
+    "hex": "252",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED ALPHA",
+    "note": ""
+  },
+  {
+    "character": "ɓ",
+    "decimal": "595",
+    "hex": "253",
+    "entity": "",
+    "description": "LATIN SMALL LETTER B WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɔ",
+    "decimal": "596",
+    "hex": "254",
+    "entity": "",
+    "description": "LATIN SMALL LETTER OPEN O",
+    "note": ""
+  },
+  {
+    "character": "ɕ",
+    "decimal": "597",
+    "hex": "255",
+    "entity": "",
+    "description": "LATIN SMALL LETTER C WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ɖ",
+    "decimal": "598",
+    "hex": "256",
+    "entity": "",
+    "description": "LATIN SMALL LETTER D WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ɗ",
+    "decimal": "599",
+    "hex": "257",
+    "entity": "",
+    "description": "LATIN SMALL LETTER D WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɘ",
+    "decimal": "600",
+    "hex": "258",
+    "entity": "",
+    "description": "LATIN SMALL LETTER REVERSED E",
+    "note": ""
+  },
+  {
+    "character": "ə",
+    "decimal": "601",
+    "hex": "259",
+    "entity": "",
+    "description": "LATIN SMALL LETTER SCHWA",
+    "note": ""
+  },
+  {
+    "character": "ɚ",
+    "decimal": "602",
+    "hex": "025A",
+    "entity": "",
+    "description": "LATIN SMALL LETTER SCHWA WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɛ",
+    "decimal": "603",
+    "hex": "025B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER OPEN E",
+    "note": ""
+  },
+  {
+    "character": "ɜ",
+    "decimal": "604",
+    "hex": "025C",
+    "entity": "",
+    "description": "LATIN SMALL LETTER REVERSED OPEN E",
+    "note": ""
+  },
+  {
+    "character": "ɝ",
+    "decimal": "605",
+    "hex": "025D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER REVERSED OPEN E WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɞ",
+    "decimal": "606",
+    "hex": "025E",
+    "entity": "",
+    "description": "LATIN SMALL LETTER CLOSED REVERSED OPEN E",
+    "note": ""
+  },
+  {
+    "character": "ɟ",
+    "decimal": "607",
+    "hex": "025F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER DOTLESS J WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ɠ",
+    "decimal": "608",
+    "hex": "260",
+    "entity": "",
+    "description": "LATIN SMALL LETTER G WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɡ",
+    "decimal": "609",
+    "hex": "261",
+    "entity": "",
+    "description": "LATIN SMALL LETTER SCRIPT G",
+    "note": ""
+  },
+  {
+    "character": "ɢ",
+    "decimal": "610",
+    "hex": "262",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL G",
+    "note": ""
+  },
+  {
+    "character": "ɣ",
+    "decimal": "611",
+    "hex": "263",
+    "entity": "",
+    "description": "LATIN SMALL LETTER GAMMA",
+    "note": ""
+  },
+  {
+    "character": "ɤ",
+    "decimal": "612",
+    "hex": "264",
+    "entity": "",
+    "description": "LATIN SMALL LETTER RAMS HORN",
+    "note": ""
+  },
+  {
+    "character": "ɥ",
+    "decimal": "613",
+    "hex": "265",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED H",
+    "note": ""
+  },
+  {
+    "character": "ɦ",
+    "decimal": "614",
+    "hex": "266",
+    "entity": "",
+    "description": "LATIN SMALL LETTER H WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɧ",
+    "decimal": "615",
+    "hex": "267",
+    "entity": "",
+    "description": "LATIN SMALL LETTER HENG WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɨ",
+    "decimal": "616",
+    "hex": "268",
+    "entity": "",
+    "description": "LATIN SMALL LETTER I WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ɩ",
+    "decimal": "617",
+    "hex": "269",
+    "entity": "",
+    "description": "LATIN SMALL LETTER IOTA",
+    "note": ""
+  },
+  {
+    "character": "ɪ",
+    "decimal": "618",
+    "hex": "026A",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL I",
+    "note": ""
+  },
+  {
+    "character": "ɫ",
+    "decimal": "619",
+    "hex": "026B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER L WITH MIDDLE TILDE",
+    "note": ""
+  },
+  {
+    "character": "ɬ",
+    "decimal": "620",
+    "hex": "026C",
+    "entity": "",
+    "description": "LATIN SMALL LETTER L WITH BELT",
+    "note": ""
+  },
+  {
+    "character": "ɭ",
+    "decimal": "621",
+    "hex": "026D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER L WITH RETROFLEX HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɮ",
+    "decimal": "622",
+    "hex": "026E",
+    "entity": "",
+    "description": "LATIN SMALL LETTER LEZH",
+    "note": ""
+  },
+  {
+    "character": "ɯ",
+    "decimal": "623",
+    "hex": "026F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED M",
+    "note": ""
+  },
+  {
+    "character": "ɰ",
+    "decimal": "624",
+    "hex": "270",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED M WITH LONG LEG",
+    "note": ""
+  },
+  {
+    "character": "ɱ",
+    "decimal": "625",
+    "hex": "271",
+    "entity": "",
+    "description": "LATIN SMALL LETTER M WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɲ",
+    "decimal": "626",
+    "hex": "272",
+    "entity": "",
+    "description": "LATIN SMALL LETTER N WITH LEFT HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɳ",
+    "decimal": "627",
+    "hex": "273",
+    "entity": "",
+    "description": "LATIN SMALL LETTER N WITH RETROFLEX HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɴ",
+    "decimal": "628",
+    "hex": "274",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL N",
+    "note": ""
+  },
+  {
+    "character": "ɵ",
+    "decimal": "629",
+    "hex": "275",
+    "entity": "",
+    "description": "LATIN SMALL LETTER BARRED O",
+    "note": ""
+  },
+  {
+    "character": "ɶ",
+    "decimal": "630",
+    "hex": "276",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL OE",
+    "note": ""
+  },
+  {
+    "character": "ɷ",
+    "decimal": "631",
+    "hex": "277",
+    "entity": "",
+    "description": "LATIN SMALL LETTER CLOSED OMEGA",
+    "note": ""
+  },
+  {
+    "character": "ɸ",
+    "decimal": "632",
+    "hex": "278",
+    "entity": "",
+    "description": "LATIN SMALL LETTER PHI",
+    "note": ""
+  },
+  {
+    "character": "ɹ",
+    "decimal": "633",
+    "hex": "279",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED R",
+    "note": ""
+  },
+  {
+    "character": "ɺ",
+    "decimal": "634",
+    "hex": "027A",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED R WITH LONG LEG",
+    "note": ""
+  },
+  {
+    "character": "ɻ",
+    "decimal": "635",
+    "hex": "027B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED R WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ɼ",
+    "decimal": "636",
+    "hex": "027C",
+    "entity": "",
+    "description": "LATIN SMALL LETTER R WITH LONG LEG",
+    "note": ""
+  },
+  {
+    "character": "ɽ",
+    "decimal": "637",
+    "hex": "027D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER R WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ɾ",
+    "decimal": "638",
+    "hex": "027E",
+    "entity": "",
+    "description": "LATIN SMALL LETTER R WITH FISHHOOK",
+    "note": ""
+  },
+  {
+    "character": "ɿ",
+    "decimal": "639",
+    "hex": "027F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER REVERSED R WITH FISHHOOK",
+    "note": ""
+  },
+  {
+    "character": "ʀ",
+    "decimal": "640",
+    "hex": "280",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL R",
+    "note": ""
+  },
+  {
+    "character": "ʁ",
+    "decimal": "641",
+    "hex": "281",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL INVERTED R",
+    "note": ""
+  },
+  {
+    "character": "ʂ",
+    "decimal": "642",
+    "hex": "282",
+    "entity": "",
+    "description": "LATIN SMALL LETTER S WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʃ",
+    "decimal": "643",
+    "hex": "283",
+    "entity": "",
+    "description": "LATIN SMALL LETTER ESH",
+    "note": ""
+  },
+  {
+    "character": "ʄ",
+    "decimal": "644",
+    "hex": "284",
+    "entity": "",
+    "description": "LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʅ",
+    "decimal": "645",
+    "hex": "285",
+    "entity": "",
+    "description": "LATIN SMALL LETTER SQUAT REVERSED ESH",
+    "note": ""
+  },
+  {
+    "character": "ʆ",
+    "decimal": "646",
+    "hex": "286",
+    "entity": "",
+    "description": "LATIN SMALL LETTER ESH WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ʇ",
+    "decimal": "647",
+    "hex": "287",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED T",
+    "note": ""
+  },
+  {
+    "character": "ʈ",
+    "decimal": "648",
+    "hex": "288",
+    "entity": "",
+    "description": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʉ",
+    "decimal": "649",
+    "hex": "289",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U BAR",
+    "note": ""
+  },
+  {
+    "character": "ʊ",
+    "decimal": "650",
+    "hex": "028A",
+    "entity": "",
+    "description": "LATIN SMALL LETTER UPSILON",
+    "note": ""
+  },
+  {
+    "character": "ʋ",
+    "decimal": "651",
+    "hex": "028B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER V WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʌ",
+    "decimal": "652",
+    "hex": "028C",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED V",
+    "note": ""
+  },
+  {
+    "character": "ʍ",
+    "decimal": "653",
+    "hex": "028D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED W",
+    "note": ""
+  },
+  {
+    "character": "ʎ",
+    "decimal": "654",
+    "hex": "028E",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED Y",
+    "note": ""
+  },
+  {
+    "character": "ʏ",
+    "decimal": "655",
+    "hex": "028F",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL Y",
+    "note": ""
+  },
+  {
+    "character": "ʐ",
+    "decimal": "656",
+    "hex": "290",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʑ",
+    "decimal": "657",
+    "hex": "291",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Z WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ʒ",
+    "decimal": "658",
+    "hex": "292",
+    "entity": "",
+    "description": "LATIN SMALL LETTER EZH",
+    "note": ""
+  },
+  {
+    "character": "ʓ",
+    "decimal": "659",
+    "hex": "293",
+    "entity": "",
+    "description": "LATIN SMALL LETTER EZH WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ʔ",
+    "decimal": "660",
+    "hex": "294",
+    "entity": "",
+    "description": "LATIN LETTER GLOTTAL STOP",
+    "note": ""
+  },
+  {
+    "character": "ʕ",
+    "decimal": "661",
+    "hex": "295",
+    "entity": "",
+    "description": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE",
+    "note": ""
+  },
+  {
+    "character": "ʖ",
+    "decimal": "662",
+    "hex": "296",
+    "entity": "",
+    "description": "LATIN LETTER INVERTED GLOTTAL STOP",
+    "note": ""
+  },
+  {
+    "character": "ʗ",
+    "decimal": "663",
+    "hex": "297",
+    "entity": "",
+    "description": "LATIN LETTER STRETCHED C",
+    "note": ""
+  },
+  {
+    "character": "ʘ",
+    "decimal": "664",
+    "hex": "298",
+    "entity": "",
+    "description": "LATIN LETTER BILABIAL CLICK",
+    "note": ""
+  },
+  {
+    "character": "ʙ",
+    "decimal": "665",
+    "hex": "299",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL B",
+    "note": ""
+  },
+  {
+    "character": "ʚ",
+    "decimal": "666",
+    "hex": "029A",
+    "entity": "",
+    "description": "LATIN SMALL LETTER CLOSED OPEN E",
+    "note": ""
+  },
+  {
+    "character": "ʛ",
+    "decimal": "667",
+    "hex": "029B",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL G WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʜ",
+    "decimal": "668",
+    "hex": "029C",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL H",
+    "note": ""
+  },
+  {
+    "character": "ʝ",
+    "decimal": "669",
+    "hex": "029D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER J WITH CROSSED-TAIL",
+    "note": ""
+  },
+  {
+    "character": "ʞ",
+    "decimal": "670",
+    "hex": "029E",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED K",
+    "note": ""
+  },
+  {
+    "character": "ʟ",
+    "decimal": "671",
+    "hex": "029F",
+    "entity": "",
+    "description": "LATIN LETTER SMALL CAPITAL L",
+    "note": ""
+  },
+  {
+    "character": "ʠ",
+    "decimal": "672",
+    "hex": "02A0",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Q WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʡ",
+    "decimal": "673",
+    "hex": "02A1",
+    "entity": "",
+    "description": "LATIN LETTER GLOTTAL STOP WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ʢ",
+    "decimal": "674",
+    "hex": "02A2",
+    "entity": "",
+    "description": "LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ʣ",
+    "decimal": "675",
+    "hex": "02A3",
+    "entity": "",
+    "description": "LATIN SMALL LETTER DZ DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "ʤ",
+    "decimal": "676",
+    "hex": "02A4",
+    "entity": "",
+    "description": "LATIN SMALL LETTER DEZH DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "ʥ",
+    "decimal": "677",
+    "hex": "02A5",
+    "entity": "",
+    "description": "LATIN SMALL LETTER DZ DIGRAPH WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ʦ",
+    "decimal": "678",
+    "hex": "02A6",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TS DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "ʧ",
+    "decimal": "679",
+    "hex": "02A7",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TESH DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "ʨ",
+    "decimal": "680",
+    "hex": "02A8",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TC DIGRAPH WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ʩ",
+    "decimal": "681",
+    "hex": "02A9",
+    "entity": "",
+    "description": "LATIN SMALL LETTER FENG DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "ʪ",
+    "decimal": "682",
+    "hex": "02AA",
+    "entity": "",
+    "description": "LATIN SMALL LETTER LS DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "ʫ",
+    "decimal": "683",
+    "hex": "02AB",
+    "entity": "",
+    "description": "LATIN SMALL LETTER LZ DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "ʬ",
+    "decimal": "684",
+    "hex": "02AC",
+    "entity": "",
+    "description": "LATIN LETTER BILABIAL PERCUSSIVE",
+    "note": ""
+  },
+  {
+    "character": "ʭ",
+    "decimal": "685",
+    "hex": "02AD",
+    "entity": "",
+    "description": "LATIN LETTER BIDENTAL PERCUSSIVE",
+    "note": ""
+  }
+]

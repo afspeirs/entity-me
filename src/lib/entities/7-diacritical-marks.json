@@ -1,0 +1,898 @@
+[
+  {
+    "character": "ò",
+    "decimal": "768",
+    "hex": "300",
+    "entity": "",
+    "description": "GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ó",
+    "decimal": "769",
+    "hex": "301",
+    "entity": "",
+    "description": "ACUTE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ô",
+    "decimal": "770",
+    "hex": "302",
+    "entity": "",
+    "description": "CIRCUMFLEX ACCENT",
+    "note": ""
+  },
+  {
+    "character": "õ",
+    "decimal": "771",
+    "hex": "303",
+    "entity": "",
+    "description": "TILDE",
+    "note": ""
+  },
+  {
+    "character": "ō",
+    "decimal": "772",
+    "hex": "304",
+    "entity": "",
+    "description": "MACRON",
+    "note": ""
+  },
+  {
+    "character": "o̅",
+    "decimal": "773",
+    "hex": "305",
+    "entity": "",
+    "description": "OVERLINE",
+    "note": ""
+  },
+  {
+    "character": "ŏ",
+    "decimal": "774",
+    "hex": "306",
+    "entity": "",
+    "description": "BREVE",
+    "note": ""
+  },
+  {
+    "character": "ȯ",
+    "decimal": "775",
+    "hex": "307",
+    "entity": "",
+    "description": "DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ö",
+    "decimal": "776",
+    "hex": "308",
+    "entity": "",
+    "description": "DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ỏ",
+    "decimal": "777",
+    "hex": "309",
+    "entity": "",
+    "description": "HOOK ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o̊",
+    "decimal": "778",
+    "hex": "030A",
+    "entity": "",
+    "description": "RING ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ő",
+    "decimal": "779",
+    "hex": "030B",
+    "entity": "",
+    "description": "DOUBLE ACUTE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ǒ",
+    "decimal": "780",
+    "hex": "030C",
+    "entity": "",
+    "description": "CARON",
+    "note": ""
+  },
+  {
+    "character": "o̍",
+    "decimal": "781",
+    "hex": "030D",
+    "entity": "",
+    "description": "VERTICAL LINE ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o̎",
+    "decimal": "782",
+    "hex": "030E",
+    "entity": "",
+    "description": "DOUBLE VERTICAL LINE ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ȍ",
+    "decimal": "783",
+    "hex": "030F",
+    "entity": "",
+    "description": "DOUBLE GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "o̐",
+    "decimal": "784",
+    "hex": "310",
+    "entity": "",
+    "description": "CANDRABINDU",
+    "note": ""
+  },
+  {
+    "character": "ȏ",
+    "decimal": "785",
+    "hex": "311",
+    "entity": "",
+    "description": "INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "o̒",
+    "decimal": "786",
+    "hex": "312",
+    "entity": "",
+    "description": "TURNED COMMA ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o̓",
+    "decimal": "787",
+    "hex": "313",
+    "entity": "",
+    "description": "COMMA ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o̔",
+    "decimal": "788",
+    "hex": "314",
+    "entity": "",
+    "description": "REVERSED COMMA ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o̕",
+    "decimal": "789",
+    "hex": "315",
+    "entity": "",
+    "description": "COMMA ABOVE RIGHT",
+    "note": ""
+  },
+  {
+    "character": "o̖",
+    "decimal": "790",
+    "hex": "316",
+    "entity": "",
+    "description": "GRAVE ACCENT BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̗",
+    "decimal": "791",
+    "hex": "317",
+    "entity": "",
+    "description": "ACUTE ACCENT BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̘",
+    "decimal": "792",
+    "hex": "318",
+    "entity": "",
+    "description": "LEFT TACK BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̙",
+    "decimal": "793",
+    "hex": "319",
+    "entity": "",
+    "description": "RIGHT TACK BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̚",
+    "decimal": "794",
+    "hex": "031A",
+    "entity": "",
+    "description": "LEFT ANGLE ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ơ",
+    "decimal": "795",
+    "hex": "031B",
+    "entity": "",
+    "description": "HORN",
+    "note": ""
+  },
+  {
+    "character": "o̜",
+    "decimal": "796",
+    "hex": "031C",
+    "entity": "",
+    "description": "LEFT HALF RING BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̝",
+    "decimal": "797",
+    "hex": "031D",
+    "entity": "",
+    "description": "UP TACK BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̞",
+    "decimal": "798",
+    "hex": "031E",
+    "entity": "",
+    "description": "DOWN TACK BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̟",
+    "decimal": "799",
+    "hex": "031F",
+    "entity": "",
+    "description": "PLUS SIGN BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̠",
+    "decimal": "800",
+    "hex": "320",
+    "entity": "",
+    "description": "MINUS SIGN BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̡",
+    "decimal": "801",
+    "hex": "321",
+    "entity": "",
+    "description": "PALATALIZED HOOK BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̢",
+    "decimal": "802",
+    "hex": "322",
+    "entity": "",
+    "description": "RETROFLEX HOOK BELOW",
+    "note": ""
+  },
+  {
+    "character": "ọ",
+    "decimal": "803",
+    "hex": "323",
+    "entity": "",
+    "description": "DOT BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̤",
+    "decimal": "804",
+    "hex": "324",
+    "entity": "",
+    "description": "DIAERESIS BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̥",
+    "decimal": "805",
+    "hex": "325",
+    "entity": "",
+    "description": "RING BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̦",
+    "decimal": "806",
+    "hex": "326",
+    "entity": "",
+    "description": "COMMA BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̧",
+    "decimal": "807",
+    "hex": "327",
+    "entity": "",
+    "description": "CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ǫ",
+    "decimal": "808",
+    "hex": "328",
+    "entity": "",
+    "description": "OGONEK",
+    "note": ""
+  },
+  {
+    "character": "o̩",
+    "decimal": "809",
+    "hex": "329",
+    "entity": "",
+    "description": "VERTICAL LINE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̪",
+    "decimal": "810",
+    "hex": "032A",
+    "entity": "",
+    "description": "BRIDGE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̫",
+    "decimal": "811",
+    "hex": "032B",
+    "entity": "",
+    "description": "INVERTED DOUBLE ARCH BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̬",
+    "decimal": "812",
+    "hex": "032C",
+    "entity": "",
+    "description": "CARON BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̭",
+    "decimal": "813",
+    "hex": "032D",
+    "entity": "",
+    "description": "CIRCUMFLEX ACCENT BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̮",
+    "decimal": "814",
+    "hex": "032E",
+    "entity": "",
+    "description": "BREVE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̯",
+    "decimal": "815",
+    "hex": "032F",
+    "entity": "",
+    "description": "INVERTED BREVE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̰",
+    "decimal": "816",
+    "hex": "330",
+    "entity": "",
+    "description": "TILDE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̱",
+    "decimal": "817",
+    "hex": "331",
+    "entity": "",
+    "description": "MACRON BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̲",
+    "decimal": "818",
+    "hex": "332",
+    "entity": "",
+    "description": "LOW LINE",
+    "note": ""
+  },
+  {
+    "character": "o̳",
+    "decimal": "819",
+    "hex": "333",
+    "entity": "",
+    "description": "DOUBLE LOW LINE",
+    "note": ""
+  },
+  {
+    "character": "o̴",
+    "decimal": "820",
+    "hex": "334",
+    "entity": "",
+    "description": "TILDE OVERLAY",
+    "note": ""
+  },
+  {
+    "character": "o̵",
+    "decimal": "821",
+    "hex": "335",
+    "entity": "",
+    "description": "SHORT STROKE OVERLAY",
+    "note": ""
+  },
+  {
+    "character": "o̶",
+    "decimal": "822",
+    "hex": "336",
+    "entity": "",
+    "description": "LONG STROKE OVERLAY",
+    "note": ""
+  },
+  {
+    "character": "o̷",
+    "decimal": "823",
+    "hex": "337",
+    "entity": "",
+    "description": "SHORT SOLIDUS OVERLAY",
+    "note": ""
+  },
+  {
+    "character": "o̸",
+    "decimal": "824",
+    "hex": "338",
+    "entity": "",
+    "description": "LONG SOLIDUS OVERLAY",
+    "note": ""
+  },
+  {
+    "character": "o̹",
+    "decimal": "825",
+    "hex": "339",
+    "entity": "",
+    "description": "RIGHT HALF RING BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̺",
+    "decimal": "826",
+    "hex": "033A",
+    "entity": "",
+    "description": "INVERTED BRIDGE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̻",
+    "decimal": "827",
+    "hex": "033B",
+    "entity": "",
+    "description": "SQUARE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̼",
+    "decimal": "828",
+    "hex": "033C",
+    "entity": "",
+    "description": "SEAGULL BELOW",
+    "note": ""
+  },
+  {
+    "character": "o̽",
+    "decimal": "829",
+    "hex": "033D",
+    "entity": "",
+    "description": "X ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o̾",
+    "decimal": "830",
+    "hex": "033E",
+    "entity": "",
+    "description": "VERTICAL TILDE",
+    "note": ""
+  },
+  {
+    "character": "o̿",
+    "decimal": "831",
+    "hex": "033F",
+    "entity": "",
+    "description": "DOUBLE OVERLINE",
+    "note": ""
+  },
+  {
+    "character": "ò",
+    "decimal": "832",
+    "hex": "340",
+    "entity": "",
+    "description": "GRAVE TONE MARK",
+    "note": ""
+  },
+  {
+    "character": "ó",
+    "decimal": "833",
+    "hex": "341",
+    "entity": "",
+    "description": "ACUTE TONE MARK",
+    "note": ""
+  },
+  {
+    "character": "o͂",
+    "decimal": "834",
+    "hex": "342",
+    "entity": "",
+    "description": "GREEK PERISPOMENI (combined with theta)",
+    "note": ""
+  },
+  {
+    "character": "o̓",
+    "decimal": "835",
+    "hex": "343",
+    "entity": "",
+    "description": "GREEK KORONIS (combined with theta)",
+    "note": ""
+  },
+  {
+    "character": "ö́",
+    "decimal": "836",
+    "hex": "344",
+    "entity": "",
+    "description": "GREEK DIALYTIKA TONOS (combined with theta)",
+    "note": ""
+  },
+  {
+    "character": "oͅ",
+    "decimal": "837",
+    "hex": "345",
+    "entity": "",
+    "description": "GREEK YPOGEGRAMMENI (combined with theta)",
+    "note": ""
+  },
+  {
+    "character": "o͆",
+    "decimal": "838",
+    "hex": "346",
+    "entity": "",
+    "description": "BRIDGE ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o͇",
+    "decimal": "839",
+    "hex": "347",
+    "entity": "",
+    "description": "EQUALS SIGN BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͈",
+    "decimal": "840",
+    "hex": "348",
+    "entity": "",
+    "description": "DOUBLE VERTICAL LINE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͉",
+    "decimal": "841",
+    "hex": "349",
+    "entity": "",
+    "description": "LEFT ANGLE BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͊",
+    "decimal": "842",
+    "hex": "034A",
+    "entity": "",
+    "description": "NOT TILDE ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o͋",
+    "decimal": "843",
+    "hex": "034B",
+    "entity": "",
+    "description": "HOMOTHETIC ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o͌",
+    "decimal": "844",
+    "hex": "034C",
+    "entity": "",
+    "description": "ALMOST EQUAL TO ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o͍",
+    "decimal": "845",
+    "hex": "034D",
+    "entity": "",
+    "description": "LEFT RIGHT ARROW BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͎",
+    "decimal": "846",
+    "hex": "034E",
+    "entity": "",
+    "description": "UPWARDS ARROW BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͏",
+    "decimal": "847",
+    "hex": "034F",
+    "entity": "",
+    "description": "GRAPHEME JOINER",
+    "note": ""
+  },
+  {
+    "character": "o͐",
+    "decimal": "848",
+    "hex": "350",
+    "entity": "",
+    "description": "RIGHT ARROWHEAD ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o͑",
+    "decimal": "849",
+    "hex": "351",
+    "entity": "",
+    "description": "LEFT HALF RING ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o͒",
+    "decimal": "850",
+    "hex": "352",
+    "entity": "",
+    "description": "FERMATA",
+    "note": ""
+  },
+  {
+    "character": "o͓",
+    "decimal": "851",
+    "hex": "353",
+    "entity": "",
+    "description": "X BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͔",
+    "decimal": "852",
+    "hex": "354",
+    "entity": "",
+    "description": "LEFT ARROWHEAD BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͕",
+    "decimal": "853",
+    "hex": "355",
+    "entity": "",
+    "description": "RIGHT ARROWHEAD BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͖",
+    "decimal": "854",
+    "hex": "356",
+    "entity": "",
+    "description": "RIGHT ARROWHEAD AND UP ARROWHEAD BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͗",
+    "decimal": "855",
+    "hex": "357",
+    "entity": "",
+    "description": "RIGHT HALF RING ABOVE",
+    "note": ""
+  },
+  {
+    "character": "o͘",
+    "decimal": "856",
+    "hex": "358",
+    "entity": "",
+    "description": "DOT ABOVE RIGHT",
+    "note": ""
+  },
+  {
+    "character": "o͙",
+    "decimal": "857",
+    "hex": "359",
+    "entity": "",
+    "description": "ASTERISK BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͚",
+    "decimal": "858",
+    "hex": "035A",
+    "entity": "",
+    "description": "DOUBLE RING BELOW",
+    "note": ""
+  },
+  {
+    "character": "o͛",
+    "decimal": "859",
+    "hex": "035B",
+    "entity": "",
+    "description": "ZIGZAG ABOVE",
+    "note": ""
+  },
+  {
+    "character": "͜o",
+    "decimal": "860",
+    "hex": "035C",
+    "entity": "",
+    "description": "DOUBLE BREVE BELOW",
+    "note": ""
+  },
+  {
+    "character": "͝o",
+    "decimal": "861",
+    "hex": "035D",
+    "entity": "",
+    "description": "DOUBLE BREVE",
+    "note": ""
+  },
+  {
+    "character": "͞o",
+    "decimal": "862",
+    "hex": "035E",
+    "entity": "",
+    "description": "DOUBLE MACRON",
+    "note": ""
+  },
+  {
+    "character": "͟o",
+    "decimal": "863",
+    "hex": "035F",
+    "entity": "",
+    "description": "DOUBLE MACRON BELOW",
+    "note": ""
+  },
+  {
+    "character": "͠o",
+    "decimal": "864",
+    "hex": "360",
+    "entity": "",
+    "description": "DOUBLE TILDE",
+    "note": ""
+  },
+  {
+    "character": "͡o",
+    "decimal": "865",
+    "hex": "361",
+    "entity": "",
+    "description": "DOUBLE INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "͢o",
+    "decimal": "866",
+    "hex": "362",
+    "entity": "",
+    "description": "DOUBLE RIGHTWARDS ARROW BELOW",
+    "note": ""
+  },
+  {
+    "character": "oͣ",
+    "decimal": "867",
+    "hex": "363",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A",
+    "note": ""
+  },
+  {
+    "character": "oͤ",
+    "decimal": "868",
+    "hex": "364",
+    "entity": "",
+    "description": "LATIN SMALL LETTER E",
+    "note": ""
+  },
+  {
+    "character": "oͥ",
+    "decimal": "869",
+    "hex": "365",
+    "entity": "",
+    "description": "LATIN SMALL LETTER I",
+    "note": ""
+  },
+  {
+    "character": "oͦ",
+    "decimal": "870",
+    "hex": "366",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O",
+    "note": ""
+  },
+  {
+    "character": "oͧ",
+    "decimal": "871",
+    "hex": "367",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U",
+    "note": ""
+  },
+  {
+    "character": "oͨ",
+    "decimal": "872",
+    "hex": "368",
+    "entity": "",
+    "description": "LATIN SMALL LETTER C",
+    "note": ""
+  },
+  {
+    "character": "oͩ",
+    "decimal": "873",
+    "hex": "369",
+    "entity": "",
+    "description": "LATIN SMALL LETTER D",
+    "note": ""
+  },
+  {
+    "character": "oͪ",
+    "decimal": "874",
+    "hex": "036A",
+    "entity": "",
+    "description": "LATIN SMALL LETTER H",
+    "note": ""
+  },
+  {
+    "character": "oͫ",
+    "decimal": "875",
+    "hex": "036B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER M",
+    "note": ""
+  },
+  {
+    "character": "oͬ",
+    "decimal": "876",
+    "hex": "036C",
+    "entity": "",
+    "description": "LATIN SMALL LETTER R",
+    "note": ""
+  },
+  {
+    "character": "oͭ",
+    "decimal": "877",
+    "hex": "036D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER T",
+    "note": ""
+  },
+  {
+    "character": "oͮ",
+    "decimal": "878",
+    "hex": "036E",
+    "entity": "",
+    "description": "LATIN SMALL LETTER V",
+    "note": ""
+  },
+  {
+    "character": "oͯ",
+    "decimal": "879",
+    "hex": "036F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER X",
+    "note": ""
+  }
+]

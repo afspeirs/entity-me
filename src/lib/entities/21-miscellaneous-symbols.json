@@ -1,0 +1,2050 @@
+[
+  {
+    "character": "☀",
+    "decimal": "9728",
+    "hex": "2600",
+    "entity": "",
+    "description": "BLACK SUN WITH RAYS",
+    "note": ""
+  },
+  {
+    "character": "☁",
+    "decimal": "9729",
+    "hex": "2601",
+    "entity": "",
+    "description": "CLOUD",
+    "note": ""
+  },
+  {
+    "character": "☂",
+    "decimal": "9730",
+    "hex": "2602",
+    "entity": "",
+    "description": "UMBRELLA",
+    "note": ""
+  },
+  {
+    "character": "☃",
+    "decimal": "9731",
+    "hex": "2603",
+    "entity": "",
+    "description": "SNOWMAN",
+    "note": ""
+  },
+  {
+    "character": "☄",
+    "decimal": "9732",
+    "hex": "2604",
+    "entity": "",
+    "description": "COMET",
+    "note": ""
+  },
+  {
+    "character": "★",
+    "decimal": "9733",
+    "hex": "2605",
+    "entity": "",
+    "description": "BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "☆",
+    "decimal": "9734",
+    "hex": "2606",
+    "entity": "",
+    "description": "WHITE STAR",
+    "note": ""
+  },
+  {
+    "character": "☇",
+    "decimal": "9735",
+    "hex": "2607",
+    "entity": "",
+    "description": "LIGHTNING",
+    "note": ""
+  },
+  {
+    "character": "☈",
+    "decimal": "9736",
+    "hex": "2608",
+    "entity": "",
+    "description": "THUNDERSTORM",
+    "note": ""
+  },
+  {
+    "character": "☉",
+    "decimal": "9737",
+    "hex": "2609",
+    "entity": "",
+    "description": "SUN",
+    "note": ""
+  },
+  {
+    "character": "☊",
+    "decimal": "9738",
+    "hex": "260A",
+    "entity": "",
+    "description": "ASCENDING NODE",
+    "note": ""
+  },
+  {
+    "character": "☋",
+    "decimal": "9739",
+    "hex": "260B",
+    "entity": "",
+    "description": "DESCENDING NODE",
+    "note": ""
+  },
+  {
+    "character": "☌",
+    "decimal": "9740",
+    "hex": "260C",
+    "entity": "",
+    "description": "CONJUNCTION",
+    "note": ""
+  },
+  {
+    "character": "☍",
+    "decimal": "9741",
+    "hex": "260D",
+    "entity": "",
+    "description": "OPPOSITION",
+    "note": ""
+  },
+  {
+    "character": "☎",
+    "decimal": "9742",
+    "hex": "260E",
+    "entity": "",
+    "description": "BLACK TELEPHONE",
+    "note": ""
+  },
+  {
+    "character": "☏",
+    "decimal": "9743",
+    "hex": "260F",
+    "entity": "",
+    "description": "WHITE TELEPHONE",
+    "note": ""
+  },
+  {
+    "character": "☐",
+    "decimal": "9744",
+    "hex": "2610",
+    "entity": "",
+    "description": "BALLOT BOX",
+    "note": ""
+  },
+  {
+    "character": "☑",
+    "decimal": "9745",
+    "hex": "2611",
+    "entity": "",
+    "description": "BALLOT BOX WITH CHECK",
+    "note": ""
+  },
+  {
+    "character": "☒",
+    "decimal": "9746",
+    "hex": "2612",
+    "entity": "",
+    "description": "BALLOT BOX WITH X",
+    "note": ""
+  },
+  {
+    "character": "☓",
+    "decimal": "9747",
+    "hex": "2613",
+    "entity": "",
+    "description": "SALTIRE",
+    "note": ""
+  },
+  {
+    "character": "☔",
+    "decimal": "9748",
+    "hex": "2614",
+    "entity": "",
+    "description": "UMBRELLA WITH RAIN DROPS",
+    "note": ""
+  },
+  {
+    "character": "☕",
+    "decimal": "9749",
+    "hex": "2615",
+    "entity": "",
+    "description": "HOT BEVERAGE",
+    "note": ""
+  },
+  {
+    "character": "☖",
+    "decimal": "9750",
+    "hex": "2616",
+    "entity": "",
+    "description": "WHITE SHOGI PIECE",
+    "note": ""
+  },
+  {
+    "character": "☗",
+    "decimal": "9751",
+    "hex": "2617",
+    "entity": "",
+    "description": "BLACK SHOGI PIECE",
+    "note": ""
+  },
+  {
+    "character": "☘",
+    "decimal": "9752",
+    "hex": "2618",
+    "entity": "",
+    "description": "SHAMROCK",
+    "note": ""
+  },
+  {
+    "character": "☙",
+    "decimal": "9753",
+    "hex": "2619",
+    "entity": "",
+    "description": "REVERSED ROTATED FLORAL HEART BULLET",
+    "note": ""
+  },
+  {
+    "character": "☚",
+    "decimal": "9754",
+    "hex": "261A",
+    "entity": "",
+    "description": "BLACK LEFT POINTING INDEX",
+    "note": ""
+  },
+  {
+    "character": "☛",
+    "decimal": "9755",
+    "hex": "261B",
+    "entity": "",
+    "description": "BLACK RIGHT POINTING INDEX",
+    "note": ""
+  },
+  {
+    "character": "☜",
+    "decimal": "9756",
+    "hex": "261C",
+    "entity": "",
+    "description": "WHITE LEFT POINTING INDEX",
+    "note": ""
+  },
+  {
+    "character": "☝",
+    "decimal": "9757",
+    "hex": "261D",
+    "entity": "",
+    "description": "WHITE UP POINTING INDEX",
+    "note": ""
+  },
+  {
+    "character": "☞",
+    "decimal": "9758",
+    "hex": "261E",
+    "entity": "",
+    "description": "WHITE RIGHT POINTING INDEX",
+    "note": ""
+  },
+  {
+    "character": "☟",
+    "decimal": "9759",
+    "hex": "261F",
+    "entity": "",
+    "description": "WHITE DOWN POINTING INDEX",
+    "note": ""
+  },
+  {
+    "character": "☠",
+    "decimal": "9760",
+    "hex": "2620",
+    "entity": "",
+    "description": "SKULL AND CROSSBONES",
+    "note": ""
+  },
+  {
+    "character": "☡",
+    "decimal": "9761",
+    "hex": "2621",
+    "entity": "",
+    "description": "CAUTION SIGN",
+    "note": ""
+  },
+  {
+    "character": "☢",
+    "decimal": "9762",
+    "hex": "2622",
+    "entity": "",
+    "description": "RADIOACTIVE SIGN",
+    "note": ""
+  },
+  {
+    "character": "☣",
+    "decimal": "9763",
+    "hex": "2623",
+    "entity": "",
+    "description": "BIOHAZARD SIGN",
+    "note": ""
+  },
+  {
+    "character": "☤",
+    "decimal": "9764",
+    "hex": "2624",
+    "entity": "",
+    "description": "CADUCEUS",
+    "note": ""
+  },
+  {
+    "character": "☥",
+    "decimal": "9765",
+    "hex": "2625",
+    "entity": "",
+    "description": "ANKH",
+    "note": ""
+  },
+  {
+    "character": "☦",
+    "decimal": "9766",
+    "hex": "2626",
+    "entity": "",
+    "description": "ORTHODOX CROSS",
+    "note": ""
+  },
+  {
+    "character": "☧",
+    "decimal": "9767",
+    "hex": "2627",
+    "entity": "",
+    "description": "CHI RHO",
+    "note": ""
+  },
+  {
+    "character": "☨",
+    "decimal": "9768",
+    "hex": "2628",
+    "entity": "",
+    "description": "CROSS OF LORRAINE",
+    "note": ""
+  },
+  {
+    "character": "☩",
+    "decimal": "9769",
+    "hex": "2629",
+    "entity": "",
+    "description": "CROSS OF JERUSALEM",
+    "note": ""
+  },
+  {
+    "character": "☪",
+    "decimal": "9770",
+    "hex": "262A",
+    "entity": "",
+    "description": "STAR AND CRESCENT",
+    "note": ""
+  },
+  {
+    "character": "☫",
+    "decimal": "9771",
+    "hex": "262B",
+    "entity": "",
+    "description": "FARSI SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "☬",
+    "decimal": "9772",
+    "hex": "262C",
+    "entity": "",
+    "description": "KHANDA",
+    "note": ""
+  },
+  {
+    "character": "☭",
+    "decimal": "9773",
+    "hex": "262D",
+    "entity": "",
+    "description": "HAMMER AND SICKLE",
+    "note": ""
+  },
+  {
+    "character": "☮",
+    "decimal": "9774",
+    "hex": "262E",
+    "entity": "",
+    "description": "PEACE SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "☯",
+    "decimal": "9775",
+    "hex": "262F",
+    "entity": "",
+    "description": "YIN YANG",
+    "note": ""
+  },
+  {
+    "character": "☰",
+    "decimal": "9776",
+    "hex": "2630",
+    "entity": "",
+    "description": "TRIGRAM FOR HEAVEN",
+    "note": ""
+  },
+  {
+    "character": "☱",
+    "decimal": "9777",
+    "hex": "2631",
+    "entity": "",
+    "description": "TRIGRAM FOR LAKE",
+    "note": ""
+  },
+  {
+    "character": "☲",
+    "decimal": "9778",
+    "hex": "2632",
+    "entity": "",
+    "description": "TRIGRAM FOR FIRE",
+    "note": ""
+  },
+  {
+    "character": "☳",
+    "decimal": "9779",
+    "hex": "2633",
+    "entity": "",
+    "description": "TRIGRAM FOR THUNDER",
+    "note": ""
+  },
+  {
+    "character": "☴",
+    "decimal": "9780",
+    "hex": "2634",
+    "entity": "",
+    "description": "TRIGRAM FOR WIND",
+    "note": ""
+  },
+  {
+    "character": "☵",
+    "decimal": "9781",
+    "hex": "2635",
+    "entity": "",
+    "description": "TRIGRAM FOR WATER",
+    "note": ""
+  },
+  {
+    "character": "☶",
+    "decimal": "9782",
+    "hex": "2636",
+    "entity": "",
+    "description": "TRIGRAM FOR MOUNTAIN",
+    "note": ""
+  },
+  {
+    "character": "☷",
+    "decimal": "9783",
+    "hex": "2637",
+    "entity": "",
+    "description": "TRIGRAM FOR EARTH",
+    "note": ""
+  },
+  {
+    "character": "☸",
+    "decimal": "9784",
+    "hex": "2638",
+    "entity": "",
+    "description": "WHEEL OF DHARMA",
+    "note": ""
+  },
+  {
+    "character": "☹",
+    "decimal": "9785",
+    "hex": "2639",
+    "entity": "",
+    "description": "WHITE FROWNING FACE",
+    "note": ""
+  },
+  {
+    "character": "☺",
+    "decimal": "9786",
+    "hex": "263A",
+    "entity": "",
+    "description": "WHITE SMILING FACE",
+    "note": ""
+  },
+  {
+    "character": "☻",
+    "decimal": "9787",
+    "hex": "263B",
+    "entity": "",
+    "description": "BLACK SMILING FACE",
+    "note": ""
+  },
+  {
+    "character": "☼",
+    "decimal": "9788",
+    "hex": "263C",
+    "entity": "",
+    "description": "WHITE SUN WITH RAYS",
+    "note": ""
+  },
+  {
+    "character": "☽",
+    "decimal": "9789",
+    "hex": "263D",
+    "entity": "",
+    "description": "FIRST QUARTER MOON",
+    "note": ""
+  },
+  {
+    "character": "☾",
+    "decimal": "9790",
+    "hex": "263E",
+    "entity": "",
+    "description": "LAST QUARTER MOON",
+    "note": ""
+  },
+  {
+    "character": "☿",
+    "decimal": "9791",
+    "hex": "263F",
+    "entity": "",
+    "description": "MERCURY",
+    "note": ""
+  },
+  {
+    "character": "♀",
+    "decimal": "9792",
+    "hex": "2640",
+    "entity": "",
+    "description": "FEMALE SIGN",
+    "note": ""
+  },
+  {
+    "character": "♁",
+    "decimal": "9793",
+    "hex": "2641",
+    "entity": "",
+    "description": "EARTH",
+    "note": ""
+  },
+  {
+    "character": "♂",
+    "decimal": "9794",
+    "hex": "2642",
+    "entity": "",
+    "description": "MALE SIGN",
+    "note": ""
+  },
+  {
+    "character": "♃",
+    "decimal": "9795",
+    "hex": "2643",
+    "entity": "",
+    "description": "JUPITER",
+    "note": ""
+  },
+  {
+    "character": "♄",
+    "decimal": "9796",
+    "hex": "2644",
+    "entity": "",
+    "description": "SATURN",
+    "note": ""
+  },
+  {
+    "character": "♅",
+    "decimal": "9797",
+    "hex": "2645",
+    "entity": "",
+    "description": "URANUS",
+    "note": ""
+  },
+  {
+    "character": "♆",
+    "decimal": "9798",
+    "hex": "2646",
+    "entity": "",
+    "description": "NEPTUNE",
+    "note": ""
+  },
+  {
+    "character": "♇",
+    "decimal": "9799",
+    "hex": "2647",
+    "entity": "",
+    "description": "PLUTO",
+    "note": ""
+  },
+  {
+    "character": "♈",
+    "decimal": "9800",
+    "hex": "2648",
+    "entity": "",
+    "description": "ARIES",
+    "note": ""
+  },
+  {
+    "character": "♉",
+    "decimal": "9801",
+    "hex": "2649",
+    "entity": "",
+    "description": "TAURUS",
+    "note": ""
+  },
+  {
+    "character": "♊",
+    "decimal": "9802",
+    "hex": "264A",
+    "entity": "",
+    "description": "GEMINI",
+    "note": ""
+  },
+  {
+    "character": "♋",
+    "decimal": "9803",
+    "hex": "264B",
+    "entity": "",
+    "description": "CANCER",
+    "note": ""
+  },
+  {
+    "character": "♌",
+    "decimal": "9804",
+    "hex": "264C",
+    "entity": "",
+    "description": "LEO",
+    "note": ""
+  },
+  {
+    "character": "♍",
+    "decimal": "9805",
+    "hex": "264D",
+    "entity": "",
+    "description": "VIRGO",
+    "note": ""
+  },
+  {
+    "character": "♎",
+    "decimal": "9806",
+    "hex": "264E",
+    "entity": "",
+    "description": "LIBRA",
+    "note": ""
+  },
+  {
+    "character": "♏",
+    "decimal": "9807",
+    "hex": "264F",
+    "entity": "",
+    "description": "SCORPIUS",
+    "note": ""
+  },
+  {
+    "character": "♐",
+    "decimal": "9808",
+    "hex": "2650",
+    "entity": "",
+    "description": "SAGITTARIUS",
+    "note": ""
+  },
+  {
+    "character": "♑",
+    "decimal": "9809",
+    "hex": "2651",
+    "entity": "",
+    "description": "CAPRICORN",
+    "note": ""
+  },
+  {
+    "character": "♒",
+    "decimal": "9810",
+    "hex": "2652",
+    "entity": "",
+    "description": "AQUARIUS",
+    "note": ""
+  },
+  {
+    "character": "♓",
+    "decimal": "9811",
+    "hex": "2653",
+    "entity": "",
+    "description": "PISCES",
+    "note": ""
+  },
+  {
+    "character": "♔",
+    "decimal": "9812",
+    "hex": "2654",
+    "entity": "",
+    "description": "WHITE CHESS KING",
+    "note": ""
+  },
+  {
+    "character": "♕",
+    "decimal": "9813",
+    "hex": "2655",
+    "entity": "",
+    "description": "WHITE CHESS QUEEN",
+    "note": ""
+  },
+  {
+    "character": "♖",
+    "decimal": "9814",
+    "hex": "2656",
+    "entity": "",
+    "description": "WHITE CHESS ROOK",
+    "note": ""
+  },
+  {
+    "character": "♗",
+    "decimal": "9815",
+    "hex": "2657",
+    "entity": "",
+    "description": "WHITE CHESS BISHOP",
+    "note": ""
+  },
+  {
+    "character": "♘",
+    "decimal": "9816",
+    "hex": "2658",
+    "entity": "",
+    "description": "WHITE CHESS KNIGHT",
+    "note": ""
+  },
+  {
+    "character": "♙",
+    "decimal": "9817",
+    "hex": "2659",
+    "entity": "",
+    "description": "WHITE CHESS PAWN",
+    "note": ""
+  },
+  {
+    "character": "♚",
+    "decimal": "9818",
+    "hex": "265A",
+    "entity": "",
+    "description": "BLACK CHESS KING",
+    "note": ""
+  },
+  {
+    "character": "♛",
+    "decimal": "9819",
+    "hex": "265B",
+    "entity": "",
+    "description": "BLACK CHESS QUEEN",
+    "note": ""
+  },
+  {
+    "character": "♜",
+    "decimal": "9820",
+    "hex": "265C",
+    "entity": "",
+    "description": "BLACK CHESS ROOK",
+    "note": ""
+  },
+  {
+    "character": "♝",
+    "decimal": "9821",
+    "hex": "265D",
+    "entity": "",
+    "description": "BLACK CHESS BISHOP",
+    "note": ""
+  },
+  {
+    "character": "♞",
+    "decimal": "9822",
+    "hex": "265E",
+    "entity": "",
+    "description": "BLACK CHESS KNIGHT",
+    "note": ""
+  },
+  {
+    "character": "♟",
+    "decimal": "9823",
+    "hex": "265F",
+    "entity": "",
+    "description": "BLACK CHESS PAWN",
+    "note": ""
+  },
+  {
+    "character": "♠",
+    "decimal": "9824",
+    "hex": "2660",
+    "entity": "",
+    "description": "BLACK SPADE SUIT",
+    "note": ""
+  },
+  {
+    "character": "♡",
+    "decimal": "9825",
+    "hex": "2661",
+    "entity": "",
+    "description": "WHITE HEART SUIT",
+    "note": ""
+  },
+  {
+    "character": "♢",
+    "decimal": "9826",
+    "hex": "2662",
+    "entity": "",
+    "description": "WHITE DIAMOND SUIT",
+    "note": ""
+  },
+  {
+    "character": "♣",
+    "decimal": "9827",
+    "hex": "2663",
+    "entity": "",
+    "description": "BLACK CLUB SUIT",
+    "note": ""
+  },
+  {
+    "character": "♤",
+    "decimal": "9828",
+    "hex": "2664",
+    "entity": "",
+    "description": "WHITE SPADE SUIT",
+    "note": ""
+  },
+  {
+    "character": "♥",
+    "decimal": "9829",
+    "hex": "2665",
+    "entity": "",
+    "description": "BLACK HEART SUIT",
+    "note": ""
+  },
+  {
+    "character": "♦",
+    "decimal": "9830",
+    "hex": "2666",
+    "entity": "",
+    "description": "BLACK DIAMOND SUIT",
+    "note": ""
+  },
+  {
+    "character": "♧",
+    "decimal": "9831",
+    "hex": "2667",
+    "entity": "",
+    "description": "WHITE CLUB SUIT",
+    "note": ""
+  },
+  {
+    "character": "♨",
+    "decimal": "9832",
+    "hex": "2668",
+    "entity": "",
+    "description": "HOT SPRINGS",
+    "note": ""
+  },
+  {
+    "character": "♩",
+    "decimal": "9833",
+    "hex": "2669",
+    "entity": "",
+    "description": "QUARTER NOTE",
+    "note": ""
+  },
+  {
+    "character": "♪",
+    "decimal": "9834",
+    "hex": "266A",
+    "entity": "",
+    "description": "EIGHTH NOTE",
+    "note": ""
+  },
+  {
+    "character": "♫",
+    "decimal": "9835",
+    "hex": "266B",
+    "entity": "",
+    "description": "BEAMED EIGHTH NOTES",
+    "note": ""
+  },
+  {
+    "character": "♬",
+    "decimal": "9836",
+    "hex": "266C",
+    "entity": "",
+    "description": "BEAMED SIXTEENTH NOTES",
+    "note": ""
+  },
+  {
+    "character": "♭",
+    "decimal": "9837",
+    "hex": "266D",
+    "entity": "",
+    "description": "MUSIC FLAT SIGN",
+    "note": ""
+  },
+  {
+    "character": "♮",
+    "decimal": "9838",
+    "hex": "266E",
+    "entity": "",
+    "description": "MUSIC NATURAL SIGN",
+    "note": ""
+  },
+  {
+    "character": "♯",
+    "decimal": "9839",
+    "hex": "266F",
+    "entity": "",
+    "description": "MUSIC SHARP SIGN",
+    "note": ""
+  },
+  {
+    "character": "♰",
+    "decimal": "9840",
+    "hex": "2670",
+    "entity": "",
+    "description": "WEST SYRIAC CROSS",
+    "note": ""
+  },
+  {
+    "character": "♱",
+    "decimal": "9841",
+    "hex": "2671",
+    "entity": "",
+    "description": "EAST SYRIAC CROSS",
+    "note": ""
+  },
+  {
+    "character": "♲",
+    "decimal": "9842",
+    "hex": "2672",
+    "entity": "",
+    "description": "UNIVERSAL RECYCLING SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "♳",
+    "decimal": "9843",
+    "hex": "2673",
+    "entity": "",
+    "description": "RECYCLING SYMBOL FOR TYPE-1 PLASTICS",
+    "note": ""
+  },
+  {
+    "character": "♴",
+    "decimal": "9844",
+    "hex": "2674",
+    "entity": "",
+    "description": "RECYCLING SYMBOL FOR TYPE-2 PLASTICS",
+    "note": ""
+  },
+  {
+    "character": "♵",
+    "decimal": "9845",
+    "hex": "2675",
+    "entity": "",
+    "description": "RECYCLING SYMBOL FOR TYPE-3 PLASTICS",
+    "note": ""
+  },
+  {
+    "character": "♶",
+    "decimal": "9846",
+    "hex": "2676",
+    "entity": "",
+    "description": "RECYCLING SYMBOL FOR TYPE-4 PLASTICS",
+    "note": ""
+  },
+  {
+    "character": "♷",
+    "decimal": "9847",
+    "hex": "2677",
+    "entity": "",
+    "description": "RECYCLING SYMBOL FOR TYPE-5 PLASTICS",
+    "note": ""
+  },
+  {
+    "character": "♸",
+    "decimal": "9848",
+    "hex": "2678",
+    "entity": "",
+    "description": "RECYCLING SYMBOL FOR TYPE-6 PLASTICS",
+    "note": ""
+  },
+  {
+    "character": "♹",
+    "decimal": "9849",
+    "hex": "2679",
+    "entity": "",
+    "description": "RECYCLING SYMBOL FOR TYPE-7 PLASTICS",
+    "note": ""
+  },
+  {
+    "character": "♺",
+    "decimal": "9850",
+    "hex": "267A",
+    "entity": "",
+    "description": "RECYCLING SYMBOL FOR GENERIC MATERIALS",
+    "note": ""
+  },
+  {
+    "character": "♻",
+    "decimal": "9851",
+    "hex": "267B",
+    "entity": "",
+    "description": "BLACK UNIVERSAL RECYCLING SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "♼",
+    "decimal": "9852",
+    "hex": "267C",
+    "entity": "",
+    "description": "RECYCLED PAPER SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "♽",
+    "decimal": "9853",
+    "hex": "267D",
+    "entity": "",
+    "description": "PARTIALLY-RECYCLED PAPER SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "♾",
+    "decimal": "9854",
+    "hex": "267E",
+    "entity": "",
+    "description": "PERMANENT PAPER SIGN",
+    "note": ""
+  },
+  {
+    "character": "♿",
+    "decimal": "9855",
+    "hex": "267F",
+    "entity": "",
+    "description": "WHEELCHAIR SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "⚀",
+    "decimal": "9856",
+    "hex": "2680",
+    "entity": "",
+    "description": "DIE FACE-1",
+    "note": ""
+  },
+  {
+    "character": "⚁",
+    "decimal": "9857",
+    "hex": "2681",
+    "entity": "",
+    "description": "DIE FACE-2",
+    "note": ""
+  },
+  {
+    "character": "⚂",
+    "decimal": "9858",
+    "hex": "2682",
+    "entity": "",
+    "description": "DIE FACE-3",
+    "note": ""
+  },
+  {
+    "character": "⚃",
+    "decimal": "9859",
+    "hex": "2683",
+    "entity": "",
+    "description": "DIE FACE-4",
+    "note": ""
+  },
+  {
+    "character": "⚄",
+    "decimal": "9860",
+    "hex": "2684",
+    "entity": "",
+    "description": "DIE FACE-5",
+    "note": ""
+  },
+  {
+    "character": "⚅",
+    "decimal": "9861",
+    "hex": "2685",
+    "entity": "",
+    "description": "DIE FACE-6",
+    "note": ""
+  },
+  {
+    "character": "⚆",
+    "decimal": "9862",
+    "hex": "2686",
+    "entity": "",
+    "description": "WHITE CIRCLE WITH DOT RIGHT",
+    "note": ""
+  },
+  {
+    "character": "⚇",
+    "decimal": "9863",
+    "hex": "2687",
+    "entity": "",
+    "description": "WHITE CIRCLE WITH TWO DOTS",
+    "note": ""
+  },
+  {
+    "character": "⚈",
+    "decimal": "9864",
+    "hex": "2688",
+    "entity": "",
+    "description": "BLACK CIRCLE WITH WHITE DOT RIGHT",
+    "note": ""
+  },
+  {
+    "character": "⚉",
+    "decimal": "9865",
+    "hex": "2689",
+    "entity": "",
+    "description": "BLACK CIRCLE WITH TWO WHITE DOTS",
+    "note": ""
+  },
+  {
+    "character": "⚊",
+    "decimal": "9866",
+    "hex": "268A",
+    "entity": "",
+    "description": "MONOGRAM FOR YANG",
+    "note": ""
+  },
+  {
+    "character": "⚋",
+    "decimal": "9867",
+    "hex": "268B",
+    "entity": "",
+    "description": "MONOGRAM FOR YIN",
+    "note": ""
+  },
+  {
+    "character": "⚌",
+    "decimal": "9868",
+    "hex": "268C",
+    "entity": "",
+    "description": "DIGRAM FOR GREATER YANG",
+    "note": ""
+  },
+  {
+    "character": "⚍",
+    "decimal": "9869",
+    "hex": "268D",
+    "entity": "",
+    "description": "DIGRAM FOR LESSER YIN",
+    "note": ""
+  },
+  {
+    "character": "⚎",
+    "decimal": "9870",
+    "hex": "268E",
+    "entity": "",
+    "description": "DIGRAM FOR LESSER YANG",
+    "note": ""
+  },
+  {
+    "character": "⚏",
+    "decimal": "9871",
+    "hex": "268F",
+    "entity": "",
+    "description": "DIGRAM FOR GREATER YIN",
+    "note": ""
+  },
+  {
+    "character": "⚐",
+    "decimal": "9872",
+    "hex": "2690",
+    "entity": "",
+    "description": "WHITE FLAG",
+    "note": ""
+  },
+  {
+    "character": "⚑",
+    "decimal": "9873",
+    "hex": "2691",
+    "entity": "",
+    "description": "BLACK FLAG",
+    "note": ""
+  },
+  {
+    "character": "⚒",
+    "decimal": "9874",
+    "hex": "2692",
+    "entity": "",
+    "description": "HAMMER AND PICK",
+    "note": ""
+  },
+  {
+    "character": "⚓",
+    "decimal": "9875",
+    "hex": "2693",
+    "entity": "",
+    "description": "ANCHOR",
+    "note": ""
+  },
+  {
+    "character": "⚔",
+    "decimal": "9876",
+    "hex": "2694",
+    "entity": "",
+    "description": "CROSSED SWORDS",
+    "note": ""
+  },
+  {
+    "character": "⚕",
+    "decimal": "9877",
+    "hex": "2695",
+    "entity": "",
+    "description": "STAFF OF AESCULAPIUS",
+    "note": ""
+  },
+  {
+    "character": "⚖",
+    "decimal": "9878",
+    "hex": "2696",
+    "entity": "",
+    "description": "SCALES",
+    "note": ""
+  },
+  {
+    "character": "⚗",
+    "decimal": "9879",
+    "hex": "2697",
+    "entity": "",
+    "description": "ALEMBIC",
+    "note": ""
+  },
+  {
+    "character": "⚘",
+    "decimal": "9880",
+    "hex": "2698",
+    "entity": "",
+    "description": "FLOWER",
+    "note": ""
+  },
+  {
+    "character": "⚙",
+    "decimal": "9881",
+    "hex": "2699",
+    "entity": "",
+    "description": "GEAR",
+    "note": ""
+  },
+  {
+    "character": "⚚",
+    "decimal": "9882",
+    "hex": "269A",
+    "entity": "",
+    "description": "STAFF OF HERMES",
+    "note": ""
+  },
+  {
+    "character": "⚛",
+    "decimal": "9883",
+    "hex": "269B",
+    "entity": "",
+    "description": "ATOM SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "⚜",
+    "decimal": "9884",
+    "hex": "269C",
+    "entity": "",
+    "description": "FLEUR-DE-LIS",
+    "note": ""
+  },
+  {
+    "character": "⚝",
+    "decimal": "9885",
+    "hex": "269D",
+    "entity": "",
+    "description": "OUTLINED WHITE STAR",
+    "note": ""
+  },
+  {
+    "character": "⚞",
+    "decimal": "9886",
+    "hex": "269E",
+    "entity": "",
+    "description": "THREE LINES CONVERGING RIGHT",
+    "note": ""
+  },
+  {
+    "character": "⚟",
+    "decimal": "9887",
+    "hex": "269F",
+    "entity": "",
+    "description": "THREE LINES CONVERGING LEFT",
+    "note": ""
+  },
+  {
+    "character": "⚠",
+    "decimal": "9888",
+    "hex": "26A0",
+    "entity": "",
+    "description": "WARNING SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚡",
+    "decimal": "9889",
+    "hex": "26A1",
+    "entity": "",
+    "description": "HIGH VOLTAGE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚢",
+    "decimal": "9890",
+    "hex": "26A2",
+    "entity": "",
+    "description": "DOUBLED FEMALE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚣",
+    "decimal": "9891",
+    "hex": "26A3",
+    "entity": "",
+    "description": "DOUBLED MALE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚤",
+    "decimal": "9892",
+    "hex": "26A4",
+    "entity": "",
+    "description": "INTERLOCKED FEMALE AND MALE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚥",
+    "decimal": "9893",
+    "hex": "26A5",
+    "entity": "",
+    "description": "MALE AND FEMALE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚦",
+    "decimal": "9894",
+    "hex": "26A6",
+    "entity": "",
+    "description": "MALE WITH STROKE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚧",
+    "decimal": "9895",
+    "hex": "26A7",
+    "entity": "",
+    "description": "MALE WITH STROKE AND MALE AND FEMALE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚨",
+    "decimal": "9896",
+    "hex": "26A8",
+    "entity": "",
+    "description": "VERTICAL MALE WITH STROKE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚩",
+    "decimal": "9897",
+    "hex": "26A9",
+    "entity": "",
+    "description": "HORIZONTAL MALE WITH STROKE SIGN",
+    "note": ""
+  },
+  {
+    "character": "⚪",
+    "decimal": "9898",
+    "hex": "26AA",
+    "entity": "",
+    "description": "MEDIUM WHITE CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "⚫",
+    "decimal": "9899",
+    "hex": "26AB",
+    "entity": "",
+    "description": "MEDIUM BLACK CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "⚬",
+    "decimal": "9900",
+    "hex": "26AC",
+    "entity": "",
+    "description": "MEDIUM SMALL WHITE CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "⚭",
+    "decimal": "9901",
+    "hex": "26AD",
+    "entity": "",
+    "description": "MARRIAGE SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "⚮",
+    "decimal": "9902",
+    "hex": "26AE",
+    "entity": "",
+    "description": "DIVORCE SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "⚯",
+    "decimal": "9903",
+    "hex": "26AF",
+    "entity": "",
+    "description": "UNMARRIED PARTNERSHIP SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "⚰",
+    "decimal": "9904",
+    "hex": "26B0",
+    "entity": "",
+    "description": "COFFIN",
+    "note": ""
+  },
+  {
+    "character": "⚱",
+    "decimal": "9905",
+    "hex": "26B1",
+    "entity": "",
+    "description": "FUNERAL URN",
+    "note": ""
+  },
+  {
+    "character": "⚲",
+    "decimal": "9906",
+    "hex": "26B2",
+    "entity": "",
+    "description": "NEUTER",
+    "note": ""
+  },
+  {
+    "character": "⚳",
+    "decimal": "9907",
+    "hex": "26B3",
+    "entity": "",
+    "description": "CERES",
+    "note": ""
+  },
+  {
+    "character": "⚴",
+    "decimal": "9908",
+    "hex": "26B4",
+    "entity": "",
+    "description": "PALLAS",
+    "note": ""
+  },
+  {
+    "character": "⚵",
+    "decimal": "9909",
+    "hex": "26B5",
+    "entity": "",
+    "description": "JUNO",
+    "note": ""
+  },
+  {
+    "character": "⚶",
+    "decimal": "9910",
+    "hex": "26B6",
+    "entity": "",
+    "description": "VESTA",
+    "note": ""
+  },
+  {
+    "character": "⚷",
+    "decimal": "9911",
+    "hex": "26B7",
+    "entity": "",
+    "description": "CHIRON",
+    "note": ""
+  },
+  {
+    "character": "⚸",
+    "decimal": "9912",
+    "hex": "26B8",
+    "entity": "",
+    "description": "BLACK MOON LILITH",
+    "note": ""
+  },
+  {
+    "character": "⚹",
+    "decimal": "9913",
+    "hex": "26B9",
+    "entity": "",
+    "description": "SEXTILE",
+    "note": ""
+  },
+  {
+    "character": "⚺",
+    "decimal": "9914",
+    "hex": "26BA",
+    "entity": "",
+    "description": "SEMISEXTILE",
+    "note": ""
+  },
+  {
+    "character": "⚻",
+    "decimal": "9915",
+    "hex": "26BB",
+    "entity": "",
+    "description": "QUINCUNX",
+    "note": ""
+  },
+  {
+    "character": "⚼",
+    "decimal": "9916",
+    "hex": "26BC",
+    "entity": "",
+    "description": "SESQUIQUADRATE",
+    "note": ""
+  },
+  {
+    "character": "⚽",
+    "decimal": "9917",
+    "hex": "26BD",
+    "entity": "",
+    "description": "SOCCER BALL",
+    "note": ""
+  },
+  {
+    "character": "⚾",
+    "decimal": "9918",
+    "hex": "26BE",
+    "entity": "",
+    "description": "BASEBALL",
+    "note": ""
+  },
+  {
+    "character": "⚿",
+    "decimal": "9919",
+    "hex": "26BF",
+    "entity": "",
+    "description": "SQUARED KEY",
+    "note": ""
+  },
+  {
+    "character": "⛀",
+    "decimal": "9920",
+    "hex": "26C0",
+    "entity": "",
+    "description": "WHITE DRAUGHTS MAN",
+    "note": ""
+  },
+  {
+    "character": "⛁",
+    "decimal": "9921",
+    "hex": "26C1",
+    "entity": "",
+    "description": "WHITE DRAUGHTS KING",
+    "note": ""
+  },
+  {
+    "character": "⛂",
+    "decimal": "9922",
+    "hex": "26C2",
+    "entity": "",
+    "description": "BLACK DRAUGHTS MAN",
+    "note": ""
+  },
+  {
+    "character": "⛃",
+    "decimal": "9923",
+    "hex": "26C3",
+    "entity": "",
+    "description": "BLACK DRAUGHTS KING",
+    "note": ""
+  },
+  {
+    "character": "⛄",
+    "decimal": "9924",
+    "hex": "26C4",
+    "entity": "",
+    "description": "SNOWMAN WITHOUT SNOW",
+    "note": ""
+  },
+  {
+    "character": "⛅",
+    "decimal": "9925",
+    "hex": "26C5",
+    "entity": "",
+    "description": "SUN BEHIND CLOUD",
+    "note": ""
+  },
+  {
+    "character": "⛆",
+    "decimal": "9926",
+    "hex": "26C6",
+    "entity": "",
+    "description": "RAIN",
+    "note": ""
+  },
+  {
+    "character": "⛇",
+    "decimal": "9927",
+    "hex": "26C7",
+    "entity": "",
+    "description": "BLACK SNOWMAN",
+    "note": ""
+  },
+  {
+    "character": "⛈",
+    "decimal": "9928",
+    "hex": "26C8",
+    "entity": "",
+    "description": "THUNDER CLOUD AND RAIN",
+    "note": ""
+  },
+  {
+    "character": "⛉",
+    "decimal": "9929",
+    "hex": "26C9",
+    "entity": "",
+    "description": "TURNED WHITE SHOGI PIECE",
+    "note": ""
+  },
+  {
+    "character": "⛊",
+    "decimal": "9930",
+    "hex": "26CA",
+    "entity": "",
+    "description": "TURNED BLACK SHOGI PIECE",
+    "note": ""
+  },
+  {
+    "character": "⛋",
+    "decimal": "9931",
+    "hex": "26CB",
+    "entity": "",
+    "description": "WHITE DIAMOND IN SQUARE",
+    "note": ""
+  },
+  {
+    "character": "⛌",
+    "decimal": "9932",
+    "hex": "26CC",
+    "entity": "",
+    "description": "CROSSING LANES",
+    "note": ""
+  },
+  {
+    "character": "⛍",
+    "decimal": "9933",
+    "hex": "26CD",
+    "entity": "",
+    "description": "DISABLED CAR",
+    "note": ""
+  },
+  {
+    "character": "⛎",
+    "decimal": "9934",
+    "hex": "26CE",
+    "entity": "",
+    "description": "OPHIUCHUS",
+    "note": ""
+  },
+  {
+    "character": "⛏",
+    "decimal": "9935",
+    "hex": "26CF",
+    "entity": "",
+    "description": "PICK",
+    "note": ""
+  },
+  {
+    "character": "⛐",
+    "decimal": "9936",
+    "hex": "26D0",
+    "entity": "",
+    "description": "CAR SLIDING",
+    "note": ""
+  },
+  {
+    "character": "⛑",
+    "decimal": "9937",
+    "hex": "26D1",
+    "entity": "",
+    "description": "HELMET WITH WHITE CROSS",
+    "note": ""
+  },
+  {
+    "character": "⛒",
+    "decimal": "9938",
+    "hex": "26D2",
+    "entity": "",
+    "description": "CIRCLED CROSSING LANES",
+    "note": ""
+  },
+  {
+    "character": "⛓",
+    "decimal": "9939",
+    "hex": "26D3",
+    "entity": "",
+    "description": "CHAINS",
+    "note": ""
+  },
+  {
+    "character": "⛔",
+    "decimal": "9940",
+    "hex": "26D4",
+    "entity": "",
+    "description": "NO ENTRY",
+    "note": ""
+  },
+  {
+    "character": "⛕",
+    "decimal": "9941",
+    "hex": "26D5",
+    "entity": "",
+    "description": "ALTERNATE ONE-WAY LEFT WAY TRAFFIC",
+    "note": ""
+  },
+  {
+    "character": "⛖",
+    "decimal": "9942",
+    "hex": "26D6",
+    "entity": "",
+    "description": "BLACK TWO-WAY LEFT WAY TRAFFIC",
+    "note": ""
+  },
+  {
+    "character": "⛗",
+    "decimal": "9943",
+    "hex": "26D7",
+    "entity": "",
+    "description": "WHITE TWO-WAY LEFT WAY TRAFFIC",
+    "note": ""
+  },
+  {
+    "character": "⛘",
+    "decimal": "9944",
+    "hex": "26D8",
+    "entity": "",
+    "description": "BLACK LEFT LANE MERGE",
+    "note": ""
+  },
+  {
+    "character": "⛙",
+    "decimal": "9945",
+    "hex": "26D9",
+    "entity": "",
+    "description": "WHITE LEFT LANE MERGE",
+    "note": ""
+  },
+  {
+    "character": "⛚",
+    "decimal": "9946",
+    "hex": "26DA",
+    "entity": "",
+    "description": "DRIVE SLOW SIGN",
+    "note": ""
+  },
+  {
+    "character": "⛛",
+    "decimal": "9947",
+    "hex": "26DB",
+    "entity": "",
+    "description": "HEAVY WHITE DOWN-POINTING TRIANGLE",
+    "note": ""
+  },
+  {
+    "character": "⛜",
+    "decimal": "9948",
+    "hex": "26DC",
+    "entity": "",
+    "description": "LEFT CLOSED ENTRY",
+    "note": ""
+  },
+  {
+    "character": "⛝",
+    "decimal": "9949",
+    "hex": "26DD",
+    "entity": "",
+    "description": "SQUARED SALTIRE",
+    "note": ""
+  },
+  {
+    "character": "⛞",
+    "decimal": "9950",
+    "hex": "26DE",
+    "entity": "",
+    "description": "FALLING DIAGONAL IN WHITE CIRCLE IN BLACK SQUARE",
+    "note": ""
+  },
+  {
+    "character": "⛟",
+    "decimal": "9951",
+    "hex": "26DF",
+    "entity": "",
+    "description": "BLACK TRUCK",
+    "note": ""
+  },
+  {
+    "character": "⛠",
+    "decimal": "9952",
+    "hex": "2,60E+01",
+    "entity": "",
+    "description": "RESTRICTED LEFT ENTRY-1",
+    "note": ""
+  },
+  {
+    "character": "⛡",
+    "decimal": "9953",
+    "hex": "2,60E+02",
+    "entity": "",
+    "description": "RESTRICTED LEFT ENTRY-2",
+    "note": ""
+  },
+  {
+    "character": "⛢",
+    "decimal": "9954",
+    "hex": "2,60E+03",
+    "entity": "",
+    "description": "ASTRONOMICAL SYMBOL FOR URANUS",
+    "note": ""
+  },
+  {
+    "character": "⛣",
+    "decimal": "9955",
+    "hex": "2,60E+04",
+    "entity": "",
+    "description": "HEAVY CIRCLE WITH STROKE AND TWO DOTS ABOVE",
+    "note": ""
+  },
+  {
+    "character": "⛤",
+    "decimal": "9956",
+    "hex": "2,60E+05",
+    "entity": "",
+    "description": "PENTAGRAM",
+    "note": ""
+  },
+  {
+    "character": "⛥",
+    "decimal": "9957",
+    "hex": "2,60E+06",
+    "entity": "",
+    "description": "RIGHT-HANDED INTERLACED PENTAGRAM",
+    "note": ""
+  },
+  {
+    "character": "⛦",
+    "decimal": "9958",
+    "hex": "2,60E+07",
+    "entity": "",
+    "description": "LEFT-HANDED INTERLACED PENTAGRAM",
+    "note": ""
+  },
+  {
+    "character": "⛧",
+    "decimal": "9959",
+    "hex": "2,60E+08",
+    "entity": "",
+    "description": "INVERTED PENTAGRAM",
+    "note": ""
+  },
+  {
+    "character": "⛨",
+    "decimal": "9960",
+    "hex": "2,60E+09",
+    "entity": "",
+    "description": "BLACK CROSS ON SHIELD",
+    "note": ""
+  },
+  {
+    "character": "⛩",
+    "decimal": "9961",
+    "hex": "2,60E+10",
+    "entity": "",
+    "description": "SHINTO SHRINE",
+    "note": ""
+  },
+  {
+    "character": "⛪",
+    "decimal": "9962",
+    "hex": "26EA",
+    "entity": "",
+    "description": "CHURCH",
+    "note": ""
+  },
+  {
+    "character": "⛫",
+    "decimal": "9963",
+    "hex": "26EB",
+    "entity": "",
+    "description": "CASTLE",
+    "note": ""
+  },
+  {
+    "character": "⛬",
+    "decimal": "9964",
+    "hex": "26EC",
+    "entity": "",
+    "description": "HISTORIC SITE",
+    "note": ""
+  },
+  {
+    "character": "⛭",
+    "decimal": "9965",
+    "hex": "26ED",
+    "entity": "",
+    "description": "GEAR WITHOUT HUB",
+    "note": ""
+  },
+  {
+    "character": "⛮",
+    "decimal": "9966",
+    "hex": "26EE",
+    "entity": "",
+    "description": "GEAR WITH HANDLES",
+    "note": ""
+  },
+  {
+    "character": "⛯",
+    "decimal": "9967",
+    "hex": "26EF",
+    "entity": "",
+    "description": "MAP SYMBOL FOR LIGHTHOUSE",
+    "note": ""
+  },
+  {
+    "character": "⛰",
+    "decimal": "9968",
+    "hex": "26F0",
+    "entity": "",
+    "description": "MOUNTAIN",
+    "note": ""
+  },
+  {
+    "character": "⛱",
+    "decimal": "9969",
+    "hex": "26F1",
+    "entity": "",
+    "description": "UMBRELLA ON GROUND",
+    "note": ""
+  },
+  {
+    "character": "⛲",
+    "decimal": "9970",
+    "hex": "26F2",
+    "entity": "",
+    "description": "FOUNTAIN",
+    "note": ""
+  },
+  {
+    "character": "⛳",
+    "decimal": "9971",
+    "hex": "26F3",
+    "entity": "",
+    "description": "FLAG IN HOLE",
+    "note": ""
+  },
+  {
+    "character": "⛴",
+    "decimal": "9972",
+    "hex": "26F4",
+    "entity": "",
+    "description": "FERRY",
+    "note": ""
+  },
+  {
+    "character": "⛵",
+    "decimal": "9973",
+    "hex": "26F5",
+    "entity": "",
+    "description": "SAILBOAT",
+    "note": ""
+  },
+  {
+    "character": "⛶",
+    "decimal": "9974",
+    "hex": "26F6",
+    "entity": "",
+    "description": "SQUARE FOUR CORNERS",
+    "note": ""
+  },
+  {
+    "character": "⛷",
+    "decimal": "9975",
+    "hex": "26F7",
+    "entity": "",
+    "description": "SKIER",
+    "note": ""
+  },
+  {
+    "character": "⛸",
+    "decimal": "9976",
+    "hex": "26F8",
+    "entity": "",
+    "description": "ICE SKATE",
+    "note": ""
+  },
+  {
+    "character": "⛹",
+    "decimal": "9977",
+    "hex": "26F9",
+    "entity": "",
+    "description": "PERSON WITH BALL",
+    "note": ""
+  },
+  {
+    "character": "⛺",
+    "decimal": "9978",
+    "hex": "26FA",
+    "entity": "",
+    "description": "TENT",
+    "note": ""
+  },
+  {
+    "character": "⛻",
+    "decimal": "9979",
+    "hex": "26FB",
+    "entity": "",
+    "description": "JAPANESE BANK SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "⛼",
+    "decimal": "9980",
+    "hex": "26FC",
+    "entity": "",
+    "description": "HEADSTONE GRAVEYARD SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "⛽",
+    "decimal": "9981",
+    "hex": "26FD",
+    "entity": "",
+    "description": "FUEL PUMP",
+    "note": ""
+  },
+  {
+    "character": "⛾",
+    "decimal": "9982",
+    "hex": "26FE",
+    "entity": "",
+    "description": "CUP ON BLACK SQUARE",
+    "note": ""
+  },
+  {
+    "character": "⛿",
+    "decimal": "9983",
+    "hex": "26FF",
+    "entity": "",
+    "description": "WHITE FLAG WITH HORIZONTAL MIDDLE BLACK STRIPE",
+    "note": ""
+  }
+]

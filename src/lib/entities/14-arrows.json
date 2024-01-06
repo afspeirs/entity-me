@@ -1,0 +1,6242 @@
+[
+  {
+    "character": "←",
+    "decimal": "8592",
+    "hex": "2190",
+    "entity": "&larr;",
+    "description": "LEFTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "↑",
+    "decimal": "8593",
+    "hex": "2191",
+    "entity": "&uarr;",
+    "description": "UPWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "→",
+    "decimal": "8594",
+    "hex": "2192",
+    "entity": "&rarr;",
+    "description": "RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "↓",
+    "decimal": "8595",
+    "hex": "2193",
+    "entity": "&darr;",
+    "description": "DOWNWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "↔",
+    "decimal": "8596",
+    "hex": "2194",
+    "entity": "&harr;",
+    "description": "LEFT RIGHT ARROW",
+    "note": ""
+  },
+  {
+    "character": "↕",
+    "decimal": "8597",
+    "hex": "2195",
+    "entity": "",
+    "description": "UP DOWN ARROW",
+    "note": ""
+  },
+  {
+    "character": "↖",
+    "decimal": "8598",
+    "hex": "2196",
+    "entity": "",
+    "description": "NORTH WEST ARROW",
+    "note": ""
+  },
+  {
+    "character": "↗",
+    "decimal": "8599",
+    "hex": "2197",
+    "entity": "",
+    "description": "NORTH EAST ARROW",
+    "note": ""
+  },
+  {
+    "character": "↘",
+    "decimal": "8600",
+    "hex": "2198",
+    "entity": "",
+    "description": "SOUTH EAST ARROW",
+    "note": ""
+  },
+  {
+    "character": "↙",
+    "decimal": "8601",
+    "hex": "2199",
+    "entity": "",
+    "description": "SOUTH WEST ARROW",
+    "note": ""
+  },
+  {
+    "character": "↚",
+    "decimal": "8602",
+    "hex": "219A",
+    "entity": "",
+    "description": "LEFTWARDS ARROW WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "↛",
+    "decimal": "8603",
+    "hex": "219B",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "↜",
+    "decimal": "8604",
+    "hex": "219C",
+    "entity": "",
+    "description": "LEFTWARDS WAVE ARROW",
+    "note": ""
+  },
+  {
+    "character": "↝",
+    "decimal": "8605",
+    "hex": "219D",
+    "entity": "",
+    "description": "RIGHTWARDS WAVE ARROW",
+    "note": ""
+  },
+  {
+    "character": "↞",
+    "decimal": "8606",
+    "hex": "219E",
+    "entity": "",
+    "description": "LEFTWARDS TWO HEADED ARROW",
+    "note": ""
+  },
+  {
+    "character": "↟",
+    "decimal": "8607",
+    "hex": "219F",
+    "entity": "",
+    "description": "UPWARDS TWO HEADED ARROW",
+    "note": ""
+  },
+  {
+    "character": "↠",
+    "decimal": "8608",
+    "hex": "21A0",
+    "entity": "",
+    "description": "RIGHTWARDS TWO HEADED ARROW",
+    "note": ""
+  },
+  {
+    "character": "↡",
+    "decimal": "8609",
+    "hex": "21A1",
+    "entity": "",
+    "description": "DOWNWARDS TWO HEADED ARROW",
+    "note": ""
+  },
+  {
+    "character": "↢",
+    "decimal": "8610",
+    "hex": "21A2",
+    "entity": "",
+    "description": "LEFTWARDS ARROW WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "↣",
+    "decimal": "8611",
+    "hex": "21A3",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "↤",
+    "decimal": "8612",
+    "hex": "21A4",
+    "entity": "",
+    "description": "LEFTWARDS ARROW FROM BAR",
+    "note": ""
+  },
+  {
+    "character": "↥",
+    "decimal": "8613",
+    "hex": "21A5",
+    "entity": "",
+    "description": "UPWARDS ARROW FROM BAR",
+    "note": ""
+  },
+  {
+    "character": "↦",
+    "decimal": "8614",
+    "hex": "21A6",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW FROM BAR",
+    "note": ""
+  },
+  {
+    "character": "↧",
+    "decimal": "8615",
+    "hex": "21A7",
+    "entity": "",
+    "description": "DOWNWARDS ARROW FROM BAR",
+    "note": ""
+  },
+  {
+    "character": "↨",
+    "decimal": "8616",
+    "hex": "21A8",
+    "entity": "",
+    "description": "UP DOWN ARROW WITH BASE",
+    "note": ""
+  },
+  {
+    "character": "↩",
+    "decimal": "8617",
+    "hex": "21A9",
+    "entity": "",
+    "description": "LEFTWARDS ARROW WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "↪",
+    "decimal": "8618",
+    "hex": "21AA",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "↫",
+    "decimal": "8619",
+    "hex": "21AB",
+    "entity": "",
+    "description": "LEFTWARDS ARROW WITH LOOP",
+    "note": ""
+  },
+  {
+    "character": "↬",
+    "decimal": "8620",
+    "hex": "21AC",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW WITH LOOP",
+    "note": ""
+  },
+  {
+    "character": "↭",
+    "decimal": "8621",
+    "hex": "21AD",
+    "entity": "",
+    "description": "LEFT RIGHT WAVE ARROW",
+    "note": ""
+  },
+  {
+    "character": "↮",
+    "decimal": "8622",
+    "hex": "21AE",
+    "entity": "",
+    "description": "LEFT RIGHT ARROW WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "↯",
+    "decimal": "8623",
+    "hex": "21AF",
+    "entity": "",
+    "description": "DOWNWARDS ZIGZAG ARROW",
+    "note": ""
+  },
+  {
+    "character": "↰",
+    "decimal": "8624",
+    "hex": "21B0",
+    "entity": "",
+    "description": "UPWARDS ARROW WITH TIP LEFTWARDS",
+    "note": ""
+  },
+  {
+    "character": "↱",
+    "decimal": "8625",
+    "hex": "21B1",
+    "entity": "",
+    "description": "UPWARDS ARROW WITH TIP RIGHTWARDS",
+    "note": ""
+  },
+  {
+    "character": "↲",
+    "decimal": "8626",
+    "hex": "21B2",
+    "entity": "",
+    "description": "DOWNWARDS ARROW WITH TIP LEFTWARDS",
+    "note": ""
+  },
+  {
+    "character": "↳",
+    "decimal": "8627",
+    "hex": "21B3",
+    "entity": "",
+    "description": "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
+    "note": ""
+  },
+  {
+    "character": "↴",
+    "decimal": "8628",
+    "hex": "21B4",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW WITH CORNER DOWNWARDS",
+    "note": ""
+  },
+  {
+    "character": "↵",
+    "decimal": "8629",
+    "hex": "21B5",
+    "entity": "&crarr;",
+    "description": "DOWNWARDS ARROW WITH CORNER LEFTWARDS",
+    "note": ""
+  },
+  {
+    "character": "↶",
+    "decimal": "8630",
+    "hex": "21B6",
+    "entity": "",
+    "description": "ANTICLOCKWISE TOP SEMICIRCLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "↷",
+    "decimal": "8631",
+    "hex": "21B7",
+    "entity": "",
+    "description": "CLOCKWISE TOP SEMICIRCLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "↸",
+    "decimal": "8632",
+    "hex": "21B8",
+    "entity": "",
+    "description": "NORTH WEST ARROW TO LONG BAR",
+    "note": ""
+  },
+  {
+    "character": "↹",
+    "decimal": "8633",
+    "hex": "21B9",
+    "entity": "",
+    "description": "LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR",
+    "note": ""
+  },
+  {
+    "character": "↺",
+    "decimal": "8634",
+    "hex": "21BA",
+    "entity": "",
+    "description": "ANTICLOCKWISE OPEN CIRCLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "↻",
+    "decimal": "8635",
+    "hex": "21BB",
+    "entity": "",
+    "description": "CLOCKWISE OPEN CIRCLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "↼",
+    "decimal": "8636",
+    "hex": "21BC",
+    "entity": "",
+    "description": "LEFTWARDS HARPOON WITH BARB UPWARDS",
+    "note": ""
+  },
+  {
+    "character": "↽",
+    "decimal": "8637",
+    "hex": "21BD",
+    "entity": "",
+    "description": "LEFTWARDS HARPOON WITH BARB DOWNWARDS",
+    "note": ""
+  },
+  {
+    "character": "↾",
+    "decimal": "8638",
+    "hex": "21BE",
+    "entity": "",
+    "description": "UPWARDS HARPOON WITH BARB RIGHTWARDS",
+    "note": ""
+  },
+  {
+    "character": "↿",
+    "decimal": "8639",
+    "hex": "21BF",
+    "entity": "",
+    "description": "UPWARDS HARPOON WITH BARB LEFTWARDS",
+    "note": ""
+  },
+  {
+    "character": "⇀",
+    "decimal": "8640",
+    "hex": "21C0",
+    "entity": "",
+    "description": "RIGHTWARDS HARPOON WITH BARB UPWARDS",
+    "note": ""
+  },
+  {
+    "character": "⇁",
+    "decimal": "8641",
+    "hex": "21C1",
+    "entity": "",
+    "description": "RIGHTWARDS HARPOON WITH BARB DOWNWARDS",
+    "note": ""
+  },
+  {
+    "character": "⇂",
+    "decimal": "8642",
+    "hex": "21C2",
+    "entity": "",
+    "description": "DOWNWARDS HARPOON WITH BARB RIGHTWARDS",
+    "note": ""
+  },
+  {
+    "character": "⇃",
+    "decimal": "8643",
+    "hex": "21C3",
+    "entity": "",
+    "description": "DOWNWARDS HARPOON WITH BARB LEFTWARDS",
+    "note": ""
+  },
+  {
+    "character": "⇄",
+    "decimal": "8644",
+    "hex": "21C4",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇅",
+    "decimal": "8645",
+    "hex": "21C5",
+    "entity": "",
+    "description": "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇆",
+    "decimal": "8646",
+    "hex": "21C6",
+    "entity": "",
+    "description": "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇇",
+    "decimal": "8647",
+    "hex": "21C7",
+    "entity": "",
+    "description": "LEFTWARDS PAIRED ARROWS",
+    "note": ""
+  },
+  {
+    "character": "⇈",
+    "decimal": "8648",
+    "hex": "21C8",
+    "entity": "",
+    "description": "UPWARDS PAIRED ARROWS",
+    "note": ""
+  },
+  {
+    "character": "⇉",
+    "decimal": "8649",
+    "hex": "21C9",
+    "entity": "",
+    "description": "RIGHTWARDS PAIRED ARROWS",
+    "note": ""
+  },
+  {
+    "character": "⇊",
+    "decimal": "8650",
+    "hex": "21CA",
+    "entity": "",
+    "description": "DOWNWARDS PAIRED ARROWS",
+    "note": ""
+  },
+  {
+    "character": "⇋",
+    "decimal": "8651",
+    "hex": "21CB",
+    "entity": "",
+    "description": "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON",
+    "note": ""
+  },
+  {
+    "character": "⇌",
+    "decimal": "8652",
+    "hex": "21CC",
+    "entity": "",
+    "description": "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON",
+    "note": ""
+  },
+  {
+    "character": "⇍",
+    "decimal": "8653",
+    "hex": "21CD",
+    "entity": "",
+    "description": "LEFTWARDS DOUBLE ARROW WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇎",
+    "decimal": "8654",
+    "hex": "21CE",
+    "entity": "",
+    "description": "LEFT RIGHT DOUBLE ARROW WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇏",
+    "decimal": "8655",
+    "hex": "21CF",
+    "entity": "",
+    "description": "RIGHTWARDS DOUBLE ARROW WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇐",
+    "decimal": "8656",
+    "hex": "21D0",
+    "entity": "&lArr;",
+    "description": "LEFTWARDS DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇑",
+    "decimal": "8657",
+    "hex": "21D1",
+    "entity": "&uArr;",
+    "description": "UPWARDS DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇒",
+    "decimal": "8658",
+    "hex": "21D2",
+    "entity": "&rArr;",
+    "description": "RIGHTWARDS DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇓",
+    "decimal": "8659",
+    "hex": "21D3",
+    "entity": "&dArr;",
+    "description": "DOWNWARDS DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇔",
+    "decimal": "8660",
+    "hex": "21D4",
+    "entity": "&hArr;",
+    "description": "LEFT RIGHT DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇕",
+    "decimal": "8661",
+    "hex": "21D5",
+    "entity": "",
+    "description": "UP DOWN DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇖",
+    "decimal": "8662",
+    "hex": "21D6",
+    "entity": "",
+    "description": "NORTH WEST DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇗",
+    "decimal": "8663",
+    "hex": "21D7",
+    "entity": "",
+    "description": "NORTH EAST DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇘",
+    "decimal": "8664",
+    "hex": "21D8",
+    "entity": "",
+    "description": "SOUTH EAST DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇙",
+    "decimal": "8665",
+    "hex": "21D9",
+    "entity": "",
+    "description": "SOUTH WEST DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇚",
+    "decimal": "8666",
+    "hex": "21DA",
+    "entity": "",
+    "description": "LEFTWARDS TRIPLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇛",
+    "decimal": "8667",
+    "hex": "21DB",
+    "entity": "",
+    "description": "RIGHTWARDS TRIPLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇜",
+    "decimal": "8668",
+    "hex": "21DC",
+    "entity": "",
+    "description": "LEFTWARDS SQUIGGLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇝",
+    "decimal": "8669",
+    "hex": "21DD",
+    "entity": "",
+    "description": "RIGHTWARDS SQUIGGLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇞",
+    "decimal": "8670",
+    "hex": "21DE",
+    "entity": "",
+    "description": "UPWARDS ARROW WITH DOUBLE STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇟",
+    "decimal": "8671",
+    "hex": "21DF",
+    "entity": "",
+    "description": "DOWNWARDS ARROW WITH DOUBLE STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇠",
+    "decimal": "8672",
+    "hex": "2,10E+01",
+    "entity": "",
+    "description": "LEFTWARDS DASHED ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇡",
+    "decimal": "8673",
+    "hex": "2,10E+02",
+    "entity": "",
+    "description": "UPWARDS DASHED ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇢",
+    "decimal": "8674",
+    "hex": "2,10E+03",
+    "entity": "",
+    "description": "RIGHTWARDS DASHED ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇣",
+    "decimal": "8675",
+    "hex": "2,10E+04",
+    "entity": "",
+    "description": "DOWNWARDS DASHED ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇤",
+    "decimal": "8676",
+    "hex": "2,10E+05",
+    "entity": "",
+    "description": "LEFTWARDS ARROW TO BAR",
+    "note": ""
+  },
+  {
+    "character": "⇥",
+    "decimal": "8677",
+    "hex": "2,10E+06",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW TO BAR",
+    "note": ""
+  },
+  {
+    "character": "⇦",
+    "decimal": "8678",
+    "hex": "2,10E+07",
+    "entity": "",
+    "description": "LEFTWARDS WHITE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇧",
+    "decimal": "8679",
+    "hex": "2,10E+08",
+    "entity": "",
+    "description": "UPWARDS WHITE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇨",
+    "decimal": "8680",
+    "hex": "2,10E+09",
+    "entity": "",
+    "description": "RIGHTWARDS WHITE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇩",
+    "decimal": "8681",
+    "hex": "2,10E+10",
+    "entity": "",
+    "description": "DOWNWARDS WHITE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇪",
+    "decimal": "8682",
+    "hex": "21EA",
+    "entity": "",
+    "description": "UPWARDS WHITE ARROW FROM BAR",
+    "note": ""
+  },
+  {
+    "character": "⇫",
+    "decimal": "8683",
+    "hex": "21EB",
+    "entity": "",
+    "description": "UPWARDS WHITE ARROW ON PEDESTAL",
+    "note": ""
+  },
+  {
+    "character": "⇬",
+    "decimal": "8684",
+    "hex": "21EC",
+    "entity": "",
+    "description": "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR",
+    "note": ""
+  },
+  {
+    "character": "⇭",
+    "decimal": "8685",
+    "hex": "21ED",
+    "entity": "",
+    "description": "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR",
+    "note": ""
+  },
+  {
+    "character": "⇮",
+    "decimal": "8686",
+    "hex": "21EE",
+    "entity": "",
+    "description": "UPWARDS WHITE DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇯",
+    "decimal": "8687",
+    "hex": "21EF",
+    "entity": "",
+    "description": "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL",
+    "note": ""
+  },
+  {
+    "character": "⇰",
+    "decimal": "8688",
+    "hex": "21F0",
+    "entity": "",
+    "description": "RIGHTWARDS WHITE ARROW FROM WALL",
+    "note": ""
+  },
+  {
+    "character": "⇱",
+    "decimal": "8689",
+    "hex": "21F1",
+    "entity": "",
+    "description": "NORTH WEST ARROW TO CORNER",
+    "note": ""
+  },
+  {
+    "character": "⇲",
+    "decimal": "8690",
+    "hex": "21F2",
+    "entity": "",
+    "description": "SOUTH EAST ARROW TO CORNER",
+    "note": ""
+  },
+  {
+    "character": "⇳",
+    "decimal": "8691",
+    "hex": "21F3",
+    "entity": "",
+    "description": "UP DOWN WHITE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇴",
+    "decimal": "8692",
+    "hex": "21F4",
+    "entity": "",
+    "description": "RIGHT ARROW WITH SMALL CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "⇵",
+    "decimal": "8693",
+    "hex": "21F5",
+    "entity": "",
+    "description": "DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇶",
+    "decimal": "8694",
+    "hex": "21F6",
+    "entity": "",
+    "description": "THREE RIGHTWARDS ARROWS",
+    "note": ""
+  },
+  {
+    "character": "⇷",
+    "decimal": "8695",
+    "hex": "21F7",
+    "entity": "",
+    "description": "LEFTWARDS ARROW WITH VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇸",
+    "decimal": "8696",
+    "hex": "21F8",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW WITH VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇹",
+    "decimal": "8697",
+    "hex": "21F9",
+    "entity": "",
+    "description": "LEFT RIGHT ARROW WITH VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇺",
+    "decimal": "8698",
+    "hex": "21FA",
+    "entity": "",
+    "description": "LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇻",
+    "decimal": "8699",
+    "hex": "21FB",
+    "entity": "",
+    "description": "RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇼",
+    "decimal": "8700",
+    "hex": "21FC",
+    "entity": "",
+    "description": "LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "⇽",
+    "decimal": "8701",
+    "hex": "21FD",
+    "entity": "",
+    "description": "LEFTWARDS OPEN-HEADED ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇾",
+    "decimal": "8702",
+    "hex": "21FE",
+    "entity": "",
+    "description": "RIGHTWARDS OPEN-HEADED ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇿",
+    "decimal": "8703",
+    "hex": "21FF",
+    "entity": "",
+    "description": "LEFT RIGHT OPEN-HEADED ARROW",
+    "note": ""
+  },
+  {
+    "character": "Char",
+    "decimal": "decimal",
+    "hex": "Hex",
+    "entity": "Entity",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "←",
+    "decimal": "8592",
+    "hex": "2190",
+    "entity": "&larr;",
+    "description": "LEFTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "↑",
+    "decimal": "8593",
+    "hex": "2191",
+    "entity": "&uarr;",
+    "description": "UPWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "→",
+    "decimal": "8594",
+    "hex": "2192",
+    "entity": "&rarr;",
+    "description": "RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "↓",
+    "decimal": "8595",
+    "hex": "2193",
+    "entity": "&darr;",
+    "description": "DOWNWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "↔",
+    "decimal": "8596",
+    "hex": "2194",
+    "entity": "&harr;",
+    "description": "LEFT RIGHT ARROW",
+    "note": ""
+  },
+  {
+    "character": "↵",
+    "decimal": "8629",
+    "hex": "21B5",
+    "entity": "&crarr;",
+    "description": "DOWNWARDS ARROW WITH CORNER LEFTWARDS",
+    "note": ""
+  },
+  {
+    "character": "⇐",
+    "decimal": "8656",
+    "hex": "21D0",
+    "entity": "&lArr;",
+    "description": "LEFTWARDS DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇑",
+    "decimal": "8657",
+    "hex": "21D1",
+    "entity": "&uArr;",
+    "description": "UPWARDS DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇒",
+    "decimal": "8658",
+    "hex": "21D2",
+    "entity": "&rArr;",
+    "description": "RIGHTWARDS DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇓",
+    "decimal": "8659",
+    "hex": "21D3",
+    "entity": "&dArr;",
+    "description": "DOWNWARDS DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⇔",
+    "decimal": "8660",
+    "hex": "21D4",
+    "entity": "&hArr;",
+    "description": "LEFT RIGHT DOUBLE ARROW",
+    "note": ""
+  },
+  {
+    "character": "⟰",
+    "decimal": "10224",
+    "hex": "27F0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟱",
+    "decimal": "10225",
+    "hex": "27F1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟲",
+    "decimal": "10226",
+    "hex": "27F2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟳",
+    "decimal": "10227",
+    "hex": "27F3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟴",
+    "decimal": "10228",
+    "hex": "27F4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟵",
+    "decimal": "10229",
+    "hex": "27F5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟶",
+    "decimal": "10230",
+    "hex": "27F6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟷",
+    "decimal": "10231",
+    "hex": "27F7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟸",
+    "decimal": "10232",
+    "hex": "27F8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟹",
+    "decimal": "10233",
+    "hex": "27F9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟺",
+    "decimal": "10234",
+    "hex": "27FA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟻",
+    "decimal": "10235",
+    "hex": "27FB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟼",
+    "decimal": "10236",
+    "hex": "27FC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟽",
+    "decimal": "10237",
+    "hex": "27FD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟾",
+    "decimal": "10238",
+    "hex": "27FE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⟿",
+    "decimal": "10239",
+    "hex": "27FF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤀",
+    "decimal": "10496",
+    "hex": "2900",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤁",
+    "decimal": "10497",
+    "hex": "2901",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤂",
+    "decimal": "10498",
+    "hex": "2902",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤃",
+    "decimal": "10499",
+    "hex": "2903",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤄",
+    "decimal": "10500",
+    "hex": "2904",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤅",
+    "decimal": "10501",
+    "hex": "2905",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤆",
+    "decimal": "10502",
+    "hex": "2906",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤇",
+    "decimal": "10503",
+    "hex": "2907",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤈",
+    "decimal": "10504",
+    "hex": "2908",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤉",
+    "decimal": "10505",
+    "hex": "2909",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤊",
+    "decimal": "10506",
+    "hex": "290A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤋",
+    "decimal": "10507",
+    "hex": "290B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤌",
+    "decimal": "10508",
+    "hex": "290C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤍",
+    "decimal": "10509",
+    "hex": "290D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤎",
+    "decimal": "10510",
+    "hex": "290E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤏",
+    "decimal": "10511",
+    "hex": "290F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤐",
+    "decimal": "10512",
+    "hex": "2910",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤑",
+    "decimal": "10513",
+    "hex": "2911",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤒",
+    "decimal": "10514",
+    "hex": "2912",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤓",
+    "decimal": "10515",
+    "hex": "2913",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤔",
+    "decimal": "10516",
+    "hex": "2914",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤕",
+    "decimal": "10517",
+    "hex": "2915",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤖",
+    "decimal": "10518",
+    "hex": "2916",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤗",
+    "decimal": "10519",
+    "hex": "2917",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤘",
+    "decimal": "10520",
+    "hex": "2918",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤙",
+    "decimal": "10521",
+    "hex": "2919",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤚",
+    "decimal": "10522",
+    "hex": "291A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤛",
+    "decimal": "10523",
+    "hex": "291B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤜",
+    "decimal": "10524",
+    "hex": "291C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤝",
+    "decimal": "10525",
+    "hex": "291D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤞",
+    "decimal": "10526",
+    "hex": "291E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤟",
+    "decimal": "10527",
+    "hex": "291F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤠",
+    "decimal": "10528",
+    "hex": "2920",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤡",
+    "decimal": "10529",
+    "hex": "2921",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤢",
+    "decimal": "10530",
+    "hex": "2922",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤣",
+    "decimal": "10531",
+    "hex": "2923",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤤",
+    "decimal": "10532",
+    "hex": "2924",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤥",
+    "decimal": "10533",
+    "hex": "2925",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤦",
+    "decimal": "10534",
+    "hex": "2926",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤧",
+    "decimal": "10535",
+    "hex": "2927",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤨",
+    "decimal": "10536",
+    "hex": "2928",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤩",
+    "decimal": "10537",
+    "hex": "2929",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤪",
+    "decimal": "10538",
+    "hex": "292A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤫",
+    "decimal": "10539",
+    "hex": "292B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤬",
+    "decimal": "10540",
+    "hex": "292C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤭",
+    "decimal": "10541",
+    "hex": "292D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤮",
+    "decimal": "10542",
+    "hex": "292E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤯",
+    "decimal": "10543",
+    "hex": "292F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤰",
+    "decimal": "10544",
+    "hex": "2930",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤱",
+    "decimal": "10545",
+    "hex": "2931",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤲",
+    "decimal": "10546",
+    "hex": "2932",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤳",
+    "decimal": "10547",
+    "hex": "2933",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤴",
+    "decimal": "10548",
+    "hex": "2934",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤵",
+    "decimal": "10549",
+    "hex": "2935",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤶",
+    "decimal": "10550",
+    "hex": "2936",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤷",
+    "decimal": "10551",
+    "hex": "2937",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤸",
+    "decimal": "10552",
+    "hex": "2938",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤹",
+    "decimal": "10553",
+    "hex": "2939",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤺",
+    "decimal": "10554",
+    "hex": "293A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤻",
+    "decimal": "10555",
+    "hex": "293B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤼",
+    "decimal": "10556",
+    "hex": "293C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤽",
+    "decimal": "10557",
+    "hex": "293D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤾",
+    "decimal": "10558",
+    "hex": "293E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤿",
+    "decimal": "10559",
+    "hex": "293F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥀",
+    "decimal": "10560",
+    "hex": "2940",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥁",
+    "decimal": "10561",
+    "hex": "2941",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥂",
+    "decimal": "10562",
+    "hex": "2942",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥃",
+    "decimal": "10563",
+    "hex": "2943",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥄",
+    "decimal": "10564",
+    "hex": "2944",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥅",
+    "decimal": "10565",
+    "hex": "2945",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥆",
+    "decimal": "10566",
+    "hex": "2946",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥇",
+    "decimal": "10567",
+    "hex": "2947",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥈",
+    "decimal": "10568",
+    "hex": "2948",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥉",
+    "decimal": "10569",
+    "hex": "2949",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥊",
+    "decimal": "10570",
+    "hex": "294A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥋",
+    "decimal": "10571",
+    "hex": "294B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥌",
+    "decimal": "10572",
+    "hex": "294C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥍",
+    "decimal": "10573",
+    "hex": "294D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥎",
+    "decimal": "10574",
+    "hex": "294E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥏",
+    "decimal": "10575",
+    "hex": "294F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥐",
+    "decimal": "10576",
+    "hex": "2950",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥑",
+    "decimal": "10577",
+    "hex": "2951",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥒",
+    "decimal": "10578",
+    "hex": "2952",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥓",
+    "decimal": "10579",
+    "hex": "2953",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥔",
+    "decimal": "10580",
+    "hex": "2954",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥕",
+    "decimal": "10581",
+    "hex": "2955",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥖",
+    "decimal": "10582",
+    "hex": "2956",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥗",
+    "decimal": "10583",
+    "hex": "2957",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥘",
+    "decimal": "10584",
+    "hex": "2958",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥙",
+    "decimal": "10585",
+    "hex": "2959",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥚",
+    "decimal": "10586",
+    "hex": "295A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥛",
+    "decimal": "10587",
+    "hex": "295B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥜",
+    "decimal": "10588",
+    "hex": "295C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥝",
+    "decimal": "10589",
+    "hex": "295D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥞",
+    "decimal": "10590",
+    "hex": "295E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥟",
+    "decimal": "10591",
+    "hex": "295F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥠",
+    "decimal": "10592",
+    "hex": "2960",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥡",
+    "decimal": "10593",
+    "hex": "2961",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥢",
+    "decimal": "10594",
+    "hex": "2962",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥣",
+    "decimal": "10595",
+    "hex": "2963",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥤",
+    "decimal": "10596",
+    "hex": "2964",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥥",
+    "decimal": "10597",
+    "hex": "2965",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥦",
+    "decimal": "10598",
+    "hex": "2966",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥧",
+    "decimal": "10599",
+    "hex": "2967",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥨",
+    "decimal": "10600",
+    "hex": "2968",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥩",
+    "decimal": "10601",
+    "hex": "2969",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥪",
+    "decimal": "10602",
+    "hex": "296A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥫",
+    "decimal": "10603",
+    "hex": "296B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥬",
+    "decimal": "10604",
+    "hex": "296C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥭",
+    "decimal": "10605",
+    "hex": "296D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥮",
+    "decimal": "10606",
+    "hex": "296E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥯",
+    "decimal": "10607",
+    "hex": "296F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥰",
+    "decimal": "10608",
+    "hex": "2970",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥱",
+    "decimal": "10609",
+    "hex": "2971",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥲",
+    "decimal": "10610",
+    "hex": "2972",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥳",
+    "decimal": "10611",
+    "hex": "2973",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥴",
+    "decimal": "10612",
+    "hex": "2974",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥵",
+    "decimal": "10613",
+    "hex": "2975",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥶",
+    "decimal": "10614",
+    "hex": "2976",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥷",
+    "decimal": "10615",
+    "hex": "2977",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥸",
+    "decimal": "10616",
+    "hex": "2978",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥹",
+    "decimal": "10617",
+    "hex": "2979",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥺",
+    "decimal": "10618",
+    "hex": "297A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥻",
+    "decimal": "10619",
+    "hex": "297B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥼",
+    "decimal": "10620",
+    "hex": "297C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥽",
+    "decimal": "10621",
+    "hex": "297D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥾",
+    "decimal": "10622",
+    "hex": "297E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⥿",
+    "decimal": "10623",
+    "hex": "297F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⬀",
+    "decimal": "11008",
+    "hex": "2B00",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬁",
+    "decimal": "11009",
+    "hex": "2B01",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬂",
+    "decimal": "11010",
+    "hex": "2B02",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬃",
+    "decimal": "11011",
+    "hex": "2B03",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬄",
+    "decimal": "11012",
+    "hex": "2B04",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬅",
+    "decimal": "11013",
+    "hex": "2B05",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬆",
+    "decimal": "11014",
+    "hex": "2B06",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬇",
+    "decimal": "11015",
+    "hex": "2B07",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬈",
+    "decimal": "11016",
+    "hex": "2B08",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬉",
+    "decimal": "11017",
+    "hex": "2B09",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬊",
+    "decimal": "11018",
+    "hex": "2B0A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬋",
+    "decimal": "11019",
+    "hex": "2B0B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬌",
+    "decimal": "11020",
+    "hex": "2B0C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬍",
+    "decimal": "11021",
+    "hex": "2B0D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬎",
+    "decimal": "11022",
+    "hex": "2B0E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬏",
+    "decimal": "11023",
+    "hex": "2B0F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬐",
+    "decimal": "11024",
+    "hex": "2B10",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬑",
+    "decimal": "11025",
+    "hex": "2B11",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬒",
+    "decimal": "11026",
+    "hex": "2B12",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬓",
+    "decimal": "11027",
+    "hex": "2B13",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬔",
+    "decimal": "11028",
+    "hex": "2B14",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬕",
+    "decimal": "11029",
+    "hex": "2B15",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬖",
+    "decimal": "11030",
+    "hex": "2B16",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬗",
+    "decimal": "11031",
+    "hex": "2B17",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬘",
+    "decimal": "11032",
+    "hex": "2B18",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬙",
+    "decimal": "11033",
+    "hex": "2B19",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬚",
+    "decimal": "11034",
+    "hex": "2B1A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬛",
+    "decimal": "11035",
+    "hex": "2B1B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬜",
+    "decimal": "11036",
+    "hex": "2B1C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬝",
+    "decimal": "11037",
+    "hex": "2B1D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬞",
+    "decimal": "11038",
+    "hex": "2B1E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬟",
+    "decimal": "11039",
+    "hex": "2B1F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬠",
+    "decimal": "11040",
+    "hex": "2B20",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬡",
+    "decimal": "11041",
+    "hex": "2B21",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬢",
+    "decimal": "11042",
+    "hex": "2B22",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬣",
+    "decimal": "11043",
+    "hex": "2B23",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬤",
+    "decimal": "11044",
+    "hex": "2B24",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬥",
+    "decimal": "11045",
+    "hex": "2B25",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬦",
+    "decimal": "11046",
+    "hex": "2B26",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬧",
+    "decimal": "11047",
+    "hex": "2B27",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬨",
+    "decimal": "11048",
+    "hex": "2B28",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬩",
+    "decimal": "11049",
+    "hex": "2B29",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬪",
+    "decimal": "11050",
+    "hex": "2B2A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬫",
+    "decimal": "11051",
+    "hex": "2B2B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬬",
+    "decimal": "11052",
+    "hex": "2B2C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬭",
+    "decimal": "11053",
+    "hex": "2B2D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬮",
+    "decimal": "11054",
+    "hex": "2B2E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬯",
+    "decimal": "11055",
+    "hex": "2B2F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬰",
+    "decimal": "11056",
+    "hex": "2B30",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬱",
+    "decimal": "11057",
+    "hex": "2B31",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬲",
+    "decimal": "11058",
+    "hex": "2B32",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬳",
+    "decimal": "11059",
+    "hex": "2B33",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬴",
+    "decimal": "11060",
+    "hex": "2B34",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬵",
+    "decimal": "11061",
+    "hex": "2B35",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬶",
+    "decimal": "11062",
+    "hex": "2B36",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬷",
+    "decimal": "11063",
+    "hex": "2B37",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬸",
+    "decimal": "11064",
+    "hex": "2B38",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬹",
+    "decimal": "11065",
+    "hex": "2B39",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬺",
+    "decimal": "11066",
+    "hex": "2B3A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬻",
+    "decimal": "11067",
+    "hex": "2B3B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬼",
+    "decimal": "11068",
+    "hex": "2B3C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬽",
+    "decimal": "11069",
+    "hex": "2B3D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬾",
+    "decimal": "11070",
+    "hex": "2B3E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⬿",
+    "decimal": "11071",
+    "hex": "2B3F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭀",
+    "decimal": "11072",
+    "hex": "2B40",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭁",
+    "decimal": "11073",
+    "hex": "2B41",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭂",
+    "decimal": "11074",
+    "hex": "2B42",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭃",
+    "decimal": "11075",
+    "hex": "2B43",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭄",
+    "decimal": "11076",
+    "hex": "2B44",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭅",
+    "decimal": "11077",
+    "hex": "2B45",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭆",
+    "decimal": "11078",
+    "hex": "2B46",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭇",
+    "decimal": "11079",
+    "hex": "2B47",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭈",
+    "decimal": "11080",
+    "hex": "2B48",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭉",
+    "decimal": "11081",
+    "hex": "2B49",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭊",
+    "decimal": "11082",
+    "hex": "2B4A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭋",
+    "decimal": "11083",
+    "hex": "2B4B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭌",
+    "decimal": "11084",
+    "hex": "2B4C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭍",
+    "decimal": "11085",
+    "hex": "2B4D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭎",
+    "decimal": "11086",
+    "hex": "2B4E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭏",
+    "decimal": "11087",
+    "hex": "2B4F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭐",
+    "decimal": "11088",
+    "hex": "2B50",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭑",
+    "decimal": "11089",
+    "hex": "2B51",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭒",
+    "decimal": "11090",
+    "hex": "2B52",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭓",
+    "decimal": "11091",
+    "hex": "2B53",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭔",
+    "decimal": "11092",
+    "hex": "2B54",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭕",
+    "decimal": "11093",
+    "hex": "2B55",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭖",
+    "decimal": "11094",
+    "hex": "2B56",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭗",
+    "decimal": "11095",
+    "hex": "2B57",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭘",
+    "decimal": "11096",
+    "hex": "2B58",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭙",
+    "decimal": "11097",
+    "hex": "2B59",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭚",
+    "decimal": "11098",
+    "hex": "2B5A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭛",
+    "decimal": "11099",
+    "hex": "2B5B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭜",
+    "decimal": "11100",
+    "hex": "2B5C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭝",
+    "decimal": "11101",
+    "hex": "2B5D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭞",
+    "decimal": "11102",
+    "hex": "2B5E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭟",
+    "decimal": "11103",
+    "hex": "2B5F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭠",
+    "decimal": "11104",
+    "hex": "2B60",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭡",
+    "decimal": "11105",
+    "hex": "2B61",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭢",
+    "decimal": "11106",
+    "hex": "2B62",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭣",
+    "decimal": "11107",
+    "hex": "2B63",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭤",
+    "decimal": "11108",
+    "hex": "2B64",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭥",
+    "decimal": "11109",
+    "hex": "2B65",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭦",
+    "decimal": "11110",
+    "hex": "2B66",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭧",
+    "decimal": "11111",
+    "hex": "2B67",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭨",
+    "decimal": "11112",
+    "hex": "2B68",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭩",
+    "decimal": "11113",
+    "hex": "2B69",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭪",
+    "decimal": "11114",
+    "hex": "2B6A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭫",
+    "decimal": "11115",
+    "hex": "2B6B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭬",
+    "decimal": "11116",
+    "hex": "2B6C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭭",
+    "decimal": "11117",
+    "hex": "2B6D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭮",
+    "decimal": "11118",
+    "hex": "2B6E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭯",
+    "decimal": "11119",
+    "hex": "2B6F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭰",
+    "decimal": "11120",
+    "hex": "2B70",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭱",
+    "decimal": "11121",
+    "hex": "2B71",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭲",
+    "decimal": "11122",
+    "hex": "2B72",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭳",
+    "decimal": "11123",
+    "hex": "2B73",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭴",
+    "decimal": "11124",
+    "hex": "2B74",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭵",
+    "decimal": "11125",
+    "hex": "2B75",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭶",
+    "decimal": "11126",
+    "hex": "2B76",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭷",
+    "decimal": "11127",
+    "hex": "2B77",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭸",
+    "decimal": "11128",
+    "hex": "2B78",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭹",
+    "decimal": "11129",
+    "hex": "2B79",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭺",
+    "decimal": "11130",
+    "hex": "2B7A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭻",
+    "decimal": "11131",
+    "hex": "2B7B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭼",
+    "decimal": "11132",
+    "hex": "2B7C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭽",
+    "decimal": "11133",
+    "hex": "2B7D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭾",
+    "decimal": "11134",
+    "hex": "2B7E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⭿",
+    "decimal": "11135",
+    "hex": "2B7F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮀",
+    "decimal": "11136",
+    "hex": "2B80",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮁",
+    "decimal": "11137",
+    "hex": "2B81",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮂",
+    "decimal": "11138",
+    "hex": "2B82",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮃",
+    "decimal": "11139",
+    "hex": "2B83",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮄",
+    "decimal": "11140",
+    "hex": "2B84",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮅",
+    "decimal": "11141",
+    "hex": "2B85",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮆",
+    "decimal": "11142",
+    "hex": "2B86",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮇",
+    "decimal": "11143",
+    "hex": "2B87",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮈",
+    "decimal": "11144",
+    "hex": "2B88",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮉",
+    "decimal": "11145",
+    "hex": "2B89",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮊",
+    "decimal": "11146",
+    "hex": "2B8A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮋",
+    "decimal": "11147",
+    "hex": "2B8B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮌",
+    "decimal": "11148",
+    "hex": "2B8C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮍",
+    "decimal": "11149",
+    "hex": "2B8D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮎",
+    "decimal": "11150",
+    "hex": "2B8E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮏",
+    "decimal": "11151",
+    "hex": "2B8F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮐",
+    "decimal": "11152",
+    "hex": "2B90",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮑",
+    "decimal": "11153",
+    "hex": "2B91",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮒",
+    "decimal": "11154",
+    "hex": "2B92",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮓",
+    "decimal": "11155",
+    "hex": "2B93",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮔",
+    "decimal": "11156",
+    "hex": "2B94",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮕",
+    "decimal": "11157",
+    "hex": "2B95",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮖",
+    "decimal": "11158",
+    "hex": "2B96",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮗",
+    "decimal": "11159",
+    "hex": "2B97",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮘",
+    "decimal": "11160",
+    "hex": "2B98",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮙",
+    "decimal": "11161",
+    "hex": "2B99",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮚",
+    "decimal": "11162",
+    "hex": "2B9A",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮛",
+    "decimal": "11163",
+    "hex": "2B9B",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮜",
+    "decimal": "11164",
+    "hex": "2B9C",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮝",
+    "decimal": "11165",
+    "hex": "2B9D",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮞",
+    "decimal": "11166",
+    "hex": "2B9E",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮟",
+    "decimal": "11167",
+    "hex": "2B9F",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮠",
+    "decimal": "11168",
+    "hex": "2BA0",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮡",
+    "decimal": "11169",
+    "hex": "2BA1",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮢",
+    "decimal": "11170",
+    "hex": "2BA2",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮣",
+    "decimal": "11171",
+    "hex": "2BA3",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮤",
+    "decimal": "11172",
+    "hex": "2BA4",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮥",
+    "decimal": "11173",
+    "hex": "2BA5",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮦",
+    "decimal": "11174",
+    "hex": "2BA6",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮧",
+    "decimal": "11175",
+    "hex": "2BA7",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮨",
+    "decimal": "11176",
+    "hex": "2BA8",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮩",
+    "decimal": "11177",
+    "hex": "2BA9",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮪",
+    "decimal": "11178",
+    "hex": "2BAA",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮫",
+    "decimal": "11179",
+    "hex": "2BAB",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮬",
+    "decimal": "11180",
+    "hex": "2BAC",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮭",
+    "decimal": "11181",
+    "hex": "2BAD",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮮",
+    "decimal": "11182",
+    "hex": "2BAE",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮯",
+    "decimal": "11183",
+    "hex": "2BAF",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮰",
+    "decimal": "11184",
+    "hex": "2BB0",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮱",
+    "decimal": "11185",
+    "hex": "2BB1",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮲",
+    "decimal": "11186",
+    "hex": "2BB2",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮳",
+    "decimal": "11187",
+    "hex": "2BB3",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮴",
+    "decimal": "11188",
+    "hex": "2BB4",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮵",
+    "decimal": "11189",
+    "hex": "2BB5",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮶",
+    "decimal": "11190",
+    "hex": "2BB6",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮷",
+    "decimal": "11191",
+    "hex": "2BB7",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮸",
+    "decimal": "11192",
+    "hex": "2BB8",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮹",
+    "decimal": "11193",
+    "hex": "2BB9",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮺",
+    "decimal": "11194",
+    "hex": "2BBA",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮻",
+    "decimal": "11195",
+    "hex": "2BBB",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮼",
+    "decimal": "11196",
+    "hex": "2BBC",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮽",
+    "decimal": "11197",
+    "hex": "2BBD",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮾",
+    "decimal": "11198",
+    "hex": "2BBE",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⮿",
+    "decimal": "11199",
+    "hex": "2BBF",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯀",
+    "decimal": "11200",
+    "hex": "2BC0",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯁",
+    "decimal": "11201",
+    "hex": "2BC1",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯂",
+    "decimal": "11202",
+    "hex": "2BC2",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯃",
+    "decimal": "11203",
+    "hex": "2BC3",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯄",
+    "decimal": "11204",
+    "hex": "2BC4",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯅",
+    "decimal": "11205",
+    "hex": "2BC5",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯆",
+    "decimal": "11206",
+    "hex": "2BC6",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯇",
+    "decimal": "11207",
+    "hex": "2BC7",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯈",
+    "decimal": "11208",
+    "hex": "2BC8",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯉",
+    "decimal": "11209",
+    "hex": "2BC9",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯊",
+    "decimal": "11210",
+    "hex": "2BCA",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯋",
+    "decimal": "11211",
+    "hex": "2BCB",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯌",
+    "decimal": "11212",
+    "hex": "2BCC",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯍",
+    "decimal": "11213",
+    "hex": "2BCD",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯎",
+    "decimal": "11214",
+    "hex": "2BCE",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯏",
+    "decimal": "11215",
+    "hex": "2BCF",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯐",
+    "decimal": "11216",
+    "hex": "2BD0",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯑",
+    "decimal": "11217",
+    "hex": "2BD1",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯒",
+    "decimal": "11218",
+    "hex": "2BD2",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯓",
+    "decimal": "11219",
+    "hex": "2BD3",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯔",
+    "decimal": "11220",
+    "hex": "2BD4",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯕",
+    "decimal": "11221",
+    "hex": "2BD5",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯖",
+    "decimal": "11222",
+    "hex": "2BD6",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯗",
+    "decimal": "11223",
+    "hex": "2BD7",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯘",
+    "decimal": "11224",
+    "hex": "2BD8",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯙",
+    "decimal": "11225",
+    "hex": "2BD9",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯚",
+    "decimal": "11226",
+    "hex": "2BDA",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯛",
+    "decimal": "11227",
+    "hex": "2BDB",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯜",
+    "decimal": "11228",
+    "hex": "2BDC",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯝",
+    "decimal": "11229",
+    "hex": "2BDD",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯞",
+    "decimal": "11230",
+    "hex": "2BDE",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯟",
+    "decimal": "11231",
+    "hex": "2BDF",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯠",
+    "decimal": "11232",
+    "hex": "2BE0",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯡",
+    "decimal": "11233",
+    "hex": "2BE1",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯢",
+    "decimal": "11234",
+    "hex": "2BE2",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯣",
+    "decimal": "11235",
+    "hex": "2BE3",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯤",
+    "decimal": "11236",
+    "hex": "2BE4",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯥",
+    "decimal": "11237",
+    "hex": "2BE5",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯦",
+    "decimal": "11238",
+    "hex": "2BE6",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯧",
+    "decimal": "11239",
+    "hex": "2BE7",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯨",
+    "decimal": "11240",
+    "hex": "2BE8",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯩",
+    "decimal": "11241",
+    "hex": "2BE9",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯪",
+    "decimal": "11242",
+    "hex": "2BEA",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯫",
+    "decimal": "11243",
+    "hex": "2BEB",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯬",
+    "decimal": "11244",
+    "hex": "2BEC",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯭",
+    "decimal": "11245",
+    "hex": "2BED",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯮",
+    "decimal": "11246",
+    "hex": "2BEE",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯯",
+    "decimal": "11247",
+    "hex": "2BEF",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯰",
+    "decimal": "11248",
+    "hex": "2BF0",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯱",
+    "decimal": "11249",
+    "hex": "2BF1",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯲",
+    "decimal": "11250",
+    "hex": "2BF2",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯳",
+    "decimal": "11251",
+    "hex": "2BF3",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯴",
+    "decimal": "11252",
+    "hex": "2BF4",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯵",
+    "decimal": "11253",
+    "hex": "2BF5",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯶",
+    "decimal": "11254",
+    "hex": "2BF6",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯷",
+    "decimal": "11255",
+    "hex": "2BF7",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯸",
+    "decimal": "11256",
+    "hex": "2BF8",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯹",
+    "decimal": "11257",
+    "hex": "2BF9",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯺",
+    "decimal": "11258",
+    "hex": "2BFA",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯻",
+    "decimal": "11259",
+    "hex": "2BFB",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯼",
+    "decimal": "11260",
+    "hex": "2BFC",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯽",
+    "decimal": "11261",
+    "hex": "2BFD",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯾",
+    "decimal": "11262",
+    "hex": "2BFE",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "⯿",
+    "decimal": "11263",
+    "hex": "2BFF",
+    "entity": "",
+    "description": "",
+    "note": "Misc Symbols and Arrows"
+  },
+  {
+    "character": "🠀",
+    "decimal": "129024",
+    "hex": "1F800",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠁",
+    "decimal": "129025",
+    "hex": "1F801",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠂",
+    "decimal": "129026",
+    "hex": "1F802",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠃",
+    "decimal": "129027",
+    "hex": "1F803",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠄",
+    "decimal": "129028",
+    "hex": "1F804",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠅",
+    "decimal": "129029",
+    "hex": "1F805",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠆",
+    "decimal": "129030",
+    "hex": "1F806",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠇",
+    "decimal": "129031",
+    "hex": "1F807",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠈",
+    "decimal": "129032",
+    "hex": "1F808",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠉",
+    "decimal": "129033",
+    "hex": "1F809",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠊",
+    "decimal": "129034",
+    "hex": "1F80A",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠋",
+    "decimal": "129035",
+    "hex": "1F80B",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠌",
+    "decimal": "129036",
+    "hex": "1F80C",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠍",
+    "decimal": "129037",
+    "hex": "1F80D",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠎",
+    "decimal": "129038",
+    "hex": "1F80E",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠏",
+    "decimal": "129039",
+    "hex": "1F80F",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠐",
+    "decimal": "129040",
+    "hex": "1F810",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠑",
+    "decimal": "129041",
+    "hex": "1F811",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠒",
+    "decimal": "129042",
+    "hex": "1F812",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠓",
+    "decimal": "129043",
+    "hex": "1F813",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠔",
+    "decimal": "129044",
+    "hex": "1F814",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠕",
+    "decimal": "129045",
+    "hex": "1F815",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠖",
+    "decimal": "129046",
+    "hex": "1F816",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠗",
+    "decimal": "129047",
+    "hex": "1F817",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠘",
+    "decimal": "129048",
+    "hex": "1F818",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠙",
+    "decimal": "129049",
+    "hex": "1F819",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠚",
+    "decimal": "129050",
+    "hex": "1F81A",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠛",
+    "decimal": "129051",
+    "hex": "1F81B",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠜",
+    "decimal": "129052",
+    "hex": "1F81C",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠝",
+    "decimal": "129053",
+    "hex": "1F81D",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠞",
+    "decimal": "129054",
+    "hex": "1F81E",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠟",
+    "decimal": "129055",
+    "hex": "1F81F",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠠",
+    "decimal": "129056",
+    "hex": "1F820",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠡",
+    "decimal": "129057",
+    "hex": "1F821",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠢",
+    "decimal": "129058",
+    "hex": "1F822",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠣",
+    "decimal": "129059",
+    "hex": "1F823",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠤",
+    "decimal": "129060",
+    "hex": "1F824",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠥",
+    "decimal": "129061",
+    "hex": "1F825",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠦",
+    "decimal": "129062",
+    "hex": "1F826",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠧",
+    "decimal": "129063",
+    "hex": "1F827",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠨",
+    "decimal": "129064",
+    "hex": "1F828",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠩",
+    "decimal": "129065",
+    "hex": "1F829",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠪",
+    "decimal": "129066",
+    "hex": "1F82A",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠫",
+    "decimal": "129067",
+    "hex": "1F82B",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠬",
+    "decimal": "129068",
+    "hex": "1F82C",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠭",
+    "decimal": "129069",
+    "hex": "1F82D",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠮",
+    "decimal": "129070",
+    "hex": "1F82E",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠯",
+    "decimal": "129071",
+    "hex": "1F82F",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠰",
+    "decimal": "129072",
+    "hex": "1F830",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠱",
+    "decimal": "129073",
+    "hex": "1F831",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠲",
+    "decimal": "129074",
+    "hex": "1F832",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠳",
+    "decimal": "129075",
+    "hex": "1F833",
+    "entity": "",
+    "description": "",
+    "note": "Triangle Headed Arrows"
+  },
+  {
+    "character": "🠴",
+    "decimal": "129076",
+    "hex": "1F834",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠵",
+    "decimal": "129077",
+    "hex": "1F835",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠶",
+    "decimal": "129078",
+    "hex": "1F836",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠷",
+    "decimal": "129079",
+    "hex": "1F837",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠸",
+    "decimal": "129080",
+    "hex": "1F838",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠹",
+    "decimal": "129081",
+    "hex": "1F839",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠺",
+    "decimal": "129082",
+    "hex": "1F83A",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠻",
+    "decimal": "129083",
+    "hex": "1F83B",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠼",
+    "decimal": "129084",
+    "hex": "1F83C",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠽",
+    "decimal": "129085",
+    "hex": "1F83D",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠾",
+    "decimal": "129086",
+    "hex": "1F83E",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🠿",
+    "decimal": "129087",
+    "hex": "1F83F",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡀",
+    "decimal": "129088",
+    "hex": "1F840",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡁",
+    "decimal": "129089",
+    "hex": "1F841",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡂",
+    "decimal": "129090",
+    "hex": "1F842",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡃",
+    "decimal": "129091",
+    "hex": "1F843",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡄",
+    "decimal": "129092",
+    "hex": "1F844",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡅",
+    "decimal": "129093",
+    "hex": "1F845",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡆",
+    "decimal": "129094",
+    "hex": "1F846",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡇",
+    "decimal": "129095",
+    "hex": "1F847",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡈",
+    "decimal": "129096",
+    "hex": "1F848",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡉",
+    "decimal": "129097",
+    "hex": "1F849",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡊",
+    "decimal": "129098",
+    "hex": "1F84A",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡋",
+    "decimal": "129099",
+    "hex": "1F84B",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡌",
+    "decimal": "129100",
+    "hex": "1F84C",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡍",
+    "decimal": "129101",
+    "hex": "1F84D",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡎",
+    "decimal": "129102",
+    "hex": "1F84E",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡏",
+    "decimal": "129103",
+    "hex": "1F84F",
+    "entity": "",
+    "description": "",
+    "note": "Heavy Arrows"
+  },
+  {
+    "character": "🡐",
+    "decimal": "129104",
+    "hex": "1F850",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡑",
+    "decimal": "129105",
+    "hex": "1F851",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡒",
+    "decimal": "129106",
+    "hex": "1F852",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡓",
+    "decimal": "129107",
+    "hex": "1F853",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡔",
+    "decimal": "129108",
+    "hex": "1F854",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡕",
+    "decimal": "129109",
+    "hex": "1F855",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡖",
+    "decimal": "129110",
+    "hex": "1F856",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡗",
+    "decimal": "129111",
+    "hex": "1F857",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡘",
+    "decimal": "129112",
+    "hex": "1F858",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡙",
+    "decimal": "129113",
+    "hex": "1F859",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡚",
+    "decimal": "129114",
+    "hex": "1F85A",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡛",
+    "decimal": "129115",
+    "hex": "1F85B",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡜",
+    "decimal": "129116",
+    "hex": "1F85C",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡝",
+    "decimal": "129117",
+    "hex": "1F85D",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡞",
+    "decimal": "129118",
+    "hex": "1F85E",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡟",
+    "decimal": "129119",
+    "hex": "1F85F",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡠",
+    "decimal": "129120",
+    "hex": "1F860",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡡",
+    "decimal": "129121",
+    "hex": "1F861",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡢",
+    "decimal": "129122",
+    "hex": "1F862",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡣",
+    "decimal": "129123",
+    "hex": "1F863",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡤",
+    "decimal": "129124",
+    "hex": "1F864",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡥",
+    "decimal": "129125",
+    "hex": "1F865",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡦",
+    "decimal": "129126",
+    "hex": "1F866",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡧",
+    "decimal": "129127",
+    "hex": "1F867",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡨",
+    "decimal": "129128",
+    "hex": "1F868",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡩",
+    "decimal": "129129",
+    "hex": "1F869",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡪",
+    "decimal": "129130",
+    "hex": "1F86A",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡫",
+    "decimal": "129131",
+    "hex": "1F86B",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡬",
+    "decimal": "129132",
+    "hex": "1F86C",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡭",
+    "decimal": "129133",
+    "hex": "1F86D",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡮",
+    "decimal": "129134",
+    "hex": "1F86E",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡯",
+    "decimal": "129135",
+    "hex": "1F86F",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡰",
+    "decimal": "129136",
+    "hex": "1F870",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡱",
+    "decimal": "129137",
+    "hex": "1F871",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡲",
+    "decimal": "129138",
+    "hex": "1F872",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡳",
+    "decimal": "129139",
+    "hex": "1F873",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡴",
+    "decimal": "129140",
+    "hex": "1F874",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡵",
+    "decimal": "129141",
+    "hex": "1F875",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡶",
+    "decimal": "129142",
+    "hex": "1F876",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡷",
+    "decimal": "129143",
+    "hex": "1F877",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡸",
+    "decimal": "129144",
+    "hex": "1F878",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡹",
+    "decimal": "129145",
+    "hex": "1F879",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡺",
+    "decimal": "129146",
+    "hex": "1F87A",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡻",
+    "decimal": "129147",
+    "hex": "1F87B",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡼",
+    "decimal": "129148",
+    "hex": "1F87C",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡽",
+    "decimal": "129149",
+    "hex": "1F87D",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡾",
+    "decimal": "129150",
+    "hex": "1F87E",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🡿",
+    "decimal": "129151",
+    "hex": "1F87F",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢀",
+    "decimal": "129152",
+    "hex": "1F880",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢁",
+    "decimal": "129153",
+    "hex": "1F881",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢂",
+    "decimal": "129154",
+    "hex": "1F882",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢃",
+    "decimal": "129155",
+    "hex": "1F883",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢄",
+    "decimal": "129156",
+    "hex": "1F884",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢅",
+    "decimal": "129157",
+    "hex": "1F885",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢆",
+    "decimal": "129158",
+    "hex": "1F886",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢇",
+    "decimal": "129159",
+    "hex": "1F887",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢈",
+    "decimal": "129160",
+    "hex": "1F888",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢉",
+    "decimal": "129161",
+    "hex": "1F889",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢊",
+    "decimal": "129162",
+    "hex": "1F88A",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢋",
+    "decimal": "129163",
+    "hex": "1F88B",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢌",
+    "decimal": "129164",
+    "hex": "1F88C",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢍",
+    "decimal": "129165",
+    "hex": "1F88D",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢎",
+    "decimal": "129166",
+    "hex": "1F88E",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢏",
+    "decimal": "129167",
+    "hex": "1F88F",
+    "entity": "",
+    "description": "",
+    "note": "Sans-serif and Wide Head Arrows"
+  },
+  {
+    "character": "🢐",
+    "decimal": "129168",
+    "hex": "1F890",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢑",
+    "decimal": "129169",
+    "hex": "1F891",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢒",
+    "decimal": "129170",
+    "hex": "1F892",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢓",
+    "decimal": "129171",
+    "hex": "1F893",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢔",
+    "decimal": "129172",
+    "hex": "1F894",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢕",
+    "decimal": "129173",
+    "hex": "1F895",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢖",
+    "decimal": "129174",
+    "hex": "1F896",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢗",
+    "decimal": "129175",
+    "hex": "1F897",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢘",
+    "decimal": "129176",
+    "hex": "1F898",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢙",
+    "decimal": "129177",
+    "hex": "1F899",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢚",
+    "decimal": "129178",
+    "hex": "1F89A",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢛",
+    "decimal": "129179",
+    "hex": "1F89B",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢜",
+    "decimal": "129180",
+    "hex": "1F89C",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢝",
+    "decimal": "129181",
+    "hex": "1F89D",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢞",
+    "decimal": "129182",
+    "hex": "1F89E",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢟",
+    "decimal": "129183",
+    "hex": "1F89F",
+    "entity": "",
+    "description": "",
+    "note": "Arrow Shafts and Heads"
+  },
+  {
+    "character": "🢠",
+    "decimal": "129184",
+    "hex": "1F8A0",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢡",
+    "decimal": "129185",
+    "hex": "1F8A1",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢢",
+    "decimal": "129186",
+    "hex": "1F8A2",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢣",
+    "decimal": "129187",
+    "hex": "1F8A3",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢤",
+    "decimal": "129188",
+    "hex": "1F8A4",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢥",
+    "decimal": "129189",
+    "hex": "1F8A5",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢦",
+    "decimal": "129190",
+    "hex": "1F8A6",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢧",
+    "decimal": "129191",
+    "hex": "1F8A7",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢨",
+    "decimal": "129192",
+    "hex": "1F8A8",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢩",
+    "decimal": "129193",
+    "hex": "1F8A9",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢪",
+    "decimal": "129194",
+    "hex": "1F8AA",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢫",
+    "decimal": "129195",
+    "hex": "1F8AB",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢬",
+    "decimal": "129196",
+    "hex": "1F8AC",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢭",
+    "decimal": "129197",
+    "hex": "1F8AD",
+    "entity": "",
+    "description": "",
+    "note": "Shaded White Arrows"
+  },
+  {
+    "character": "🢮",
+    "decimal": "129198",
+    "hex": "1F8AE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢯",
+    "decimal": "129199",
+    "hex": "1F8AF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢰",
+    "decimal": "129200",
+    "hex": "1F8B0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢱",
+    "decimal": "129201",
+    "hex": "1F8B1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢲",
+    "decimal": "129202",
+    "hex": "1F8B2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢳",
+    "decimal": "129203",
+    "hex": "1F8B3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢴",
+    "decimal": "129204",
+    "hex": "1F8B4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢵",
+    "decimal": "129205",
+    "hex": "1F8B5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢶",
+    "decimal": "129206",
+    "hex": "1F8B6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢷",
+    "decimal": "129207",
+    "hex": "1F8B7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢸",
+    "decimal": "129208",
+    "hex": "1F8B8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢹",
+    "decimal": "129209",
+    "hex": "1F8B9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢺",
+    "decimal": "129210",
+    "hex": "1F8BA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢻",
+    "decimal": "129211",
+    "hex": "1F8BB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢼",
+    "decimal": "129212",
+    "hex": "1F8BC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢽",
+    "decimal": "129213",
+    "hex": "1F8BD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢾",
+    "decimal": "129214",
+    "hex": "1F8BE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🢿",
+    "decimal": "129215",
+    "hex": "1F8BF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣀",
+    "decimal": "129216",
+    "hex": "1F8C0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣁",
+    "decimal": "129217",
+    "hex": "1F8C1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣂",
+    "decimal": "129218",
+    "hex": "1F8C2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣃",
+    "decimal": "129219",
+    "hex": "1F8C3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣄",
+    "decimal": "129220",
+    "hex": "1F8C4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣅",
+    "decimal": "129221",
+    "hex": "1F8C5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣆",
+    "decimal": "129222",
+    "hex": "1F8C6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣇",
+    "decimal": "129223",
+    "hex": "1F8C7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣈",
+    "decimal": "129224",
+    "hex": "1F8C8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣉",
+    "decimal": "129225",
+    "hex": "1F8C9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣊",
+    "decimal": "129226",
+    "hex": "1F8CA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣋",
+    "decimal": "129227",
+    "hex": "1F8CB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣌",
+    "decimal": "129228",
+    "hex": "1F8CC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣍",
+    "decimal": "129229",
+    "hex": "1F8CD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣎",
+    "decimal": "129230",
+    "hex": "1F8CE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣏",
+    "decimal": "129231",
+    "hex": "1F8CF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣐",
+    "decimal": "129232",
+    "hex": "1F8D0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣑",
+    "decimal": "129233",
+    "hex": "1F8D1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣒",
+    "decimal": "129234",
+    "hex": "1F8D2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣓",
+    "decimal": "129235",
+    "hex": "1F8D3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣔",
+    "decimal": "129236",
+    "hex": "1F8D4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣕",
+    "decimal": "129237",
+    "hex": "1F8D5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣖",
+    "decimal": "129238",
+    "hex": "1F8D6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣗",
+    "decimal": "129239",
+    "hex": "1F8D7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣘",
+    "decimal": "129240",
+    "hex": "1F8D8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣙",
+    "decimal": "129241",
+    "hex": "1F8D9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣚",
+    "decimal": "129242",
+    "hex": "1F8DA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣛",
+    "decimal": "129243",
+    "hex": "1F8DB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣜",
+    "decimal": "129244",
+    "hex": "1F8DC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣝",
+    "decimal": "129245",
+    "hex": "1F8DD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣞",
+    "decimal": "129246",
+    "hex": "1F8DE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣟",
+    "decimal": "129247",
+    "hex": "1F8DF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣠",
+    "decimal": "129248",
+    "hex": "1F8E0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣡",
+    "decimal": "129249",
+    "hex": "1F8E1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣢",
+    "decimal": "129250",
+    "hex": "1F8E2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣣",
+    "decimal": "129251",
+    "hex": "1F8E3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣤",
+    "decimal": "129252",
+    "hex": "1F8E4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣥",
+    "decimal": "129253",
+    "hex": "1F8E5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣦",
+    "decimal": "129254",
+    "hex": "1F8E6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣧",
+    "decimal": "129255",
+    "hex": "1F8E7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣨",
+    "decimal": "129256",
+    "hex": "1F8E8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣩",
+    "decimal": "129257",
+    "hex": "1F8E9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣪",
+    "decimal": "129258",
+    "hex": "1F8EA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣫",
+    "decimal": "129259",
+    "hex": "1F8EB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣬",
+    "decimal": "129260",
+    "hex": "1F8EC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣭",
+    "decimal": "129261",
+    "hex": "1F8ED",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣮",
+    "decimal": "129262",
+    "hex": "1F8EE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣯",
+    "decimal": "129263",
+    "hex": "1F8EF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣰",
+    "decimal": "129264",
+    "hex": "1F8F0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣱",
+    "decimal": "129265",
+    "hex": "1F8F1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣲",
+    "decimal": "129266",
+    "hex": "1F8F2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣳",
+    "decimal": "129267",
+    "hex": "1F8F3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣴",
+    "decimal": "129268",
+    "hex": "1F8F4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣵",
+    "decimal": "129269",
+    "hex": "1F8F5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣶",
+    "decimal": "129270",
+    "hex": "1F8F6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣷",
+    "decimal": "129271",
+    "hex": "1F8F7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣸",
+    "decimal": "129272",
+    "hex": "1F8F8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣹",
+    "decimal": "129273",
+    "hex": "1F8F9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣺",
+    "decimal": "129274",
+    "hex": "1F8FA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣻",
+    "decimal": "129275",
+    "hex": "1F8FB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣼",
+    "decimal": "129276",
+    "hex": "1F8FC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣽",
+    "decimal": "129277",
+    "hex": "1F8FD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣾",
+    "decimal": "129278",
+    "hex": "1F8FE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🣿",
+    "decimal": "129279",
+    "hex": "1F8FF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "character": "▀",
+    "decimal": "9600",
+    "hex": "2580",
+    "entity": "",
+    "description": "UPPER HALF BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▁",
+    "decimal": "9601",
+    "hex": "2581",
+    "entity": "",
+    "description": "LOWER ONE EIGHTH BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▂",
+    "decimal": "9602",
+    "hex": "2582",
+    "entity": "",
+    "description": "LOWER ONE QUARTER BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▃",
+    "decimal": "9603",
+    "hex": "2583",
+    "entity": "",
+    "description": "LOWER THREE EIGHTHS BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▄",
+    "decimal": "9604",
+    "hex": "2584",
+    "entity": "",
+    "description": "LOWER HALF BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▅",
+    "decimal": "9605",
+    "hex": "2585",
+    "entity": "",
+    "description": "LOWER FIVE EIGHTHS BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▆",
+    "decimal": "9606",
+    "hex": "2586",
+    "entity": "",
+    "description": "LOWER THREE QUARTERS BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▇",
+    "decimal": "9607",
+    "hex": "2587",
+    "entity": "",
+    "description": "LOWER SEVEN EIGHTHS BLOCK",
+    "note": ""
+  },
+  {
+    "character": "█",
+    "decimal": "9608",
+    "hex": "2588",
+    "entity": "",
+    "description": "FULL BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▉",
+    "decimal": "9609",
+    "hex": "2589",
+    "entity": "",
+    "description": "LEFT SEVEN EIGHTHS BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▊",
+    "decimal": "9610",
+    "hex": "258A",
+    "entity": "",
+    "description": "LEFT THREE QUARTERS BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▋",
+    "decimal": "9611",
+    "hex": "258B",
+    "entity": "",
+    "description": "LEFT FIVE EIGHTHS BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▌",
+    "decimal": "9612",
+    "hex": "258C",
+    "entity": "",
+    "description": "LEFT HALF BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▍",
+    "decimal": "9613",
+    "hex": "258D",
+    "entity": "",
+    "description": "LEFT THREE EIGHTHS BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▎",
+    "decimal": "9614",
+    "hex": "258E",
+    "entity": "",
+    "description": "LEFT ONE QUARTER BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▏",
+    "decimal": "9615",
+    "hex": "258F",
+    "entity": "",
+    "description": "LEFT ONE EIGHTH BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▐",
+    "decimal": "9616",
+    "hex": "2590",
+    "entity": "",
+    "description": "RIGHT HALF BLOCK",
+    "note": ""
+  },
+  {
+    "character": "░",
+    "decimal": "9617",
+    "hex": "2591",
+    "entity": "",
+    "description": "LIGHT SHADE",
+    "note": ""
+  },
+  {
+    "character": "▒",
+    "decimal": "9618",
+    "hex": "2592",
+    "entity": "",
+    "description": "MEDIUM SHADE",
+    "note": ""
+  },
+  {
+    "character": "▓",
+    "decimal": "9619",
+    "hex": "2593",
+    "entity": "",
+    "description": "DARK SHADE",
+    "note": ""
+  },
+  {
+    "character": "▔",
+    "decimal": "9620",
+    "hex": "2594",
+    "entity": "",
+    "description": "UPPER ONE EIGHTH BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▕",
+    "decimal": "9621",
+    "hex": "2595",
+    "entity": "",
+    "description": "RIGHT ONE EIGHTH BLOCK",
+    "note": ""
+  },
+  {
+    "character": "▖",
+    "decimal": "9622",
+    "hex": "2596",
+    "entity": "",
+    "description": "QUADRANT LOWER LEFT",
+    "note": ""
+  },
+  {
+    "character": "▗",
+    "decimal": "9623",
+    "hex": "2597",
+    "entity": "",
+    "description": "QUADRANT LOWER RIGHT",
+    "note": ""
+  },
+  {
+    "character": "▘",
+    "decimal": "9624",
+    "hex": "2598",
+    "entity": "",
+    "description": "QUADRANT UPPER LEFT",
+    "note": ""
+  },
+  {
+    "character": "▙",
+    "decimal": "9625",
+    "hex": "2599",
+    "entity": "",
+    "description": "QUADRANT UPPER LEFT AND LOWER LEFT AND LOWER RIGHT",
+    "note": ""
+  },
+  {
+    "character": "▚",
+    "decimal": "9626",
+    "hex": "259A",
+    "entity": "",
+    "description": "QUADRANT UPPER LEFT AND LOWER RIGHT",
+    "note": ""
+  },
+  {
+    "character": "▛",
+    "decimal": "9627",
+    "hex": "259B",
+    "entity": "",
+    "description": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER LEFT",
+    "note": ""
+  },
+  {
+    "character": "▜",
+    "decimal": "9628",
+    "hex": "259C",
+    "entity": "",
+    "description": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER RIGHT",
+    "note": ""
+  },
+  {
+    "character": "▝",
+    "decimal": "9629",
+    "hex": "259D",
+    "entity": "",
+    "description": "QUADRANT UPPER RIGHT",
+    "note": ""
+  },
+  {
+    "character": "▞",
+    "decimal": "9630",
+    "hex": "259E",
+    "entity": "",
+    "description": "QUADRANT UPPER RIGHT AND LOWER LEFT",
+    "note": ""
+  },
+  {
+    "character": "▟",
+    "decimal": "9631",
+    "hex": "259F",
+    "entity": "",
+    "description": "QUADRANT UPPER RIGHT AND LOWER LEFT AND LOWER RIGHT",
+    "note": ""
+  }
+]

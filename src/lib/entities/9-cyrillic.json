@@ -1,0 +1,2402 @@
+[
+  {
+    "character": "Ѐ",
+    "decimal": "1024",
+    "hex": "400",
+    "entity": "",
+    "description": "CAPITAL LETTER IE WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ё",
+    "decimal": "1025",
+    "hex": "401",
+    "entity": "",
+    "description": "CAPITAL LETTER IO",
+    "note": ""
+  },
+  {
+    "character": "Ђ",
+    "decimal": "1026",
+    "hex": "402",
+    "entity": "",
+    "description": "CAPITAL LETTER DJE",
+    "note": ""
+  },
+  {
+    "character": "Ѓ",
+    "decimal": "1027",
+    "hex": "403",
+    "entity": "",
+    "description": "CAPITAL LETTER GJE",
+    "note": ""
+  },
+  {
+    "character": "Є",
+    "decimal": "1028",
+    "hex": "404",
+    "entity": "",
+    "description": "CAPITAL LETTER UKRAINIAN IE",
+    "note": ""
+  },
+  {
+    "character": "Ѕ",
+    "decimal": "1029",
+    "hex": "405",
+    "entity": "",
+    "description": "CAPITAL LETTER DZE",
+    "note": ""
+  },
+  {
+    "character": "І",
+    "decimal": "1030",
+    "hex": "406",
+    "entity": "",
+    "description": "CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I",
+    "note": ""
+  },
+  {
+    "character": "Ї",
+    "decimal": "1031",
+    "hex": "407",
+    "entity": "",
+    "description": "CAPITAL LETTER YI",
+    "note": ""
+  },
+  {
+    "character": "Ј",
+    "decimal": "1032",
+    "hex": "408",
+    "entity": "",
+    "description": "CAPITAL LETTER JE",
+    "note": ""
+  },
+  {
+    "character": "Љ",
+    "decimal": "1033",
+    "hex": "409",
+    "entity": "",
+    "description": "CAPITAL LETTER LJE",
+    "note": ""
+  },
+  {
+    "character": "Њ",
+    "decimal": "1034",
+    "hex": "040A",
+    "entity": "",
+    "description": "CAPITAL LETTER NJE",
+    "note": ""
+  },
+  {
+    "character": "Ћ",
+    "decimal": "1035",
+    "hex": "040B",
+    "entity": "",
+    "description": "CAPITAL LETTER TSHE",
+    "note": ""
+  },
+  {
+    "character": "Ќ",
+    "decimal": "1036",
+    "hex": "040C",
+    "entity": "",
+    "description": "CAPITAL LETTER KJE",
+    "note": ""
+  },
+  {
+    "character": "Ѝ",
+    "decimal": "1037",
+    "hex": "040D",
+    "entity": "",
+    "description": "CAPITAL LETTER I WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ў",
+    "decimal": "1038",
+    "hex": "040E",
+    "entity": "",
+    "description": "CAPITAL LETTER SHORT U",
+    "note": ""
+  },
+  {
+    "character": "Џ",
+    "decimal": "1039",
+    "hex": "040F",
+    "entity": "",
+    "description": "CAPITAL LETTER DZHE",
+    "note": ""
+  },
+  {
+    "character": "А",
+    "decimal": "1040",
+    "hex": "410",
+    "entity": "",
+    "description": "CAPITAL LETTER A",
+    "note": ""
+  },
+  {
+    "character": "Б",
+    "decimal": "1041",
+    "hex": "411",
+    "entity": "",
+    "description": "CAPITAL LETTER BE",
+    "note": ""
+  },
+  {
+    "character": "В",
+    "decimal": "1042",
+    "hex": "412",
+    "entity": "",
+    "description": "CAPITAL LETTER VE",
+    "note": ""
+  },
+  {
+    "character": "Г",
+    "decimal": "1043",
+    "hex": "413",
+    "entity": "",
+    "description": "CAPITAL LETTER GHE",
+    "note": ""
+  },
+  {
+    "character": "Д",
+    "decimal": "1044",
+    "hex": "414",
+    "entity": "",
+    "description": "CAPITAL LETTER DE",
+    "note": ""
+  },
+  {
+    "character": "Е",
+    "decimal": "1045",
+    "hex": "415",
+    "entity": "",
+    "description": "CAPITAL LETTER IE",
+    "note": ""
+  },
+  {
+    "character": "Ж",
+    "decimal": "1046",
+    "hex": "416",
+    "entity": "",
+    "description": "CAPITAL LETTER ZHE",
+    "note": ""
+  },
+  {
+    "character": "З",
+    "decimal": "1047",
+    "hex": "417",
+    "entity": "",
+    "description": "CAPITAL LETTER ZE",
+    "note": ""
+  },
+  {
+    "character": "И",
+    "decimal": "1048",
+    "hex": "418",
+    "entity": "",
+    "description": "CAPITAL LETTER I",
+    "note": ""
+  },
+  {
+    "character": "Й",
+    "decimal": "1049",
+    "hex": "419",
+    "entity": "",
+    "description": "CAPITAL LETTER SHORT I",
+    "note": ""
+  },
+  {
+    "character": "К",
+    "decimal": "1050",
+    "hex": "041A",
+    "entity": "",
+    "description": "CAPITAL LETTER KA",
+    "note": ""
+  },
+  {
+    "character": "Л",
+    "decimal": "1051",
+    "hex": "041B",
+    "entity": "",
+    "description": "CAPITAL LETTER EL",
+    "note": ""
+  },
+  {
+    "character": "М",
+    "decimal": "1052",
+    "hex": "041C",
+    "entity": "",
+    "description": "CAPITAL LETTER EM",
+    "note": ""
+  },
+  {
+    "character": "Н",
+    "decimal": "1053",
+    "hex": "041D",
+    "entity": "",
+    "description": "CAPITAL LETTER EN",
+    "note": ""
+  },
+  {
+    "character": "О",
+    "decimal": "1054",
+    "hex": "041E",
+    "entity": "",
+    "description": "CAPITAL LETTER O",
+    "note": ""
+  },
+  {
+    "character": "П",
+    "decimal": "1055",
+    "hex": "041F",
+    "entity": "",
+    "description": "CAPITAL LETTER PE",
+    "note": ""
+  },
+  {
+    "character": "Р",
+    "decimal": "1056",
+    "hex": "420",
+    "entity": "",
+    "description": "CAPITAL LETTER ER",
+    "note": ""
+  },
+  {
+    "character": "С",
+    "decimal": "1057",
+    "hex": "421",
+    "entity": "",
+    "description": "CAPITAL LETTER ES",
+    "note": ""
+  },
+  {
+    "character": "Т",
+    "decimal": "1058",
+    "hex": "422",
+    "entity": "",
+    "description": "CAPITAL LETTER TE",
+    "note": ""
+  },
+  {
+    "character": "У",
+    "decimal": "1059",
+    "hex": "423",
+    "entity": "",
+    "description": "CAPITAL LETTER U",
+    "note": ""
+  },
+  {
+    "character": "Ф",
+    "decimal": "1060",
+    "hex": "424",
+    "entity": "",
+    "description": "CAPITAL LETTER EF",
+    "note": ""
+  },
+  {
+    "character": "Х",
+    "decimal": "1061",
+    "hex": "425",
+    "entity": "",
+    "description": "CAPITAL LETTER HA",
+    "note": ""
+  },
+  {
+    "character": "Ц",
+    "decimal": "1062",
+    "hex": "426",
+    "entity": "",
+    "description": "CAPITAL LETTER TSE",
+    "note": ""
+  },
+  {
+    "character": "Ч",
+    "decimal": "1063",
+    "hex": "427",
+    "entity": "",
+    "description": "CAPITAL LETTER CHE",
+    "note": ""
+  },
+  {
+    "character": "Ш",
+    "decimal": "1064",
+    "hex": "428",
+    "entity": "",
+    "description": "CAPITAL LETTER SHA",
+    "note": ""
+  },
+  {
+    "character": "Щ",
+    "decimal": "1065",
+    "hex": "429",
+    "entity": "",
+    "description": "CAPITAL LETTER SHCHA",
+    "note": ""
+  },
+  {
+    "character": "Ъ",
+    "decimal": "1066",
+    "hex": "042A",
+    "entity": "",
+    "description": "CAPITAL LETTER HARD SIGN",
+    "note": ""
+  },
+  {
+    "character": "Ы",
+    "decimal": "1067",
+    "hex": "042B",
+    "entity": "",
+    "description": "CAPITAL LETTER YERU",
+    "note": ""
+  },
+  {
+    "character": "Ь",
+    "decimal": "1068",
+    "hex": "042C",
+    "entity": "",
+    "description": "CAPITAL LETTER SOFT SIGN",
+    "note": ""
+  },
+  {
+    "character": "Э",
+    "decimal": "1069",
+    "hex": "042D",
+    "entity": "",
+    "description": "CAPITAL LETTER E",
+    "note": ""
+  },
+  {
+    "character": "Ю",
+    "decimal": "1070",
+    "hex": "042E",
+    "entity": "",
+    "description": "CAPITAL LETTER YU",
+    "note": ""
+  },
+  {
+    "character": "Я",
+    "decimal": "1071",
+    "hex": "042F",
+    "entity": "",
+    "description": "CAPITAL LETTER YA",
+    "note": ""
+  },
+  {
+    "character": "а",
+    "decimal": "1072",
+    "hex": "430",
+    "entity": "",
+    "description": "SMALL LETTER A",
+    "note": ""
+  },
+  {
+    "character": "б",
+    "decimal": "1073",
+    "hex": "431",
+    "entity": "",
+    "description": "SMALL LETTER BE",
+    "note": ""
+  },
+  {
+    "character": "в",
+    "decimal": "1074",
+    "hex": "432",
+    "entity": "",
+    "description": "SMALL LETTER VE",
+    "note": ""
+  },
+  {
+    "character": "г",
+    "decimal": "1075",
+    "hex": "433",
+    "entity": "",
+    "description": "SMALL LETTER GHE",
+    "note": ""
+  },
+  {
+    "character": "д",
+    "decimal": "1076",
+    "hex": "434",
+    "entity": "",
+    "description": "SMALL LETTER DE",
+    "note": ""
+  },
+  {
+    "character": "е",
+    "decimal": "1077",
+    "hex": "435",
+    "entity": "",
+    "description": "SMALL LETTER IE",
+    "note": ""
+  },
+  {
+    "character": "ж",
+    "decimal": "1078",
+    "hex": "436",
+    "entity": "",
+    "description": "SMALL LETTER ZHE",
+    "note": ""
+  },
+  {
+    "character": "з",
+    "decimal": "1079",
+    "hex": "437",
+    "entity": "",
+    "description": "SMALL LETTER ZE",
+    "note": ""
+  },
+  {
+    "character": "и",
+    "decimal": "1080",
+    "hex": "438",
+    "entity": "",
+    "description": "SMALL LETTER I",
+    "note": ""
+  },
+  {
+    "character": "й",
+    "decimal": "1081",
+    "hex": "439",
+    "entity": "",
+    "description": "SMALL LETTER SHORT I",
+    "note": ""
+  },
+  {
+    "character": "к",
+    "decimal": "1082",
+    "hex": "043A",
+    "entity": "",
+    "description": "SMALL LETTER KA",
+    "note": ""
+  },
+  {
+    "character": "л",
+    "decimal": "1083",
+    "hex": "043B",
+    "entity": "",
+    "description": "SMALL LETTER EL",
+    "note": ""
+  },
+  {
+    "character": "м",
+    "decimal": "1084",
+    "hex": "043C",
+    "entity": "",
+    "description": "SMALL LETTER EM",
+    "note": ""
+  },
+  {
+    "character": "н",
+    "decimal": "1085",
+    "hex": "043D",
+    "entity": "",
+    "description": "SMALL LETTER EN",
+    "note": ""
+  },
+  {
+    "character": "о",
+    "decimal": "1086",
+    "hex": "043E",
+    "entity": "",
+    "description": "SMALL LETTER O",
+    "note": ""
+  },
+  {
+    "character": "п",
+    "decimal": "1087",
+    "hex": "043F",
+    "entity": "",
+    "description": "SMALL LETTER PE",
+    "note": ""
+  },
+  {
+    "character": "р",
+    "decimal": "1088",
+    "hex": "440",
+    "entity": "",
+    "description": "SMALL LETTER ER",
+    "note": ""
+  },
+  {
+    "character": "с",
+    "decimal": "1089",
+    "hex": "441",
+    "entity": "",
+    "description": "SMALL LETTER ES",
+    "note": ""
+  },
+  {
+    "character": "т",
+    "decimal": "1090",
+    "hex": "442",
+    "entity": "",
+    "description": "SMALL LETTER TE",
+    "note": ""
+  },
+  {
+    "character": "у",
+    "decimal": "1091",
+    "hex": "443",
+    "entity": "",
+    "description": "SMALL LETTER U",
+    "note": ""
+  },
+  {
+    "character": "ф",
+    "decimal": "1092",
+    "hex": "444",
+    "entity": "",
+    "description": "SMALL LETTER EF",
+    "note": ""
+  },
+  {
+    "character": "х",
+    "decimal": "1093",
+    "hex": "445",
+    "entity": "",
+    "description": "SMALL LETTER HA",
+    "note": ""
+  },
+  {
+    "character": "ц",
+    "decimal": "1094",
+    "hex": "446",
+    "entity": "",
+    "description": "SMALL LETTER TSE",
+    "note": ""
+  },
+  {
+    "character": "ч",
+    "decimal": "1095",
+    "hex": "447",
+    "entity": "",
+    "description": "SMALL LETTER CHE",
+    "note": ""
+  },
+  {
+    "character": "ш",
+    "decimal": "1096",
+    "hex": "448",
+    "entity": "",
+    "description": "SMALL LETTER SHA",
+    "note": ""
+  },
+  {
+    "character": "щ",
+    "decimal": "1097",
+    "hex": "449",
+    "entity": "",
+    "description": "SMALL LETTER SHCHA",
+    "note": ""
+  },
+  {
+    "character": "ъ",
+    "decimal": "1098",
+    "hex": "044A",
+    "entity": "",
+    "description": "SMALL LETTER HARD SIGN",
+    "note": ""
+  },
+  {
+    "character": "ы",
+    "decimal": "1099",
+    "hex": "044B",
+    "entity": "",
+    "description": "SMALL LETTER YERU",
+    "note": ""
+  },
+  {
+    "character": "ь",
+    "decimal": "1100",
+    "hex": "044C",
+    "entity": "",
+    "description": "SMALL LETTER SOFT SIGN",
+    "note": ""
+  },
+  {
+    "character": "э",
+    "decimal": "1101",
+    "hex": "044D",
+    "entity": "",
+    "description": "SMALL LETTER E",
+    "note": ""
+  },
+  {
+    "character": "ю",
+    "decimal": "1102",
+    "hex": "044E",
+    "entity": "",
+    "description": "SMALL LETTER YU",
+    "note": ""
+  },
+  {
+    "character": "я",
+    "decimal": "1103",
+    "hex": "044F",
+    "entity": "",
+    "description": "SMALL LETTER YA",
+    "note": ""
+  },
+  {
+    "character": "ѐ",
+    "decimal": "1104",
+    "hex": "450",
+    "entity": "",
+    "description": "SMALL LETTER IE WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ё",
+    "decimal": "1105",
+    "hex": "451",
+    "entity": "",
+    "description": "SMALL LETTER IO",
+    "note": ""
+  },
+  {
+    "character": "ђ",
+    "decimal": "1106",
+    "hex": "452",
+    "entity": "",
+    "description": "SMALL LETTER DJE",
+    "note": ""
+  },
+  {
+    "character": "ѓ",
+    "decimal": "1107",
+    "hex": "453",
+    "entity": "",
+    "description": "SMALL LETTER GJE",
+    "note": ""
+  },
+  {
+    "character": "є",
+    "decimal": "1108",
+    "hex": "454",
+    "entity": "",
+    "description": "SMALL LETTER UKRAINIAN IE",
+    "note": ""
+  },
+  {
+    "character": "ѕ",
+    "decimal": "1109",
+    "hex": "455",
+    "entity": "",
+    "description": "SMALL LETTER DZE",
+    "note": ""
+  },
+  {
+    "character": "і",
+    "decimal": "1110",
+    "hex": "456",
+    "entity": "",
+    "description": "SMALL LETTER BYELORUSSIAN-UKRAINIAN I",
+    "note": ""
+  },
+  {
+    "character": "ї",
+    "decimal": "1111",
+    "hex": "457",
+    "entity": "",
+    "description": "SMALL LETTER YI",
+    "note": ""
+  },
+  {
+    "character": "ј",
+    "decimal": "1112",
+    "hex": "458",
+    "entity": "",
+    "description": "SMALL LETTER JE",
+    "note": ""
+  },
+  {
+    "character": "љ",
+    "decimal": "1113",
+    "hex": "459",
+    "entity": "",
+    "description": "SMALL LETTER LJE",
+    "note": ""
+  },
+  {
+    "character": "њ",
+    "decimal": "1114",
+    "hex": "045A",
+    "entity": "",
+    "description": "SMALL LETTER NJE",
+    "note": ""
+  },
+  {
+    "character": "ћ",
+    "decimal": "1115",
+    "hex": "045B",
+    "entity": "",
+    "description": "SMALL LETTER TSHE",
+    "note": ""
+  },
+  {
+    "character": "ќ",
+    "decimal": "1116",
+    "hex": "045C",
+    "entity": "",
+    "description": "SMALL LETTER KJE",
+    "note": ""
+  },
+  {
+    "character": "ѝ",
+    "decimal": "1117",
+    "hex": "045D",
+    "entity": "",
+    "description": "SMALL LETTER I WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ў",
+    "decimal": "1118",
+    "hex": "045E",
+    "entity": "",
+    "description": "SMALL LETTER SHORT U",
+    "note": ""
+  },
+  {
+    "character": "џ",
+    "decimal": "1119",
+    "hex": "045F",
+    "entity": "",
+    "description": "SMALL LETTER DZHE",
+    "note": ""
+  },
+  {
+    "character": "Ѡ",
+    "decimal": "1120",
+    "hex": "460",
+    "entity": "",
+    "description": "CAPITAL LETTER OMEGA",
+    "note": ""
+  },
+  {
+    "character": "ѡ",
+    "decimal": "1121",
+    "hex": "461",
+    "entity": "",
+    "description": "SMALL LETTER OMEGA",
+    "note": ""
+  },
+  {
+    "character": "Ѣ",
+    "decimal": "1122",
+    "hex": "462",
+    "entity": "",
+    "description": "CAPITAL LETTER YAT",
+    "note": ""
+  },
+  {
+    "character": "ѣ",
+    "decimal": "1123",
+    "hex": "463",
+    "entity": "",
+    "description": "SMALL LETTER YAT",
+    "note": ""
+  },
+  {
+    "character": "Ѥ",
+    "decimal": "1124",
+    "hex": "464",
+    "entity": "",
+    "description": "CAPITAL LETTER IOTIFIED E",
+    "note": ""
+  },
+  {
+    "character": "ѥ",
+    "decimal": "1125",
+    "hex": "465",
+    "entity": "",
+    "description": "SMALL LETTER IOTIFIED E",
+    "note": ""
+  },
+  {
+    "character": "Ѧ",
+    "decimal": "1126",
+    "hex": "466",
+    "entity": "",
+    "description": "CAPITAL LETTER LITTLE YUS",
+    "note": ""
+  },
+  {
+    "character": "ѧ",
+    "decimal": "1127",
+    "hex": "467",
+    "entity": "",
+    "description": "SMALL LETTER LITTLE YUS",
+    "note": ""
+  },
+  {
+    "character": "Ѩ",
+    "decimal": "1128",
+    "hex": "468",
+    "entity": "",
+    "description": "CAPITAL LETTER IOTIFIED LITTLE YUS",
+    "note": ""
+  },
+  {
+    "character": "ѩ",
+    "decimal": "1129",
+    "hex": "469",
+    "entity": "",
+    "description": "SMALL LETTER IOTIFIED LITTLE YUS",
+    "note": ""
+  },
+  {
+    "character": "Ѫ",
+    "decimal": "1130",
+    "hex": "046A",
+    "entity": "",
+    "description": "CAPITAL LETTER BIG YUS",
+    "note": ""
+  },
+  {
+    "character": "ѫ",
+    "decimal": "1131",
+    "hex": "046B",
+    "entity": "",
+    "description": "SMALL LETTER BIG YUS",
+    "note": ""
+  },
+  {
+    "character": "Ѭ",
+    "decimal": "1132",
+    "hex": "046C",
+    "entity": "",
+    "description": "CAPITAL LETTER IOTIFIED BIG YUS",
+    "note": ""
+  },
+  {
+    "character": "ѭ",
+    "decimal": "1133",
+    "hex": "046D",
+    "entity": "",
+    "description": "SMALL LETTER IOTIFIED BIG YUS",
+    "note": ""
+  },
+  {
+    "character": "Ѯ",
+    "decimal": "1134",
+    "hex": "046E",
+    "entity": "",
+    "description": "CAPITAL LETTER KSI",
+    "note": ""
+  },
+  {
+    "character": "ѯ",
+    "decimal": "1135",
+    "hex": "046F",
+    "entity": "",
+    "description": "SMALL LETTER KSI",
+    "note": ""
+  },
+  {
+    "character": "Ѱ",
+    "decimal": "1136",
+    "hex": "470",
+    "entity": "",
+    "description": "CAPITAL LETTER PSI",
+    "note": ""
+  },
+  {
+    "character": "ѱ",
+    "decimal": "1137",
+    "hex": "471",
+    "entity": "",
+    "description": "SMALL LETTER PSI",
+    "note": ""
+  },
+  {
+    "character": "Ѳ",
+    "decimal": "1138",
+    "hex": "472",
+    "entity": "",
+    "description": "CAPITAL LETTER FITA",
+    "note": ""
+  },
+  {
+    "character": "ѳ",
+    "decimal": "1139",
+    "hex": "473",
+    "entity": "",
+    "description": "SMALL LETTER FITA",
+    "note": ""
+  },
+  {
+    "character": "Ѵ",
+    "decimal": "1140",
+    "hex": "474",
+    "entity": "",
+    "description": "CAPITAL LETTER IZHITSA",
+    "note": ""
+  },
+  {
+    "character": "ѵ",
+    "decimal": "1141",
+    "hex": "475",
+    "entity": "",
+    "description": "SMALL LETTER IZHITSA",
+    "note": ""
+  },
+  {
+    "character": "Ѷ",
+    "decimal": "1142",
+    "hex": "476",
+    "entity": "",
+    "description": "CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ѷ",
+    "decimal": "1143",
+    "hex": "477",
+    "entity": "",
+    "description": "SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "Ѹ",
+    "decimal": "1144",
+    "hex": "478",
+    "entity": "",
+    "description": "CAPITAL LETTER UK",
+    "note": ""
+  },
+  {
+    "character": "ѹ",
+    "decimal": "1145",
+    "hex": "479",
+    "entity": "",
+    "description": "SMALL LETTER UK",
+    "note": ""
+  },
+  {
+    "character": "Ѻ",
+    "decimal": "1146",
+    "hex": "047A",
+    "entity": "",
+    "description": "CAPITAL LETTER ROUND OMEGA",
+    "note": ""
+  },
+  {
+    "character": "ѻ",
+    "decimal": "1147",
+    "hex": "047B",
+    "entity": "",
+    "description": "SMALL LETTER ROUND OMEGA",
+    "note": ""
+  },
+  {
+    "character": "Ѽ",
+    "decimal": "1148",
+    "hex": "047C",
+    "entity": "",
+    "description": "CAPITAL LETTER OMEGA WITH TITLO",
+    "note": ""
+  },
+  {
+    "character": "ѽ",
+    "decimal": "1149",
+    "hex": "047D",
+    "entity": "",
+    "description": "SMALL LETTER OMEGA WITH TITLO",
+    "note": ""
+  },
+  {
+    "character": "Ѿ",
+    "decimal": "1150",
+    "hex": "047E",
+    "entity": "",
+    "description": "CAPITAL LETTER OT",
+    "note": ""
+  },
+  {
+    "character": "ѿ",
+    "decimal": "1151",
+    "hex": "047F",
+    "entity": "",
+    "description": "SMALL LETTER OT",
+    "note": ""
+  },
+  {
+    "character": "Ҁ",
+    "decimal": "1152",
+    "hex": "480",
+    "entity": "",
+    "description": "CAPITAL LETTER KOPPA",
+    "note": ""
+  },
+  {
+    "character": "ҁ",
+    "decimal": "1153",
+    "hex": "481",
+    "entity": "",
+    "description": "SMALL LETTER KOPPA",
+    "note": ""
+  },
+  {
+    "character": "҂",
+    "decimal": "1154",
+    "hex": "482",
+    "entity": "",
+    "description": "THOUSANDS SIGN",
+    "note": ""
+  },
+  {
+    "character": "о҃",
+    "decimal": "1155",
+    "hex": "483",
+    "entity": "",
+    "description": "COMBINING CYRILLIC TITLO (combined with о)",
+    "note": ""
+  },
+  {
+    "character": "о҄",
+    "decimal": "1156",
+    "hex": "484",
+    "entity": "",
+    "description": "COMBINING CYRILLIC PALATALIZATION (combined with о)",
+    "note": ""
+  },
+  {
+    "character": "о҅",
+    "decimal": "1157",
+    "hex": "485",
+    "entity": "",
+    "description": "COMBINING CYRILLIC DASIA PNEUMATA (combined with о)",
+    "note": ""
+  },
+  {
+    "character": "о҆",
+    "decimal": "1158",
+    "hex": "486",
+    "entity": "",
+    "description": "COMBINING CYRILLIC PSILI PNEUMATA (combined with о)",
+    "note": ""
+  },
+  {
+    "character": "о҇",
+    "decimal": "1159",
+    "hex": "487",
+    "entity": "",
+    "description": "COMBINING CYRILLIC POKRYTIE (combined with о)",
+    "note": ""
+  },
+  {
+    "character": "о҈",
+    "decimal": "1160",
+    "hex": "488",
+    "entity": "",
+    "description": "COMBINING CYRILLIC HUNDRED THOUSANDS SIGN (combined with о)",
+    "note": ""
+  },
+  {
+    "character": "о҉",
+    "decimal": "1161",
+    "hex": "489",
+    "entity": "",
+    "description": "COMBINING CYRILLIC MILLIONS SIGN (combined with о)",
+    "note": ""
+  },
+  {
+    "character": "Ҋ",
+    "decimal": "1162",
+    "hex": "048A",
+    "entity": "",
+    "description": "CAPITAL LETTER SHORT I WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ҋ",
+    "decimal": "1163",
+    "hex": "048B",
+    "entity": "",
+    "description": "SMALL LETTER SHORT I WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "Ҍ",
+    "decimal": "1164",
+    "hex": "048C",
+    "entity": "",
+    "description": "CAPITAL LETTER SEMISOFT SIGN",
+    "note": ""
+  },
+  {
+    "character": "ҍ",
+    "decimal": "1165",
+    "hex": "048D",
+    "entity": "",
+    "description": "SMALL LETTER SEMISOFT SIGN",
+    "note": ""
+  },
+  {
+    "character": "Ҏ",
+    "decimal": "1166",
+    "hex": "048E",
+    "entity": "",
+    "description": "CAPITAL LETTER ER WITH TICK",
+    "note": ""
+  },
+  {
+    "character": "ҏ",
+    "decimal": "1167",
+    "hex": "048F",
+    "entity": "",
+    "description": "SMALL LETTER ER WITH TICK",
+    "note": ""
+  },
+  {
+    "character": "Ґ",
+    "decimal": "1168",
+    "hex": "490",
+    "entity": "",
+    "description": "CAPITAL LETTER GHE WITH UPTURN",
+    "note": ""
+  },
+  {
+    "character": "ґ",
+    "decimal": "1169",
+    "hex": "491",
+    "entity": "",
+    "description": "SMALL LETTER GHE WITH UPTURN",
+    "note": ""
+  },
+  {
+    "character": "Ғ",
+    "decimal": "1170",
+    "hex": "492",
+    "entity": "",
+    "description": "CAPITAL LETTER GHE WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ғ",
+    "decimal": "1171",
+    "hex": "493",
+    "entity": "",
+    "description": "SMALL LETTER GHE WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ҕ",
+    "decimal": "1172",
+    "hex": "494",
+    "entity": "",
+    "description": "CAPITAL LETTER GHE WITH MIDDLE HOOK",
+    "note": ""
+  },
+  {
+    "character": "ҕ",
+    "decimal": "1173",
+    "hex": "495",
+    "entity": "",
+    "description": "SMALL LETTER GHE WITH MIDDLE HOOK",
+    "note": ""
+  },
+  {
+    "character": "Җ",
+    "decimal": "1174",
+    "hex": "496",
+    "entity": "",
+    "description": "CAPITAL LETTER ZHE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "җ",
+    "decimal": "1175",
+    "hex": "497",
+    "entity": "",
+    "description": "SMALL LETTER ZHE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ҙ",
+    "decimal": "1176",
+    "hex": "498",
+    "entity": "",
+    "description": "CAPITAL LETTER ZE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ҙ",
+    "decimal": "1177",
+    "hex": "499",
+    "entity": "",
+    "description": "SMALL LETTER ZE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Қ",
+    "decimal": "1178",
+    "hex": "049A",
+    "entity": "",
+    "description": "CAPITAL LETTER KA WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "қ",
+    "decimal": "1179",
+    "hex": "049B",
+    "entity": "",
+    "description": "SMALL LETTER KA WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ҝ",
+    "decimal": "1180",
+    "hex": "049C",
+    "entity": "",
+    "description": "CAPITAL LETTER KA WITH VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "ҝ",
+    "decimal": "1181",
+    "hex": "049D",
+    "entity": "",
+    "description": "SMALL LETTER KA WITH VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ҟ",
+    "decimal": "1182",
+    "hex": "049E",
+    "entity": "",
+    "description": "CAPITAL LETTER KA WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ҟ",
+    "decimal": "1183",
+    "hex": "049F",
+    "entity": "",
+    "description": "SMALL LETTER KA WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ҡ",
+    "decimal": "1184",
+    "hex": "04A0",
+    "entity": "",
+    "description": "CAPITAL LETTER BASHKIR KA",
+    "note": ""
+  },
+  {
+    "character": "ҡ",
+    "decimal": "1185",
+    "hex": "04A1",
+    "entity": "",
+    "description": "SMALL LETTER BASHKIR KA",
+    "note": ""
+  },
+  {
+    "character": "Ң",
+    "decimal": "1186",
+    "hex": "04A2",
+    "entity": "",
+    "description": "CAPITAL LETTER EN WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ң",
+    "decimal": "1187",
+    "hex": "04A3",
+    "entity": "",
+    "description": "SMALL LETTER EN WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ҥ",
+    "decimal": "1188",
+    "hex": "04A4",
+    "entity": "",
+    "description": "CAPITAL LIGATURE EN GHE",
+    "note": ""
+  },
+  {
+    "character": "ҥ",
+    "decimal": "1189",
+    "hex": "04A5",
+    "entity": "",
+    "description": "SMALL LIGATURE EN GHE",
+    "note": ""
+  },
+  {
+    "character": "Ҧ",
+    "decimal": "1190",
+    "hex": "04A6",
+    "entity": "",
+    "description": "CAPITAL LETTER PE WITH MIDDLE HOOK",
+    "note": ""
+  },
+  {
+    "character": "ҧ",
+    "decimal": "1191",
+    "hex": "04A7",
+    "entity": "",
+    "description": "SMALL LETTER PE WITH MIDDLE HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ҩ",
+    "decimal": "1192",
+    "hex": "04A8",
+    "entity": "",
+    "description": "CAPITAL LETTER ABKHASIAN HA",
+    "note": ""
+  },
+  {
+    "character": "ҩ",
+    "decimal": "1193",
+    "hex": "04A9",
+    "entity": "",
+    "description": "SMALL LETTER ABKHASIAN HA",
+    "note": ""
+  },
+  {
+    "character": "Ҫ",
+    "decimal": "1194",
+    "hex": "04AA",
+    "entity": "",
+    "description": "CAPITAL LETTER ES WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ҫ",
+    "decimal": "1195",
+    "hex": "04AB",
+    "entity": "",
+    "description": "SMALL LETTER ES WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ҭ",
+    "decimal": "1196",
+    "hex": "04AC",
+    "entity": "",
+    "description": "CAPITAL LETTER TE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ҭ",
+    "decimal": "1197",
+    "hex": "04AD",
+    "entity": "",
+    "description": "SMALL LETTER TE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ү",
+    "decimal": "1198",
+    "hex": "04AE",
+    "entity": "",
+    "description": "CAPITAL LETTER STRAIGHT U",
+    "note": ""
+  },
+  {
+    "character": "ү",
+    "decimal": "1199",
+    "hex": "04AF",
+    "entity": "",
+    "description": "SMALL LETTER STRAIGHT U",
+    "note": ""
+  },
+  {
+    "character": "Ұ",
+    "decimal": "1200",
+    "hex": "04B0",
+    "entity": "",
+    "description": "CAPITAL LETTER STRAIGHT U WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ұ",
+    "decimal": "1201",
+    "hex": "04B1",
+    "entity": "",
+    "description": "SMALL LETTER STRAIGHT U WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ҳ",
+    "decimal": "1202",
+    "hex": "04B2",
+    "entity": "",
+    "description": "CAPITAL LETTER HA WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ҳ",
+    "decimal": "1203",
+    "hex": "04B3",
+    "entity": "",
+    "description": "SMALL LETTER HA WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ҵ",
+    "decimal": "1204",
+    "hex": "04B4",
+    "entity": "",
+    "description": "CAPITAL LIGATURE TE TSE",
+    "note": ""
+  },
+  {
+    "character": "ҵ",
+    "decimal": "1205",
+    "hex": "04B5",
+    "entity": "",
+    "description": "SMALL LIGATURE TE TSE",
+    "note": ""
+  },
+  {
+    "character": "Ҷ",
+    "decimal": "1206",
+    "hex": "04B6",
+    "entity": "",
+    "description": "CAPITAL LETTER CHE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ҷ",
+    "decimal": "1207",
+    "hex": "04B7",
+    "entity": "",
+    "description": "SMALL LETTER CHE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ҹ",
+    "decimal": "1208",
+    "hex": "04B8",
+    "entity": "",
+    "description": "CAPITAL LETTER CHE WITH VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "ҹ",
+    "decimal": "1209",
+    "hex": "04B9",
+    "entity": "",
+    "description": "SMALL LETTER CHE WITH VERTICAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "Һ",
+    "decimal": "1210",
+    "hex": "04BA",
+    "entity": "",
+    "description": "CAPITAL LETTER SHHA",
+    "note": ""
+  },
+  {
+    "character": "һ",
+    "decimal": "1211",
+    "hex": "04BB",
+    "entity": "",
+    "description": "SMALL LETTER SHHA",
+    "note": ""
+  },
+  {
+    "character": "Ҽ",
+    "decimal": "1212",
+    "hex": "04BC",
+    "entity": "",
+    "description": "CAPITAL LETTER ABKHASIAN CHE",
+    "note": ""
+  },
+  {
+    "character": "ҽ",
+    "decimal": "1213",
+    "hex": "04BD",
+    "entity": "",
+    "description": "SMALL LETTER ABKHASIAN CHE",
+    "note": ""
+  },
+  {
+    "character": "Ҿ",
+    "decimal": "1214",
+    "hex": "04BE",
+    "entity": "",
+    "description": "CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ҿ",
+    "decimal": "1215",
+    "hex": "04BF",
+    "entity": "",
+    "description": "SMALL LETTER ABKHASIAN CHE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ӏ",
+    "decimal": "1216",
+    "hex": "04C0",
+    "entity": "",
+    "description": "LETTER PALOCHKA",
+    "note": ""
+  },
+  {
+    "character": "Ӂ",
+    "decimal": "1217",
+    "hex": "04C1",
+    "entity": "",
+    "description": "CAPITAL LETTER ZHE WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ӂ",
+    "decimal": "1218",
+    "hex": "04C2",
+    "entity": "",
+    "description": "SMALL LETTER ZHE WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ӄ",
+    "decimal": "1219",
+    "hex": "04C3",
+    "entity": "",
+    "description": "CAPITAL LETTER KA WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ӄ",
+    "decimal": "1220",
+    "hex": "04C4",
+    "entity": "",
+    "description": "SMALL LETTER KA WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ӆ",
+    "decimal": "1221",
+    "hex": "04C5",
+    "entity": "",
+    "description": "CAPITAL LETTER EL WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ӆ",
+    "decimal": "1222",
+    "hex": "04C6",
+    "entity": "",
+    "description": "SMALL LETTER EL WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "Ӈ",
+    "decimal": "1223",
+    "hex": "04C7",
+    "entity": "",
+    "description": "CAPITAL LETTER EN WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ӈ",
+    "decimal": "1224",
+    "hex": "04C8",
+    "entity": "",
+    "description": "SMALL LETTER EN WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ӊ",
+    "decimal": "1225",
+    "hex": "04C9",
+    "entity": "",
+    "description": "CAPITAL LETTER EN WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ӊ",
+    "decimal": "1226",
+    "hex": "04CA",
+    "entity": "",
+    "description": "SMALL LETTER EN WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "Ӌ",
+    "decimal": "1227",
+    "hex": "04CB",
+    "entity": "",
+    "description": "CAPITAL LETTER KHAKASSIAN CHE",
+    "note": ""
+  },
+  {
+    "character": "ӌ",
+    "decimal": "1228",
+    "hex": "04CC",
+    "entity": "",
+    "description": "SMALL LETTER KHAKASSIAN CHE",
+    "note": ""
+  },
+  {
+    "character": "Ӎ",
+    "decimal": "1229",
+    "hex": "04CD",
+    "entity": "",
+    "description": "CAPITAL LETTER EM WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ӎ",
+    "decimal": "1230",
+    "hex": "04CE",
+    "entity": "",
+    "description": "SMALL LETTER EM WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ӏ",
+    "decimal": "1231",
+    "hex": "04CF",
+    "entity": "",
+    "description": "SMALL LETTER PALOCHKA",
+    "note": ""
+  },
+  {
+    "character": "Ӑ",
+    "decimal": "1232",
+    "hex": "04D0",
+    "entity": "",
+    "description": "CAPITAL LETTER A WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ӑ",
+    "decimal": "1233",
+    "hex": "04D1",
+    "entity": "",
+    "description": "SMALL LETTER A WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ӓ",
+    "decimal": "1234",
+    "hex": "04D2",
+    "entity": "",
+    "description": "CAPITAL LETTER A WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӓ",
+    "decimal": "1235",
+    "hex": "04D3",
+    "entity": "",
+    "description": "SMALL LETTER A WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӕ",
+    "decimal": "1236",
+    "hex": "04D4",
+    "entity": "",
+    "description": "CAPITAL LIGATURE A IE",
+    "note": ""
+  },
+  {
+    "character": "ӕ",
+    "decimal": "1237",
+    "hex": "04D5",
+    "entity": "",
+    "description": "SMALL LIGATURE A IE",
+    "note": ""
+  },
+  {
+    "character": "Ӗ",
+    "decimal": "1238",
+    "hex": "04D6",
+    "entity": "",
+    "description": "CAPITAL LETTER IE WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ӗ",
+    "decimal": "1239",
+    "hex": "04D7",
+    "entity": "",
+    "description": "SMALL LETTER IE WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ә",
+    "decimal": "1240",
+    "hex": "04D8",
+    "entity": "",
+    "description": "CAPITAL LETTER SCHWA",
+    "note": ""
+  },
+  {
+    "character": "ә",
+    "decimal": "1241",
+    "hex": "04D9",
+    "entity": "",
+    "description": "SMALL LETTER SCHWA",
+    "note": ""
+  },
+  {
+    "character": "Ӛ",
+    "decimal": "1242",
+    "hex": "04DA",
+    "entity": "",
+    "description": "CAPITAL LETTER SCHWA WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӛ",
+    "decimal": "1243",
+    "hex": "04DB",
+    "entity": "",
+    "description": "SMALL LETTER SCHWA WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӝ",
+    "decimal": "1244",
+    "hex": "04DC",
+    "entity": "",
+    "description": "CAPITAL LETTER ZHE WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӝ",
+    "decimal": "1245",
+    "hex": "04DD",
+    "entity": "",
+    "description": "SMALL LETTER ZHE WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӟ",
+    "decimal": "1246",
+    "hex": "04DE",
+    "entity": "",
+    "description": "CAPITAL LETTER ZE WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӟ",
+    "decimal": "1247",
+    "hex": "04DF",
+    "entity": "",
+    "description": "SMALL LETTER ZE WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӡ",
+    "decimal": "1248",
+    "hex": "4,00E+00",
+    "entity": "",
+    "description": "CAPITAL LETTER ABKHASIAN DZE",
+    "note": ""
+  },
+  {
+    "character": "ӡ",
+    "decimal": "1249",
+    "hex": "4,00E+01",
+    "entity": "",
+    "description": "SMALL LETTER ABKHASIAN DZE",
+    "note": ""
+  },
+  {
+    "character": "Ӣ",
+    "decimal": "1250",
+    "hex": "4,00E+02",
+    "entity": "",
+    "description": "CAPITAL LETTER I WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ӣ",
+    "decimal": "1251",
+    "hex": "4,00E+03",
+    "entity": "",
+    "description": "SMALL LETTER I WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ӥ",
+    "decimal": "1252",
+    "hex": "4,00E+04",
+    "entity": "",
+    "description": "CAPITAL LETTER I WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӥ",
+    "decimal": "1253",
+    "hex": "4,00E+05",
+    "entity": "",
+    "description": "SMALL LETTER I WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӧ",
+    "decimal": "1254",
+    "hex": "4,00E+06",
+    "entity": "",
+    "description": "CAPITAL LETTER O WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӧ",
+    "decimal": "1255",
+    "hex": "4,00E+07",
+    "entity": "",
+    "description": "SMALL LETTER O WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ө",
+    "decimal": "1256",
+    "hex": "4,00E+08",
+    "entity": "",
+    "description": "CAPITAL LETTER BARRED O",
+    "note": ""
+  },
+  {
+    "character": "ө",
+    "decimal": "1257",
+    "hex": "4,00E+09",
+    "entity": "",
+    "description": "SMALL LETTER BARRED O",
+    "note": ""
+  },
+  {
+    "character": "Ӫ",
+    "decimal": "1258",
+    "hex": "04EA",
+    "entity": "",
+    "description": "CAPITAL LETTER BARRED O WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӫ",
+    "decimal": "1259",
+    "hex": "04EB",
+    "entity": "",
+    "description": "SMALL LETTER BARRED O WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӭ",
+    "decimal": "1260",
+    "hex": "04EC",
+    "entity": "",
+    "description": "CAPITAL LETTER E WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӭ",
+    "decimal": "1261",
+    "hex": "04ED",
+    "entity": "",
+    "description": "SMALL LETTER E WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӯ",
+    "decimal": "1262",
+    "hex": "04EE",
+    "entity": "",
+    "description": "CAPITAL LETTER U WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ӯ",
+    "decimal": "1263",
+    "hex": "04EF",
+    "entity": "",
+    "description": "SMALL LETTER U WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ӱ",
+    "decimal": "1264",
+    "hex": "04F0",
+    "entity": "",
+    "description": "CAPITAL LETTER U WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӱ",
+    "decimal": "1265",
+    "hex": "04F1",
+    "entity": "",
+    "description": "SMALL LETTER U WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӳ",
+    "decimal": "1266",
+    "hex": "04F2",
+    "entity": "",
+    "description": "CAPITAL LETTER U WITH DOUBLE ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ӳ",
+    "decimal": "1267",
+    "hex": "04F3",
+    "entity": "",
+    "description": "SMALL LETTER U WITH DOUBLE ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ӵ",
+    "decimal": "1268",
+    "hex": "04F4",
+    "entity": "",
+    "description": "CAPITAL LETTER CHE WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӵ",
+    "decimal": "1269",
+    "hex": "04F5",
+    "entity": "",
+    "description": "SMALL LETTER CHE WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӷ",
+    "decimal": "1270",
+    "hex": "04F6",
+    "entity": "",
+    "description": "CAPITAL LETTER GHE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ӷ",
+    "decimal": "1271",
+    "hex": "04F7",
+    "entity": "",
+    "description": "SMALL LETTER GHE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ӹ",
+    "decimal": "1272",
+    "hex": "04F8",
+    "entity": "",
+    "description": "CAPITAL LETTER YERU WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ӹ",
+    "decimal": "1273",
+    "hex": "04F9",
+    "entity": "",
+    "description": "SMALL LETTER YERU WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ӻ",
+    "decimal": "1274",
+    "hex": "04FA",
+    "entity": "",
+    "description": "CAPITAL LETTER GHE WITH STROKE AND HOOK",
+    "note": ""
+  },
+  {
+    "character": "ӻ",
+    "decimal": "1275",
+    "hex": "04FB",
+    "entity": "",
+    "description": "SMALL LETTER GHE WITH STROKE AND HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ӽ",
+    "decimal": "1276",
+    "hex": "04FC",
+    "entity": "",
+    "description": "CAPITAL LETTER HA WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ӽ",
+    "decimal": "1277",
+    "hex": "04FD",
+    "entity": "",
+    "description": "SMALL LETTER HA WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ӿ",
+    "decimal": "1278",
+    "hex": "04FE",
+    "entity": "",
+    "description": "CAPITAL LETTER HA WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ӿ",
+    "decimal": "1279",
+    "hex": "04FF",
+    "entity": "",
+    "description": "SMALL LETTER HA WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ԁ",
+    "decimal": "1280",
+    "hex": "500",
+    "entity": "",
+    "description": "CAPITAL LETTER KOMI DE",
+    "note": ""
+  },
+  {
+    "character": "ԁ",
+    "decimal": "1281",
+    "hex": "501",
+    "entity": "",
+    "description": "SMALL LETTER KOMI DE",
+    "note": ""
+  },
+  {
+    "character": "Ԃ",
+    "decimal": "1282",
+    "hex": "502",
+    "entity": "",
+    "description": "CAPITAL LETTER KOMI DJE",
+    "note": ""
+  },
+  {
+    "character": "ԃ",
+    "decimal": "1283",
+    "hex": "503",
+    "entity": "",
+    "description": "SMALL LETTER KOMI DJE",
+    "note": ""
+  },
+  {
+    "character": "Ԅ",
+    "decimal": "1284",
+    "hex": "504",
+    "entity": "",
+    "description": "CAPITAL LETTER KOMI ZJE",
+    "note": ""
+  },
+  {
+    "character": "ԅ",
+    "decimal": "1285",
+    "hex": "505",
+    "entity": "",
+    "description": "SMALL LETTER KOMI ZJE",
+    "note": ""
+  },
+  {
+    "character": "Ԇ",
+    "decimal": "1286",
+    "hex": "506",
+    "entity": "",
+    "description": "CAPITAL LETTER KOMI DZJE",
+    "note": ""
+  },
+  {
+    "character": "ԇ",
+    "decimal": "1287",
+    "hex": "507",
+    "entity": "",
+    "description": "SMALL LETTER KOMI DZJE",
+    "note": ""
+  },
+  {
+    "character": "Ԉ",
+    "decimal": "1288",
+    "hex": "508",
+    "entity": "",
+    "description": "CAPITAL LETTER KOMI LJE",
+    "note": ""
+  },
+  {
+    "character": "ԉ",
+    "decimal": "1289",
+    "hex": "509",
+    "entity": "",
+    "description": "SMALL LETTER KOMI LJE",
+    "note": ""
+  },
+  {
+    "character": "Ԋ",
+    "decimal": "1290",
+    "hex": "050A",
+    "entity": "",
+    "description": "CAPITAL LETTER KOMI NJE",
+    "note": ""
+  },
+  {
+    "character": "ԋ",
+    "decimal": "1291",
+    "hex": "050B",
+    "entity": "",
+    "description": "SMALL LETTER KOMI NJE",
+    "note": ""
+  },
+  {
+    "character": "Ԍ",
+    "decimal": "1292",
+    "hex": "050C",
+    "entity": "",
+    "description": "CAPITAL LETTER KOMI SJE",
+    "note": ""
+  },
+  {
+    "character": "ԍ",
+    "decimal": "1293",
+    "hex": "050D",
+    "entity": "",
+    "description": "SMALL LETTER KOMI SJE",
+    "note": ""
+  },
+  {
+    "character": "Ԏ",
+    "decimal": "1294",
+    "hex": "050E",
+    "entity": "",
+    "description": "CAPITAL LETTER KOMI TJE",
+    "note": ""
+  },
+  {
+    "character": "ԏ",
+    "decimal": "1295",
+    "hex": "050F",
+    "entity": "",
+    "description": "SMALL LETTER KOMI TJE",
+    "note": ""
+  },
+  {
+    "character": "Ԕ",
+    "decimal": "1300",
+    "hex": "514",
+    "entity": "",
+    "description": "CAPITAL LETTER LHA",
+    "note": ""
+  },
+  {
+    "character": "ԕ",
+    "decimal": "1301",
+    "hex": "515",
+    "entity": "",
+    "description": "SMALL LETTER LHA",
+    "note": ""
+  },
+  {
+    "character": "Ԗ",
+    "decimal": "1302",
+    "hex": "516",
+    "entity": "",
+    "description": "CAPITAL LETTER RHA",
+    "note": ""
+  },
+  {
+    "character": "ԗ",
+    "decimal": "1303",
+    "hex": "517",
+    "entity": "",
+    "description": "SMALL LETTER RHA",
+    "note": ""
+  },
+  {
+    "character": "Ԙ",
+    "decimal": "1304",
+    "hex": "518",
+    "entity": "",
+    "description": "CAPITAL LETTER YAE",
+    "note": ""
+  },
+  {
+    "character": "ԙ",
+    "decimal": "1305",
+    "hex": "519",
+    "entity": "",
+    "description": "SMALL LETTER YAE",
+    "note": ""
+  },
+  {
+    "character": "Ԛ",
+    "decimal": "1306",
+    "hex": "051A",
+    "entity": "",
+    "description": "CAPITAL LETTER QA",
+    "note": ""
+  },
+  {
+    "character": "ԛ",
+    "decimal": "1307",
+    "hex": "051B",
+    "entity": "",
+    "description": "SMALL LETTER QA",
+    "note": ""
+  },
+  {
+    "character": "Ԝ",
+    "decimal": "1308",
+    "hex": "051C",
+    "entity": "",
+    "description": "CAPITAL LETTER WE",
+    "note": ""
+  },
+  {
+    "character": "ԝ",
+    "decimal": "1309",
+    "hex": "051D",
+    "entity": "",
+    "description": "SMALL LETTER WE",
+    "note": ""
+  },
+  {
+    "character": "Ԟ",
+    "decimal": "1310",
+    "hex": "051E",
+    "entity": "",
+    "description": "CAPITAL LETTER ALEUT KA",
+    "note": ""
+  },
+  {
+    "character": "ԟ",
+    "decimal": "1311",
+    "hex": "051F",
+    "entity": "",
+    "description": "SMALL LETTER ALEUT KA",
+    "note": ""
+  },
+  {
+    "character": "Ԡ",
+    "decimal": "1312",
+    "hex": "520",
+    "entity": "",
+    "description": "CAPITAL LETTER EL WITH MIDDLE HOOK",
+    "note": ""
+  },
+  {
+    "character": "ԡ",
+    "decimal": "1313",
+    "hex": "521",
+    "entity": "",
+    "description": "SMALL LETTER EL WITH MIDDLE HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ԣ",
+    "decimal": "1314",
+    "hex": "522",
+    "entity": "",
+    "description": "CAPITAL LETTER EN WITH MIDDLE HOOK",
+    "note": ""
+  },
+  {
+    "character": "ԣ",
+    "decimal": "1315",
+    "hex": "523",
+    "entity": "",
+    "description": "SMALL LETTER EN WITH MIDDLE HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ԥ",
+    "decimal": "1316",
+    "hex": "524",
+    "entity": "",
+    "description": "CAPITAL LETTER PE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ԥ",
+    "decimal": "1317",
+    "hex": "525",
+    "entity": "",
+    "description": "SMALL LETTER PE WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ԧ",
+    "decimal": "1318",
+    "hex": "526",
+    "entity": "",
+    "description": "CAPITAL LETTER SHHA WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "ԧ",
+    "decimal": "1319",
+    "hex": "527",
+    "entity": "",
+    "description": "SMALL LETTER SHHA WITH DESCENDER",
+    "note": ""
+  },
+  {
+    "character": "Ԩ",
+    "decimal": "1320",
+    "hex": "528",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "ԩ",
+    "decimal": "1321",
+    "hex": "529",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "Ԫ",
+    "decimal": "1322",
+    "hex": "052A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "ԫ",
+    "decimal": "1323",
+    "hex": "052B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "Ԭ",
+    "decimal": "1324",
+    "hex": "052C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "ԭ",
+    "decimal": "1325",
+    "hex": "052D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "Ԯ",
+    "decimal": "1326",
+    "hex": "052E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "ԯ",
+    "decimal": "1327",
+    "hex": "052F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  }
+]

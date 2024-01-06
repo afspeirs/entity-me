@@ -1,0 +1,482 @@
+[
+  {
+    "character": "⅐",
+    "decimal": "8528",
+    "hex": "2150",
+    "entity": "",
+    "description": "VULGAR FRACTION ONE SEVENTH",
+    "note": ""
+  },
+  {
+    "character": "⅑",
+    "decimal": "8529",
+    "hex": "2151",
+    "entity": "",
+    "description": "VULGAR FRACTION ONE NINTH",
+    "note": ""
+  },
+  {
+    "character": "⅒",
+    "decimal": "8530",
+    "hex": "2152",
+    "entity": "",
+    "description": "VULGAR FRACTION ONE TENTH",
+    "note": ""
+  },
+  {
+    "character": "⅓",
+    "decimal": "8531",
+    "hex": "2153",
+    "entity": "&frac13;",
+    "description": "VULGAR FRACTION ONE THIRD",
+    "note": ""
+  },
+  {
+    "character": "⅔",
+    "decimal": "8532",
+    "hex": "2154",
+    "entity": "&frac23;",
+    "description": "VULGAR FRACTION TWO THIRDS",
+    "note": ""
+  },
+  {
+    "character": "⅕",
+    "decimal": "8533",
+    "hex": "2155",
+    "entity": "&frac15;",
+    "description": "VULGAR FRACTION ONE FIFTH",
+    "note": ""
+  },
+  {
+    "character": "⅖",
+    "decimal": "8534",
+    "hex": "2156",
+    "entity": "&frac25;",
+    "description": "VULGAR FRACTION TWO FIFTHS",
+    "note": ""
+  },
+  {
+    "character": "⅗",
+    "decimal": "8535",
+    "hex": "2157",
+    "entity": "&frac35;",
+    "description": "VULGAR FRACTION THREE FIFTHS",
+    "note": ""
+  },
+  {
+    "character": "⅘",
+    "decimal": "8536",
+    "hex": "2158",
+    "entity": "&frac45;",
+    "description": "VULGAR FRACTION FOUR FIFTHS",
+    "note": ""
+  },
+  {
+    "character": "⅙",
+    "decimal": "8537",
+    "hex": "2159",
+    "entity": "&frac16;",
+    "description": "VULGAR FRACTION ONE SIXTH",
+    "note": ""
+  },
+  {
+    "character": "⅚",
+    "decimal": "8538",
+    "hex": "215A",
+    "entity": "&frac56;",
+    "description": "VULGAR FRACTION FIVE SIXTHS",
+    "note": ""
+  },
+  {
+    "character": "⅛",
+    "decimal": "8539",
+    "hex": "215B",
+    "entity": "&frac18;",
+    "description": "VULGAR FRACTION ONE EIGHTH",
+    "note": ""
+  },
+  {
+    "character": "⅜",
+    "decimal": "8540",
+    "hex": "215C",
+    "entity": "&frac38;",
+    "description": "VULGAR FRACTION THREE EIGHTHS",
+    "note": ""
+  },
+  {
+    "character": "⅝",
+    "decimal": "8541",
+    "hex": "215D",
+    "entity": "&frac58;",
+    "description": "VULGAR FRACTION FIVE EIGHTHS",
+    "note": ""
+  },
+  {
+    "character": "⅞",
+    "decimal": "8542",
+    "hex": "215E",
+    "entity": "&frac78;",
+    "description": "VULGAR FRACTION SEVEN EIGHTHS",
+    "note": ""
+  },
+  {
+    "character": "⅟",
+    "decimal": "8543",
+    "hex": "215F",
+    "entity": "",
+    "description": "FRACTION NUMERATOR ONE",
+    "note": ""
+  },
+  {
+    "character": "Ⅰ",
+    "decimal": "8544",
+    "hex": "2160",
+    "entity": "",
+    "description": "ROMAN NUMERAL ONE",
+    "note": ""
+  },
+  {
+    "character": "Ⅱ",
+    "decimal": "8545",
+    "hex": "2161",
+    "entity": "",
+    "description": "ROMAN NUMERAL TWO",
+    "note": ""
+  },
+  {
+    "character": "Ⅲ",
+    "decimal": "8546",
+    "hex": "2162",
+    "entity": "",
+    "description": "ROMAN NUMERAL THREE",
+    "note": ""
+  },
+  {
+    "character": "Ⅳ",
+    "decimal": "8547",
+    "hex": "2163",
+    "entity": "",
+    "description": "ROMAN NUMERAL FOUR",
+    "note": ""
+  },
+  {
+    "character": "Ⅴ",
+    "decimal": "8548",
+    "hex": "2164",
+    "entity": "",
+    "description": "ROMAN NUMERAL FIVE",
+    "note": ""
+  },
+  {
+    "character": "Ⅵ",
+    "decimal": "8549",
+    "hex": "2165",
+    "entity": "",
+    "description": "ROMAN NUMERAL SIX",
+    "note": ""
+  },
+  {
+    "character": "Ⅶ",
+    "decimal": "8550",
+    "hex": "2166",
+    "entity": "",
+    "description": "ROMAN NUMERAL SEVEN",
+    "note": ""
+  },
+  {
+    "character": "Ⅷ",
+    "decimal": "8551",
+    "hex": "2167",
+    "entity": "",
+    "description": "ROMAN NUMERAL EIGHT",
+    "note": ""
+  },
+  {
+    "character": "Ⅸ",
+    "decimal": "8552",
+    "hex": "2168",
+    "entity": "",
+    "description": "ROMAN NUMERAL NINE",
+    "note": ""
+  },
+  {
+    "character": "Ⅹ",
+    "decimal": "8553",
+    "hex": "2169",
+    "entity": "",
+    "description": "ROMAN NUMERAL TEN",
+    "note": ""
+  },
+  {
+    "character": "Ⅺ",
+    "decimal": "8554",
+    "hex": "216A",
+    "entity": "",
+    "description": "ROMAN NUMERAL ELEVEN",
+    "note": ""
+  },
+  {
+    "character": "Ⅻ",
+    "decimal": "8555",
+    "hex": "216B",
+    "entity": "",
+    "description": "ROMAN NUMERAL TWELVE",
+    "note": ""
+  },
+  {
+    "character": "Ⅼ",
+    "decimal": "8556",
+    "hex": "216C",
+    "entity": "",
+    "description": "ROMAN NUMERAL FIFTY",
+    "note": ""
+  },
+  {
+    "character": "Ⅽ",
+    "decimal": "8557",
+    "hex": "216D",
+    "entity": "",
+    "description": "ROMAN NUMERAL ONE HUNDRED",
+    "note": ""
+  },
+  {
+    "character": "Ⅾ",
+    "decimal": "8558",
+    "hex": "216E",
+    "entity": "",
+    "description": "ROMAN NUMERAL FIVE HUNDRED",
+    "note": ""
+  },
+  {
+    "character": "Ⅿ",
+    "decimal": "8559",
+    "hex": "216F",
+    "entity": "",
+    "description": "ROMAN NUMERAL ONE THOUSAND",
+    "note": ""
+  },
+  {
+    "character": "ⅰ",
+    "decimal": "8560",
+    "hex": "2170",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL ONE",
+    "note": ""
+  },
+  {
+    "character": "ⅱ",
+    "decimal": "8561",
+    "hex": "2171",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL TWO",
+    "note": ""
+  },
+  {
+    "character": "ⅲ",
+    "decimal": "8562",
+    "hex": "2172",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL THREE",
+    "note": ""
+  },
+  {
+    "character": "ⅳ",
+    "decimal": "8563",
+    "hex": "2173",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL FOUR",
+    "note": ""
+  },
+  {
+    "character": "ⅴ",
+    "decimal": "8564",
+    "hex": "2174",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL FIVE",
+    "note": ""
+  },
+  {
+    "character": "ⅵ",
+    "decimal": "8565",
+    "hex": "2175",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL SIX",
+    "note": ""
+  },
+  {
+    "character": "ⅶ",
+    "decimal": "8566",
+    "hex": "2176",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL SEVEN",
+    "note": ""
+  },
+  {
+    "character": "ⅷ",
+    "decimal": "8567",
+    "hex": "2177",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL EIGHT",
+    "note": ""
+  },
+  {
+    "character": "ⅸ",
+    "decimal": "8568",
+    "hex": "2178",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL NINE",
+    "note": ""
+  },
+  {
+    "character": "ⅹ",
+    "decimal": "8569",
+    "hex": "2179",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL TEN",
+    "note": ""
+  },
+  {
+    "character": "ⅺ",
+    "decimal": "8570",
+    "hex": "217A",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL ELEVEN",
+    "note": ""
+  },
+  {
+    "character": "ⅻ",
+    "decimal": "8571",
+    "hex": "217B",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL TWELVE",
+    "note": ""
+  },
+  {
+    "character": "ⅼ",
+    "decimal": "8572",
+    "hex": "217C",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL FIFTY",
+    "note": ""
+  },
+  {
+    "character": "ⅽ",
+    "decimal": "8573",
+    "hex": "217D",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL ONE HUNDRED",
+    "note": ""
+  },
+  {
+    "character": "ⅾ",
+    "decimal": "8574",
+    "hex": "217E",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL FIVE HUNDRED",
+    "note": ""
+  },
+  {
+    "character": "ⅿ",
+    "decimal": "8575",
+    "hex": "217F",
+    "entity": "",
+    "description": "SMALL ROMAN NUMERAL ONE THOUSAND",
+    "note": ""
+  },
+  {
+    "character": "ↀ",
+    "decimal": "8576",
+    "hex": "2180",
+    "entity": "",
+    "description": "ROMAN NUMERAL ONE THOUSAND C D",
+    "note": ""
+  },
+  {
+    "character": "ↁ",
+    "decimal": "8577",
+    "hex": "2181",
+    "entity": "",
+    "description": "ROMAN NUMERAL FIVE THOUSAND",
+    "note": ""
+  },
+  {
+    "character": "ↂ",
+    "decimal": "8578",
+    "hex": "2182",
+    "entity": "",
+    "description": "ROMAN NUMERAL TEN THOUSAND",
+    "note": ""
+  },
+  {
+    "character": "Ↄ",
+    "decimal": "8579",
+    "hex": "2183",
+    "entity": "",
+    "description": "ROMAN NUMERAL REVERSED ONE HUNDRED",
+    "note": ""
+  },
+  {
+    "character": "ↄ",
+    "decimal": "8580",
+    "hex": "2184",
+    "entity": "",
+    "description": "LATIN SMALL LETTER REVERSED C",
+    "note": ""
+  },
+  {
+    "character": "ↅ",
+    "decimal": "8581",
+    "hex": "2185",
+    "entity": "",
+    "description": "ROMAN NUMERAL SIX LATE FORM",
+    "note": ""
+  },
+  {
+    "character": "ↆ",
+    "decimal": "8582",
+    "hex": "2186",
+    "entity": "",
+    "description": "ROMAN NUMERAL FIFTY EARLY FORM",
+    "note": ""
+  },
+  {
+    "character": "ↇ",
+    "decimal": "8583",
+    "hex": "2187",
+    "entity": "",
+    "description": "ROMAN NUMERAL FIFTY THOUSAND",
+    "note": ""
+  },
+  {
+    "character": "ↈ",
+    "decimal": "8584",
+    "hex": "2188",
+    "entity": "",
+    "description": "ROMAN NUMERAL ONE HUNDRED THOUSAND",
+    "note": ""
+  },
+  {
+    "character": "↉",
+    "decimal": "8585",
+    "hex": "2189",
+    "entity": "",
+    "description": "VULGAR FRACTION ZERO THIRDS",
+    "note": ""
+  },
+  {
+    "character": "↊",
+    "decimal": "8586",
+    "hex": "218A",
+    "entity": "",
+    "description": "TURNED DIGIT TWO",
+    "note": ""
+  },
+  {
+    "character": "↋",
+    "decimal": "8587",
+    "hex": "218B",
+    "entity": "",
+    "description": "TURNED DIGIT THREE",
+    "note": ""
+  }
+]

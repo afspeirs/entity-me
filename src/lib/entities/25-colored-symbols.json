@@ -1,0 +1,450 @@
+[
+  {
+    "character": "⌚",
+    "decimal": "8986",
+    "hex": "231A",
+    "entity": "",
+    "description": "Watch",
+    "note": ""
+  },
+  {
+    "character": "⌛",
+    "decimal": "8987",
+    "hex": "231B",
+    "entity": "",
+    "description": "Hourglass done",
+    "note": ""
+  },
+  {
+    "character": "⏩",
+    "decimal": "9193",
+    "hex": "23E9;",
+    "entity": "",
+    "description": "Fast forward button",
+    "note": ""
+  },
+  {
+    "character": "⏪",
+    "decimal": "9194",
+    "hex": "23EA",
+    "entity": "",
+    "description": "Fast reverse button",
+    "note": ""
+  },
+  {
+    "character": "⏫",
+    "decimal": "9195",
+    "hex": "23EB",
+    "entity": "",
+    "description": "Fast up button",
+    "note": ""
+  },
+  {
+    "character": "⏬",
+    "decimal": "9196",
+    "hex": "23EC",
+    "entity": "",
+    "description": "Fast down button",
+    "note": ""
+  },
+  {
+    "character": "⏰",
+    "decimal": "9200",
+    "hex": "23F0",
+    "entity": "",
+    "description": "Alarm clock",
+    "note": ""
+  },
+  {
+    "character": "⏳",
+    "decimal": "9203",
+    "hex": "23F3",
+    "entity": "",
+    "description": "Hourglass not done",
+    "note": ""
+  },
+  {
+    "character": "☔",
+    "decimal": "9748",
+    "hex": "2614",
+    "entity": "",
+    "description": "Umbrella with rain drops",
+    "note": ""
+  },
+  {
+    "character": "☕",
+    "decimal": "9749",
+    "hex": "2615",
+    "entity": "",
+    "description": "Hot beverage",
+    "note": ""
+  },
+  {
+    "character": "♈",
+    "decimal": "9800",
+    "hex": "2648",
+    "entity": "",
+    "description": "Aries",
+    "note": ""
+  },
+  {
+    "character": "♉",
+    "decimal": "9801",
+    "hex": "2649",
+    "entity": "",
+    "description": "Taurus",
+    "note": ""
+  },
+  {
+    "character": "♊",
+    "decimal": "9802",
+    "hex": "264A",
+    "entity": "",
+    "description": "Gemini",
+    "note": ""
+  },
+  {
+    "character": "♋",
+    "decimal": "9803",
+    "hex": "264B",
+    "entity": "",
+    "description": "Cancer",
+    "note": ""
+  },
+  {
+    "character": "♌",
+    "decimal": "9804",
+    "hex": "264C",
+    "entity": "",
+    "description": "Leo",
+    "note": ""
+  },
+  {
+    "character": "♍",
+    "decimal": "9805",
+    "hex": "264D",
+    "entity": "",
+    "description": "Virgo",
+    "note": ""
+  },
+  {
+    "character": "♎",
+    "decimal": "9806",
+    "hex": "264E",
+    "entity": "",
+    "description": "Libra",
+    "note": ""
+  },
+  {
+    "character": "♏",
+    "decimal": "9807",
+    "hex": "264F",
+    "entity": "",
+    "description": "Scorpius",
+    "note": ""
+  },
+  {
+    "character": "♐",
+    "decimal": "9808",
+    "hex": "2650",
+    "entity": "",
+    "description": "Sagittarius",
+    "note": ""
+  },
+  {
+    "character": "♑",
+    "decimal": "9809",
+    "hex": "2651",
+    "entity": "",
+    "description": "Capricorn",
+    "note": ""
+  },
+  {
+    "character": "♒",
+    "decimal": "9810",
+    "hex": "2652",
+    "entity": "",
+    "description": "Aquarius",
+    "note": ""
+  },
+  {
+    "character": "♓",
+    "decimal": "9811",
+    "hex": "2653",
+    "entity": "",
+    "description": "Pisces",
+    "note": ""
+  },
+  {
+    "character": "♿",
+    "decimal": "9855",
+    "hex": "267F",
+    "entity": "",
+    "description": "Wheelchair symbol",
+    "note": ""
+  },
+  {
+    "character": "⚡",
+    "decimal": "9889",
+    "hex": "26A1",
+    "entity": "",
+    "description": "High voltage",
+    "note": ""
+  },
+  {
+    "character": "⚪",
+    "decimal": "9898",
+    "hex": "26AA",
+    "entity": "",
+    "description": "White circle",
+    "note": ""
+  },
+  {
+    "character": "⚫",
+    "decimal": "9899",
+    "hex": "26AB",
+    "entity": "",
+    "description": "Black circle",
+    "note": ""
+  },
+  {
+    "character": "⚽",
+    "decimal": "9917",
+    "hex": "26BD",
+    "entity": "",
+    "description": "Soccer ball",
+    "note": ""
+  },
+  {
+    "character": "⚾",
+    "decimal": "9918",
+    "hex": "26BE",
+    "entity": "",
+    "description": "Baseball",
+    "note": ""
+  },
+  {
+    "character": "⛄",
+    "decimal": "9924",
+    "hex": "26C4",
+    "entity": "",
+    "description": "Snowman without snow",
+    "note": ""
+  },
+  {
+    "character": "⛅",
+    "decimal": "9925",
+    "hex": "26C5",
+    "entity": "",
+    "description": "Sun behind cloud",
+    "note": ""
+  },
+  {
+    "character": "⛎",
+    "decimal": "9934",
+    "hex": "26CE",
+    "entity": "",
+    "description": "Ophiuchus",
+    "note": ""
+  },
+  {
+    "character": "⛔",
+    "decimal": "9940",
+    "hex": "26D4",
+    "entity": "",
+    "description": "No entry",
+    "note": ""
+  },
+  {
+    "character": "⛪",
+    "decimal": "9962",
+    "hex": "26EA",
+    "entity": "",
+    "description": "Church",
+    "note": ""
+  },
+  {
+    "character": "⛲",
+    "decimal": "9970",
+    "hex": "26F2",
+    "entity": "",
+    "description": "Fountain",
+    "note": ""
+  },
+  {
+    "character": "⛳",
+    "decimal": "9971",
+    "hex": "26F3",
+    "entity": "",
+    "description": "Flag in hole",
+    "note": ""
+  },
+  {
+    "character": "⛵",
+    "decimal": "9973",
+    "hex": "26F5",
+    "entity": "",
+    "description": "Sailboat",
+    "note": ""
+  },
+  {
+    "character": "⛹",
+    "decimal": "9977",
+    "hex": "26F9",
+    "entity": "",
+    "description": "Man with ball",
+    "note": ""
+  },
+  {
+    "character": "⛺",
+    "decimal": "9978",
+    "hex": "26FA",
+    "entity": "",
+    "description": "Tent",
+    "note": ""
+  },
+  {
+    "character": "⛽",
+    "decimal": "9981",
+    "hex": "26FD",
+    "entity": "",
+    "description": "Fuel pump",
+    "note": ""
+  },
+  {
+    "character": "✅",
+    "decimal": "9989",
+    "hex": "2705",
+    "entity": "",
+    "description": "Check mark button",
+    "note": ""
+  },
+  {
+    "character": "✨",
+    "decimal": "10024",
+    "hex": "2728",
+    "entity": "",
+    "description": "Sparkles",
+    "note": ""
+  },
+  {
+    "character": "❌",
+    "decimal": "10060",
+    "hex": "274C",
+    "entity": "",
+    "description": "Cross mark",
+    "note": ""
+  },
+  {
+    "character": "❎",
+    "decimal": "10062",
+    "hex": "274E",
+    "entity": "",
+    "description": "Cross mark button",
+    "note": ""
+  },
+  {
+    "character": "❓",
+    "decimal": "10067",
+    "hex": "2753",
+    "entity": "",
+    "description": "Red question mark",
+    "note": ""
+  },
+  {
+    "character": "❔",
+    "decimal": "10068",
+    "hex": "2754",
+    "entity": "",
+    "description": "White question mark",
+    "note": ""
+  },
+  {
+    "character": "❕",
+    "decimal": "10069",
+    "hex": "2755",
+    "entity": "",
+    "description": "White exclamation mark",
+    "note": ""
+  },
+  {
+    "character": "❗",
+    "decimal": "10071",
+    "hex": "2757",
+    "entity": "",
+    "description": "Red exclamation mark",
+    "note": ""
+  },
+  {
+    "character": "➕",
+    "decimal": "10133",
+    "hex": "2795",
+    "entity": "",
+    "description": "Plus",
+    "note": ""
+  },
+  {
+    "character": "➖",
+    "decimal": "10134",
+    "hex": "2796",
+    "entity": "",
+    "description": "Minus",
+    "note": ""
+  },
+  {
+    "character": "➗",
+    "decimal": "10135",
+    "hex": "2797",
+    "entity": "",
+    "description": "Divide",
+    "note": ""
+  },
+  {
+    "character": "➰",
+    "decimal": "10160",
+    "hex": "27B0",
+    "entity": "",
+    "description": "Curly Loop",
+    "note": ""
+  },
+  {
+    "character": "➿",
+    "decimal": "10175",
+    "hex": "27BF",
+    "entity": "",
+    "description": "Double curly Loop",
+    "note": ""
+  },
+  {
+    "character": "⬛",
+    "decimal": "11035",
+    "hex": "2B1B",
+    "entity": "",
+    "description": "Black large square",
+    "note": ""
+  },
+  {
+    "character": "⬜",
+    "decimal": "11036",
+    "hex": "2B1C",
+    "entity": "",
+    "description": "White large square",
+    "note": ""
+  },
+  {
+    "character": "⭐",
+    "decimal": "11088",
+    "hex": "2B50",
+    "entity": "",
+    "description": "Star",
+    "note": ""
+  },
+  {
+    "character": "⭕",
+    "decimal": "11093",
+    "hex": "2B55",
+    "entity": "",
+    "description": "Hollow red circle",
+    "note": ""
+  }
+]

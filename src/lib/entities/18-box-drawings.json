@@ -1,0 +1,1026 @@
+[
+  {
+    "character": "─",
+    "decimal": "9472",
+    "hex": "2500",
+    "entity": "",
+    "description": "LIGHT HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "━",
+    "decimal": "9473",
+    "hex": "2501",
+    "entity": "",
+    "description": "HEAVY HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "│",
+    "decimal": "9474",
+    "hex": "2502",
+    "entity": "",
+    "description": "LIGHT VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "┃",
+    "decimal": "9475",
+    "hex": "2503",
+    "entity": "",
+    "description": "HEAVY VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "┄",
+    "decimal": "9476",
+    "hex": "2504",
+    "entity": "",
+    "description": "LIGHT TRIPLE DASH HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┅",
+    "decimal": "9477",
+    "hex": "2505",
+    "entity": "",
+    "description": "HEAVY TRIPLE DASH HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┆",
+    "decimal": "9478",
+    "hex": "2506",
+    "entity": "",
+    "description": "LIGHT TRIPLE DASH VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "┇",
+    "decimal": "9479",
+    "hex": "2507",
+    "entity": "",
+    "description": "HEAVY TRIPLE DASH VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "┈",
+    "decimal": "9480",
+    "hex": "2508",
+    "entity": "",
+    "description": "LIGHT QUADRUPLE DASH HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┉",
+    "decimal": "9481",
+    "hex": "2509",
+    "entity": "",
+    "description": "HEAVY QUADRUPLE DASH HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┊",
+    "decimal": "9482",
+    "hex": "250A",
+    "entity": "",
+    "description": "LIGHT QUADRUPLE DASH VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "┋",
+    "decimal": "9483",
+    "hex": "250B",
+    "entity": "",
+    "description": "HEAVY QUADRUPLE DASH VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "┌",
+    "decimal": "9484",
+    "hex": "250C",
+    "entity": "",
+    "description": "LIGHT DOWN AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "┍",
+    "decimal": "9485",
+    "hex": "250D",
+    "entity": "",
+    "description": "DOWN LIGHT AND RIGHT HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┎",
+    "decimal": "9486",
+    "hex": "250E",
+    "entity": "",
+    "description": "DOWN HEAVY AND RIGHT LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┏",
+    "decimal": "9487",
+    "hex": "250F",
+    "entity": "",
+    "description": "HEAVY DOWN AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "┐",
+    "decimal": "9488",
+    "hex": "2510",
+    "entity": "",
+    "description": "LIGHT DOWN AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "┑",
+    "decimal": "9489",
+    "hex": "2511",
+    "entity": "",
+    "description": "DOWN LIGHT AND LEFT HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┒",
+    "decimal": "9490",
+    "hex": "2512",
+    "entity": "",
+    "description": "DOWN HEAVY AND LEFT LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┓",
+    "decimal": "9491",
+    "hex": "2513",
+    "entity": "",
+    "description": "HEAVY DOWN AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "└",
+    "decimal": "9492",
+    "hex": "2514",
+    "entity": "",
+    "description": "LIGHT UP AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "┕",
+    "decimal": "9493",
+    "hex": "2515",
+    "entity": "",
+    "description": "UP LIGHT AND RIGHT HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┖",
+    "decimal": "9494",
+    "hex": "2516",
+    "entity": "",
+    "description": "UP HEAVY AND RIGHT LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┗",
+    "decimal": "9495",
+    "hex": "2517",
+    "entity": "",
+    "description": "HEAVY UP AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "┘",
+    "decimal": "9496",
+    "hex": "2518",
+    "entity": "",
+    "description": "LIGHT UP AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "┙",
+    "decimal": "9497",
+    "hex": "2519",
+    "entity": "",
+    "description": "UP LIGHT AND LEFT HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┚",
+    "decimal": "9498",
+    "hex": "251A",
+    "entity": "",
+    "description": "UP HEAVY AND LEFT LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┛",
+    "decimal": "9499",
+    "hex": "251B",
+    "entity": "",
+    "description": "HEAVY UP AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "├",
+    "decimal": "9500",
+    "hex": "251C",
+    "entity": "",
+    "description": "LIGHT VERTICAL AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "┝",
+    "decimal": "9501",
+    "hex": "251D",
+    "entity": "",
+    "description": "VERTICAL LIGHT AND RIGHT HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┞",
+    "decimal": "9502",
+    "hex": "251E",
+    "entity": "",
+    "description": "UP HEAVY AND RIGHT DOWN LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┟",
+    "decimal": "9503",
+    "hex": "251F",
+    "entity": "",
+    "description": "DOWN HEAVY AND RIGHT UP LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┠",
+    "decimal": "9504",
+    "hex": "2520",
+    "entity": "",
+    "description": "VERTICAL HEAVY AND RIGHT LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┡",
+    "decimal": "9505",
+    "hex": "2521",
+    "entity": "",
+    "description": "DOWN LIGHT AND RIGHT UP HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┢",
+    "decimal": "9506",
+    "hex": "2522",
+    "entity": "",
+    "description": "UP LIGHT AND RIGHT DOWN HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┣",
+    "decimal": "9507",
+    "hex": "2523",
+    "entity": "",
+    "description": "HEAVY VERTICAL AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "┤",
+    "decimal": "9508",
+    "hex": "2524",
+    "entity": "",
+    "description": "LIGHT VERTICAL AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "┥",
+    "decimal": "9509",
+    "hex": "2525",
+    "entity": "",
+    "description": "VERTICAL LIGHT AND LEFT HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┦",
+    "decimal": "9510",
+    "hex": "2526",
+    "entity": "",
+    "description": "UP HEAVY AND LEFT DOWN LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┧",
+    "decimal": "9511",
+    "hex": "2527",
+    "entity": "",
+    "description": "DOWN HEAVY AND LEFT UP LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┨",
+    "decimal": "9512",
+    "hex": "2528",
+    "entity": "",
+    "description": "VERTICAL HEAVY AND LEFT LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┩",
+    "decimal": "9513",
+    "hex": "2529",
+    "entity": "",
+    "description": "DOWN LIGHT AND LEFT UP HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┪",
+    "decimal": "9514",
+    "hex": "252A",
+    "entity": "",
+    "description": "UP LIGHT AND LEFT DOWN HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┫",
+    "decimal": "9515",
+    "hex": "252B",
+    "entity": "",
+    "description": "HEAVY VERTICAL AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "┬",
+    "decimal": "9516",
+    "hex": "252C",
+    "entity": "",
+    "description": "LIGHT DOWN AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┭",
+    "decimal": "9517",
+    "hex": "252D",
+    "entity": "",
+    "description": "LEFT HEAVY AND RIGHT DOWN LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┮",
+    "decimal": "9518",
+    "hex": "252E",
+    "entity": "",
+    "description": "RIGHT HEAVY AND LEFT DOWN LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┯",
+    "decimal": "9519",
+    "hex": "252F",
+    "entity": "",
+    "description": "DOWN LIGHT AND HORIZONTAL HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┰",
+    "decimal": "9520",
+    "hex": "2530",
+    "entity": "",
+    "description": "DOWN HEAVY AND HORIZONTAL LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┱",
+    "decimal": "9521",
+    "hex": "2531",
+    "entity": "",
+    "description": "RIGHT LIGHT AND LEFT DOWN HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┲",
+    "decimal": "9522",
+    "hex": "2532",
+    "entity": "",
+    "description": "LEFT LIGHT AND RIGHT DOWN HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┳",
+    "decimal": "9523",
+    "hex": "2533",
+    "entity": "",
+    "description": "HEAVY DOWN AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┴",
+    "decimal": "9524",
+    "hex": "2534",
+    "entity": "",
+    "description": "LIGHT UP AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┵",
+    "decimal": "9525",
+    "hex": "2535",
+    "entity": "",
+    "description": "LEFT HEAVY AND RIGHT UP LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┶",
+    "decimal": "9526",
+    "hex": "2536",
+    "entity": "",
+    "description": "RIGHT HEAVY AND LEFT UP LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┷",
+    "decimal": "9527",
+    "hex": "2537",
+    "entity": "",
+    "description": "UP LIGHT AND HORIZONTAL HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┸",
+    "decimal": "9528",
+    "hex": "2538",
+    "entity": "",
+    "description": "UP HEAVY AND HORIZONTAL LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┹",
+    "decimal": "9529",
+    "hex": "2539",
+    "entity": "",
+    "description": "RIGHT LIGHT AND LEFT UP HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┺",
+    "decimal": "9530",
+    "hex": "253A",
+    "entity": "",
+    "description": "LEFT LIGHT AND RIGHT UP HEAVY",
+    "note": ""
+  },
+  {
+    "character": "┻",
+    "decimal": "9531",
+    "hex": "253B",
+    "entity": "",
+    "description": "HEAVY UP AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┼",
+    "decimal": "9532",
+    "hex": "253C",
+    "entity": "",
+    "description": "LIGHT VERTICAL AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "┽",
+    "decimal": "9533",
+    "hex": "253D",
+    "entity": "",
+    "description": "LEFT HEAVY AND RIGHT VERTICAL LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┾",
+    "decimal": "9534",
+    "hex": "253E",
+    "entity": "",
+    "description": "RIGHT HEAVY AND LEFT VERTICAL LIGHT",
+    "note": ""
+  },
+  {
+    "character": "┿",
+    "decimal": "9535",
+    "hex": "253F",
+    "entity": "",
+    "description": "VERTICAL LIGHT AND HORIZONTAL HEAVY",
+    "note": ""
+  },
+  {
+    "character": "╀",
+    "decimal": "9536",
+    "hex": "2540",
+    "entity": "",
+    "description": "UP HEAVY AND DOWN HORIZONTAL LIGHT",
+    "note": ""
+  },
+  {
+    "character": "╁",
+    "decimal": "9537",
+    "hex": "2541",
+    "entity": "",
+    "description": "DOWN HEAVY AND UP HORIZONTAL LIGHT",
+    "note": ""
+  },
+  {
+    "character": "╂",
+    "decimal": "9538",
+    "hex": "2542",
+    "entity": "",
+    "description": "VERTICAL HEAVY AND HORIZONTAL LIGHT",
+    "note": ""
+  },
+  {
+    "character": "╃",
+    "decimal": "9539",
+    "hex": "2543",
+    "entity": "",
+    "description": "LEFT UP HEAVY AND RIGHT DOWN LIGHT",
+    "note": ""
+  },
+  {
+    "character": "╄",
+    "decimal": "9540",
+    "hex": "2544",
+    "entity": "",
+    "description": "RIGHT UP HEAVY AND LEFT DOWN LIGHT",
+    "note": ""
+  },
+  {
+    "character": "╅",
+    "decimal": "9541",
+    "hex": "2545",
+    "entity": "",
+    "description": "LEFT DOWN HEAVY AND RIGHT UP LIGHT",
+    "note": ""
+  },
+  {
+    "character": "╆",
+    "decimal": "9542",
+    "hex": "2546",
+    "entity": "",
+    "description": "RIGHT DOWN HEAVY AND LEFT UP LIGHT",
+    "note": ""
+  },
+  {
+    "character": "╇",
+    "decimal": "9543",
+    "hex": "2547",
+    "entity": "",
+    "description": "DOWN LIGHT AND UP HORIZONTAL HEAVY",
+    "note": ""
+  },
+  {
+    "character": "╈",
+    "decimal": "9544",
+    "hex": "2548",
+    "entity": "",
+    "description": "UP LIGHT AND DOWN HORIZONTAL HEAVY",
+    "note": ""
+  },
+  {
+    "character": "╉",
+    "decimal": "9545",
+    "hex": "2549",
+    "entity": "",
+    "description": "RIGHT LIGHT AND LEFT VERTICAL HEAVY",
+    "note": ""
+  },
+  {
+    "character": "╊",
+    "decimal": "9546",
+    "hex": "254A",
+    "entity": "",
+    "description": "LEFT LIGHT AND RIGHT VERTICAL HEAVY",
+    "note": ""
+  },
+  {
+    "character": "╋",
+    "decimal": "9547",
+    "hex": "254B",
+    "entity": "",
+    "description": "HEAVY VERTICAL AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "╌",
+    "decimal": "9548",
+    "hex": "254C",
+    "entity": "",
+    "description": "LIGHT DOUBLE DASH HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "╍",
+    "decimal": "9549",
+    "hex": "254D",
+    "entity": "",
+    "description": "HEAVY DOUBLE DASH HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "╎",
+    "decimal": "9550",
+    "hex": "254E",
+    "entity": "",
+    "description": "LIGHT DOUBLE DASH VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "╏",
+    "decimal": "9551",
+    "hex": "254F",
+    "entity": "",
+    "description": "HEAVY DOUBLE DASH VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "═",
+    "decimal": "9552",
+    "hex": "2550",
+    "entity": "",
+    "description": "DOUBLE HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "║",
+    "decimal": "9553",
+    "hex": "2551",
+    "entity": "",
+    "description": "DOUBLE VERTICAL",
+    "note": ""
+  },
+  {
+    "character": "╒",
+    "decimal": "9554",
+    "hex": "2552",
+    "entity": "",
+    "description": "DOWN SINGLE AND RIGHT DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╓",
+    "decimal": "9555",
+    "hex": "2553",
+    "entity": "",
+    "description": "DOWN DOUBLE AND RIGHT SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╔",
+    "decimal": "9556",
+    "hex": "2554",
+    "entity": "",
+    "description": "DOUBLE DOWN AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╕",
+    "decimal": "9557",
+    "hex": "2555",
+    "entity": "",
+    "description": "DOWN SINGLE AND LEFT DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╖",
+    "decimal": "9558",
+    "hex": "2556",
+    "entity": "",
+    "description": "DOWN DOUBLE AND LEFT SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╗",
+    "decimal": "9559",
+    "hex": "2557",
+    "entity": "",
+    "description": "DOUBLE DOWN AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "╘",
+    "decimal": "9560",
+    "hex": "2558",
+    "entity": "",
+    "description": "UP SINGLE AND RIGHT DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╙",
+    "decimal": "9561",
+    "hex": "2559",
+    "entity": "",
+    "description": "UP DOUBLE AND RIGHT SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╚",
+    "decimal": "9562",
+    "hex": "255A",
+    "entity": "",
+    "description": "DOUBLE UP AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╛",
+    "decimal": "9563",
+    "hex": "255B",
+    "entity": "",
+    "description": "UP SINGLE AND LEFT DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╜",
+    "decimal": "9564",
+    "hex": "255C",
+    "entity": "",
+    "description": "UP DOUBLE AND LEFT SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╝",
+    "decimal": "9565",
+    "hex": "255D",
+    "entity": "",
+    "description": "DOUBLE UP AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "╞",
+    "decimal": "9566",
+    "hex": "255E",
+    "entity": "",
+    "description": "VERTICAL SINGLE AND RIGHT DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╟",
+    "decimal": "9567",
+    "hex": "255F",
+    "entity": "",
+    "description": "VERTICAL DOUBLE AND RIGHT SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╠",
+    "decimal": "9568",
+    "hex": "2560",
+    "entity": "",
+    "description": "DOUBLE VERTICAL AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╡",
+    "decimal": "9569",
+    "hex": "2561",
+    "entity": "",
+    "description": "VERTICAL SINGLE AND LEFT DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╢",
+    "decimal": "9570",
+    "hex": "2562",
+    "entity": "",
+    "description": "VERTICAL DOUBLE AND LEFT SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╣",
+    "decimal": "9571",
+    "hex": "2563",
+    "entity": "",
+    "description": "DOUBLE VERTICAL AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "╤",
+    "decimal": "9572",
+    "hex": "2564",
+    "entity": "",
+    "description": "DOWN SINGLE AND HORIZONTAL DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╥",
+    "decimal": "9573",
+    "hex": "2565",
+    "entity": "",
+    "description": "DOWN DOUBLE AND HORIZONTAL SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╦",
+    "decimal": "9574",
+    "hex": "2566",
+    "entity": "",
+    "description": "DOUBLE DOWN AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "╧",
+    "decimal": "9575",
+    "hex": "2567",
+    "entity": "",
+    "description": "UP SINGLE AND HORIZONTAL DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╨",
+    "decimal": "9576",
+    "hex": "2568",
+    "entity": "",
+    "description": "UP DOUBLE AND HORIZONTAL SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╩",
+    "decimal": "9577",
+    "hex": "2569",
+    "entity": "",
+    "description": "DOUBLE UP AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "╪",
+    "decimal": "9578",
+    "hex": "256A",
+    "entity": "",
+    "description": "VERTICAL SINGLE AND HORIZONTAL DOUBLE",
+    "note": ""
+  },
+  {
+    "character": "╫",
+    "decimal": "9579",
+    "hex": "256B",
+    "entity": "",
+    "description": "VERTICAL DOUBLE AND HORIZONTAL SINGLE",
+    "note": ""
+  },
+  {
+    "character": "╬",
+    "decimal": "9580",
+    "hex": "256C",
+    "entity": "",
+    "description": "DOUBLE VERTICAL AND HORIZONTAL",
+    "note": ""
+  },
+  {
+    "character": "╭",
+    "decimal": "9581",
+    "hex": "256D",
+    "entity": "",
+    "description": "LIGHT ARC DOWN AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╮",
+    "decimal": "9582",
+    "hex": "256E",
+    "entity": "",
+    "description": "LIGHT ARC DOWN AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "╯",
+    "decimal": "9583",
+    "hex": "256F",
+    "entity": "",
+    "description": "LIGHT ARC UP AND LEFT",
+    "note": ""
+  },
+  {
+    "character": "╰",
+    "decimal": "9584",
+    "hex": "2570",
+    "entity": "",
+    "description": "LIGHT ARC UP AND RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╱",
+    "decimal": "9585",
+    "hex": "2571",
+    "entity": "",
+    "description": "LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT",
+    "note": ""
+  },
+  {
+    "character": "╲",
+    "decimal": "9586",
+    "hex": "2572",
+    "entity": "",
+    "description": "LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╳",
+    "decimal": "9587",
+    "hex": "2573",
+    "entity": "",
+    "description": "LIGHT DIAGONAL CROSS",
+    "note": ""
+  },
+  {
+    "character": "╴",
+    "decimal": "9588",
+    "hex": "2574",
+    "entity": "",
+    "description": "LIGHT LEFT",
+    "note": ""
+  },
+  {
+    "character": "╵",
+    "decimal": "9589",
+    "hex": "2575",
+    "entity": "",
+    "description": "LIGHT UP",
+    "note": ""
+  },
+  {
+    "character": "╶",
+    "decimal": "9590",
+    "hex": "2576",
+    "entity": "",
+    "description": "LIGHT RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╷",
+    "decimal": "9591",
+    "hex": "2577",
+    "entity": "",
+    "description": "LIGHT DOWN",
+    "note": ""
+  },
+  {
+    "character": "╸",
+    "decimal": "9592",
+    "hex": "2578",
+    "entity": "",
+    "description": "HEAVY LEFT",
+    "note": ""
+  },
+  {
+    "character": "╹",
+    "decimal": "9593",
+    "hex": "2579",
+    "entity": "",
+    "description": "HEAVY UP",
+    "note": ""
+  },
+  {
+    "character": "╺",
+    "decimal": "9594",
+    "hex": "257A",
+    "entity": "",
+    "description": "HEAVY RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╻",
+    "decimal": "9595",
+    "hex": "257B",
+    "entity": "",
+    "description": "HEAVY DOWN",
+    "note": ""
+  },
+  {
+    "character": "╼",
+    "decimal": "9596",
+    "hex": "257C",
+    "entity": "",
+    "description": "LIGHT LEFT AND HEAVY RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╽",
+    "decimal": "9597",
+    "hex": "257D",
+    "entity": "",
+    "description": "LIGHT UP AND HEAVY DOWN",
+    "note": ""
+  },
+  {
+    "character": "╾",
+    "decimal": "9598",
+    "hex": "257E",
+    "entity": "",
+    "description": "HEAVY LEFT AND LIGHT RIGHT",
+    "note": ""
+  },
+  {
+    "character": "╿",
+    "decimal": "9599",
+    "hex": "257F",
+    "entity": "",
+    "description": "HEAVY UP AND LIGHT DOWN",
+    "note": ""
+  }
+]

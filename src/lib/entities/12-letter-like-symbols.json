@@ -1,0 +1,642 @@
+[
+  {
+    "character": "℀",
+    "decimal": "8448",
+    "hex": "2100",
+    "entity": "",
+    "description": "ACCOUNT OF",
+    "note": ""
+  },
+  {
+    "character": "℁",
+    "decimal": "8449",
+    "hex": "2101",
+    "entity": "",
+    "description": "ADDRESSED TO THE SUBJECT",
+    "note": ""
+  },
+  {
+    "character": "ℂ",
+    "decimal": "8450",
+    "hex": "2102",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL C",
+    "note": ""
+  },
+  {
+    "character": "℃",
+    "decimal": "8451",
+    "hex": "2103",
+    "entity": "",
+    "description": "DEGREE CELSIUS",
+    "note": ""
+  },
+  {
+    "character": "℄",
+    "decimal": "8452",
+    "hex": "2104",
+    "entity": "",
+    "description": "CENTRE LINE SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "℅",
+    "decimal": "8453",
+    "hex": "2105",
+    "entity": "",
+    "description": "CARE OF",
+    "note": ""
+  },
+  {
+    "character": "℆",
+    "decimal": "8454",
+    "hex": "2106",
+    "entity": "",
+    "description": "CADA UNA",
+    "note": ""
+  },
+  {
+    "character": "ℇ",
+    "decimal": "8455",
+    "hex": "2107",
+    "entity": "",
+    "description": "EULER CONSTANT",
+    "note": ""
+  },
+  {
+    "character": "℈",
+    "decimal": "8456",
+    "hex": "2108",
+    "entity": "",
+    "description": "SCRUPLE",
+    "note": ""
+  },
+  {
+    "character": "℉",
+    "decimal": "8457",
+    "hex": "2109",
+    "entity": "",
+    "description": "DEGREE FAHRENHEIT",
+    "note": ""
+  },
+  {
+    "character": "ℊ",
+    "decimal": "8458",
+    "hex": "210A",
+    "entity": "",
+    "description": "SCRIPT SMALL G",
+    "note": ""
+  },
+  {
+    "character": "ℋ",
+    "decimal": "8459",
+    "hex": "210B",
+    "entity": "",
+    "description": "SCRIPT CAPITAL H",
+    "note": ""
+  },
+  {
+    "character": "ℌ",
+    "decimal": "8460",
+    "hex": "210C",
+    "entity": "",
+    "description": "BLACK-LETTER CAPITAL H",
+    "note": ""
+  },
+  {
+    "character": "ℍ",
+    "decimal": "8461",
+    "hex": "210D",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL H",
+    "note": ""
+  },
+  {
+    "character": "ℎ",
+    "decimal": "8462",
+    "hex": "210E",
+    "entity": "",
+    "description": "PLANCK CONSTANT",
+    "note": ""
+  },
+  {
+    "character": "ℏ",
+    "decimal": "8463",
+    "hex": "210F",
+    "entity": "",
+    "description": "PLANCK CONSTANT OVER TWO PI",
+    "note": ""
+  },
+  {
+    "character": "ℐ",
+    "decimal": "8464",
+    "hex": "2110",
+    "entity": "",
+    "description": "SCRIPT CAPITAL I",
+    "note": ""
+  },
+  {
+    "character": "ℑ",
+    "decimal": "8465",
+    "hex": "2111",
+    "entity": "&image;",
+    "description": "BLACK-LETTER CAPITAL I",
+    "note": ""
+  },
+  {
+    "character": "ℒ",
+    "decimal": "8466",
+    "hex": "2112",
+    "entity": "",
+    "description": "SCRIPT CAPITAL L",
+    "note": ""
+  },
+  {
+    "character": "ℓ",
+    "decimal": "8467",
+    "hex": "2113",
+    "entity": "",
+    "description": "SCRIPT SMALL L",
+    "note": ""
+  },
+  {
+    "character": "℔",
+    "decimal": "8468",
+    "hex": "2114",
+    "entity": "",
+    "description": "L B BAR SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ℕ",
+    "decimal": "8469",
+    "hex": "2115",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL N",
+    "note": ""
+  },
+  {
+    "character": "№",
+    "decimal": "8470",
+    "hex": "2116",
+    "entity": "",
+    "description": "NUMERO SIGN",
+    "note": ""
+  },
+  {
+    "character": "℗",
+    "decimal": "8471",
+    "hex": "2117",
+    "entity": "",
+    "description": "SOUND RECORDING COPYRIGHT",
+    "note": ""
+  },
+  {
+    "character": "℘",
+    "decimal": "8472",
+    "hex": "2118",
+    "entity": "&weierp;",
+    "description": "SCRIPT CAPITAL P",
+    "note": ""
+  },
+  {
+    "character": "ℙ",
+    "decimal": "8473",
+    "hex": "2119",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL P",
+    "note": ""
+  },
+  {
+    "character": "ℚ",
+    "decimal": "8474",
+    "hex": "211A",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL Q",
+    "note": ""
+  },
+  {
+    "character": "ℛ",
+    "decimal": "8475",
+    "hex": "211B",
+    "entity": "",
+    "description": "SCRIPT CAPITAL R",
+    "note": ""
+  },
+  {
+    "character": "ℜ",
+    "decimal": "8476",
+    "hex": "211C",
+    "entity": "&real;",
+    "description": "BLACK-LETTER CAPITAL R",
+    "note": ""
+  },
+  {
+    "character": "ℝ",
+    "decimal": "8477",
+    "hex": "211D",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL R",
+    "note": ""
+  },
+  {
+    "character": "℞",
+    "decimal": "8478",
+    "hex": "211E",
+    "entity": "",
+    "description": "PRESCRIPTION TAKE",
+    "note": ""
+  },
+  {
+    "character": "℟",
+    "decimal": "8479",
+    "hex": "211F",
+    "entity": "",
+    "description": "RESPONSE",
+    "note": ""
+  },
+  {
+    "character": "℠",
+    "decimal": "8480",
+    "hex": "2120",
+    "entity": "",
+    "description": "SERVICE MARK",
+    "note": ""
+  },
+  {
+    "character": "℡",
+    "decimal": "8481",
+    "hex": "2121",
+    "entity": "",
+    "description": "TELEPHONE SIGN",
+    "note": ""
+  },
+  {
+    "character": "™",
+    "decimal": "8482",
+    "hex": "2122",
+    "entity": "&trade;",
+    "description": "TRADE MARK SIGN",
+    "note": ""
+  },
+  {
+    "character": "℣",
+    "decimal": "8483",
+    "hex": "2123",
+    "entity": "",
+    "description": "VERSICLE",
+    "note": ""
+  },
+  {
+    "character": "ℤ",
+    "decimal": "8484",
+    "hex": "2124",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL Z",
+    "note": ""
+  },
+  {
+    "character": "℥",
+    "decimal": "8485",
+    "hex": "2125",
+    "entity": "",
+    "description": "OUNCE SIGN",
+    "note": ""
+  },
+  {
+    "character": "Ω",
+    "decimal": "8486",
+    "hex": "2126",
+    "entity": "&ohm;",
+    "description": "OHM SIGN",
+    "note": ""
+  },
+  {
+    "character": "℧",
+    "decimal": "8487",
+    "hex": "2127",
+    "entity": "&mho;",
+    "description": "INVERTED OHM SIGN",
+    "note": ""
+  },
+  {
+    "character": "ℨ",
+    "decimal": "8488",
+    "hex": "2128",
+    "entity": "",
+    "description": "BLACK-LETTER CAPITAL Z",
+    "note": ""
+  },
+  {
+    "character": "℩",
+    "decimal": "8489",
+    "hex": "2129",
+    "entity": "",
+    "description": "TURNED GREEK SMALL LETTER IOTA",
+    "note": ""
+  },
+  {
+    "character": "K",
+    "decimal": "8490",
+    "hex": "212A",
+    "entity": "",
+    "description": "KELVIN SIGN",
+    "note": ""
+  },
+  {
+    "character": "Å",
+    "decimal": "8491",
+    "hex": "212B",
+    "entity": "",
+    "description": "ANGSTROM SIGN",
+    "note": ""
+  },
+  {
+    "character": "ℬ",
+    "decimal": "8492",
+    "hex": "212C",
+    "entity": "",
+    "description": "SCRIPT CAPITAL B",
+    "note": ""
+  },
+  {
+    "character": "ℭ",
+    "decimal": "8493",
+    "hex": "212D",
+    "entity": "",
+    "description": "BLACK-LETTER CAPITAL C",
+    "note": ""
+  },
+  {
+    "character": "℮",
+    "decimal": "8494",
+    "hex": "212E",
+    "entity": "",
+    "description": "ESTIMATED SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ℯ",
+    "decimal": "8495",
+    "hex": "212F",
+    "entity": "",
+    "description": "SCRIPT SMALL E",
+    "note": ""
+  },
+  {
+    "character": "ℰ",
+    "decimal": "8496",
+    "hex": "2130",
+    "entity": "",
+    "description": "SCRIPT CAPITAL E",
+    "note": ""
+  },
+  {
+    "character": "ℱ",
+    "decimal": "8497",
+    "hex": "2131",
+    "entity": "",
+    "description": "SCRIPT CAPITAL F",
+    "note": ""
+  },
+  {
+    "character": "Ⅎ",
+    "decimal": "8498",
+    "hex": "2132",
+    "entity": "",
+    "description": "TURNED CAPITAL F",
+    "note": ""
+  },
+  {
+    "character": "ℳ",
+    "decimal": "8499",
+    "hex": "2133",
+    "entity": "",
+    "description": "SCRIPT CAPITAL M",
+    "note": ""
+  },
+  {
+    "character": "ℴ",
+    "decimal": "8500",
+    "hex": "2134",
+    "entity": "",
+    "description": "SCRIPT SMALL O",
+    "note": ""
+  },
+  {
+    "character": "ℵ",
+    "decimal": "8501",
+    "hex": "2135",
+    "entity": "&alefsym;",
+    "description": "ALEF SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ℶ",
+    "decimal": "8502",
+    "hex": "2136",
+    "entity": "",
+    "description": "BET SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ℷ",
+    "decimal": "8503",
+    "hex": "2137",
+    "entity": "",
+    "description": "GIMEL SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ℸ",
+    "decimal": "8504",
+    "hex": "2138",
+    "entity": "",
+    "description": "DALET SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "ℹ",
+    "decimal": "8505",
+    "hex": "2139",
+    "entity": "",
+    "description": "INFORMATION SOURCE",
+    "note": ""
+  },
+  {
+    "character": "℺",
+    "decimal": "8506",
+    "hex": "213A",
+    "entity": "",
+    "description": "ROTATED CAPITAL Q",
+    "note": ""
+  },
+  {
+    "character": "℻",
+    "decimal": "8507",
+    "hex": "213B",
+    "entity": "",
+    "description": "FACSIMILE SIGN",
+    "note": ""
+  },
+  {
+    "character": "ℼ",
+    "decimal": "8508",
+    "hex": "213C",
+    "entity": "",
+    "description": "DOUBLE-STRUCK SMALL PI",
+    "note": ""
+  },
+  {
+    "character": "ℽ",
+    "decimal": "8509",
+    "hex": "213D",
+    "entity": "",
+    "description": "DOUBLE-STRUCK SMALL GAMMA",
+    "note": ""
+  },
+  {
+    "character": "ℾ",
+    "decimal": "8510",
+    "hex": "213E",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL GAMMA",
+    "note": ""
+  },
+  {
+    "character": "ℿ",
+    "decimal": "8511",
+    "hex": "213F",
+    "entity": "",
+    "description": "DOUBLE-STRUCK CAPITAL PI",
+    "note": ""
+  },
+  {
+    "character": "⅀",
+    "decimal": "8512",
+    "hex": "2140",
+    "entity": "",
+    "description": "DOUBLE-STRUCK N-ARY SUMMATION",
+    "note": ""
+  },
+  {
+    "character": "⅁",
+    "decimal": "8513",
+    "hex": "2141",
+    "entity": "",
+    "description": "TURNED SANS-SERIF CAPITAL G",
+    "note": ""
+  },
+  {
+    "character": "⅂",
+    "decimal": "8514",
+    "hex": "2142",
+    "entity": "",
+    "description": "TURNED SANS-SERIF CAPITAL L",
+    "note": ""
+  },
+  {
+    "character": "⅃",
+    "decimal": "8515",
+    "hex": "2143",
+    "entity": "",
+    "description": "REVERSED SANS-SERIF CAPITAL L",
+    "note": ""
+  },
+  {
+    "character": "⅄",
+    "decimal": "8516",
+    "hex": "2144",
+    "entity": "",
+    "description": "TURNED SANS-SERIF CAPITAL Y",
+    "note": ""
+  },
+  {
+    "character": "ⅅ",
+    "decimal": "8517",
+    "hex": "2145",
+    "entity": "",
+    "description": "DOUBLE-STRUCK ITALIC CAPITAL D",
+    "note": ""
+  },
+  {
+    "character": "ⅆ",
+    "decimal": "8518",
+    "hex": "2146",
+    "entity": "",
+    "description": "DOUBLE-STRUCK ITALIC SMALL D",
+    "note": ""
+  },
+  {
+    "character": "ⅇ",
+    "decimal": "8519",
+    "hex": "2147",
+    "entity": "",
+    "description": "DOUBLE-STRUCK ITALIC SMALL E",
+    "note": ""
+  },
+  {
+    "character": "ⅈ",
+    "decimal": "8520",
+    "hex": "2148",
+    "entity": "",
+    "description": "DOUBLE-STRUCK ITALIC SMALL I",
+    "note": ""
+  },
+  {
+    "character": "ⅉ",
+    "decimal": "8521",
+    "hex": "2149",
+    "entity": "",
+    "description": "DOUBLE-STRUCK ITALIC SMALL J",
+    "note": ""
+  },
+  {
+    "character": "⅊",
+    "decimal": "8522",
+    "hex": "214A",
+    "entity": "",
+    "description": "PROPERTY LINE",
+    "note": ""
+  },
+  {
+    "character": "⅋",
+    "decimal": "8523",
+    "hex": "214B",
+    "entity": "",
+    "description": "TURNED AMPERSAND",
+    "note": ""
+  },
+  {
+    "character": "⅌",
+    "decimal": "8524",
+    "hex": "214C",
+    "entity": "",
+    "description": "PER SIGN",
+    "note": ""
+  },
+  {
+    "character": "⅍",
+    "decimal": "8525",
+    "hex": "214D",
+    "entity": "",
+    "description": "AKTIESELSKAB",
+    "note": ""
+  },
+  {
+    "character": "ⅎ",
+    "decimal": "8526",
+    "hex": "214E",
+    "entity": "",
+    "description": "TURNED SMALL F",
+    "note": ""
+  },
+  {
+    "character": "⅏",
+    "decimal": "8527",
+    "hex": "214F",
+    "entity": "",
+    "description": "SYMBOL FOR SAMARITAN SOURCE",
+    "note": ""
+  }
+]

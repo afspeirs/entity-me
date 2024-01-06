@@ -1,0 +1,1026 @@
+[
+  {
+    "character": "",
+    "decimal": "160",
+    "hex": "00A0",
+    "entity": "&nbsp;",
+    "description": "NO-BREAK SPACE",
+    "note": ""
+  },
+  {
+    "character": "¡",
+    "decimal": "161",
+    "hex": "00A1",
+    "entity": "&iexcl;",
+    "description": "INVERTED EXCLAMATION MARK",
+    "note": ""
+  },
+  {
+    "character": "¢",
+    "decimal": "162",
+    "hex": "00A2",
+    "entity": "&cent;",
+    "description": "CENT SIGN",
+    "note": ""
+  },
+  {
+    "character": "£",
+    "decimal": "163",
+    "hex": "00A3",
+    "entity": "&pound;",
+    "description": "POUND SIGN",
+    "note": ""
+  },
+  {
+    "character": "¤",
+    "decimal": "164",
+    "hex": "00A4",
+    "entity": "&curren;",
+    "description": "CURRENCY SIGN",
+    "note": ""
+  },
+  {
+    "character": "¥",
+    "decimal": "165",
+    "hex": "00A5",
+    "entity": "&yen;",
+    "description": "YEN SIGN",
+    "note": ""
+  },
+  {
+    "character": "¦",
+    "decimal": "166",
+    "hex": "00A6",
+    "entity": "&brvbar;",
+    "description": "BROKEN BAR",
+    "note": ""
+  },
+  {
+    "character": "§",
+    "decimal": "167",
+    "hex": "00A7",
+    "entity": "&sect;",
+    "description": "SECTION SIGN",
+    "note": ""
+  },
+  {
+    "character": "¨",
+    "decimal": "168",
+    "hex": "00A8",
+    "entity": "&uml;",
+    "description": "DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "©",
+    "decimal": "169",
+    "hex": "00A9",
+    "entity": "&copy;",
+    "description": "COPYRIGHT SIGN",
+    "note": ""
+  },
+  {
+    "character": "ª",
+    "decimal": "170",
+    "hex": "00AA",
+    "entity": "&ordf;",
+    "description": "FEMININE ORDINAL INDICATOR",
+    "note": ""
+  },
+  {
+    "character": "«",
+    "decimal": "171",
+    "hex": "00AB",
+    "entity": "&laquo;",
+    "description": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "¬",
+    "decimal": "172",
+    "hex": "00AC",
+    "entity": "&not;",
+    "description": "NOT SIGN",
+    "note": ""
+  },
+  {
+    "character": "­",
+    "decimal": "173",
+    "hex": "00AD",
+    "entity": "&shy;",
+    "description": "SOFT HYPHEN",
+    "note": ""
+  },
+  {
+    "character": "®",
+    "decimal": "174",
+    "hex": "00AE",
+    "entity": "&reg;",
+    "description": "REGISTERED SIGN",
+    "note": ""
+  },
+  {
+    "character": "¯",
+    "decimal": "175",
+    "hex": "00AF",
+    "entity": "&macr;",
+    "description": "MACRON",
+    "note": ""
+  },
+  {
+    "character": "°",
+    "decimal": "176",
+    "hex": "00B0",
+    "entity": "&deg;",
+    "description": "DEGREE SIGN",
+    "note": ""
+  },
+  {
+    "character": "±",
+    "decimal": "177",
+    "hex": "00B1",
+    "entity": "&plusmn;",
+    "description": "PLUS-MINUS SIGN",
+    "note": ""
+  },
+  {
+    "character": "²",
+    "decimal": "178",
+    "hex": "00B2",
+    "entity": "&sup2;",
+    "description": "SUPERSCRIPT TWO",
+    "note": ""
+  },
+  {
+    "character": "³",
+    "decimal": "179",
+    "hex": "00B3",
+    "entity": "&sup3;",
+    "description": "SUPERSCRIPT THREE",
+    "note": ""
+  },
+  {
+    "character": "´",
+    "decimal": "180",
+    "hex": "00B4",
+    "entity": "&acute;",
+    "description": "ACUTE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "µ",
+    "decimal": "181",
+    "hex": "00B5",
+    "entity": "&micro;",
+    "description": "MICRO SIGN",
+    "note": ""
+  },
+  {
+    "character": "¶",
+    "decimal": "182",
+    "hex": "00B6",
+    "entity": "&para;",
+    "description": "PILCROW SIGN",
+    "note": ""
+  },
+  {
+    "character": "·",
+    "decimal": "183",
+    "hex": "00B7",
+    "entity": "&middot;",
+    "description": "MIDDLE DOT",
+    "note": ""
+  },
+  {
+    "character": "¸",
+    "decimal": "184",
+    "hex": "00B8",
+    "entity": "&cedil;",
+    "description": "CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "¹",
+    "decimal": "185",
+    "hex": "00B9",
+    "entity": "&sup1;",
+    "description": "SUPERSCRIPT ONE",
+    "note": ""
+  },
+  {
+    "character": "º",
+    "decimal": "186",
+    "hex": "00BA",
+    "entity": "&ordm;",
+    "description": "MASCULINE ORDINAL INDICATOR",
+    "note": ""
+  },
+  {
+    "character": "»",
+    "decimal": "187",
+    "hex": "00BB",
+    "entity": "&raquo;",
+    "description": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "¼",
+    "decimal": "188",
+    "hex": "00BC",
+    "entity": "&frac14;",
+    "description": "VULGAR FRACTION ONE QUARTER",
+    "note": ""
+  },
+  {
+    "character": "½",
+    "decimal": "189",
+    "hex": "00BD",
+    "entity": "&frac12;",
+    "description": "VULGAR FRACTION ONE HALF",
+    "note": ""
+  },
+  {
+    "character": "¾",
+    "decimal": "190",
+    "hex": "00BE",
+    "entity": "&frac34;",
+    "description": "VULGAR FRACTION THREE QUARTERS",
+    "note": ""
+  },
+  {
+    "character": "¿",
+    "decimal": "191",
+    "hex": "00BF",
+    "entity": "&iquest;",
+    "description": "INVERTED QUESTION MARK",
+    "note": ""
+  },
+  {
+    "character": "À",
+    "decimal": "192",
+    "hex": "00C0",
+    "entity": "&Agrave;",
+    "description": "LATIN CAPITAL LETTER A WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Á",
+    "decimal": "193",
+    "hex": "00C1",
+    "entity": "&Aacute;",
+    "description": "LATIN CAPITAL LETTER A WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Â",
+    "decimal": "194",
+    "hex": "00C2",
+    "entity": "&Acirc;",
+    "description": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ã",
+    "decimal": "195",
+    "hex": "00C3",
+    "entity": "&Atilde;",
+    "description": "LATIN CAPITAL LETTER A WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "Ä",
+    "decimal": "196",
+    "hex": "00C4",
+    "entity": "&Auml;",
+    "description": "LATIN CAPITAL LETTER A WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Å",
+    "decimal": "197",
+    "hex": "00C5",
+    "entity": "&Aring;",
+    "description": "LATIN CAPITAL LETTER A WITH RING ABOVE",
+    "note": ""
+  },
+  {
+    "character": "Æ",
+    "decimal": "198",
+    "hex": "00C6",
+    "entity": "&AElig;",
+    "description": "LATIN CAPITAL LETTER AE",
+    "note": ""
+  },
+  {
+    "character": "Ç",
+    "decimal": "199",
+    "hex": "00C7",
+    "entity": "&Ccedil;",
+    "description": "LATIN CAPITAL LETTER C WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "È",
+    "decimal": "200",
+    "hex": "00C8",
+    "entity": "&Egrave;",
+    "description": "LATIN CAPITAL LETTER E WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "É",
+    "decimal": "201",
+    "hex": "00C9",
+    "entity": "&Eacute;",
+    "description": "LATIN CAPITAL LETTER E WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ê",
+    "decimal": "202",
+    "hex": "00CA",
+    "entity": "&Ecirc;",
+    "description": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ë",
+    "decimal": "203",
+    "hex": "00CB",
+    "entity": "&Euml;",
+    "description": "LATIN CAPITAL LETTER E WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ì",
+    "decimal": "204",
+    "hex": "00CC",
+    "entity": "&Igrave;",
+    "description": "LATIN CAPITAL LETTER I WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Í",
+    "decimal": "205",
+    "hex": "00CD",
+    "entity": "&Iacute;",
+    "description": "LATIN CAPITAL LETTER I WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Î",
+    "decimal": "206",
+    "hex": "00CE",
+    "entity": "&Icirc;",
+    "description": "LATIN CAPITAL LETTER I WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ï",
+    "decimal": "207",
+    "hex": "00CF",
+    "entity": "&Iuml;",
+    "description": "LATIN CAPITAL LETTER I WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ð",
+    "decimal": "208",
+    "hex": "00D0",
+    "entity": "&ETH;",
+    "description": "LATIN CAPITAL LETTER ETH",
+    "note": ""
+  },
+  {
+    "character": "Ñ",
+    "decimal": "209",
+    "hex": "00D1",
+    "entity": "&Ntilde;",
+    "description": "LATIN CAPITAL LETTER N WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "Ò",
+    "decimal": "210",
+    "hex": "00D2",
+    "entity": "&Ograve;",
+    "description": "LATIN CAPITAL LETTER O WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ó",
+    "decimal": "211",
+    "hex": "00D3",
+    "entity": "&Oacute;",
+    "description": "LATIN CAPITAL LETTER O WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ô",
+    "decimal": "212",
+    "hex": "00D4",
+    "entity": "&Ocirc;",
+    "description": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Õ",
+    "decimal": "213",
+    "hex": "00D5",
+    "entity": "&Otilde;",
+    "description": "LATIN CAPITAL LETTER O WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "Ö",
+    "decimal": "214",
+    "hex": "00D6",
+    "entity": "&Ouml;",
+    "description": "LATIN CAPITAL LETTER O WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "×",
+    "decimal": "215",
+    "hex": "00D7",
+    "entity": "&times;",
+    "description": "MULTIPLICATION SIGN",
+    "note": ""
+  },
+  {
+    "character": "Ø",
+    "decimal": "216",
+    "hex": "00D8",
+    "entity": "&Oslash;",
+    "description": "LATIN CAPITAL LETTER O WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ù",
+    "decimal": "217",
+    "hex": "00D9",
+    "entity": "&Ugrave;",
+    "description": "LATIN CAPITAL LETTER U WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ú",
+    "decimal": "218",
+    "hex": "00DA",
+    "entity": "&Uacute;",
+    "description": "LATIN CAPITAL LETTER U WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Û",
+    "decimal": "219",
+    "hex": "00DB",
+    "entity": "&Ucirc;",
+    "description": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ü",
+    "decimal": "220",
+    "hex": "00DC",
+    "entity": "&Uuml;",
+    "description": "LATIN CAPITAL LETTER U WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ý",
+    "decimal": "221",
+    "hex": "00DD",
+    "entity": "&Yacute;",
+    "description": "LATIN CAPITAL LETTER Y WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Þ",
+    "decimal": "222",
+    "hex": "00DE",
+    "entity": "&THORN;",
+    "description": "LATIN CAPITAL LETTER THORN",
+    "note": ""
+  },
+  {
+    "character": "ß",
+    "decimal": "223",
+    "hex": "00DF",
+    "entity": "&szlig;",
+    "description": "LATIN SMALL LETTER SHARP S",
+    "note": ""
+  },
+  {
+    "character": "à",
+    "decimal": "224",
+    "hex": "0,00E+00",
+    "entity": "&agrave;",
+    "description": "LATIN SMALL LETTER A WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "á",
+    "decimal": "225",
+    "hex": "0,00E+00",
+    "entity": "&aacute;",
+    "description": "LATIN SMALL LETTER A WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "â",
+    "decimal": "226",
+    "hex": "0,00E+00",
+    "entity": "&acirc;",
+    "description": "LATIN SMALL LETTER A WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ã",
+    "decimal": "227",
+    "hex": "0,00E+00",
+    "entity": "&atilde;",
+    "description": "LATIN SMALL LETTER A WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "ä",
+    "decimal": "228",
+    "hex": "0,00E+00",
+    "entity": "&auml;",
+    "description": "LATIN SMALL LETTER A WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "å",
+    "decimal": "229",
+    "hex": "0,00E+00",
+    "entity": "&aring;",
+    "description": "LATIN SMALL LETTER A WITH RING ABOVE",
+    "note": ""
+  },
+  {
+    "character": "æ",
+    "decimal": "230",
+    "hex": "0,00E+00",
+    "entity": "&aelig;",
+    "description": "LATIN SMALL LETTER AE",
+    "note": ""
+  },
+  {
+    "character": "ç",
+    "decimal": "231",
+    "hex": "0,00E+00",
+    "entity": "&ccedil;",
+    "description": "LATIN SMALL LETTER C WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "è",
+    "decimal": "232",
+    "hex": "0,00E+00",
+    "entity": "&egrave;",
+    "description": "LATIN SMALL LETTER E WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "é",
+    "decimal": "233",
+    "hex": "0,00E+00",
+    "entity": "&eacute;",
+    "description": "LATIN SMALL LETTER E WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ê",
+    "decimal": "234",
+    "hex": "00EA",
+    "entity": "&ecirc;",
+    "description": "LATIN SMALL LETTER E WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ë",
+    "decimal": "235",
+    "hex": "00EB",
+    "entity": "&euml;",
+    "description": "LATIN SMALL LETTER E WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ì",
+    "decimal": "236",
+    "hex": "00EC",
+    "entity": "&igrave;",
+    "description": "LATIN SMALL LETTER I WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "í",
+    "decimal": "237",
+    "hex": "00ED",
+    "entity": "&iacute;",
+    "description": "LATIN SMALL LETTER I WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "î",
+    "decimal": "238",
+    "hex": "00EE",
+    "entity": "&icirc;",
+    "description": "LATIN SMALL LETTER I WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ï",
+    "decimal": "239",
+    "hex": "00EF",
+    "entity": "&iuml;",
+    "description": "LATIN SMALL LETTER I WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ð",
+    "decimal": "240",
+    "hex": "00F0",
+    "entity": "&eth;",
+    "description": "LATIN SMALL LETTER ETH",
+    "note": ""
+  },
+  {
+    "character": "ñ",
+    "decimal": "241",
+    "hex": "00F1",
+    "entity": "&ntilde;",
+    "description": "LATIN SMALL LETTER N WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "ò",
+    "decimal": "242",
+    "hex": "00F2",
+    "entity": "&ograve;",
+    "description": "LATIN SMALL LETTER O WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ó",
+    "decimal": "243",
+    "hex": "00F3",
+    "entity": "&oacute;",
+    "description": "LATIN SMALL LETTER O WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ô",
+    "decimal": "244",
+    "hex": "00F4",
+    "entity": "&ocirc;",
+    "description": "LATIN SMALL LETTER O WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "õ",
+    "decimal": "245",
+    "hex": "00F5",
+    "entity": "&otilde;",
+    "description": "LATIN SMALL LETTER O WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "ö",
+    "decimal": "246",
+    "hex": "00F6",
+    "entity": "&ouml;",
+    "description": "LATIN SMALL LETTER O WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "÷",
+    "decimal": "247",
+    "hex": "00F7",
+    "entity": "&divide;",
+    "description": "DIVISION SIGN",
+    "note": ""
+  },
+  {
+    "character": "ø",
+    "decimal": "248",
+    "hex": "00F8",
+    "entity": "&oslash;",
+    "description": "LATIN SMALL LETTER O WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ù",
+    "decimal": "249",
+    "hex": "00F9",
+    "entity": "&ugrave;",
+    "description": "LATIN SMALL LETTER U WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ú",
+    "decimal": "250",
+    "hex": "00FA",
+    "entity": "&uacute;",
+    "description": "LATIN SMALL LETTER U WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "û",
+    "decimal": "251",
+    "hex": "00FB",
+    "entity": "&ucirc;",
+    "description": "LATIN SMALL LETTER U WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ü",
+    "decimal": "252",
+    "hex": "00FC",
+    "entity": "&uuml;",
+    "description": "LATIN SMALL LETTER U WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "ý",
+    "decimal": "253",
+    "hex": "00FD",
+    "entity": "&yacute;",
+    "description": "LATIN SMALL LETTER Y WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "þ",
+    "decimal": "254",
+    "hex": "00FE",
+    "entity": "&thorn;",
+    "description": "LATIN SMALL LETTER THORN",
+    "note": ""
+  },
+  {
+    "character": "ÿ",
+    "decimal": "255",
+    "hex": "00FF",
+    "entity": "&yuml;",
+    "description": "LATIN SMALL LETTER Y WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "€",
+    "decimal": "128",
+    "hex": "80",
+    "entity": "",
+    "description": "CONTROL",
+    "note": "C1 Control"
+  },
+  {
+    "character": "",
+    "decimal": "129",
+    "hex": "81",
+    "entity": "",
+    "description": "CONTROL",
+    "note": "C1 Control"
+  },
+  {
+    "character": "‚",
+    "decimal": "130",
+    "hex": "82",
+    "entity": "",
+    "description": "BREAK PERMITTED HERE",
+    "note": "C1 Control"
+  },
+  {
+    "character": "ƒ",
+    "decimal": "131",
+    "hex": "83",
+    "entity": "",
+    "description": "NO BREAK HERE",
+    "note": "C1 Control"
+  },
+  {
+    "character": "„",
+    "decimal": "132",
+    "hex": "84",
+    "entity": "",
+    "description": "INDEX",
+    "note": "C1 Control"
+  },
+  {
+    "character": "…",
+    "decimal": "133",
+    "hex": "85",
+    "entity": "",
+    "description": "NEXT LINE (NEL)",
+    "note": "C1 Control"
+  },
+  {
+    "character": "†",
+    "decimal": "134",
+    "hex": "86",
+    "entity": "",
+    "description": "START OF SELECTED AREA",
+    "note": "C1 Control"
+  },
+  {
+    "character": "‡",
+    "decimal": "135",
+    "hex": "87",
+    "entity": "",
+    "description": "END OF SELECTED AREA",
+    "note": "C1 Control"
+  },
+  {
+    "character": "ˆ",
+    "decimal": "136",
+    "hex": "88",
+    "entity": "",
+    "description": "CHARACTER TABULATION SET",
+    "note": "C1 Control"
+  },
+  {
+    "character": "‰",
+    "decimal": "137",
+    "hex": "89",
+    "entity": "",
+    "description": "CHARACTER TABULATION WITH JUSTIFICATION",
+    "note": "C1 Control"
+  },
+  {
+    "character": "Š",
+    "decimal": "138",
+    "hex": "008A",
+    "entity": "",
+    "description": "LINE TABULATION SET",
+    "note": "C1 Control"
+  },
+  {
+    "character": "‹",
+    "decimal": "139",
+    "hex": "008B",
+    "entity": "",
+    "description": "PARTIAL LINE FORWARD",
+    "note": "C1 Control"
+  },
+  {
+    "character": "Œ",
+    "decimal": "140",
+    "hex": "008C",
+    "entity": "",
+    "description": "PARTIAL LINE BACKWARD",
+    "note": "C1 Control"
+  },
+  {
+    "character": "",
+    "decimal": "141",
+    "hex": "008D",
+    "entity": "",
+    "description": "REVERSE LINE FEED",
+    "note": "C1 Control"
+  },
+  {
+    "character": "Ž",
+    "decimal": "142",
+    "hex": "008E",
+    "entity": "",
+    "description": "SINGLE SHIFT TWO",
+    "note": "C1 Control"
+  },
+  {
+    "character": "",
+    "decimal": "143",
+    "hex": "008F",
+    "entity": "",
+    "description": "SINGLE SHIFT THREE",
+    "note": "C1 Control"
+  },
+  {
+    "character": "",
+    "decimal": "144",
+    "hex": "90",
+    "entity": "",
+    "description": "DEVICE CONTROL STRING",
+    "note": "C1 Control"
+  },
+  {
+    "character": "‘",
+    "decimal": "145",
+    "hex": "91",
+    "entity": "",
+    "description": "PRIVATE USE ONE",
+    "note": "C1 Control"
+  },
+  {
+    "character": "’",
+    "decimal": "146",
+    "hex": "92",
+    "entity": "",
+    "description": "PRIVATE USE TWO",
+    "note": "C1 Control"
+  },
+  {
+    "character": "“",
+    "decimal": "147",
+    "hex": "93",
+    "entity": "",
+    "description": "SET TRANSMIT STATE",
+    "note": "C1 Control"
+  },
+  {
+    "character": "”",
+    "decimal": "148",
+    "hex": "94",
+    "entity": "",
+    "description": "CANCEL CHARACTER",
+    "note": "C1 Control"
+  },
+  {
+    "character": "•",
+    "decimal": "149",
+    "hex": "95",
+    "entity": "",
+    "description": "MESSAGE WAITING",
+    "note": "C1 Control"
+  },
+  {
+    "character": "–",
+    "decimal": "150",
+    "hex": "96",
+    "entity": "",
+    "description": "START OF GUARDED AREA",
+    "note": "C1 Control"
+  },
+  {
+    "character": "—",
+    "decimal": "151",
+    "hex": "97",
+    "entity": "",
+    "description": "END OF GUARDED AREA",
+    "note": "C1 Control"
+  },
+  {
+    "character": "˜",
+    "decimal": "152",
+    "hex": "98",
+    "entity": "",
+    "description": "START OF STRING",
+    "note": "C1 Control"
+  },
+  {
+    "character": "™",
+    "decimal": "153",
+    "hex": "99",
+    "entity": "",
+    "description": "CONTROL",
+    "note": "C1 Control"
+  },
+  {
+    "character": "š",
+    "decimal": "154",
+    "hex": "009A",
+    "entity": "",
+    "description": "SINGLE CHARACTER INTRODUCER",
+    "note": "C1 Control"
+  },
+  {
+    "character": "›",
+    "decimal": "155",
+    "hex": "009B",
+    "entity": "",
+    "description": "CONTROL SEQUENCE INTRODUCER",
+    "note": "C1 Control"
+  },
+  {
+    "character": "œ",
+    "decimal": "156",
+    "hex": "009C",
+    "entity": "",
+    "description": "STRING TERMINATOR",
+    "note": "C1 Control"
+  },
+  {
+    "character": "",
+    "decimal": "157",
+    "hex": "009D",
+    "entity": "",
+    "description": "OPERATING SYSTEM COMMAND",
+    "note": "C1 Control"
+  },
+  {
+    "character": "ž",
+    "decimal": "158",
+    "hex": "009E",
+    "entity": "",
+    "description": "PRIVACY MESSAGE",
+    "note": "C1 Control"
+  },
+  {
+    "character": "Ÿ",
+    "decimal": "159",
+    "hex": "009F",
+    "entity": "",
+    "description": "APPLICATION PROGRAM COMMAND",
+    "note": "C1 Control"
+  }
+]

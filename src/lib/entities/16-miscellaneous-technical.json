@@ -1,0 +1,2050 @@
+[
+  {
+    "character": "⌀",
+    "decimal": "8960",
+    "hex": "2300",
+    "entity": "",
+    "description": "Diameter sign",
+    "note": ""
+  },
+  {
+    "character": "⌁",
+    "decimal": "8961",
+    "hex": "2301",
+    "entity": "",
+    "description": "Electric arrow",
+    "note": ""
+  },
+  {
+    "character": "⌂",
+    "decimal": "8962",
+    "hex": "2302",
+    "entity": "",
+    "description": "House",
+    "note": ""
+  },
+  {
+    "character": "⌃",
+    "decimal": "8963",
+    "hex": "2303",
+    "entity": "",
+    "description": "Up arrowhead",
+    "note": ""
+  },
+  {
+    "character": "⌄",
+    "decimal": "8964",
+    "hex": "2304",
+    "entity": "",
+    "description": "Down arrowhead",
+    "note": ""
+  },
+  {
+    "character": "⌅",
+    "decimal": "8965",
+    "hex": "2305",
+    "entity": "",
+    "description": "Projective",
+    "note": ""
+  },
+  {
+    "character": "⌆",
+    "decimal": "8966",
+    "hex": "2306",
+    "entity": "",
+    "description": "Perspective",
+    "note": ""
+  },
+  {
+    "character": "⌇",
+    "decimal": "8967",
+    "hex": "2307",
+    "entity": "",
+    "description": "Wavy line",
+    "note": ""
+  },
+  {
+    "character": "⌈",
+    "decimal": "8968",
+    "hex": "2308",
+    "entity": "",
+    "description": "Left ceiling",
+    "note": ""
+  },
+  {
+    "character": "⌉",
+    "decimal": "8969",
+    "hex": "2309",
+    "entity": "",
+    "description": "Right ceiling",
+    "note": ""
+  },
+  {
+    "character": "⌊",
+    "decimal": "8970",
+    "hex": "230A",
+    "entity": "",
+    "description": "Left floor",
+    "note": ""
+  },
+  {
+    "character": "⌋",
+    "decimal": "8971",
+    "hex": "230B",
+    "entity": "",
+    "description": "Right floor",
+    "note": ""
+  },
+  {
+    "character": "⌌",
+    "decimal": "8972",
+    "hex": "230C",
+    "entity": "",
+    "description": "Bottom right crop",
+    "note": ""
+  },
+  {
+    "character": "⌍",
+    "decimal": "8973",
+    "hex": "230D",
+    "entity": "",
+    "description": "Botton left crop",
+    "note": ""
+  },
+  {
+    "character": "⌎",
+    "decimal": "8974",
+    "hex": "230E",
+    "entity": "",
+    "description": "Top right crop",
+    "note": ""
+  },
+  {
+    "character": "⌏",
+    "decimal": "8975",
+    "hex": "230F",
+    "entity": "",
+    "description": "Top left crop",
+    "note": ""
+  },
+  {
+    "character": "⌐",
+    "decimal": "8976",
+    "hex": "2310",
+    "entity": "",
+    "description": "Reversed not sign",
+    "note": ""
+  },
+  {
+    "character": "⌑",
+    "decimal": "8977",
+    "hex": "2311",
+    "entity": "",
+    "description": "Square lozenge",
+    "note": ""
+  },
+  {
+    "character": "⌒",
+    "decimal": "8978",
+    "hex": "2312",
+    "entity": "",
+    "description": "Arc",
+    "note": ""
+  },
+  {
+    "character": "⌓",
+    "decimal": "8979",
+    "hex": "2313",
+    "entity": "",
+    "description": "Segment",
+    "note": ""
+  },
+  {
+    "character": "⌔",
+    "decimal": "8980",
+    "hex": "2314",
+    "entity": "",
+    "description": "Sector",
+    "note": ""
+  },
+  {
+    "character": "⌕",
+    "decimal": "8981",
+    "hex": "2315",
+    "entity": "",
+    "description": "Telephone recorder",
+    "note": ""
+  },
+  {
+    "character": "⌖",
+    "decimal": "8982",
+    "hex": "2316",
+    "entity": "",
+    "description": "Position indicator",
+    "note": ""
+  },
+  {
+    "character": "⌗",
+    "decimal": "8983",
+    "hex": "2317",
+    "entity": "",
+    "description": "Viewdata square",
+    "note": ""
+  },
+  {
+    "character": "⌘",
+    "decimal": "8984",
+    "hex": "2318",
+    "entity": "",
+    "description": "Place of interest sign",
+    "note": ""
+  },
+  {
+    "character": "⌙",
+    "decimal": "8985",
+    "hex": "2319",
+    "entity": "",
+    "description": "Turned not sign",
+    "note": ""
+  },
+  {
+    "character": "⌚",
+    "decimal": "8986",
+    "hex": "231A",
+    "entity": "",
+    "description": "Watch",
+    "note": ""
+  },
+  {
+    "character": "⌛",
+    "decimal": "8987",
+    "hex": "231B",
+    "entity": "",
+    "description": "Houglass",
+    "note": ""
+  },
+  {
+    "character": "⌜",
+    "decimal": "8988",
+    "hex": "231C",
+    "entity": "",
+    "description": "Top left corner",
+    "note": ""
+  },
+  {
+    "character": "⌝",
+    "decimal": "8989",
+    "hex": "231D",
+    "entity": "",
+    "description": "Top right corner",
+    "note": ""
+  },
+  {
+    "character": "⌞",
+    "decimal": "8990",
+    "hex": "231E",
+    "entity": "",
+    "description": "Bottom left corner",
+    "note": ""
+  },
+  {
+    "character": "⌟",
+    "decimal": "8991",
+    "hex": "231F",
+    "entity": "",
+    "description": "Bottom right corner",
+    "note": ""
+  },
+  {
+    "character": "⌠",
+    "decimal": "8992",
+    "hex": "2320",
+    "entity": "",
+    "description": "Top half integral",
+    "note": ""
+  },
+  {
+    "character": "⌡",
+    "decimal": "8993",
+    "hex": "2321",
+    "entity": "",
+    "description": "Bottom half integral",
+    "note": ""
+  },
+  {
+    "character": "⌢",
+    "decimal": "8994",
+    "hex": "2322",
+    "entity": "",
+    "description": "Frown",
+    "note": ""
+  },
+  {
+    "character": "⌣",
+    "decimal": "8995",
+    "hex": "2323",
+    "entity": "",
+    "description": "Smile",
+    "note": ""
+  },
+  {
+    "character": "⌤",
+    "decimal": "8996",
+    "hex": "2324",
+    "entity": "",
+    "description": "Up arrowhead between bars",
+    "note": ""
+  },
+  {
+    "character": "⌥",
+    "decimal": "8997",
+    "hex": "2325",
+    "entity": "",
+    "description": "Option key",
+    "note": ""
+  },
+  {
+    "character": "⌦",
+    "decimal": "8998",
+    "hex": "2326",
+    "entity": "",
+    "description": "Erase to the right",
+    "note": ""
+  },
+  {
+    "character": "⌧",
+    "decimal": "8999",
+    "hex": "2327",
+    "entity": "",
+    "description": "X in a rectangle box",
+    "note": ""
+  },
+  {
+    "character": "⌨",
+    "decimal": "9000",
+    "hex": "2328",
+    "entity": "",
+    "description": "Keyboard",
+    "note": ""
+  },
+  {
+    "character": "〈",
+    "decimal": "9001",
+    "hex": "2329",
+    "entity": "",
+    "description": "Left pointing angle bracket",
+    "note": ""
+  },
+  {
+    "character": "〉",
+    "decimal": "9002",
+    "hex": "232A",
+    "entity": "",
+    "description": "Right pointing angle bracket",
+    "note": ""
+  },
+  {
+    "character": "⌫",
+    "decimal": "9003",
+    "hex": "232B",
+    "entity": "",
+    "description": "Erase to the left",
+    "note": ""
+  },
+  {
+    "character": "⌬",
+    "decimal": "9004",
+    "hex": "232C",
+    "entity": "",
+    "description": "Benzene ring",
+    "note": ""
+  },
+  {
+    "character": "⌭",
+    "decimal": "9005",
+    "hex": "232D",
+    "entity": "",
+    "description": "Cylindricity",
+    "note": ""
+  },
+  {
+    "character": "⌮",
+    "decimal": "9006",
+    "hex": "232E",
+    "entity": "",
+    "description": "All around profile",
+    "note": ""
+  },
+  {
+    "character": "⌯",
+    "decimal": "9007",
+    "hex": "2330",
+    "entity": "",
+    "description": "Symmetry",
+    "note": ""
+  },
+  {
+    "character": "⌰",
+    "decimal": "9008",
+    "hex": "2331",
+    "entity": "",
+    "description": "Total runout",
+    "note": ""
+  },
+  {
+    "character": "⌱",
+    "decimal": "9009",
+    "hex": "2332",
+    "entity": "",
+    "description": "Dimension origin",
+    "note": ""
+  },
+  {
+    "character": "⌲",
+    "decimal": "9010",
+    "hex": "2333",
+    "entity": "",
+    "description": "Conical taper",
+    "note": ""
+  },
+  {
+    "character": "⌳",
+    "decimal": "9011",
+    "hex": "2333",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌴",
+    "decimal": "9012",
+    "hex": "2334",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌵",
+    "decimal": "9013",
+    "hex": "2335",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌶",
+    "decimal": "9014",
+    "hex": "2336",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌷",
+    "decimal": "9015",
+    "hex": "2337",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌸",
+    "decimal": "9016",
+    "hex": "2338",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌹",
+    "decimal": "9017",
+    "hex": "2339",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌺",
+    "decimal": "9018",
+    "hex": "233A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌻",
+    "decimal": "9019",
+    "hex": "233B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌼",
+    "decimal": "9020",
+    "hex": "233C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌽",
+    "decimal": "9021",
+    "hex": "233D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌾",
+    "decimal": "9022",
+    "hex": "233E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⌿",
+    "decimal": "9023",
+    "hex": "233F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍀",
+    "decimal": "9024",
+    "hex": "2340",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍁",
+    "decimal": "9025",
+    "hex": "2341",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍂",
+    "decimal": "9026",
+    "hex": "2342",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍃",
+    "decimal": "9027",
+    "hex": "2343",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍄",
+    "decimal": "9028",
+    "hex": "2344",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍅",
+    "decimal": "9029",
+    "hex": "2345",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍆",
+    "decimal": "9030",
+    "hex": "2346",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍇",
+    "decimal": "9031",
+    "hex": "2347",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍈",
+    "decimal": "9032",
+    "hex": "2348",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍉",
+    "decimal": "9033",
+    "hex": "2349",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍊",
+    "decimal": "9034",
+    "hex": "234A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍋",
+    "decimal": "9035",
+    "hex": "234B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍌",
+    "decimal": "9036",
+    "hex": "234C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍍",
+    "decimal": "9037",
+    "hex": "234D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍎",
+    "decimal": "9038",
+    "hex": "234E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍏",
+    "decimal": "9039",
+    "hex": "234F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍐",
+    "decimal": "9040",
+    "hex": "2350",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍑",
+    "decimal": "9041",
+    "hex": "2351",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍒",
+    "decimal": "9042",
+    "hex": "2352",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍓",
+    "decimal": "9043",
+    "hex": "2353",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍔",
+    "decimal": "9044",
+    "hex": "2354",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍕",
+    "decimal": "9045",
+    "hex": "2355",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍖",
+    "decimal": "9046",
+    "hex": "2356",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍗",
+    "decimal": "9047",
+    "hex": "2357",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍘",
+    "decimal": "9048",
+    "hex": "2358",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍙",
+    "decimal": "9049",
+    "hex": "2359",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍚",
+    "decimal": "9050",
+    "hex": "235A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍛",
+    "decimal": "9051",
+    "hex": "235B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍜",
+    "decimal": "9052",
+    "hex": "235C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍝",
+    "decimal": "9053",
+    "hex": "235D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍞",
+    "decimal": "9054",
+    "hex": "235E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍟",
+    "decimal": "9055",
+    "hex": "235F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍠",
+    "decimal": "9056",
+    "hex": "2360",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍡",
+    "decimal": "9057",
+    "hex": "2361",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍢",
+    "decimal": "9058",
+    "hex": "2362",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍣",
+    "decimal": "9059",
+    "hex": "2363",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍤",
+    "decimal": "9060",
+    "hex": "2364",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍥",
+    "decimal": "9061",
+    "hex": "2365",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍦",
+    "decimal": "9062",
+    "hex": "2366",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍧",
+    "decimal": "9063",
+    "hex": "2367",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍨",
+    "decimal": "9064",
+    "hex": "2368",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍩",
+    "decimal": "9065",
+    "hex": "2369",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍪",
+    "decimal": "9066",
+    "hex": "236A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍫",
+    "decimal": "9067",
+    "hex": "236B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍬",
+    "decimal": "9068",
+    "hex": "236C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍭",
+    "decimal": "9069",
+    "hex": "236D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍮",
+    "decimal": "9070",
+    "hex": "236E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍯",
+    "decimal": "9071",
+    "hex": "236F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍰",
+    "decimal": "9072",
+    "hex": "2370",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍱",
+    "decimal": "9073",
+    "hex": "2371",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍲",
+    "decimal": "9074",
+    "hex": "2372",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍳",
+    "decimal": "9075",
+    "hex": "2373",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍴",
+    "decimal": "9076",
+    "hex": "2374",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍵",
+    "decimal": "9077",
+    "hex": "2375",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍶",
+    "decimal": "9078",
+    "hex": "2376",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍷",
+    "decimal": "9079",
+    "hex": "2377",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍸",
+    "decimal": "9080",
+    "hex": "2378",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍹",
+    "decimal": "9081",
+    "hex": "2379",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍺",
+    "decimal": "9082",
+    "hex": "237A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍻",
+    "decimal": "9083",
+    "hex": "237B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍼",
+    "decimal": "9084",
+    "hex": "237C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍽",
+    "decimal": "9085",
+    "hex": "237D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍾",
+    "decimal": "9086",
+    "hex": "237E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⍿",
+    "decimal": "9087",
+    "hex": "237F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎀",
+    "decimal": "9088",
+    "hex": "2380",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎁",
+    "decimal": "9089",
+    "hex": "2381",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎂",
+    "decimal": "9090",
+    "hex": "2382",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎃",
+    "decimal": "9091",
+    "hex": "2383",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎄",
+    "decimal": "9092",
+    "hex": "2384",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎅",
+    "decimal": "9093",
+    "hex": "2385",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎆",
+    "decimal": "9094",
+    "hex": "2386",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎇",
+    "decimal": "9095",
+    "hex": "2387",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎈",
+    "decimal": "9096",
+    "hex": "2388",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎉",
+    "decimal": "9097",
+    "hex": "2389",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎊",
+    "decimal": "9098",
+    "hex": "238A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎋",
+    "decimal": "9099",
+    "hex": "238B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎌",
+    "decimal": "9100",
+    "hex": "238C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎍",
+    "decimal": "9101",
+    "hex": "238D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎎",
+    "decimal": "9102",
+    "hex": "238E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎏",
+    "decimal": "9103",
+    "hex": "238F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎐",
+    "decimal": "9104",
+    "hex": "2390",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎑",
+    "decimal": "9105",
+    "hex": "2391",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎒",
+    "decimal": "9106",
+    "hex": "2392",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎓",
+    "decimal": "9107",
+    "hex": "2393",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎔",
+    "decimal": "9108",
+    "hex": "2394",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎕",
+    "decimal": "9109",
+    "hex": "2395",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎖",
+    "decimal": "9110",
+    "hex": "2396",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎗",
+    "decimal": "9111",
+    "hex": "2397",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎘",
+    "decimal": "9112",
+    "hex": "2398",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎙",
+    "decimal": "9113",
+    "hex": "2399",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎚",
+    "decimal": "9114",
+    "hex": "239A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎛",
+    "decimal": "9115",
+    "hex": "239B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎜",
+    "decimal": "9116",
+    "hex": "239C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎝",
+    "decimal": "9117",
+    "hex": "239D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎞",
+    "decimal": "9118",
+    "hex": "239E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎟",
+    "decimal": "9119",
+    "hex": "239F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎠",
+    "decimal": "9120",
+    "hex": "23A0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎡",
+    "decimal": "9121",
+    "hex": "23A1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎢",
+    "decimal": "9122",
+    "hex": "23A2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎣",
+    "decimal": "9123",
+    "hex": "23A3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎤",
+    "decimal": "9124",
+    "hex": "23A4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎥",
+    "decimal": "9125",
+    "hex": "23A5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎦",
+    "decimal": "9126",
+    "hex": "23A6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎧",
+    "decimal": "9127",
+    "hex": "23A7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎨",
+    "decimal": "9128",
+    "hex": "23A8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎩",
+    "decimal": "9129",
+    "hex": "23A9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎪",
+    "decimal": "9130",
+    "hex": "23AA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎫",
+    "decimal": "9131",
+    "hex": "23AB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎬",
+    "decimal": "9132",
+    "hex": "23AC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎭",
+    "decimal": "9133",
+    "hex": "23AD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎮",
+    "decimal": "9134",
+    "hex": "23AE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎯",
+    "decimal": "9135",
+    "hex": "23AF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎰",
+    "decimal": "9136",
+    "hex": "23B0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎱",
+    "decimal": "9137",
+    "hex": "23B1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎲",
+    "decimal": "9138",
+    "hex": "23B2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎳",
+    "decimal": "9139",
+    "hex": "23B3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎴",
+    "decimal": "9140",
+    "hex": "23B4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎵",
+    "decimal": "9141",
+    "hex": "23B5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎶",
+    "decimal": "9142",
+    "hex": "23B6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎷",
+    "decimal": "9143",
+    "hex": "23B7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎸",
+    "decimal": "9144",
+    "hex": "23B8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎹",
+    "decimal": "9145",
+    "hex": "23B9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎺",
+    "decimal": "9146",
+    "hex": "23BA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎻",
+    "decimal": "9147",
+    "hex": "23BB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎼",
+    "decimal": "9148",
+    "hex": "23BC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎽",
+    "decimal": "9149",
+    "hex": "23BD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎾",
+    "decimal": "9150",
+    "hex": "23BE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⎿",
+    "decimal": "9151",
+    "hex": "23BF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏀",
+    "decimal": "9152",
+    "hex": "23C0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏁",
+    "decimal": "9153",
+    "hex": "23C1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏂",
+    "decimal": "9154",
+    "hex": "23C2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏃",
+    "decimal": "9155",
+    "hex": "23C3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏄",
+    "decimal": "9156",
+    "hex": "23C4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏅",
+    "decimal": "9157",
+    "hex": "23C5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏆",
+    "decimal": "9158",
+    "hex": "23C6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏇",
+    "decimal": "9159",
+    "hex": "23C7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏈",
+    "decimal": "9160",
+    "hex": "23C8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏉",
+    "decimal": "9161",
+    "hex": "23C9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏊",
+    "decimal": "9162",
+    "hex": "23CA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏋",
+    "decimal": "9163",
+    "hex": "23CB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏌",
+    "decimal": "9164",
+    "hex": "23CC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏍",
+    "decimal": "9165",
+    "hex": "23CD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏎",
+    "decimal": "9166",
+    "hex": "23CE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏏",
+    "decimal": "9167",
+    "hex": "23CF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏐",
+    "decimal": "9168",
+    "hex": "23D0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏑",
+    "decimal": "9169",
+    "hex": "23D1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏒",
+    "decimal": "9170",
+    "hex": "23D2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏓",
+    "decimal": "9171",
+    "hex": "23D3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏔",
+    "decimal": "9172",
+    "hex": "23D4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏕",
+    "decimal": "9173",
+    "hex": "23D5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏖",
+    "decimal": "9174",
+    "hex": "23D6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏗",
+    "decimal": "9175",
+    "hex": "23D7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏘",
+    "decimal": "9176",
+    "hex": "23D8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏙",
+    "decimal": "9177",
+    "hex": "23D9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏚",
+    "decimal": "9178",
+    "hex": "23DA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏛",
+    "decimal": "9179",
+    "hex": "23DB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏜",
+    "decimal": "9180",
+    "hex": "23DC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏝",
+    "decimal": "9181",
+    "hex": "23DD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏞",
+    "decimal": "9182",
+    "hex": "23DE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏟",
+    "decimal": "9183",
+    "hex": "23DF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏠",
+    "decimal": "9184",
+    "hex": "2,30E+01",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏡",
+    "decimal": "9185",
+    "hex": "2,30E+02",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏢",
+    "decimal": "9186",
+    "hex": "2,30E+03",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏣",
+    "decimal": "9187",
+    "hex": "2,30E+04",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏤",
+    "decimal": "9188",
+    "hex": "2,30E+05",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏥",
+    "decimal": "9189",
+    "hex": "2,30E+06",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏦",
+    "decimal": "9190",
+    "hex": "2,30E+07",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏧",
+    "decimal": "9191",
+    "hex": "2,30E+08",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏨",
+    "decimal": "9192",
+    "hex": "2,30E+09",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏩",
+    "decimal": "9193",
+    "hex": "2,30E+10",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏪",
+    "decimal": "9194",
+    "hex": "23EA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏫",
+    "decimal": "9195",
+    "hex": "23EB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏬",
+    "decimal": "9196",
+    "hex": "23EC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏭",
+    "decimal": "9197",
+    "hex": "23ED",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏮",
+    "decimal": "9198",
+    "hex": "23EE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏯",
+    "decimal": "9199",
+    "hex": "23EF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏰",
+    "decimal": "9200",
+    "hex": "23F0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏱",
+    "decimal": "9201",
+    "hex": "23F1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏲",
+    "decimal": "9202",
+    "hex": "23F2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏳",
+    "decimal": "9203",
+    "hex": "23F3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏴",
+    "decimal": "9204",
+    "hex": "23F4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏵",
+    "decimal": "9205",
+    "hex": "23F5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏶",
+    "decimal": "9206",
+    "hex": "23F6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏷",
+    "decimal": "9207",
+    "hex": "23F7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏸",
+    "decimal": "9208",
+    "hex": "23F8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏹",
+    "decimal": "9209",
+    "hex": "23F9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏺",
+    "decimal": "9210",
+    "hex": "23FA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏻",
+    "decimal": "9211",
+    "hex": "23FB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏼",
+    "decimal": "9212",
+    "hex": "23FC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏽",
+    "decimal": "9213",
+    "hex": "23FD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏾",
+    "decimal": "9214",
+    "hex": "23FE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⏿",
+    "decimal": "9215",
+    "hex": "23FF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  }
+]

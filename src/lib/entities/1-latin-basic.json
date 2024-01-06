@@ -1,0 +1,1026 @@
+[
+  {
+    "character": "",
+    "decimal": "32",
+    "hex": "20",
+    "entity": "",
+    "description": "SPACE",
+    "note": ""
+  },
+  {
+    "character": "!",
+    "decimal": "33",
+    "hex": "21",
+    "entity": "",
+    "description": "EXCLAMATION MARK",
+    "note": ""
+  },
+  {
+    "character": "\"",
+    "decimal": "34",
+    "hex": "22",
+    "entity": "&quot;",
+    "description": "QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "#",
+    "decimal": "35",
+    "hex": "23",
+    "entity": "",
+    "description": "NUMBER SIGN",
+    "note": ""
+  },
+  {
+    "character": "$",
+    "decimal": "36",
+    "hex": "24",
+    "entity": "",
+    "description": "DOLLAR SIGN",
+    "note": ""
+  },
+  {
+    "character": "%",
+    "decimal": "37",
+    "hex": "25",
+    "entity": "",
+    "description": "PERCENT SIGN",
+    "note": ""
+  },
+  {
+    "character": "&",
+    "decimal": "38",
+    "hex": "26",
+    "entity": "&amp;",
+    "description": "AMPERSAND",
+    "note": ""
+  },
+  {
+    "character": "'",
+    "decimal": "39",
+    "hex": "27",
+    "entity": "",
+    "description": "APOSTROPHE",
+    "note": ""
+  },
+  {
+    "character": "(",
+    "decimal": "40",
+    "hex": "28",
+    "entity": "",
+    "description": "LEFT PARENTHESIS",
+    "note": ""
+  },
+  {
+    "character": ")",
+    "decimal": "41",
+    "hex": "29",
+    "entity": "",
+    "description": "RIGHT PARENTHESIS",
+    "note": ""
+  },
+  {
+    "character": "*",
+    "decimal": "42",
+    "hex": "002A",
+    "entity": "",
+    "description": "ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "+",
+    "decimal": "43",
+    "hex": "002B",
+    "entity": "",
+    "description": "PLUS SIGN",
+    "note": ""
+  },
+  {
+    "character": ",",
+    "decimal": "44",
+    "hex": "002C",
+    "entity": "",
+    "description": "COMMA",
+    "note": ""
+  },
+  {
+    "character": "-",
+    "decimal": "45",
+    "hex": "002D",
+    "entity": "",
+    "description": "HYPHEN-MINUS",
+    "note": ""
+  },
+  {
+    "character": ".",
+    "decimal": "46",
+    "hex": "002E",
+    "entity": "",
+    "description": "FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "/",
+    "decimal": "47",
+    "hex": "002F",
+    "entity": "",
+    "description": "SOLIDUS",
+    "note": ""
+  },
+  {
+    "character": "0",
+    "decimal": "48",
+    "hex": "30",
+    "entity": "",
+    "description": "DIGIT ZERO",
+    "note": ""
+  },
+  {
+    "character": "1",
+    "decimal": "49",
+    "hex": "31",
+    "entity": "",
+    "description": "DIGIT ONE",
+    "note": ""
+  },
+  {
+    "character": "2",
+    "decimal": "50",
+    "hex": "32",
+    "entity": "",
+    "description": "DIGIT TWO",
+    "note": ""
+  },
+  {
+    "character": "3",
+    "decimal": "51",
+    "hex": "33",
+    "entity": "",
+    "description": "DIGIT THREE",
+    "note": ""
+  },
+  {
+    "character": "4",
+    "decimal": "52",
+    "hex": "34",
+    "entity": "",
+    "description": "DIGIT FOUR",
+    "note": ""
+  },
+  {
+    "character": "5",
+    "decimal": "53",
+    "hex": "35",
+    "entity": "",
+    "description": "DIGIT FIVE",
+    "note": ""
+  },
+  {
+    "character": "6",
+    "decimal": "54",
+    "hex": "36",
+    "entity": "",
+    "description": "DIGIT SIX",
+    "note": ""
+  },
+  {
+    "character": "7",
+    "decimal": "55",
+    "hex": "37",
+    "entity": "",
+    "description": "DIGIT SEVEN",
+    "note": ""
+  },
+  {
+    "character": "8",
+    "decimal": "56",
+    "hex": "38",
+    "entity": "",
+    "description": "DIGIT EIGHT",
+    "note": ""
+  },
+  {
+    "character": "9",
+    "decimal": "57",
+    "hex": "39",
+    "entity": "",
+    "description": "DIGIT NINE",
+    "note": ""
+  },
+  {
+    "character": ":",
+    "decimal": "58",
+    "hex": "003A",
+    "entity": "",
+    "description": "COLON",
+    "note": ""
+  },
+  {
+    "character": ";",
+    "decimal": "59",
+    "hex": "003B",
+    "entity": "",
+    "description": "SEMICOLON",
+    "note": ""
+  },
+  {
+    "character": "<",
+    "decimal": "60",
+    "hex": "003C",
+    "entity": "&lt;",
+    "description": "LESS-THAN SIGN",
+    "note": ""
+  },
+  {
+    "character": "=",
+    "decimal": "61",
+    "hex": "003D",
+    "entity": "",
+    "description": "EQUALS SIGN",
+    "note": ""
+  },
+  {
+    "character": ">",
+    "decimal": "62",
+    "hex": "003E",
+    "entity": "&gt;",
+    "description": "GREATER-THAN SIGN",
+    "note": ""
+  },
+  {
+    "character": "?",
+    "decimal": "63",
+    "hex": "003F",
+    "entity": "",
+    "description": "QUESTION MARK",
+    "note": ""
+  },
+  {
+    "character": "@",
+    "decimal": "64",
+    "hex": "40",
+    "entity": "",
+    "description": "COMMERCIAL AT",
+    "note": ""
+  },
+  {
+    "character": "A",
+    "decimal": "65",
+    "hex": "41",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A",
+    "note": ""
+  },
+  {
+    "character": "B",
+    "decimal": "66",
+    "hex": "42",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER B",
+    "note": ""
+  },
+  {
+    "character": "C",
+    "decimal": "67",
+    "hex": "43",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER C",
+    "note": ""
+  },
+  {
+    "character": "D",
+    "decimal": "68",
+    "hex": "44",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER D",
+    "note": ""
+  },
+  {
+    "character": "E",
+    "decimal": "69",
+    "hex": "45",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER E",
+    "note": ""
+  },
+  {
+    "character": "F",
+    "decimal": "70",
+    "hex": "46",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER F",
+    "note": ""
+  },
+  {
+    "character": "G",
+    "decimal": "71",
+    "hex": "47",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER G",
+    "note": ""
+  },
+  {
+    "character": "H",
+    "decimal": "72",
+    "hex": "48",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER H",
+    "note": ""
+  },
+  {
+    "character": "I",
+    "decimal": "73",
+    "hex": "49",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER I",
+    "note": ""
+  },
+  {
+    "character": "J",
+    "decimal": "74",
+    "hex": "004A",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER J",
+    "note": ""
+  },
+  {
+    "character": "K",
+    "decimal": "75",
+    "hex": "004B",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER K",
+    "note": ""
+  },
+  {
+    "character": "L",
+    "decimal": "76",
+    "hex": "004C",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER L",
+    "note": ""
+  },
+  {
+    "character": "M",
+    "decimal": "77",
+    "hex": "004D",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER M",
+    "note": ""
+  },
+  {
+    "character": "N",
+    "decimal": "78",
+    "hex": "004E",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER N",
+    "note": ""
+  },
+  {
+    "character": "O",
+    "decimal": "79",
+    "hex": "004F",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O",
+    "note": ""
+  },
+  {
+    "character": "P",
+    "decimal": "80",
+    "hex": "50",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER P",
+    "note": ""
+  },
+  {
+    "character": "Q",
+    "decimal": "81",
+    "hex": "51",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER Q",
+    "note": ""
+  },
+  {
+    "character": "R",
+    "decimal": "82",
+    "hex": "52",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER R",
+    "note": ""
+  },
+  {
+    "character": "S",
+    "decimal": "83",
+    "hex": "53",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER S",
+    "note": ""
+  },
+  {
+    "character": "T",
+    "decimal": "84",
+    "hex": "54",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER T",
+    "note": ""
+  },
+  {
+    "character": "U",
+    "decimal": "85",
+    "hex": "55",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U",
+    "note": ""
+  },
+  {
+    "character": "V",
+    "decimal": "86",
+    "hex": "56",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER V",
+    "note": ""
+  },
+  {
+    "character": "W",
+    "decimal": "87",
+    "hex": "57",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER W",
+    "note": ""
+  },
+  {
+    "character": "X",
+    "decimal": "88",
+    "hex": "58",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER X",
+    "note": ""
+  },
+  {
+    "character": "Y",
+    "decimal": "89",
+    "hex": "59",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER Y",
+    "note": ""
+  },
+  {
+    "character": "Z",
+    "decimal": "90",
+    "hex": "005A",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER Z",
+    "note": ""
+  },
+  {
+    "character": "[",
+    "decimal": "91",
+    "hex": "005B",
+    "entity": "",
+    "description": "LEFT SQUARE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "\\",
+    "decimal": "92",
+    "hex": "005C",
+    "entity": "",
+    "description": "REVERSE SOLIDUS",
+    "note": ""
+  },
+  {
+    "character": "]",
+    "decimal": "93",
+    "hex": "005D",
+    "entity": "",
+    "description": "RIGHT SQUARE BRACKET",
+    "note": ""
+  },
+  {
+    "character": "^",
+    "decimal": "94",
+    "hex": "005E",
+    "entity": "",
+    "description": "CIRCUMFLEX ACCENT",
+    "note": ""
+  },
+  {
+    "character": "_",
+    "decimal": "95",
+    "hex": "005F",
+    "entity": "",
+    "description": "LOW LINE",
+    "note": ""
+  },
+  {
+    "character": "`",
+    "decimal": "96",
+    "hex": "60",
+    "entity": "",
+    "description": "GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "a",
+    "decimal": "97",
+    "hex": "61",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A",
+    "note": ""
+  },
+  {
+    "character": "b",
+    "decimal": "98",
+    "hex": "62",
+    "entity": "",
+    "description": "LATIN SMALL LETTER B",
+    "note": ""
+  },
+  {
+    "character": "c",
+    "decimal": "99",
+    "hex": "63",
+    "entity": "",
+    "description": "LATIN SMALL LETTER C",
+    "note": ""
+  },
+  {
+    "character": "d",
+    "decimal": "100",
+    "hex": "64",
+    "entity": "",
+    "description": "LATIN SMALL LETTER D",
+    "note": ""
+  },
+  {
+    "character": "e",
+    "decimal": "101",
+    "hex": "65",
+    "entity": "",
+    "description": "LATIN SMALL LETTER E",
+    "note": ""
+  },
+  {
+    "character": "f",
+    "decimal": "102",
+    "hex": "66",
+    "entity": "",
+    "description": "LATIN SMALL LETTER F",
+    "note": ""
+  },
+  {
+    "character": "g",
+    "decimal": "103",
+    "hex": "67",
+    "entity": "",
+    "description": "LATIN SMALL LETTER G",
+    "note": ""
+  },
+  {
+    "character": "h",
+    "decimal": "104",
+    "hex": "68",
+    "entity": "",
+    "description": "LATIN SMALL LETTER H",
+    "note": ""
+  },
+  {
+    "character": "i",
+    "decimal": "105",
+    "hex": "69",
+    "entity": "",
+    "description": "LATIN SMALL LETTER I",
+    "note": ""
+  },
+  {
+    "character": "j",
+    "decimal": "106",
+    "hex": "006A",
+    "entity": "",
+    "description": "LATIN SMALL LETTER J",
+    "note": ""
+  },
+  {
+    "character": "k",
+    "decimal": "107",
+    "hex": "006B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER K",
+    "note": ""
+  },
+  {
+    "character": "l",
+    "decimal": "108",
+    "hex": "006C",
+    "entity": "",
+    "description": "LATIN SMALL LETTER L",
+    "note": ""
+  },
+  {
+    "character": "m",
+    "decimal": "109",
+    "hex": "006D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER M",
+    "note": ""
+  },
+  {
+    "character": "n",
+    "decimal": "110",
+    "hex": "006E",
+    "entity": "",
+    "description": "LATIN SMALL LETTER N",
+    "note": ""
+  },
+  {
+    "character": "o",
+    "decimal": "111",
+    "hex": "006F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O",
+    "note": ""
+  },
+  {
+    "character": "p",
+    "decimal": "112",
+    "hex": "70",
+    "entity": "",
+    "description": "LATIN SMALL LETTER P",
+    "note": ""
+  },
+  {
+    "character": "q",
+    "decimal": "113",
+    "hex": "71",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Q",
+    "note": ""
+  },
+  {
+    "character": "r",
+    "decimal": "114",
+    "hex": "72",
+    "entity": "",
+    "description": "LATIN SMALL LETTER R",
+    "note": ""
+  },
+  {
+    "character": "s",
+    "decimal": "115",
+    "hex": "73",
+    "entity": "",
+    "description": "LATIN SMALL LETTER S",
+    "note": ""
+  },
+  {
+    "character": "t",
+    "decimal": "116",
+    "hex": "74",
+    "entity": "",
+    "description": "LATIN SMALL LETTER T",
+    "note": ""
+  },
+  {
+    "character": "u",
+    "decimal": "117",
+    "hex": "75",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U",
+    "note": ""
+  },
+  {
+    "character": "v",
+    "decimal": "118",
+    "hex": "76",
+    "entity": "",
+    "description": "LATIN SMALL LETTER V",
+    "note": ""
+  },
+  {
+    "character": "w",
+    "decimal": "119",
+    "hex": "77",
+    "entity": "",
+    "description": "LATIN SMALL LETTER W",
+    "note": ""
+  },
+  {
+    "character": "x",
+    "decimal": "120",
+    "hex": "78",
+    "entity": "",
+    "description": "LATIN SMALL LETTER X",
+    "note": ""
+  },
+  {
+    "character": "y",
+    "decimal": "121",
+    "hex": "79",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Y",
+    "note": ""
+  },
+  {
+    "character": "z",
+    "decimal": "122",
+    "hex": "007A",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Z",
+    "note": ""
+  },
+  {
+    "character": "{",
+    "decimal": "123",
+    "hex": "007B",
+    "entity": "",
+    "description": "LEFT CURLY BRACKET",
+    "note": ""
+  },
+  {
+    "character": "|",
+    "decimal": "124",
+    "hex": "007C",
+    "entity": "",
+    "description": "VERTICAL LINE",
+    "note": ""
+  },
+  {
+    "character": "}",
+    "decimal": "125",
+    "hex": "007D",
+    "entity": "",
+    "description": "RIGHT CURLY BRACKET",
+    "note": ""
+  },
+  {
+    "character": "~",
+    "decimal": "126",
+    "hex": "007E",
+    "entity": "",
+    "description": "TILDE",
+    "note": ""
+  },
+  {
+    "character": "NUL",
+    "decimal": "0",
+    "hex": "0",
+    "entity": "",
+    "description": "null character",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "SOH",
+    "decimal": "1",
+    "hex": "1",
+    "entity": "",
+    "description": "start of header",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "STX",
+    "decimal": "2",
+    "hex": "2",
+    "entity": "",
+    "description": "start of text",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "ETX",
+    "decimal": "3",
+    "hex": "3",
+    "entity": "",
+    "description": "end of text",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "EOT",
+    "decimal": "4",
+    "hex": "4",
+    "entity": "",
+    "description": "end of transmission",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "ENQ",
+    "decimal": "5",
+    "hex": "5",
+    "entity": "",
+    "description": "enquiry",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "ACK",
+    "decimal": "6",
+    "hex": "6",
+    "entity": "",
+    "description": "acknowledge",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "BEL",
+    "decimal": "7",
+    "hex": "7",
+    "entity": "",
+    "description": "bell (ring)",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "BS",
+    "decimal": "8",
+    "hex": "8",
+    "entity": "",
+    "description": "backspace",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "HT",
+    "decimal": "9",
+    "hex": "9",
+    "entity": "",
+    "description": "horizontal tab",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "LF",
+    "decimal": "10",
+    "hex": "000A",
+    "entity": "",
+    "description": "line feed",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "VT",
+    "decimal": "11",
+    "hex": "000B",
+    "entity": "",
+    "description": "vertical tab",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "FF",
+    "decimal": "12",
+    "hex": "000C",
+    "entity": "",
+    "description": "form feed",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "CR",
+    "decimal": "13",
+    "hex": "000D",
+    "entity": "",
+    "description": "carriage return",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "SO",
+    "decimal": "14",
+    "hex": "000E",
+    "entity": "",
+    "description": "shift out",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "SI",
+    "decimal": "15",
+    "hex": "000F",
+    "entity": "",
+    "description": "shift in",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "DLE",
+    "decimal": "16",
+    "hex": "10",
+    "entity": "",
+    "description": "data link escape",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "DC1",
+    "decimal": "17",
+    "hex": "11",
+    "entity": "",
+    "description": "device control 1",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "DC2",
+    "decimal": "18",
+    "hex": "12",
+    "entity": "",
+    "description": "device control 2",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "DC3",
+    "decimal": "19",
+    "hex": "13",
+    "entity": "",
+    "description": "device control 3",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "DC4",
+    "decimal": "20",
+    "hex": "14",
+    "entity": "",
+    "description": "device control 4",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "NAK",
+    "decimal": "21",
+    "hex": "15",
+    "entity": "",
+    "description": "negative acknowledge",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "SYN",
+    "decimal": "22",
+    "hex": "16",
+    "entity": "",
+    "description": "synchronize",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "ETB",
+    "decimal": "23",
+    "hex": "17",
+    "entity": "",
+    "description": "end transmission block",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "CAN",
+    "decimal": "24",
+    "hex": "18",
+    "entity": "",
+    "description": "cancel",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "EM",
+    "decimal": "25",
+    "hex": "19",
+    "entity": "",
+    "description": "end of medium",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "SUB",
+    "decimal": "26",
+    "hex": "001A",
+    "entity": "",
+    "description": "substitute",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "ESC",
+    "decimal": "27",
+    "hex": "001B",
+    "entity": "",
+    "description": "escape",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "FS",
+    "decimal": "28",
+    "hex": "001C",
+    "entity": "",
+    "description": "file separator",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "GS",
+    "decimal": "29",
+    "hex": "001D",
+    "entity": "",
+    "description": "group separator",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "RS",
+    "decimal": "30",
+    "hex": "001E",
+    "entity": "",
+    "description": "record separator",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "US",
+    "decimal": "31",
+    "hex": "001F",
+    "entity": "",
+    "description": "unit separator",
+    "note": "C0 Control Character"
+  },
+  {
+    "character": "DEL",
+    "decimal": "127",
+    "hex": "007F",
+    "entity": "",
+    "description": "delete (rubout)",
+    "note": "C0 Control Character"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "character": "₠",
+    "decimal": "8352",
+    "hex": "20A0",
+    "entity": "",
+    "description": "EURO-CURRENCY SIGN",
+    "note": ""
+  },
+  {
+    "character": "₡",
+    "decimal": "8353",
+    "hex": "20A1",
+    "entity": "",
+    "description": "COLON SIGN",
+    "note": ""
+  },
+  {
+    "character": "₢",
+    "decimal": "8354",
+    "hex": "20A2",
+    "entity": "",
+    "description": "CRUZEIRO SIGN",
+    "note": ""
+  },
+  {
+    "character": "₣",
+    "decimal": "8355",
+    "hex": "20A3",
+    "entity": "",
+    "description": "FRENCH FRANC SIGN",
+    "note": ""
+  },
+  {
+    "character": "₤",
+    "decimal": "8356",
+    "hex": "20A4",
+    "entity": "",
+    "description": "LIRA SIGN",
+    "note": ""
+  },
+  {
+    "character": "₥",
+    "decimal": "8357",
+    "hex": "20A5",
+    "entity": "",
+    "description": "MILL SIGN",
+    "note": ""
+  },
+  {
+    "character": "₦",
+    "decimal": "8358",
+    "hex": "20A6",
+    "entity": "",
+    "description": "NAIRA SIGN",
+    "note": ""
+  },
+  {
+    "character": "₧",
+    "decimal": "8359",
+    "hex": "20A7",
+    "entity": "",
+    "description": "PESETA SIGN",
+    "note": ""
+  },
+  {
+    "character": "₨",
+    "decimal": "8360",
+    "hex": "20A8",
+    "entity": "",
+    "description": "RUPEE SIGN",
+    "note": ""
+  },
+  {
+    "character": "₩",
+    "decimal": "8361",
+    "hex": "20A9",
+    "entity": "",
+    "description": "WON SIGN",
+    "note": ""
+  },
+  {
+    "character": "₪",
+    "decimal": "8362",
+    "hex": "20AA",
+    "entity": "",
+    "description": "NEW SHEQEL SIGN",
+    "note": ""
+  },
+  {
+    "character": "₫",
+    "decimal": "8363",
+    "hex": "20AB",
+    "entity": "",
+    "description": "DONG SIGN",
+    "note": ""
+  },
+  {
+    "character": "€",
+    "decimal": "8364",
+    "hex": "20AC",
+    "entity": "&euro;",
+    "description": "EURO SIGN",
+    "note": ""
+  },
+  {
+    "character": "₭",
+    "decimal": "8365",
+    "hex": "20AD",
+    "entity": "",
+    "description": "KIP SIGN",
+    "note": ""
+  },
+  {
+    "character": "₮",
+    "decimal": "8366",
+    "hex": "20AE",
+    "entity": "",
+    "description": "TUGRIK SIGN",
+    "note": ""
+  },
+  {
+    "character": "₯",
+    "decimal": "8367",
+    "hex": "20AF",
+    "entity": "",
+    "description": "DRACHMA SIGN",
+    "note": ""
+  },
+  {
+    "character": "₰",
+    "decimal": "8368",
+    "hex": "20B0",
+    "entity": "",
+    "description": "GERMAN PENNY SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "₱",
+    "decimal": "8369",
+    "hex": "20B1",
+    "entity": "",
+    "description": "PESO SIGN",
+    "note": ""
+  },
+  {
+    "character": "₲",
+    "decimal": "8370",
+    "hex": "20B2",
+    "entity": "",
+    "description": "GUARANI SIGN",
+    "note": ""
+  },
+  {
+    "character": "₳",
+    "decimal": "8371",
+    "hex": "20B3",
+    "entity": "",
+    "description": "AUSTRAL SIGN",
+    "note": ""
+  },
+  {
+    "character": "₴",
+    "decimal": "8372",
+    "hex": "20B4",
+    "entity": "",
+    "description": "HRYVNIA SIGN",
+    "note": ""
+  },
+  {
+    "character": "₵",
+    "decimal": "8373",
+    "hex": "20B5",
+    "entity": "",
+    "description": "CEDI SIGN",
+    "note": ""
+  },
+  {
+    "character": "₶",
+    "decimal": "8374",
+    "hex": "20B6",
+    "entity": "",
+    "description": "LIVRE TOURNOIS SIGN",
+    "note": ""
+  },
+  {
+    "character": "₷",
+    "decimal": "8375",
+    "hex": "20B7",
+    "entity": "",
+    "description": "SPESMILO SIGN",
+    "note": ""
+  },
+  {
+    "character": "₸",
+    "decimal": "8376",
+    "hex": "20B8",
+    "entity": "",
+    "description": "TENGE SIGN",
+    "note": ""
+  },
+  {
+    "character": "₹",
+    "decimal": "8377",
+    "hex": "20B9",
+    "entity": "",
+    "description": "INDIAN RUPEE SIGN",
+    "note": ""
+  },
+  {
+    "character": "₺",
+    "decimal": "8378",
+    "hex": "20BA",
+    "entity": "",
+    "description": "TURKISH LIRA SIGN",
+    "note": ""
+  },
+  {
+    "character": "₻",
+    "decimal": "8379",
+    "hex": "20BB",
+    "entity": "",
+    "description": "NORDIC MARK SIGN",
+    "note": ""
+  },
+  {
+    "character": "₼",
+    "decimal": "8380",
+    "hex": "20BC",
+    "entity": "",
+    "description": "MANAT SIGN",
+    "note": ""
+  },
+  {
+    "character": "₽",
+    "decimal": "8381",
+    "hex": "20BD",
+    "entity": "",
+    "description": "RUBLE SIGN",
+    "note": ""
+  },
+  {
+    "character": "₾",
+    "decimal": "8382",
+    "hex": "20BE",
+    "entity": "",
+    "description": "LARI SIGN",
+    "note": ""
+  },
+  {
+    "character": "₿",
+    "decimal": "8383",
+    "hex": "20BF",
+    "entity": "",
+    "description": "BITCOIN SIGN",
+    "note": ""
+  }
+]

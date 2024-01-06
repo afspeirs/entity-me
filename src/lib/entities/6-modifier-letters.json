@@ -1,0 +1,642 @@
+[
+  {
+    "character": "ʰ",
+    "decimal": "688",
+    "hex": "02B0",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL H",
+    "note": ""
+  },
+  {
+    "character": "ʱ",
+    "decimal": "689",
+    "hex": "02B1",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL H WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʲ",
+    "decimal": "690",
+    "hex": "02B2",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL J",
+    "note": ""
+  },
+  {
+    "character": "ʳ",
+    "decimal": "691",
+    "hex": "02B3",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL R",
+    "note": ""
+  },
+  {
+    "character": "ʴ",
+    "decimal": "692",
+    "hex": "02B4",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL TURNED R",
+    "note": ""
+  },
+  {
+    "character": "ʵ",
+    "decimal": "693",
+    "hex": "02B5",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL TURNED R WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ʶ",
+    "decimal": "694",
+    "hex": "02B6",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL CAPITAL INVERTED R",
+    "note": ""
+  },
+  {
+    "character": "ʷ",
+    "decimal": "695",
+    "hex": "02B7",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL W",
+    "note": ""
+  },
+  {
+    "character": "ʸ",
+    "decimal": "696",
+    "hex": "02B8",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL Y",
+    "note": ""
+  },
+  {
+    "character": "ʹ",
+    "decimal": "697",
+    "hex": "02B9",
+    "entity": "",
+    "description": "MODIFIER LETTER PRIME",
+    "note": ""
+  },
+  {
+    "character": "ʺ",
+    "decimal": "698",
+    "hex": "02BA",
+    "entity": "",
+    "description": "MODIFIER LETTER DOUBLE PRIME",
+    "note": ""
+  },
+  {
+    "character": "ʻ",
+    "decimal": "699",
+    "hex": "02BB",
+    "entity": "",
+    "description": "MODIFIER LETTER TURNED COMMA",
+    "note": ""
+  },
+  {
+    "character": "ʼ",
+    "decimal": "700",
+    "hex": "02BC",
+    "entity": "",
+    "description": "MODIFIER LETTER APOSTROPHE",
+    "note": ""
+  },
+  {
+    "character": "ʽ",
+    "decimal": "701",
+    "hex": "02BD",
+    "entity": "",
+    "description": "MODIFIER LETTER REVERSED COMMA",
+    "note": ""
+  },
+  {
+    "character": "ʾ",
+    "decimal": "702",
+    "hex": "02BE",
+    "entity": "",
+    "description": "MODIFIER LETTER RIGHT HALF RING",
+    "note": ""
+  },
+  {
+    "character": "ʿ",
+    "decimal": "703",
+    "hex": "02BF",
+    "entity": "",
+    "description": "MODIFIER LETTER LEFT HALF RING",
+    "note": ""
+  },
+  {
+    "character": "ˀ",
+    "decimal": "704",
+    "hex": "02C0",
+    "entity": "",
+    "description": "MODIFIER LETTER GLOTTAL STOP",
+    "note": ""
+  },
+  {
+    "character": "ˁ",
+    "decimal": "705",
+    "hex": "02C1",
+    "entity": "",
+    "description": "MODIFIER LETTER REVERSED GLOTTAL STOP",
+    "note": ""
+  },
+  {
+    "character": "˂",
+    "decimal": "706",
+    "hex": "02C2",
+    "entity": "",
+    "description": "MODIFIER LETTER LEFT ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "˃",
+    "decimal": "707",
+    "hex": "02C3",
+    "entity": "",
+    "description": "MODIFIER LETTER RIGHT ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "˄",
+    "decimal": "708",
+    "hex": "02C4",
+    "entity": "",
+    "description": "MODIFIER LETTER UP ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "˅",
+    "decimal": "709",
+    "hex": "02C5",
+    "entity": "",
+    "description": "MODIFIER LETTER DOWN ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "ˆ",
+    "decimal": "710",
+    "hex": "02C6",
+    "entity": "&circ;",
+    "description": "MODIFIER LETTER CIRCUMFLEX ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ˇ",
+    "decimal": "711",
+    "hex": "02C7",
+    "entity": "",
+    "description": "CARON",
+    "note": ""
+  },
+  {
+    "character": "ˈ",
+    "decimal": "712",
+    "hex": "02C8",
+    "entity": "",
+    "description": "MODIFIER LETTER VERTICAL LINE",
+    "note": ""
+  },
+  {
+    "character": "ˉ",
+    "decimal": "713",
+    "hex": "02C9",
+    "entity": "",
+    "description": "MODIFIER LETTER MACRON",
+    "note": ""
+  },
+  {
+    "character": "ˊ",
+    "decimal": "714",
+    "hex": "02CA",
+    "entity": "",
+    "description": "MODIFIER LETTER ACUTE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ˋ",
+    "decimal": "715",
+    "hex": "02CB",
+    "entity": "",
+    "description": "MODIFIER LETTER GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ˌ",
+    "decimal": "716",
+    "hex": "02CC",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW VERTICAL LINE",
+    "note": ""
+  },
+  {
+    "character": "ˍ",
+    "decimal": "717",
+    "hex": "02CD",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW MACRON",
+    "note": ""
+  },
+  {
+    "character": "ˎ",
+    "decimal": "718",
+    "hex": "02CE",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ˏ",
+    "decimal": "719",
+    "hex": "02CF",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW ACUTE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ː",
+    "decimal": "720",
+    "hex": "02D0",
+    "entity": "",
+    "description": "MODIFIER LETTER TRIANGULAR COLON",
+    "note": ""
+  },
+  {
+    "character": "ˑ",
+    "decimal": "721",
+    "hex": "02D1",
+    "entity": "",
+    "description": "MODIFIER LETTER HALF TRIANGULAR COLON",
+    "note": ""
+  },
+  {
+    "character": "˒",
+    "decimal": "722",
+    "hex": "02D2",
+    "entity": "",
+    "description": "MODIFIER LETTER CENTRED RIGHT HALF RING",
+    "note": ""
+  },
+  {
+    "character": "˓",
+    "decimal": "723",
+    "hex": "02D3",
+    "entity": "",
+    "description": "MODIFIER LETTER CENTRED LEFT HALF RING",
+    "note": ""
+  },
+  {
+    "character": "˔",
+    "decimal": "724",
+    "hex": "02D4",
+    "entity": "",
+    "description": "MODIFIER LETTER UP TACK",
+    "note": ""
+  },
+  {
+    "character": "˕",
+    "decimal": "725",
+    "hex": "02D5",
+    "entity": "",
+    "description": "MODIFIER LETTER DOWN TACK",
+    "note": ""
+  },
+  {
+    "character": "˖",
+    "decimal": "726",
+    "hex": "02D6",
+    "entity": "",
+    "description": "MODIFIER LETTER PLUS SIGN",
+    "note": ""
+  },
+  {
+    "character": "˗",
+    "decimal": "727",
+    "hex": "02D7",
+    "entity": "",
+    "description": "MODIFIER LETTER MINUS SIGN",
+    "note": ""
+  },
+  {
+    "character": "˘",
+    "decimal": "728",
+    "hex": "02D8",
+    "entity": "",
+    "description": "BREVE",
+    "note": ""
+  },
+  {
+    "character": "˙",
+    "decimal": "729",
+    "hex": "02D9",
+    "entity": "",
+    "description": "DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "˚",
+    "decimal": "730",
+    "hex": "02DA",
+    "entity": "",
+    "description": "RING ABOVE",
+    "note": ""
+  },
+  {
+    "character": "˛",
+    "decimal": "731",
+    "hex": "02DB",
+    "entity": "",
+    "description": "OGONEK",
+    "note": ""
+  },
+  {
+    "character": "˜",
+    "decimal": "732",
+    "hex": "02DC",
+    "entity": "&tilde;",
+    "description": "SMALL TILDE",
+    "note": ""
+  },
+  {
+    "character": "˝",
+    "decimal": "733",
+    "hex": "02DD",
+    "entity": "",
+    "description": "DOUBLE ACUTE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "˞",
+    "decimal": "734",
+    "hex": "02DE",
+    "entity": "",
+    "description": "MODIFIER LETTER RHOTIC HOOK",
+    "note": ""
+  },
+  {
+    "character": "˟",
+    "decimal": "735",
+    "hex": "02DF",
+    "entity": "",
+    "description": "MODIFIER LETTER CROSS ACCENT",
+    "note": ""
+  },
+  {
+    "character": "ˠ",
+    "decimal": "736",
+    "hex": "2,00E+00",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL GAMMA",
+    "note": ""
+  },
+  {
+    "character": "ˡ",
+    "decimal": "737",
+    "hex": "2,00E+01",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL L",
+    "note": ""
+  },
+  {
+    "character": "ˢ",
+    "decimal": "738",
+    "hex": "2,00E+02",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL S",
+    "note": ""
+  },
+  {
+    "character": "ˣ",
+    "decimal": "739",
+    "hex": "2,00E+03",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL X",
+    "note": ""
+  },
+  {
+    "character": "ˤ",
+    "decimal": "740",
+    "hex": "2,00E+04",
+    "entity": "",
+    "description": "MODIFIER LETTER SMALL REVERSED GLOTTAL STOP",
+    "note": ""
+  },
+  {
+    "character": "˥",
+    "decimal": "741",
+    "hex": "2,00E+05",
+    "entity": "",
+    "description": "MODIFIER LETTER EXTRA-HIGH TONE BAR",
+    "note": ""
+  },
+  {
+    "character": "˦",
+    "decimal": "742",
+    "hex": "2,00E+06",
+    "entity": "",
+    "description": "MODIFIER LETTER HIGH TONE BAR",
+    "note": ""
+  },
+  {
+    "character": "˧",
+    "decimal": "743",
+    "hex": "2,00E+07",
+    "entity": "",
+    "description": "MODIFIER LETTER MID TONE BAR",
+    "note": ""
+  },
+  {
+    "character": "˨",
+    "decimal": "744",
+    "hex": "2,00E+08",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW TONE BAR",
+    "note": ""
+  },
+  {
+    "character": "˩",
+    "decimal": "745",
+    "hex": "2,00E+09",
+    "entity": "",
+    "description": "MODIFIER LETTER EXTRA-LOW TONE BAR",
+    "note": ""
+  },
+  {
+    "character": "˪",
+    "decimal": "746",
+    "hex": "02EA",
+    "entity": "",
+    "description": "MODIFIER LETTER YIN DEPARTING TONE MARK",
+    "note": ""
+  },
+  {
+    "character": "˫",
+    "decimal": "747",
+    "hex": "02EB",
+    "entity": "",
+    "description": "MODIFIER LETTER YANG DEPARTING TONE MARK",
+    "note": ""
+  },
+  {
+    "character": "ˬ",
+    "decimal": "748",
+    "hex": "02EC",
+    "entity": "",
+    "description": "MODIFIER LETTER VOICING",
+    "note": ""
+  },
+  {
+    "character": "˭",
+    "decimal": "749",
+    "hex": "02ED",
+    "entity": "",
+    "description": "MODIFIER LETTER UNASPIRATED",
+    "note": ""
+  },
+  {
+    "character": "ˮ",
+    "decimal": "750",
+    "hex": "02EE",
+    "entity": "",
+    "description": "MODIFIER LETTER DOUBLE APOSTROPHE",
+    "note": ""
+  },
+  {
+    "character": "˯",
+    "decimal": "751",
+    "hex": "02EF",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW DOWN ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "˰",
+    "decimal": "752",
+    "hex": "02F0",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW UP ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "˱",
+    "decimal": "753",
+    "hex": "02F1",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW LEFT ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "˲",
+    "decimal": "754",
+    "hex": "02F2",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW RIGHT ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "˳",
+    "decimal": "755",
+    "hex": "02F3",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW RING",
+    "note": ""
+  },
+  {
+    "character": "˴",
+    "decimal": "756",
+    "hex": "02F4",
+    "entity": "",
+    "description": "MODIFIER LETTER MIDDLE GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "˵",
+    "decimal": "757",
+    "hex": "02F5",
+    "entity": "",
+    "description": "MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "˶",
+    "decimal": "758",
+    "hex": "02F6",
+    "entity": "",
+    "description": "MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT",
+    "note": ""
+  },
+  {
+    "character": "˷",
+    "decimal": "759",
+    "hex": "02F7",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW TILDE",
+    "note": ""
+  },
+  {
+    "character": "˸",
+    "decimal": "760",
+    "hex": "02F8",
+    "entity": "",
+    "description": "MODIFIER LETTER RAISED COLON",
+    "note": ""
+  },
+  {
+    "character": "˹",
+    "decimal": "761",
+    "hex": "02F9",
+    "entity": "",
+    "description": "MODIFIER LETTER BEGIN HIGH TONE",
+    "note": ""
+  },
+  {
+    "character": "˺",
+    "decimal": "762",
+    "hex": "02FA",
+    "entity": "",
+    "description": "MODIFIER LETTER END HIGH TONE",
+    "note": ""
+  },
+  {
+    "character": "˻",
+    "decimal": "763",
+    "hex": "02FB",
+    "entity": "",
+    "description": "MODIFIER LETTER BEGIN LOW TONE",
+    "note": ""
+  },
+  {
+    "character": "˼",
+    "decimal": "764",
+    "hex": "02FC",
+    "entity": "",
+    "description": "MODIFIER LETTER END LOW TONE",
+    "note": ""
+  },
+  {
+    "character": "˽",
+    "decimal": "765",
+    "hex": "02FD",
+    "entity": "",
+    "description": "MODIFIER LETTER SHELF",
+    "note": ""
+  },
+  {
+    "character": "˾",
+    "decimal": "766",
+    "hex": "02FE",
+    "entity": "",
+    "description": "MODIFIER LETTER OPEN SHELF",
+    "note": ""
+  },
+  {
+    "character": "˿",
+    "decimal": "767",
+    "hex": "02FF",
+    "entity": "",
+    "description": "MODIFIER LETTER LOW LEFT ARROW",
+    "note": ""
+  }
+]

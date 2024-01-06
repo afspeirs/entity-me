@@ -1,0 +1,890 @@
+[
+  {
+    "character": "",
+    "decimal": "8192",
+    "hex": "2000",
+    "entity": "",
+    "description": "EN QUAD",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8193",
+    "hex": "2001",
+    "entity": "",
+    "description": "EM QUAD",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8194",
+    "hex": "2002",
+    "entity": "&ensp;",
+    "description": "EN SPACE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8195",
+    "hex": "2003",
+    "entity": "&emsp;",
+    "description": "EM SPACE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8196",
+    "hex": "2004",
+    "entity": "",
+    "description": "THREE-PER-EM SPACE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8197",
+    "hex": "2005",
+    "entity": "",
+    "description": "FOUR-PER-EM SPACE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8198",
+    "hex": "2006",
+    "entity": "",
+    "description": "SIX-PER-EM SPACE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8199",
+    "hex": "2007",
+    "entity": "",
+    "description": "FIGURE SPACE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8200",
+    "hex": "2008",
+    "entity": "",
+    "description": "PUNCTUATION SPACE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8201",
+    "hex": "2009",
+    "entity": "&thinsp;",
+    "description": "THIN SPACE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8202",
+    "hex": "200A",
+    "entity": "",
+    "description": "HAIR SPACE",
+    "note": ""
+  },
+  {
+    "character": "​",
+    "decimal": "8203",
+    "hex": "200B",
+    "entity": "",
+    "description": "ZERO WIDTH SPACE",
+    "note": ""
+  },
+  {
+    "character": "‌",
+    "decimal": "8204",
+    "hex": "200C",
+    "entity": "&zwnj;",
+    "description": "ZERO WIDTH NON-JOINER",
+    "note": ""
+  },
+  {
+    "character": "‍",
+    "decimal": "8205",
+    "hex": "200D",
+    "entity": "&zwj;",
+    "description": "ZERO WIDTH JOINER",
+    "note": ""
+  },
+  {
+    "character": "‎",
+    "decimal": "8206",
+    "hex": "200E",
+    "entity": "&lrm;",
+    "description": "LEFT-TO-RIGHT MARK",
+    "note": ""
+  },
+  {
+    "character": "‏",
+    "decimal": "8207",
+    "hex": "200F",
+    "entity": "&rlm;",
+    "description": "RIGHT-TO-LEFT MARK",
+    "note": ""
+  },
+  {
+    "character": "‐",
+    "decimal": "8208",
+    "hex": "2010",
+    "entity": "",
+    "description": "HYPHEN",
+    "note": ""
+  },
+  {
+    "character": "‑",
+    "decimal": "8209",
+    "hex": "2011",
+    "entity": "",
+    "description": "NON-BREAKING HYPHEN",
+    "note": ""
+  },
+  {
+    "character": "‒",
+    "decimal": "8210",
+    "hex": "2012",
+    "entity": "",
+    "description": "FIGURE DASH",
+    "note": ""
+  },
+  {
+    "character": "–",
+    "decimal": "8211",
+    "hex": "2013",
+    "entity": "&ndash;",
+    "description": "EN DASH",
+    "note": ""
+  },
+  {
+    "character": "—",
+    "decimal": "8212",
+    "hex": "2014",
+    "entity": "&mdash;",
+    "description": "EM DASH",
+    "note": ""
+  },
+  {
+    "character": "―",
+    "decimal": "8213",
+    "hex": "2015",
+    "entity": "",
+    "description": "HORIZONTAL BAR",
+    "note": ""
+  },
+  {
+    "character": "‖",
+    "decimal": "8214",
+    "hex": "2016",
+    "entity": "",
+    "description": "DOUBLE VERTICAL LINE",
+    "note": ""
+  },
+  {
+    "character": "‗",
+    "decimal": "8215",
+    "hex": "2017",
+    "entity": "",
+    "description": "DOUBLE LOW LINE",
+    "note": ""
+  },
+  {
+    "character": "‘",
+    "decimal": "8216",
+    "hex": "2018",
+    "entity": "&lsquo;",
+    "description": "LEFT SINGLE QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "’",
+    "decimal": "8217",
+    "hex": "2019",
+    "entity": "&rsquo;",
+    "description": "RIGHT SINGLE QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "‚",
+    "decimal": "8218",
+    "hex": "201A",
+    "entity": "&sbquo;",
+    "description": "SINGLE LOW-9 QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "‛",
+    "decimal": "8219",
+    "hex": "201B",
+    "entity": "",
+    "description": "SINGLE HIGH-REVERSED-9 QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "“",
+    "decimal": "8220",
+    "hex": "201C",
+    "entity": "&ldquo;",
+    "description": "LEFT DOUBLE QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "”",
+    "decimal": "8221",
+    "hex": "201D",
+    "entity": "&rdquo;",
+    "description": "RIGHT DOUBLE QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "„",
+    "decimal": "8222",
+    "hex": "201E",
+    "entity": "&bdquo;",
+    "description": "DOUBLE LOW-9 QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "‟",
+    "decimal": "8223",
+    "hex": "201F",
+    "entity": "",
+    "description": "DOUBLE HIGH-REVERSED-9 QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "†",
+    "decimal": "8224",
+    "hex": "2020",
+    "entity": "&dagger;",
+    "description": "DAGGER",
+    "note": ""
+  },
+  {
+    "character": "‡",
+    "decimal": "8225",
+    "hex": "2021",
+    "entity": "&Dagger;",
+    "description": "DOUBLE DAGGER",
+    "note": ""
+  },
+  {
+    "character": "•",
+    "decimal": "8226",
+    "hex": "2022",
+    "entity": "&bull;",
+    "description": "BULLET",
+    "note": ""
+  },
+  {
+    "character": "‣",
+    "decimal": "8227",
+    "hex": "2023",
+    "entity": "",
+    "description": "TRIANGULAR BULLET",
+    "note": ""
+  },
+  {
+    "character": "․",
+    "decimal": "8228",
+    "hex": "2024",
+    "entity": "",
+    "description": "ONE DOT LEADER",
+    "note": ""
+  },
+  {
+    "character": "‥",
+    "decimal": "8229",
+    "hex": "2025",
+    "entity": "",
+    "description": "TWO DOT LEADER",
+    "note": ""
+  },
+  {
+    "character": "…",
+    "decimal": "8230",
+    "hex": "2026",
+    "entity": "&hellip;",
+    "description": "HORIZONTAL ELLIPSIS",
+    "note": ""
+  },
+  {
+    "character": "‧",
+    "decimal": "8231",
+    "hex": "2027",
+    "entity": "",
+    "description": "HYPHENATION POINT",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8232",
+    "hex": "2028",
+    "entity": "",
+    "description": "LINE SEPARATOR",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8233",
+    "hex": "2029",
+    "entity": "",
+    "description": "PARAGRAPH SEPARATOR",
+    "note": ""
+  },
+  {
+    "character": "‪",
+    "decimal": "8234",
+    "hex": "202A",
+    "entity": "",
+    "description": "LEFT-TO-RIGHT EMBEDDING",
+    "note": ""
+  },
+  {
+    "character": "‫",
+    "decimal": "8235",
+    "hex": "202B",
+    "entity": "",
+    "description": "RIGHT-TO-LEFT EMBEDDING",
+    "note": ""
+  },
+  {
+    "character": "‬",
+    "decimal": "8236",
+    "hex": "202C",
+    "entity": "",
+    "description": "POP DIRECTIONAL FORMATTING",
+    "note": ""
+  },
+  {
+    "character": "‭",
+    "decimal": "8237",
+    "hex": "202D",
+    "entity": "",
+    "description": "LEFT-TO-RIGHT OVERRIDE",
+    "note": ""
+  },
+  {
+    "character": "‮",
+    "decimal": "8238",
+    "hex": "202E",
+    "entity": "",
+    "description": "RIGHT-TO-LEFT OVERRIDE",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8239",
+    "hex": "202F",
+    "entity": "",
+    "description": "NARROW NON-BREAK SPACE",
+    "note": ""
+  },
+  {
+    "character": "‰",
+    "decimal": "8240",
+    "hex": "2030",
+    "entity": "&permil;",
+    "description": "PER MILLE SIGN",
+    "note": ""
+  },
+  {
+    "character": "‱",
+    "decimal": "8241",
+    "hex": "2031",
+    "entity": "",
+    "description": "PER TEN THOUSAND SIGN",
+    "note": ""
+  },
+  {
+    "character": "′",
+    "decimal": "8242",
+    "hex": "2032",
+    "entity": "&prime;",
+    "description": "PRIME",
+    "note": ""
+  },
+  {
+    "character": "″",
+    "decimal": "8243",
+    "hex": "2033",
+    "entity": "&Prime;",
+    "description": "DOUBLE PRIME",
+    "note": ""
+  },
+  {
+    "character": "‴",
+    "decimal": "8244",
+    "hex": "2034",
+    "entity": "",
+    "description": "TRIPLE PRIME",
+    "note": ""
+  },
+  {
+    "character": "‵",
+    "decimal": "8245",
+    "hex": "2035",
+    "entity": "",
+    "description": "REVERSED PRIME",
+    "note": ""
+  },
+  {
+    "character": "‶",
+    "decimal": "8246",
+    "hex": "2036",
+    "entity": "",
+    "description": "REVERSED DOUBLE PRIME",
+    "note": ""
+  },
+  {
+    "character": "‷",
+    "decimal": "8247",
+    "hex": "2037",
+    "entity": "",
+    "description": "REVERSED TRIPLE PRIME",
+    "note": ""
+  },
+  {
+    "character": "‸",
+    "decimal": "8248",
+    "hex": "2038",
+    "entity": "",
+    "description": "CARET",
+    "note": ""
+  },
+  {
+    "character": "‹",
+    "decimal": "8249",
+    "hex": "2039",
+    "entity": "&lsaquo;",
+    "description": "SINGLE LEFT-POINTING ANGLE QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "›",
+    "decimal": "8250",
+    "hex": "203A",
+    "entity": "&rsaquo;",
+    "description": "SINGLE RIGHT-POINTING ANGLE QUOTATION MARK",
+    "note": ""
+  },
+  {
+    "character": "※",
+    "decimal": "8251",
+    "hex": "203B",
+    "entity": "",
+    "description": "REFERENCE MARK",
+    "note": ""
+  },
+  {
+    "character": "‼",
+    "decimal": "8252",
+    "hex": "203C",
+    "entity": "",
+    "description": "DOUBLE EXCLAMATION MARK",
+    "note": ""
+  },
+  {
+    "character": "‽",
+    "decimal": "8253",
+    "hex": "203D",
+    "entity": "",
+    "description": "INTERROBANG",
+    "note": ""
+  },
+  {
+    "character": "‾",
+    "decimal": "8254",
+    "hex": "203E",
+    "entity": "&oline;",
+    "description": "OVERLINE",
+    "note": ""
+  },
+  {
+    "character": "‿",
+    "decimal": "8255",
+    "hex": "203F",
+    "entity": "",
+    "description": "UNDERTIE",
+    "note": ""
+  },
+  {
+    "character": "⁀",
+    "decimal": "8256",
+    "hex": "2040",
+    "entity": "",
+    "description": "CHARACTER TIE",
+    "note": ""
+  },
+  {
+    "character": "⁁",
+    "decimal": "8257",
+    "hex": "2041",
+    "entity": "",
+    "description": "CARET INSERTION POINT",
+    "note": ""
+  },
+  {
+    "character": "⁂",
+    "decimal": "8258",
+    "hex": "2042",
+    "entity": "",
+    "description": "ASTERISM",
+    "note": ""
+  },
+  {
+    "character": "⁃",
+    "decimal": "8259",
+    "hex": "2043",
+    "entity": "",
+    "description": "HYPHEN BULLET",
+    "note": ""
+  },
+  {
+    "character": "⁄",
+    "decimal": "8260",
+    "hex": "2044",
+    "entity": "&frasl;",
+    "description": "FRACTION SLASH",
+    "note": ""
+  },
+  {
+    "character": "⁅",
+    "decimal": "8261",
+    "hex": "2045",
+    "entity": "",
+    "description": "LEFT SQUARE BRACKET WITH QUILL",
+    "note": ""
+  },
+  {
+    "character": "⁆",
+    "decimal": "8262",
+    "hex": "2046",
+    "entity": "",
+    "description": "RIGHT SQUARE BRACKET WITH QUILL",
+    "note": ""
+  },
+  {
+    "character": "⁇",
+    "decimal": "8263",
+    "hex": "2047",
+    "entity": "",
+    "description": "DOUBLE QUESTION MARK",
+    "note": ""
+  },
+  {
+    "character": "⁈",
+    "decimal": "8264",
+    "hex": "2048",
+    "entity": "",
+    "description": "QUESTION EXCLAMATION MARK",
+    "note": ""
+  },
+  {
+    "character": "⁉",
+    "decimal": "8265",
+    "hex": "2049",
+    "entity": "",
+    "description": "EXCLAMATION QUESTION MARK",
+    "note": ""
+  },
+  {
+    "character": "⁊",
+    "decimal": "8266",
+    "hex": "204A",
+    "entity": "",
+    "description": "TIRONIAN SIGN ET",
+    "note": ""
+  },
+  {
+    "character": "⁋",
+    "decimal": "8267",
+    "hex": "204B",
+    "entity": "",
+    "description": "REVERSED PILCROW SIGN",
+    "note": ""
+  },
+  {
+    "character": "⁌",
+    "decimal": "8268",
+    "hex": "204C",
+    "entity": "",
+    "description": "BLACK LEFTWARDS BULLET",
+    "note": ""
+  },
+  {
+    "character": "⁍",
+    "decimal": "8269",
+    "hex": "204D",
+    "entity": "",
+    "description": "BLACK RIGHTWARDS BULLET",
+    "note": ""
+  },
+  {
+    "character": "⁎",
+    "decimal": "8270",
+    "hex": "204E",
+    "entity": "",
+    "description": "LOW ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "⁏",
+    "decimal": "8271",
+    "hex": "204F",
+    "entity": "",
+    "description": "REVERSED SEMICOLON",
+    "note": ""
+  },
+  {
+    "character": "⁐",
+    "decimal": "8272",
+    "hex": "2050",
+    "entity": "",
+    "description": "CLOSE UP",
+    "note": ""
+  },
+  {
+    "character": "⁑",
+    "decimal": "8273",
+    "hex": "2051",
+    "entity": "",
+    "description": "TWO ASTERISKS ALIGNED VERTICALLY",
+    "note": ""
+  },
+  {
+    "character": "⁒",
+    "decimal": "8274",
+    "hex": "2052",
+    "entity": "",
+    "description": "COMMERCIAL MINUS SIGN",
+    "note": ""
+  },
+  {
+    "character": "⁓",
+    "decimal": "8275",
+    "hex": "2053",
+    "entity": "",
+    "description": "SWUNG DASH",
+    "note": ""
+  },
+  {
+    "character": "⁔",
+    "decimal": "8276",
+    "hex": "2054",
+    "entity": "",
+    "description": "INVERTED UNDERTIE",
+    "note": ""
+  },
+  {
+    "character": "⁕",
+    "decimal": "8277",
+    "hex": "2055",
+    "entity": "",
+    "description": "FLOWER PUNCTUATION MARK",
+    "note": ""
+  },
+  {
+    "character": "⁖",
+    "decimal": "8278",
+    "hex": "2056",
+    "entity": "",
+    "description": "THREE DOT PUNCTUATION",
+    "note": ""
+  },
+  {
+    "character": "⁗",
+    "decimal": "8279",
+    "hex": "2057",
+    "entity": "",
+    "description": "QUADRUPLE PRIME",
+    "note": ""
+  },
+  {
+    "character": "⁘",
+    "decimal": "8280",
+    "hex": "2058",
+    "entity": "",
+    "description": "FOUR DOT PUNCTUATION",
+    "note": ""
+  },
+  {
+    "character": "⁙",
+    "decimal": "8281",
+    "hex": "2059",
+    "entity": "",
+    "description": "FIVE DOT PUNCTUATION",
+    "note": ""
+  },
+  {
+    "character": "⁚",
+    "decimal": "8282",
+    "hex": "205A",
+    "entity": "",
+    "description": "TWO DOT PUNCTUATION",
+    "note": ""
+  },
+  {
+    "character": "⁛",
+    "decimal": "8283",
+    "hex": "205B",
+    "entity": "",
+    "description": "FOUR DOT MARK",
+    "note": ""
+  },
+  {
+    "character": "⁜",
+    "decimal": "8284",
+    "hex": "205C",
+    "entity": "",
+    "description": "DOTTED CROSS",
+    "note": ""
+  },
+  {
+    "character": "⁝",
+    "decimal": "8285",
+    "hex": "205D",
+    "entity": "",
+    "description": "TRICOLON",
+    "note": ""
+  },
+  {
+    "character": "⁞",
+    "decimal": "8286",
+    "hex": "205E",
+    "entity": "",
+    "description": "VERTICAL FOUR DOTS",
+    "note": ""
+  },
+  {
+    "character": "",
+    "decimal": "8287",
+    "hex": "205F",
+    "entity": "",
+    "description": "MEDIUM MATHEMATICAL SPACE",
+    "note": ""
+  },
+  {
+    "character": "⁠",
+    "decimal": "8288",
+    "hex": "2060",
+    "entity": "",
+    "description": "WORD JOINER",
+    "note": ""
+  },
+  {
+    "character": "⁡",
+    "decimal": "8289",
+    "hex": "2061",
+    "entity": "",
+    "description": "FUNCTION APPLICATION",
+    "note": ""
+  },
+  {
+    "character": "⁢",
+    "decimal": "8290",
+    "hex": "2062",
+    "entity": "",
+    "description": "INVISIBLE TIMES",
+    "note": ""
+  },
+  {
+    "character": "⁣",
+    "decimal": "8291",
+    "hex": "2063",
+    "entity": "",
+    "description": "INVISIBLE SEPARATOR",
+    "note": ""
+  },
+  {
+    "character": "⁤",
+    "decimal": "8292",
+    "hex": "2064",
+    "entity": "",
+    "description": "INVISIBLE PLUS",
+    "note": ""
+  },
+  {
+    "character": "⁦",
+    "decimal": "8294",
+    "hex": "2066",
+    "entity": "",
+    "description": "LEFT-TO-RIGHT ISOLATE",
+    "note": ""
+  },
+  {
+    "character": "⁧",
+    "decimal": "8295",
+    "hex": "2067",
+    "entity": "",
+    "description": "RIGHT-TO-LEFT ISOLATE",
+    "note": ""
+  },
+  {
+    "character": "⁨",
+    "decimal": "8296",
+    "hex": "2068",
+    "entity": "",
+    "description": "FIRST STRONG ISOLATE",
+    "note": ""
+  },
+  {
+    "character": "⁩",
+    "decimal": "8297",
+    "hex": "2069",
+    "entity": "",
+    "description": "POP DIRECTIONAL ISOLATE",
+    "note": ""
+  },
+  {
+    "character": "⁪",
+    "decimal": "8298",
+    "hex": "206A",
+    "entity": "",
+    "description": "INHIBIT SYMMETRIC SWAPPING",
+    "note": ""
+  },
+  {
+    "character": "⁫",
+    "decimal": "8299",
+    "hex": "206B",
+    "entity": "",
+    "description": "ACTIVATE SYMMETRIC SWAPPING",
+    "note": ""
+  },
+  {
+    "character": "⁬",
+    "decimal": "8300",
+    "hex": "206C",
+    "entity": "",
+    "description": "INHIBIT ARABIC FORM SHAPING",
+    "note": ""
+  },
+  {
+    "character": "⁭",
+    "decimal": "8301",
+    "hex": "206D",
+    "entity": "",
+    "description": "ACTIVATE ARABIC FORM SHAPING",
+    "note": ""
+  },
+  {
+    "character": "⁮",
+    "decimal": "8302",
+    "hex": "206E",
+    "entity": "",
+    "description": "NATIONAL DIGIT SHAPES",
+    "note": ""
+  },
+  {
+    "character": "⁯",
+    "decimal": "8303",
+    "hex": "206F",
+    "entity": "",
+    "description": "NOMINAL DIGIT SHAPES",
+    "note": ""
+  }
+]

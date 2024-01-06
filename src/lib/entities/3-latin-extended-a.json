@@ -1,0 +1,1026 @@
+[
+  {
+    "character": "Ā",
+    "decimal": "256",
+    "hex": "100",
+    "entity": "&Amacr;",
+    "description": "LATIN CAPITAL LETTER A WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ā",
+    "decimal": "257",
+    "hex": "101",
+    "entity": "&amacr;",
+    "description": "LATIN SMALL LETTER A WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ă",
+    "decimal": "258",
+    "hex": "102",
+    "entity": "&Abreve;",
+    "description": "LATIN CAPITAL LETTER A WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ă",
+    "decimal": "259",
+    "hex": "103",
+    "entity": "&abreve;",
+    "description": "LATIN SMALL LETTER A WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ą",
+    "decimal": "260",
+    "hex": "104",
+    "entity": "&Aogon;",
+    "description": "LATIN CAPITAL LETTER A WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "ą",
+    "decimal": "261",
+    "hex": "105",
+    "entity": "&aogon;",
+    "description": "LATIN SMALL LETTER A WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "Ć",
+    "decimal": "262",
+    "hex": "106",
+    "entity": "&Cacute;",
+    "description": "LATIN CAPITAL LETTER C WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ć",
+    "decimal": "263",
+    "hex": "107",
+    "entity": "&cacute;",
+    "description": "LATIN SMALL LETTER C WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ĉ",
+    "decimal": "264",
+    "hex": "108",
+    "entity": "&Ccirc;",
+    "description": "LATIN CAPITAL LETTER C WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ĉ",
+    "decimal": "265",
+    "hex": "109",
+    "entity": "&ccirc;",
+    "description": "LATIN SMALL LETTER C WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ċ",
+    "decimal": "266",
+    "hex": "010A",
+    "entity": "&Cdot;",
+    "description": "LATIN CAPITAL LETTER C WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ċ",
+    "decimal": "267",
+    "hex": "010B",
+    "entity": "&cdot;",
+    "description": "LATIN SMALL LETTER C WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "Č",
+    "decimal": "268",
+    "hex": "010C",
+    "entity": "&Ccaron;",
+    "description": "LATIN CAPITAL LETTER C WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "č",
+    "decimal": "269",
+    "hex": "010D",
+    "entity": "&ccaron;",
+    "description": "LATIN SMALL LETTER C WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ď",
+    "decimal": "270",
+    "hex": "010E",
+    "entity": "&Dcaron;",
+    "description": "LATIN CAPITAL LETTER D WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ď",
+    "decimal": "271",
+    "hex": "010F",
+    "entity": "&dcaron;",
+    "description": "LATIN SMALL LETTER D WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Đ",
+    "decimal": "272",
+    "hex": "110",
+    "entity": "&Dstrok;",
+    "description": "LATIN CAPITAL LETTER D WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "đ",
+    "decimal": "273",
+    "hex": "111",
+    "entity": "&dstrok;",
+    "description": "LATIN SMALL LETTER D WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ē",
+    "decimal": "274",
+    "hex": "112",
+    "entity": "&Emacr;",
+    "description": "LATIN CAPITAL LETTER E WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ē",
+    "decimal": "275",
+    "hex": "113",
+    "entity": "&emacr;",
+    "description": "LATIN SMALL LETTER E WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ĕ",
+    "decimal": "276",
+    "hex": "114",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER E WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ĕ",
+    "decimal": "277",
+    "hex": "115",
+    "entity": "",
+    "description": "LATIN SMALL LETTER E WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ė",
+    "decimal": "278",
+    "hex": "116",
+    "entity": "&Edot;",
+    "description": "LATIN CAPITAL LETTER E WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ė",
+    "decimal": "279",
+    "hex": "117",
+    "entity": "&edot;",
+    "description": "LATIN SMALL LETTER E WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "Ę",
+    "decimal": "280",
+    "hex": "118",
+    "entity": "&Eogon;",
+    "description": "LATIN CAPITAL LETTER E WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "ę",
+    "decimal": "281",
+    "hex": "119",
+    "entity": "&eogon;",
+    "description": "LATIN SMALL LETTER E WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "Ě",
+    "decimal": "282",
+    "hex": "011A",
+    "entity": "&Ecaron;",
+    "description": "LATIN CAPITAL LETTER E WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ě",
+    "decimal": "283",
+    "hex": "011B",
+    "entity": "&ecaron;",
+    "description": "LATIN SMALL LETTER E WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ĝ",
+    "decimal": "284",
+    "hex": "011C",
+    "entity": "&Gcirc;",
+    "description": "LATIN CAPITAL LETTER G WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ĝ",
+    "decimal": "285",
+    "hex": "011D",
+    "entity": "&gcirc;",
+    "description": "LATIN SMALL LETTER G WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ğ",
+    "decimal": "286",
+    "hex": "011E",
+    "entity": "&Gbreve;",
+    "description": "LATIN CAPITAL LETTER G WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ğ",
+    "decimal": "287",
+    "hex": "011F",
+    "entity": "&gbreve;",
+    "description": "LATIN SMALL LETTER G WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ġ",
+    "decimal": "288",
+    "hex": "120",
+    "entity": "&Gdot;",
+    "description": "LATIN CAPITAL LETTER G WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ġ",
+    "decimal": "289",
+    "hex": "121",
+    "entity": "&gdot;",
+    "description": "LATIN SMALL LETTER G WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "Ģ",
+    "decimal": "290",
+    "hex": "122",
+    "entity": "&Gcedil;",
+    "description": "LATIN CAPITAL LETTER G WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ģ",
+    "decimal": "291",
+    "hex": "123",
+    "entity": "&gcedil;",
+    "description": "LATIN SMALL LETTER G WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "Ĥ",
+    "decimal": "292",
+    "hex": "124",
+    "entity": "&Hcirc;",
+    "description": "LATIN CAPITAL LETTER H WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ĥ",
+    "decimal": "293",
+    "hex": "125",
+    "entity": "&hcirc;",
+    "description": "LATIN SMALL LETTER H WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ħ",
+    "decimal": "294",
+    "hex": "126",
+    "entity": "&Hstrok;",
+    "description": "LATIN CAPITAL LETTER H WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ħ",
+    "decimal": "295",
+    "hex": "127",
+    "entity": "&hstrok;",
+    "description": "LATIN SMALL LETTER H WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ĩ",
+    "decimal": "296",
+    "hex": "128",
+    "entity": "&Itilde;",
+    "description": "LATIN CAPITAL LETTER I WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "ĩ",
+    "decimal": "297",
+    "hex": "129",
+    "entity": "&itilde;",
+    "description": "LATIN SMALL LETTER I WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "Ī",
+    "decimal": "298",
+    "hex": "012A",
+    "entity": "&Imacr;",
+    "description": "LATIN CAPITAL LETTER I WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ī",
+    "decimal": "299",
+    "hex": "012B",
+    "entity": "&imacr;",
+    "description": "LATIN SMALL LETTER I WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ĭ",
+    "decimal": "300",
+    "hex": "012C",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER I WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ĭ",
+    "decimal": "301",
+    "hex": "012D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER I WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Į",
+    "decimal": "302",
+    "hex": "012E",
+    "entity": "&Iogon;",
+    "description": "LATIN CAPITAL LETTER I WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "į",
+    "decimal": "303",
+    "hex": "012F",
+    "entity": "&iogon;",
+    "description": "LATIN SMALL LETTER I WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "İ",
+    "decimal": "304",
+    "hex": "130",
+    "entity": "&Idot;",
+    "description": "LATIN CAPITAL LETTER I WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ı",
+    "decimal": "305",
+    "hex": "131",
+    "entity": "&inodot;",
+    "description": "LATIN SMALL LETTER DOTLESS I",
+    "note": ""
+  },
+  {
+    "character": "Ĳ",
+    "decimal": "306",
+    "hex": "132",
+    "entity": "&IJlog;",
+    "description": "LATIN CAPITAL LIGATURE IJ",
+    "note": ""
+  },
+  {
+    "character": "ĳ",
+    "decimal": "307",
+    "hex": "133",
+    "entity": "&ijlig;",
+    "description": "LATIN SMALL LIGATURE IJ",
+    "note": ""
+  },
+  {
+    "character": "Ĵ",
+    "decimal": "308",
+    "hex": "134",
+    "entity": "&Jcirc;",
+    "description": "LATIN CAPITAL LETTER J WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ĵ",
+    "decimal": "309",
+    "hex": "135",
+    "entity": "&jcirc;",
+    "description": "LATIN SMALL LETTER J WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ķ",
+    "decimal": "310",
+    "hex": "136",
+    "entity": "&Kcedil;",
+    "description": "LATIN CAPITAL LETTER K WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ķ",
+    "decimal": "311",
+    "hex": "137",
+    "entity": "&kcedli;",
+    "description": "LATIN SMALL LETTER K WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ĸ",
+    "decimal": "312",
+    "hex": "138",
+    "entity": "&kgreen;",
+    "description": "LATIN SMALL LETTER KRA",
+    "note": ""
+  },
+  {
+    "character": "Ĺ",
+    "decimal": "313",
+    "hex": "139",
+    "entity": "&Lacute;",
+    "description": "LATIN CAPITAL LETTER L WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ĺ",
+    "decimal": "314",
+    "hex": "013A",
+    "entity": "&lacute;",
+    "description": "LATIN SMALL LETTER L WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ļ",
+    "decimal": "315",
+    "hex": "013B",
+    "entity": "&Lcedil;",
+    "description": "LATIN CAPITAL LETTER L WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ļ",
+    "decimal": "316",
+    "hex": "013C",
+    "entity": "&lcedil;",
+    "description": "LATIN SMALL LETTER L WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "Ľ",
+    "decimal": "317",
+    "hex": "013D",
+    "entity": "&Lcaron;",
+    "description": "LATIN CAPITAL LETTER L WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ľ",
+    "decimal": "318",
+    "hex": "013E",
+    "entity": "&lcaron;",
+    "description": "LATIN SMALL LETTER L WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ŀ",
+    "decimal": "319",
+    "hex": "013F",
+    "entity": "&Lmodot;",
+    "description": "LATIN CAPITAL LETTER L WITH MIDDLE DOT",
+    "note": ""
+  },
+  {
+    "character": "ŀ",
+    "decimal": "320",
+    "hex": "140",
+    "entity": "&lmidot;",
+    "description": "LATIN SMALL LETTER L WITH MIDDLE DOT",
+    "note": ""
+  },
+  {
+    "character": "Ł",
+    "decimal": "321",
+    "hex": "141",
+    "entity": "&Lstrok;",
+    "description": "LATIN CAPITAL LETTER L WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ł",
+    "decimal": "322",
+    "hex": "142",
+    "entity": "&lstrok;",
+    "description": "LATIN SMALL LETTER L WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ń",
+    "decimal": "323",
+    "hex": "143",
+    "entity": "&Nacute;",
+    "description": "LATIN CAPITAL LETTER N WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ń",
+    "decimal": "324",
+    "hex": "144",
+    "entity": "&nacute;",
+    "description": "LATIN SMALL LETTER N WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ņ",
+    "decimal": "325",
+    "hex": "145",
+    "entity": "&Ncedil;",
+    "description": "LATIN CAPITAL LETTER N WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ņ",
+    "decimal": "326",
+    "hex": "146",
+    "entity": "&ncedil;",
+    "description": "LATIN SMALL LETTER N WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "Ň",
+    "decimal": "327",
+    "hex": "147",
+    "entity": "&Ncaron;",
+    "description": "LATIN CAPITAL LETTER N WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ň",
+    "decimal": "328",
+    "hex": "148",
+    "entity": "&ncaron;",
+    "description": "LATIN SMALL LETTER N WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ŉ",
+    "decimal": "329",
+    "hex": "149",
+    "entity": "&napos;",
+    "description": "LATIN SMALL LETTER N PRECEDED BY APOSTROPHE",
+    "note": ""
+  },
+  {
+    "character": "Ŋ",
+    "decimal": "330",
+    "hex": "014A",
+    "entity": "&ENG;",
+    "description": "LATIN CAPITAL LETTER ENG",
+    "note": ""
+  },
+  {
+    "character": "ŋ",
+    "decimal": "331",
+    "hex": "014B",
+    "entity": "&eng;",
+    "description": "LATIN SMALL LETTER ENG",
+    "note": ""
+  },
+  {
+    "character": "Ō",
+    "decimal": "332",
+    "hex": "014C",
+    "entity": "&Omacr;",
+    "description": "LATIN CAPITAL LETTER O WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ō",
+    "decimal": "333",
+    "hex": "014D",
+    "entity": "&omacr;",
+    "description": "LATIN SMALL LETTER O WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ŏ",
+    "decimal": "334",
+    "hex": "014E",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ŏ",
+    "decimal": "335",
+    "hex": "014F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ő",
+    "decimal": "336",
+    "hex": "150",
+    "entity": "&Odblac;",
+    "description": "LATIN CAPITAL LETTER O WITH DOUBLE ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ő",
+    "decimal": "337",
+    "hex": "151",
+    "entity": "&odblac;",
+    "description": "LATIN SMALL LETTER O WITH DOUBLE ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Œ",
+    "decimal": "338",
+    "hex": "152",
+    "entity": "&OElig;",
+    "description": "LATIN CAPITAL LIGATURE OE",
+    "note": ""
+  },
+  {
+    "character": "œ",
+    "decimal": "339",
+    "hex": "153",
+    "entity": "&oelig;",
+    "description": "LATIN SMALL LIGATURE OE",
+    "note": ""
+  },
+  {
+    "character": "Ŕ",
+    "decimal": "340",
+    "hex": "154",
+    "entity": "&Racute;",
+    "description": "LATIN CAPITAL LETTER R WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ŕ",
+    "decimal": "341",
+    "hex": "155",
+    "entity": "&racute;",
+    "description": "LATIN SMALL LETTER R WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ŗ",
+    "decimal": "342",
+    "hex": "156",
+    "entity": "&Rcedil;",
+    "description": "LATIN CAPITAL LETTER R WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ŗ",
+    "decimal": "343",
+    "hex": "157",
+    "entity": "&rcedil;",
+    "description": "LATIN SMALL LETTER R WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "Ř",
+    "decimal": "344",
+    "hex": "158",
+    "entity": "&Rcaron;",
+    "description": "LATIN CAPITAL LETTER R WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ř",
+    "decimal": "345",
+    "hex": "159",
+    "entity": "&rcaron;",
+    "description": "LATIN SMALL LETTER R WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ś",
+    "decimal": "346",
+    "hex": "015A",
+    "entity": "&Sacute;",
+    "description": "LATIN CAPITAL LETTER S WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ś",
+    "decimal": "347",
+    "hex": "015B",
+    "entity": "&sacute;",
+    "description": "LATIN SMALL LETTER S WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ŝ",
+    "decimal": "348",
+    "hex": "015C",
+    "entity": "&Scirc;",
+    "description": "LATIN CAPITAL LETTER S WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ŝ",
+    "decimal": "349",
+    "hex": "015D",
+    "entity": "&scirc;",
+    "description": "LATIN SMALL LETTER S WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ş",
+    "decimal": "350",
+    "hex": "015E",
+    "entity": "&Scedil;",
+    "description": "LATIN CAPITAL LETTER S WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ş",
+    "decimal": "351",
+    "hex": "015F",
+    "entity": "&scedil;",
+    "description": "LATIN SMALL LETTER S WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "Š",
+    "decimal": "352",
+    "hex": "160",
+    "entity": "&Scaron;",
+    "description": "LATIN CAPITAL LETTER S WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "š",
+    "decimal": "353",
+    "hex": "161",
+    "entity": "&scaron;",
+    "description": "LATIN SMALL LETTER S WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ţ",
+    "decimal": "354",
+    "hex": "162",
+    "entity": "&Tcedil;",
+    "description": "LATIN CAPITAL LETTER T WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ţ",
+    "decimal": "355",
+    "hex": "163",
+    "entity": "&tcedil;",
+    "description": "LATIN SMALL LETTER T WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "Ť",
+    "decimal": "356",
+    "hex": "164",
+    "entity": "&Tcaron;",
+    "description": "LATIN CAPITAL LETTER T WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ť",
+    "decimal": "357",
+    "hex": "165",
+    "entity": "&tcaron;",
+    "description": "LATIN SMALL LETTER T WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ŧ",
+    "decimal": "358",
+    "hex": "166",
+    "entity": "&Tstrok;",
+    "description": "LATIN CAPITAL LETTER T WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ŧ",
+    "decimal": "359",
+    "hex": "167",
+    "entity": "&tstrok;",
+    "description": "LATIN SMALL LETTER T WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ũ",
+    "decimal": "360",
+    "hex": "168",
+    "entity": "&Utilde;",
+    "description": "LATIN CAPITAL LETTER U WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "ũ",
+    "decimal": "361",
+    "hex": "169",
+    "entity": "&utilde;",
+    "description": "LATIN SMALL LETTER U WITH TILDE",
+    "note": ""
+  },
+  {
+    "character": "Ū",
+    "decimal": "362",
+    "hex": "016A",
+    "entity": "&Umacr;",
+    "description": "LATIN CAPITAL LETTER U WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ū",
+    "decimal": "363",
+    "hex": "016B",
+    "entity": "&umacr;",
+    "description": "LATIN SMALL LETTER U WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ŭ",
+    "decimal": "364",
+    "hex": "016C",
+    "entity": "&Ubreve;",
+    "description": "LATIN CAPITAL LETTER U WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "ŭ",
+    "decimal": "365",
+    "hex": "016D",
+    "entity": "&ubreve;",
+    "description": "LATIN SMALL LETTER U WITH BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ů",
+    "decimal": "366",
+    "hex": "016E",
+    "entity": "&Uring;",
+    "description": "LATIN CAPITAL LETTER U WITH RING ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ů",
+    "decimal": "367",
+    "hex": "016F",
+    "entity": "&uring;",
+    "description": "LATIN SMALL LETTER U WITH RING ABOVE",
+    "note": ""
+  },
+  {
+    "character": "Ű",
+    "decimal": "368",
+    "hex": "170",
+    "entity": "&Udblac;",
+    "description": "LATIN CAPITAL LETTER U WITH DOUBLE ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ű",
+    "decimal": "369",
+    "hex": "171",
+    "entity": "&udblac;",
+    "description": "LATIN SMALL LETTER U WITH DOUBLE ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ų",
+    "decimal": "370",
+    "hex": "172",
+    "entity": "&Uogon;",
+    "description": "LATIN CAPITAL LETTER U WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "ų",
+    "decimal": "371",
+    "hex": "173",
+    "entity": "&uogon;",
+    "description": "LATIN SMALL LETTER U WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "Ŵ",
+    "decimal": "372",
+    "hex": "174",
+    "entity": "&Wcirc;",
+    "description": "LATIN CAPITAL LETTER W WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ŵ",
+    "decimal": "373",
+    "hex": "175",
+    "entity": "&wcirc;",
+    "description": "LATIN SMALL LETTER W WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ŷ",
+    "decimal": "374",
+    "hex": "176",
+    "entity": "&Ycirc;",
+    "description": "LATIN CAPITAL LETTER Y WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "ŷ",
+    "decimal": "375",
+    "hex": "177",
+    "entity": "&ycirc;",
+    "description": "LATIN SMALL LETTER Y WITH CIRCUMFLEX",
+    "note": ""
+  },
+  {
+    "character": "Ÿ",
+    "decimal": "376",
+    "hex": "178",
+    "entity": "&Yuml;",
+    "description": "LATIN CAPITAL LETTER Y WITH DIAERESIS",
+    "note": ""
+  },
+  {
+    "character": "Ź",
+    "decimal": "377",
+    "hex": "179",
+    "entity": "&Zacute;",
+    "description": "LATIN CAPITAL LETTER Z WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ź",
+    "decimal": "378",
+    "hex": "017A",
+    "entity": "&zacute;",
+    "description": "LATIN SMALL LETTER Z WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ż",
+    "decimal": "379",
+    "hex": "017B",
+    "entity": "&Zdot;",
+    "description": "LATIN CAPITAL LETTER Z WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ż",
+    "decimal": "380",
+    "hex": "017C",
+    "entity": "&zdot;",
+    "description": "LATIN SMALL LETTER Z WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "Ž",
+    "decimal": "381",
+    "hex": "017D",
+    "entity": "&Zcaron;",
+    "description": "LATIN CAPITAL LETTER Z WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ž",
+    "decimal": "382",
+    "hex": "017E",
+    "entity": "&zcaron;",
+    "description": "LATIN SMALL LETTER Z WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ſ",
+    "decimal": "383",
+    "hex": "017F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER LONG S",
+    "note": ""
+  }
+]

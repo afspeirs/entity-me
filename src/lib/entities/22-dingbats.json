@@ -1,0 +1,1578 @@
+[
+  {
+    "character": "✀",
+    "decimal": "9984",
+    "hex": "2700",
+    "entity": "",
+    "description": "BLACK SAFETY SCISSORS",
+    "note": ""
+  },
+  {
+    "character": "✁",
+    "decimal": "9985",
+    "hex": "2701",
+    "entity": "",
+    "description": "UPPER BLADE SCISSORS",
+    "note": ""
+  },
+  {
+    "character": "✂",
+    "decimal": "9986",
+    "hex": "2702",
+    "entity": "",
+    "description": "BLACK SCISSORS",
+    "note": ""
+  },
+  {
+    "character": "✃",
+    "decimal": "9987",
+    "hex": "2703",
+    "entity": "",
+    "description": "LOWER BLADE SCISSORS",
+    "note": ""
+  },
+  {
+    "character": "✄",
+    "decimal": "9988",
+    "hex": "2704",
+    "entity": "",
+    "description": "WHITE SCISSORS",
+    "note": ""
+  },
+  {
+    "character": "✅",
+    "decimal": "9989",
+    "hex": "2705",
+    "entity": "",
+    "description": "WHITE HEAVY CHECK MARK",
+    "note": ""
+  },
+  {
+    "character": "✆",
+    "decimal": "9990",
+    "hex": "2706",
+    "entity": "",
+    "description": "TELEPHONE LOCATION SIGN",
+    "note": ""
+  },
+  {
+    "character": "✇",
+    "decimal": "9991",
+    "hex": "2707",
+    "entity": "",
+    "description": "TAPE DRIVE",
+    "note": ""
+  },
+  {
+    "character": "✈",
+    "decimal": "9992",
+    "hex": "2708",
+    "entity": "",
+    "description": "AIRPLANE",
+    "note": ""
+  },
+  {
+    "character": "✉",
+    "decimal": "9993",
+    "hex": "2709",
+    "entity": "",
+    "description": "ENVELOPE",
+    "note": ""
+  },
+  {
+    "character": "✊",
+    "decimal": "9994",
+    "hex": "270A",
+    "entity": "",
+    "description": "RAISED FIST",
+    "note": ""
+  },
+  {
+    "character": "✋",
+    "decimal": "9995",
+    "hex": "270B",
+    "entity": "",
+    "description": "RAISED HAND",
+    "note": ""
+  },
+  {
+    "character": "✌",
+    "decimal": "9996",
+    "hex": "270C",
+    "entity": "",
+    "description": "VICTORY HAND",
+    "note": ""
+  },
+  {
+    "character": "✍",
+    "decimal": "9997",
+    "hex": "270D",
+    "entity": "",
+    "description": "WRITING HAND",
+    "note": ""
+  },
+  {
+    "character": "✎",
+    "decimal": "9998",
+    "hex": "270E",
+    "entity": "",
+    "description": "LOWER RIGHT PENCIL",
+    "note": ""
+  },
+  {
+    "character": "✏",
+    "decimal": "9999",
+    "hex": "270F",
+    "entity": "",
+    "description": "PENCIL",
+    "note": ""
+  },
+  {
+    "character": "✐",
+    "decimal": "10000",
+    "hex": "2710",
+    "entity": "",
+    "description": "UPPER RIGHT PENCIL",
+    "note": ""
+  },
+  {
+    "character": "✑",
+    "decimal": "10001",
+    "hex": "2711",
+    "entity": "",
+    "description": "WHITE NIB",
+    "note": ""
+  },
+  {
+    "character": "✒",
+    "decimal": "10002",
+    "hex": "2712",
+    "entity": "",
+    "description": "BLACK NIB",
+    "note": ""
+  },
+  {
+    "character": "✓",
+    "decimal": "10003",
+    "hex": "2713",
+    "entity": "",
+    "description": "CHECK MARK",
+    "note": ""
+  },
+  {
+    "character": "✔",
+    "decimal": "10004",
+    "hex": "2714",
+    "entity": "",
+    "description": "HEAVY CHECK MARK",
+    "note": ""
+  },
+  {
+    "character": "✕",
+    "decimal": "10005",
+    "hex": "2715",
+    "entity": "",
+    "description": "MULTIPLICATION X",
+    "note": ""
+  },
+  {
+    "character": "✖",
+    "decimal": "10006",
+    "hex": "2716",
+    "entity": "",
+    "description": "HEAVY MULTIPLICATION X",
+    "note": ""
+  },
+  {
+    "character": "✗",
+    "decimal": "10007",
+    "hex": "2717",
+    "entity": "",
+    "description": "BALLOT X",
+    "note": ""
+  },
+  {
+    "character": "✘",
+    "decimal": "10008",
+    "hex": "2718",
+    "entity": "",
+    "description": "HEAVY BALLOT X",
+    "note": ""
+  },
+  {
+    "character": "✙",
+    "decimal": "10009",
+    "hex": "2719",
+    "entity": "",
+    "description": "OUTLINED GREEK CROSS",
+    "note": ""
+  },
+  {
+    "character": "✚",
+    "decimal": "10010",
+    "hex": "271A",
+    "entity": "",
+    "description": "HEAVY GREEK CROSS",
+    "note": ""
+  },
+  {
+    "character": "✛",
+    "decimal": "10011",
+    "hex": "271B",
+    "entity": "",
+    "description": "OPEN CENTRE CROSS",
+    "note": ""
+  },
+  {
+    "character": "✜",
+    "decimal": "10012",
+    "hex": "271C",
+    "entity": "",
+    "description": "HEAVY OPEN CENTRE CROSS",
+    "note": ""
+  },
+  {
+    "character": "✝",
+    "decimal": "10013",
+    "hex": "271D",
+    "entity": "",
+    "description": "LATIN CROSS",
+    "note": ""
+  },
+  {
+    "character": "✞",
+    "decimal": "10014",
+    "hex": "271E",
+    "entity": "",
+    "description": "SHADOWED WHITE LATIN CROSS",
+    "note": ""
+  },
+  {
+    "character": "✟",
+    "decimal": "10015",
+    "hex": "271F",
+    "entity": "",
+    "description": "OUTLINED LATIN CROSS",
+    "note": ""
+  },
+  {
+    "character": "✠",
+    "decimal": "10016",
+    "hex": "2720",
+    "entity": "",
+    "description": "MALTESE CROSS",
+    "note": ""
+  },
+  {
+    "character": "✡",
+    "decimal": "10017",
+    "hex": "2721",
+    "entity": "",
+    "description": "STAR OF DAVID",
+    "note": ""
+  },
+  {
+    "character": "✢",
+    "decimal": "10018",
+    "hex": "2722",
+    "entity": "",
+    "description": "FOUR TEARDROP-SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✣",
+    "decimal": "10019",
+    "hex": "2723",
+    "entity": "",
+    "description": "FOUR BALLOON-SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✤",
+    "decimal": "10020",
+    "hex": "2724",
+    "entity": "",
+    "description": "HEAVY FOUR BALLOON-SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✥",
+    "decimal": "10021",
+    "hex": "2725",
+    "entity": "",
+    "description": "FOUR CLUB-SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✦",
+    "decimal": "10022",
+    "hex": "2726",
+    "entity": "",
+    "description": "BLACK FOUR POINTED STAR",
+    "note": ""
+  },
+  {
+    "character": "✧",
+    "decimal": "10023",
+    "hex": "2727",
+    "entity": "",
+    "description": "WHITE FOUR POINTED STAR",
+    "note": ""
+  },
+  {
+    "character": "✨",
+    "decimal": "10024",
+    "hex": "2728",
+    "entity": "",
+    "description": "SPARKLES",
+    "note": ""
+  },
+  {
+    "character": "✩",
+    "decimal": "10025",
+    "hex": "2729",
+    "entity": "",
+    "description": "STRESS OUTLINED WHITE STAR",
+    "note": ""
+  },
+  {
+    "character": "✪",
+    "decimal": "10026",
+    "hex": "272A",
+    "entity": "",
+    "description": "CIRCLED WHITE STAR",
+    "note": ""
+  },
+  {
+    "character": "✫",
+    "decimal": "10027",
+    "hex": "272B",
+    "entity": "",
+    "description": "OPEN CENTRE BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "✬",
+    "decimal": "10028",
+    "hex": "272C",
+    "entity": "",
+    "description": "BLACK CENTRE WHITE STAR",
+    "note": ""
+  },
+  {
+    "character": "✭",
+    "decimal": "10029",
+    "hex": "272D",
+    "entity": "",
+    "description": "OUTLINED BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "✮",
+    "decimal": "10030",
+    "hex": "272E",
+    "entity": "",
+    "description": "HEAVY OUTLINED BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "✯",
+    "decimal": "10031",
+    "hex": "272F",
+    "entity": "",
+    "description": "PINWHEEL STAR",
+    "note": ""
+  },
+  {
+    "character": "✰",
+    "decimal": "10032",
+    "hex": "2730",
+    "entity": "",
+    "description": "SHADOWED WHITE STAR",
+    "note": ""
+  },
+  {
+    "character": "✱",
+    "decimal": "10033",
+    "hex": "2731",
+    "entity": "",
+    "description": "HEAVY ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✲",
+    "decimal": "10034",
+    "hex": "2732",
+    "entity": "",
+    "description": "OPEN CENTRE ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✳",
+    "decimal": "10035",
+    "hex": "2733",
+    "entity": "",
+    "description": "EIGHT SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✴",
+    "decimal": "10036",
+    "hex": "2734",
+    "entity": "",
+    "description": "EIGHT POINTED BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "✵",
+    "decimal": "10037",
+    "hex": "2735",
+    "entity": "",
+    "description": "EIGHT POINTED PINWHEEL STAR",
+    "note": ""
+  },
+  {
+    "character": "✶",
+    "decimal": "10038",
+    "hex": "2736",
+    "entity": "",
+    "description": "SIX POINTED BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "✷",
+    "decimal": "10039",
+    "hex": "2737",
+    "entity": "",
+    "description": "EIGHT POINTED RECTILINEAR BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "✸",
+    "decimal": "10040",
+    "hex": "2738",
+    "entity": "",
+    "description": "HEAVY EIGHT POINTED RECTILINEAR BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "✹",
+    "decimal": "10041",
+    "hex": "2739",
+    "entity": "",
+    "description": "TWELVE POINTED BLACK STAR",
+    "note": ""
+  },
+  {
+    "character": "✺",
+    "decimal": "10042",
+    "hex": "273A",
+    "entity": "",
+    "description": "SIXTEEN POINTED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✻",
+    "decimal": "10043",
+    "hex": "273B",
+    "entity": "",
+    "description": "TEARDROP-SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✼",
+    "decimal": "10044",
+    "hex": "273C",
+    "entity": "",
+    "description": "OPEN CENTRE TEARDROP-SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✽",
+    "decimal": "10045",
+    "hex": "273D",
+    "entity": "",
+    "description": "HEAVY TEARDROP-SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "✾",
+    "decimal": "10046",
+    "hex": "273E",
+    "entity": "",
+    "description": "SIX PETALLED BLACK AND WHITE FLORETTE",
+    "note": ""
+  },
+  {
+    "character": "✿",
+    "decimal": "10047",
+    "hex": "273F",
+    "entity": "",
+    "description": "BLACK FLORETTE",
+    "note": ""
+  },
+  {
+    "character": "❀",
+    "decimal": "10048",
+    "hex": "2740",
+    "entity": "",
+    "description": "WHITE FLORETTE",
+    "note": ""
+  },
+  {
+    "character": "❁",
+    "decimal": "10049",
+    "hex": "2741",
+    "entity": "",
+    "description": "EIGHT PETALLED OUTLINED BLACK FLORETTE",
+    "note": ""
+  },
+  {
+    "character": "❂",
+    "decimal": "10050",
+    "hex": "2742",
+    "entity": "",
+    "description": "CIRCLED OPEN CENTRE EIGHT POINTED STAR",
+    "note": ""
+  },
+  {
+    "character": "❃",
+    "decimal": "10051",
+    "hex": "2743",
+    "entity": "",
+    "description": "HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "❄",
+    "decimal": "10052",
+    "hex": "2744",
+    "entity": "",
+    "description": "SNOWFLAKE",
+    "note": ""
+  },
+  {
+    "character": "❅",
+    "decimal": "10053",
+    "hex": "2745",
+    "entity": "",
+    "description": "TIGHT TRIFOLIATE SNOWFLAKE",
+    "note": ""
+  },
+  {
+    "character": "❆",
+    "decimal": "10054",
+    "hex": "2746",
+    "entity": "",
+    "description": "HEAVY CHEVRON SNOWFLAKE",
+    "note": ""
+  },
+  {
+    "character": "❇",
+    "decimal": "10055",
+    "hex": "2747",
+    "entity": "",
+    "description": "SPARKLE",
+    "note": ""
+  },
+  {
+    "character": "❈",
+    "decimal": "10056",
+    "hex": "2748",
+    "entity": "",
+    "description": "HEAVY SPARKLE",
+    "note": ""
+  },
+  {
+    "character": "❉",
+    "decimal": "10057",
+    "hex": "2749",
+    "entity": "",
+    "description": "BALLOON-SPOKED ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "❊",
+    "decimal": "10058",
+    "hex": "274A",
+    "entity": "",
+    "description": "EIGHT TEARDROP-SPOKED PROPELLER ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "❋",
+    "decimal": "10059",
+    "hex": "274B",
+    "entity": "",
+    "description": "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK",
+    "note": ""
+  },
+  {
+    "character": "❌",
+    "decimal": "10060",
+    "hex": "274C",
+    "entity": "",
+    "description": "CROSS MARK",
+    "note": ""
+  },
+  {
+    "character": "❍",
+    "decimal": "10061",
+    "hex": "274D",
+    "entity": "",
+    "description": "SHADOWED WHITE CIRCLE",
+    "note": ""
+  },
+  {
+    "character": "❎",
+    "decimal": "10062",
+    "hex": "274E",
+    "entity": "",
+    "description": "NEGATIVE SQUARED CROSS MARK",
+    "note": ""
+  },
+  {
+    "character": "❏",
+    "decimal": "10063",
+    "hex": "274F",
+    "entity": "",
+    "description": "LOWER RIGHT DROP-SHADOWED WHITE SQUARE",
+    "note": ""
+  },
+  {
+    "character": "❐",
+    "decimal": "10064",
+    "hex": "2750",
+    "entity": "",
+    "description": "UPPER RIGHT DROP-SHADOWED WHITE SQUARE",
+    "note": ""
+  },
+  {
+    "character": "❑",
+    "decimal": "10065",
+    "hex": "2751",
+    "entity": "",
+    "description": "LOWER RIGHT SHADOWED WHITE SQUARE",
+    "note": ""
+  },
+  {
+    "character": "❒",
+    "decimal": "10066",
+    "hex": "2752",
+    "entity": "",
+    "description": "UPPER RIGHT SHADOWED WHITE SQUARE",
+    "note": ""
+  },
+  {
+    "character": "❓",
+    "decimal": "10067",
+    "hex": "2753",
+    "entity": "",
+    "description": "BLACK QUESTION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❔",
+    "decimal": "10068",
+    "hex": "2754",
+    "entity": "",
+    "description": "WHITE QUESTION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❕",
+    "decimal": "10069",
+    "hex": "2755",
+    "entity": "",
+    "description": "WHITE EXCLAMATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❖",
+    "decimal": "10070",
+    "hex": "2756",
+    "entity": "",
+    "description": "BLACK DIAMOND MINUS WHITE X",
+    "note": ""
+  },
+  {
+    "character": "❗",
+    "decimal": "10071",
+    "hex": "2757",
+    "entity": "",
+    "description": "HEAVY EXCLAMATION MARK SYMBOL",
+    "note": ""
+  },
+  {
+    "character": "❘",
+    "decimal": "10072",
+    "hex": "2758",
+    "entity": "",
+    "description": "LIGHT VERTICAL BAR",
+    "note": ""
+  },
+  {
+    "character": "❙",
+    "decimal": "10073",
+    "hex": "2759",
+    "entity": "",
+    "description": "MEDIUM VERTICAL BAR",
+    "note": ""
+  },
+  {
+    "character": "❚",
+    "decimal": "10074",
+    "hex": "275A",
+    "entity": "",
+    "description": "HEAVY VERTICAL BAR",
+    "note": ""
+  },
+  {
+    "character": "❛",
+    "decimal": "10075",
+    "hex": "275B",
+    "entity": "",
+    "description": "HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❜",
+    "decimal": "10076",
+    "hex": "275C",
+    "entity": "",
+    "description": "HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❝",
+    "decimal": "10077",
+    "hex": "275D",
+    "entity": "",
+    "description": "HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❞",
+    "decimal": "10078",
+    "hex": "275E",
+    "entity": "",
+    "description": "HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❟",
+    "decimal": "10079",
+    "hex": "275F",
+    "entity": "",
+    "description": "HEAVY LOW SINGLE COMMA QUOTATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❠",
+    "decimal": "10080",
+    "hex": "2760",
+    "entity": "",
+    "description": "HEAVY LOW DOUBLE COMMA QUOTATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❡",
+    "decimal": "10081",
+    "hex": "2761",
+    "entity": "",
+    "description": "CURVED STEM PARAGRAPH SIGN ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❢",
+    "decimal": "10082",
+    "hex": "2762",
+    "entity": "",
+    "description": "HEAVY EXCLAMATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❣",
+    "decimal": "10083",
+    "hex": "2763",
+    "entity": "",
+    "description": "HEAVY HEART EXCLAMATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❤",
+    "decimal": "10084",
+    "hex": "2764",
+    "entity": "",
+    "description": "HEAVY BLACK HEART",
+    "note": ""
+  },
+  {
+    "character": "❥",
+    "decimal": "10085",
+    "hex": "2765",
+    "entity": "",
+    "description": "ROTATED HEAVY BLACK HEART BULLET",
+    "note": ""
+  },
+  {
+    "character": "❦",
+    "decimal": "10086",
+    "hex": "2766",
+    "entity": "",
+    "description": "FLORAL HEART",
+    "note": ""
+  },
+  {
+    "character": "❧",
+    "decimal": "10087",
+    "hex": "2767",
+    "entity": "",
+    "description": "ROTATED FLORAL HEART BULLET",
+    "note": ""
+  },
+  {
+    "character": "❨",
+    "decimal": "10088",
+    "hex": "2768",
+    "entity": "",
+    "description": "MEDIUM LEFT PARENTHESIS ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❩",
+    "decimal": "10089",
+    "hex": "2769",
+    "entity": "",
+    "description": "MEDIUM RIGHT PARENTHESIS ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❪",
+    "decimal": "10090",
+    "hex": "276A",
+    "entity": "",
+    "description": "MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❫",
+    "decimal": "10091",
+    "hex": "276B",
+    "entity": "",
+    "description": "MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❬",
+    "decimal": "10092",
+    "hex": "276C",
+    "entity": "",
+    "description": "MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❭",
+    "decimal": "10093",
+    "hex": "276D",
+    "entity": "",
+    "description": "MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❮",
+    "decimal": "10094",
+    "hex": "276E",
+    "entity": "",
+    "description": "HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❯",
+    "decimal": "10095",
+    "hex": "276F",
+    "entity": "",
+    "description": "HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❰",
+    "decimal": "10096",
+    "hex": "2770",
+    "entity": "",
+    "description": "HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❱",
+    "decimal": "10097",
+    "hex": "2771",
+    "entity": "",
+    "description": "HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❲",
+    "decimal": "10098",
+    "hex": "2772",
+    "entity": "",
+    "description": "LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❳",
+    "decimal": "10099",
+    "hex": "2773",
+    "entity": "",
+    "description": "LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❴",
+    "decimal": "10100",
+    "hex": "2774",
+    "entity": "",
+    "description": "MEDIUM LEFT CURLY BRACKET ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❵",
+    "decimal": "10101",
+    "hex": "2775",
+    "entity": "",
+    "description": "MEDIUM RIGHT CURLY BRACKET ORNAMENT",
+    "note": ""
+  },
+  {
+    "character": "❶",
+    "decimal": "10102",
+    "hex": "2776",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT ONE",
+    "note": ""
+  },
+  {
+    "character": "❷",
+    "decimal": "10103",
+    "hex": "2777",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT TWO",
+    "note": ""
+  },
+  {
+    "character": "❸",
+    "decimal": "10104",
+    "hex": "2778",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT THREE",
+    "note": ""
+  },
+  {
+    "character": "❹",
+    "decimal": "10105",
+    "hex": "2779",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT FOUR",
+    "note": ""
+  },
+  {
+    "character": "❺",
+    "decimal": "10106",
+    "hex": "277A",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT FIVE",
+    "note": ""
+  },
+  {
+    "character": "❻",
+    "decimal": "10107",
+    "hex": "277B",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT SIX",
+    "note": ""
+  },
+  {
+    "character": "❼",
+    "decimal": "10108",
+    "hex": "277C",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT SEVEN",
+    "note": ""
+  },
+  {
+    "character": "❽",
+    "decimal": "10109",
+    "hex": "277D",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT EIGHT",
+    "note": ""
+  },
+  {
+    "character": "❾",
+    "decimal": "10110",
+    "hex": "277E",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED DIGIT NINE",
+    "note": ""
+  },
+  {
+    "character": "❿",
+    "decimal": "10111",
+    "hex": "277F",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED NUMBER TEN",
+    "note": ""
+  },
+  {
+    "character": "➀",
+    "decimal": "10112",
+    "hex": "2780",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT ONE",
+    "note": ""
+  },
+  {
+    "character": "➁",
+    "decimal": "10113",
+    "hex": "2781",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT TWO",
+    "note": ""
+  },
+  {
+    "character": "➂",
+    "decimal": "10114",
+    "hex": "2782",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT THREE",
+    "note": ""
+  },
+  {
+    "character": "➃",
+    "decimal": "10115",
+    "hex": "2783",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT FOUR",
+    "note": ""
+  },
+  {
+    "character": "➄",
+    "decimal": "10116",
+    "hex": "2784",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT FIVE",
+    "note": ""
+  },
+  {
+    "character": "➅",
+    "decimal": "10117",
+    "hex": "2785",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT SIX",
+    "note": ""
+  },
+  {
+    "character": "➆",
+    "decimal": "10118",
+    "hex": "2786",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN",
+    "note": ""
+  },
+  {
+    "character": "➇",
+    "decimal": "10119",
+    "hex": "2787",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT",
+    "note": ""
+  },
+  {
+    "character": "➈",
+    "decimal": "10120",
+    "hex": "2788",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF DIGIT NINE",
+    "note": ""
+  },
+  {
+    "character": "➉",
+    "decimal": "10121",
+    "hex": "2789",
+    "entity": "",
+    "description": "DINGBAT CIRCLED SANS-SERIF NUMBER TEN",
+    "note": ""
+  },
+  {
+    "character": "➊",
+    "decimal": "10122",
+    "hex": "278A",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE",
+    "note": ""
+  },
+  {
+    "character": "➋",
+    "decimal": "10123",
+    "hex": "278B",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO",
+    "note": ""
+  },
+  {
+    "character": "➌",
+    "decimal": "10124",
+    "hex": "278C",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE",
+    "note": ""
+  },
+  {
+    "character": "➍",
+    "decimal": "10125",
+    "hex": "278D",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR",
+    "note": ""
+  },
+  {
+    "character": "➎",
+    "decimal": "10126",
+    "hex": "278E",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE",
+    "note": ""
+  },
+  {
+    "character": "➏",
+    "decimal": "10127",
+    "hex": "278F",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX",
+    "note": ""
+  },
+  {
+    "character": "➐",
+    "decimal": "10128",
+    "hex": "2790",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN",
+    "note": ""
+  },
+  {
+    "character": "➑",
+    "decimal": "10129",
+    "hex": "2791",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT",
+    "note": ""
+  },
+  {
+    "character": "➒",
+    "decimal": "10130",
+    "hex": "2792",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE",
+    "note": ""
+  },
+  {
+    "character": "➓",
+    "decimal": "10131",
+    "hex": "2793",
+    "entity": "",
+    "description": "DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN",
+    "note": ""
+  },
+  {
+    "character": "➔",
+    "decimal": "10132",
+    "hex": "2794",
+    "entity": "",
+    "description": "HEAVY WIDE-HEADED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➕",
+    "decimal": "10133",
+    "hex": "2795",
+    "entity": "",
+    "description": "HEAVY PLUS SIGN",
+    "note": ""
+  },
+  {
+    "character": "➖",
+    "decimal": "10134",
+    "hex": "2796",
+    "entity": "",
+    "description": "HEAVY MINUS SIGN",
+    "note": ""
+  },
+  {
+    "character": "➗",
+    "decimal": "10135",
+    "hex": "2797",
+    "entity": "",
+    "description": "HEAVY DIVISION SIGN",
+    "note": ""
+  },
+  {
+    "character": "➘",
+    "decimal": "10136",
+    "hex": "2798",
+    "entity": "",
+    "description": "HEAVY SOUTH EAST ARROW",
+    "note": ""
+  },
+  {
+    "character": "➙",
+    "decimal": "10137",
+    "hex": "2799",
+    "entity": "",
+    "description": "HEAVY RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➚",
+    "decimal": "10138",
+    "hex": "279A",
+    "entity": "",
+    "description": "HEAVY NORTH EAST ARROW",
+    "note": ""
+  },
+  {
+    "character": "➛",
+    "decimal": "10139",
+    "hex": "279B",
+    "entity": "",
+    "description": "DRAFTING POINT RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➜",
+    "decimal": "10140",
+    "hex": "279C",
+    "entity": "",
+    "description": "HEAVY ROUND-TIPPED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➝",
+    "decimal": "10141",
+    "hex": "279D",
+    "entity": "",
+    "description": "TRIANGLE-HEADED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➞",
+    "decimal": "10142",
+    "hex": "279E",
+    "entity": "",
+    "description": "HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➟",
+    "decimal": "10143",
+    "hex": "279F",
+    "entity": "",
+    "description": "DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➠",
+    "decimal": "10144",
+    "hex": "27A0",
+    "entity": "",
+    "description": "HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➡",
+    "decimal": "10145",
+    "hex": "27A1",
+    "entity": "",
+    "description": "BLACK RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➢",
+    "decimal": "10146",
+    "hex": "27A2",
+    "entity": "",
+    "description": "THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "➣",
+    "decimal": "10147",
+    "hex": "27A3",
+    "entity": "",
+    "description": "THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "➤",
+    "decimal": "10148",
+    "hex": "27A4",
+    "entity": "",
+    "description": "BLACK RIGHTWARDS ARROWHEAD",
+    "note": ""
+  },
+  {
+    "character": "➥",
+    "decimal": "10149",
+    "hex": "27A5",
+    "entity": "",
+    "description": "HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➦",
+    "decimal": "10150",
+    "hex": "27A6",
+    "entity": "",
+    "description": "HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➧",
+    "decimal": "10151",
+    "hex": "27A7",
+    "entity": "",
+    "description": "SQUAT BLACK RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➨",
+    "decimal": "10152",
+    "hex": "27A8",
+    "entity": "",
+    "description": "HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➩",
+    "decimal": "10153",
+    "hex": "27A9",
+    "entity": "",
+    "description": "RIGHT-SHADED WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➪",
+    "decimal": "10154",
+    "hex": "27AA",
+    "entity": "",
+    "description": "LEFT-SHADED WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➫",
+    "decimal": "10155",
+    "hex": "27AB",
+    "entity": "",
+    "description": "BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➬",
+    "decimal": "10156",
+    "hex": "27AC",
+    "entity": "",
+    "description": "FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➭",
+    "decimal": "10157",
+    "hex": "27AD",
+    "entity": "",
+    "description": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➮",
+    "decimal": "10158",
+    "hex": "27AE",
+    "entity": "",
+    "description": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➯",
+    "decimal": "10159",
+    "hex": "27AF",
+    "entity": "",
+    "description": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➰",
+    "decimal": "10160",
+    "hex": "27B0",
+    "entity": "",
+    "description": "CURLY LOOP",
+    "note": ""
+  },
+  {
+    "character": "➱",
+    "decimal": "10161",
+    "hex": "27B1",
+    "entity": "",
+    "description": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➲",
+    "decimal": "10162",
+    "hex": "27B2",
+    "entity": "",
+    "description": "CIRCLED HEAVY WHITE RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➳",
+    "decimal": "10163",
+    "hex": "27B3",
+    "entity": "",
+    "description": "WHITE-FEATHERED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➴",
+    "decimal": "10164",
+    "hex": "27B4",
+    "entity": "",
+    "description": "BLACK-FEATHERED SOUTH EAST ARROW",
+    "note": ""
+  },
+  {
+    "character": "➵",
+    "decimal": "10165",
+    "hex": "27B5",
+    "entity": "",
+    "description": "BLACK-FEATHERED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➶",
+    "decimal": "10166",
+    "hex": "27B6",
+    "entity": "",
+    "description": "BLACK-FEATHERED NORTH EAST ARROW",
+    "note": ""
+  },
+  {
+    "character": "➷",
+    "decimal": "10167",
+    "hex": "27B7",
+    "entity": "",
+    "description": "HEAVY BLACK-FEATHERED SOUTH EAST ARROW",
+    "note": ""
+  },
+  {
+    "character": "➸",
+    "decimal": "10168",
+    "hex": "27B8",
+    "entity": "",
+    "description": "HEAVY BLACK-FEATHERED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➹",
+    "decimal": "10169",
+    "hex": "27B9",
+    "entity": "",
+    "description": "HEAVY BLACK-FEATHERED NORTH EAST ARROW",
+    "note": ""
+  },
+  {
+    "character": "➺",
+    "decimal": "10170",
+    "hex": "27BA",
+    "entity": "",
+    "description": "TEARDROP-BARBED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➻",
+    "decimal": "10171",
+    "hex": "27BB",
+    "entity": "",
+    "description": "HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➼",
+    "decimal": "10172",
+    "hex": "27BC",
+    "entity": "",
+    "description": "WEDGE-TAILED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➽",
+    "decimal": "10173",
+    "hex": "27BD",
+    "entity": "",
+    "description": "HEAVY WEDGE-TAILED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➾",
+    "decimal": "10174",
+    "hex": "27BE",
+    "entity": "",
+    "description": "OPEN-OUTLINED RIGHTWARDS ARROW",
+    "note": ""
+  },
+  {
+    "character": "➿",
+    "decimal": "10175",
+    "hex": "27BF",
+    "entity": "",
+    "description": "DOUBLE CURLY LOOP",
+    "note": ""
+  },
+  {
+    "character": "⤴",
+    "decimal": "10548",
+    "hex": "2934",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⤵",
+    "decimal": "10549",
+    "hex": "2935",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⬅",
+    "decimal": "11013",
+    "hex": "2B05",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⬆",
+    "decimal": "11014",
+    "hex": "2B06",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "⬇",
+    "decimal": "11015",
+    "hex": "2B07",
+    "entity": "",
+    "description": "",
+    "note": ""
+  }
+]

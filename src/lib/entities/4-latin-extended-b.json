@@ -1,0 +1,1666 @@
+[
+  {
+    "character": "ƀ",
+    "decimal": "384",
+    "hex": "180",
+    "entity": "",
+    "description": "LATIN SMALL LETTER B WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ɓ",
+    "decimal": "385",
+    "hex": "181",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER B WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ƃ",
+    "decimal": "386",
+    "hex": "182",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER B WITH TOPBAR",
+    "note": ""
+  },
+  {
+    "character": "ƃ",
+    "decimal": "387",
+    "hex": "183",
+    "entity": "",
+    "description": "LATIN SMALL LETTER B WITH TOPBAR",
+    "note": ""
+  },
+  {
+    "character": "Ƅ",
+    "decimal": "388",
+    "hex": "184",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER TONE SIX",
+    "note": ""
+  },
+  {
+    "character": "ƅ",
+    "decimal": "389",
+    "hex": "185",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TONE SIX",
+    "note": ""
+  },
+  {
+    "character": "Ɔ",
+    "decimal": "390",
+    "hex": "186",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER OPEN O",
+    "note": ""
+  },
+  {
+    "character": "Ƈ",
+    "decimal": "391",
+    "hex": "187",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER C WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ƈ",
+    "decimal": "392",
+    "hex": "188",
+    "entity": "",
+    "description": "LATIN SMALL LETTER C WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ɖ",
+    "decimal": "393",
+    "hex": "189",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER AFRICAN D",
+    "note": ""
+  },
+  {
+    "character": "Ɗ",
+    "decimal": "394",
+    "hex": "018A",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER D WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ƌ",
+    "decimal": "395",
+    "hex": "018B",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER D WITH TOPBAR",
+    "note": ""
+  },
+  {
+    "character": "ƌ",
+    "decimal": "396",
+    "hex": "018C",
+    "entity": "",
+    "description": "LATIN SMALL LETTER D WITH TOPBAR",
+    "note": ""
+  },
+  {
+    "character": "ƍ",
+    "decimal": "397",
+    "hex": "018D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED DELTA",
+    "note": ""
+  },
+  {
+    "character": "Ǝ",
+    "decimal": "398",
+    "hex": "018E",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER REVERSED E",
+    "note": ""
+  },
+  {
+    "character": "Ə",
+    "decimal": "399",
+    "hex": "018F",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER SCHWA",
+    "note": ""
+  },
+  {
+    "character": "Ɛ",
+    "decimal": "400",
+    "hex": "190",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER OPEN E",
+    "note": ""
+  },
+  {
+    "character": "Ƒ",
+    "decimal": "401",
+    "hex": "191",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER F WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ƒ",
+    "decimal": "402",
+    "hex": "192",
+    "entity": "&fnof;",
+    "description": "LATIN SMALL LETTER F WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ɠ",
+    "decimal": "403",
+    "hex": "193",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER G WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ɣ",
+    "decimal": "404",
+    "hex": "194",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER GAMMA",
+    "note": ""
+  },
+  {
+    "character": "ƕ",
+    "decimal": "405",
+    "hex": "195",
+    "entity": "",
+    "description": "LATIN SMALL LETTER HV",
+    "note": ""
+  },
+  {
+    "character": "Ɩ",
+    "decimal": "406",
+    "hex": "196",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER IOTA",
+    "note": ""
+  },
+  {
+    "character": "Ɨ",
+    "decimal": "407",
+    "hex": "197",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER I WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ƙ",
+    "decimal": "408",
+    "hex": "198",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER K WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ƙ",
+    "decimal": "409",
+    "hex": "199",
+    "entity": "",
+    "description": "LATIN SMALL LETTER K WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ƚ",
+    "decimal": "410",
+    "hex": "019A",
+    "entity": "",
+    "description": "LATIN SMALL LETTER L WITH BAR",
+    "note": ""
+  },
+  {
+    "character": "ƛ",
+    "decimal": "411",
+    "hex": "019B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER LAMBDA WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ɯ",
+    "decimal": "412",
+    "hex": "019C",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER TURNED M",
+    "note": ""
+  },
+  {
+    "character": "Ɲ",
+    "decimal": "413",
+    "hex": "019D",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER N WITH LEFT HOOK",
+    "note": ""
+  },
+  {
+    "character": "ƞ",
+    "decimal": "414",
+    "hex": "019E",
+    "entity": "",
+    "description": "LATIN SMALL LETTER N WITH LONG RIGHT LEG",
+    "note": ""
+  },
+  {
+    "character": "Ɵ",
+    "decimal": "415",
+    "hex": "019F",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH MIDDLE TILDE",
+    "note": ""
+  },
+  {
+    "character": "Ơ",
+    "decimal": "416",
+    "hex": "01A0",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH HORN",
+    "note": ""
+  },
+  {
+    "character": "ơ",
+    "decimal": "417",
+    "hex": "01A1",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH HORN",
+    "note": ""
+  },
+  {
+    "character": "Ƣ",
+    "decimal": "418",
+    "hex": "01A2",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER OI",
+    "note": ""
+  },
+  {
+    "character": "ƣ",
+    "decimal": "419",
+    "hex": "01A3",
+    "entity": "",
+    "description": "LATIN SMALL LETTER OI",
+    "note": ""
+  },
+  {
+    "character": "Ƥ",
+    "decimal": "420",
+    "hex": "01A4",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER P WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ƥ",
+    "decimal": "421",
+    "hex": "01A5",
+    "entity": "",
+    "description": "LATIN SMALL LETTER P WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ʀ",
+    "decimal": "422",
+    "hex": "01A6",
+    "entity": "",
+    "description": "LATIN LETTER YR",
+    "note": ""
+  },
+  {
+    "character": "Ƨ",
+    "decimal": "423",
+    "hex": "01A7",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER TONE TWO",
+    "note": ""
+  },
+  {
+    "character": "ƨ",
+    "decimal": "424",
+    "hex": "01A8",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TONE TWO",
+    "note": ""
+  },
+  {
+    "character": "Ʃ",
+    "decimal": "425",
+    "hex": "01A9",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER ESH",
+    "note": ""
+  },
+  {
+    "character": "ƪ",
+    "decimal": "426",
+    "hex": "01AA",
+    "entity": "",
+    "description": "LATIN LETTER REVERSED ESH LOOP",
+    "note": ""
+  },
+  {
+    "character": "ƫ",
+    "decimal": "427",
+    "hex": "01AB",
+    "entity": "",
+    "description": "LATIN SMALL LETTER T WITH PALATAL HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ƭ",
+    "decimal": "428",
+    "hex": "01AC",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER T WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ƭ",
+    "decimal": "429",
+    "hex": "01AD",
+    "entity": "",
+    "description": "LATIN SMALL LETTER T WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ʈ",
+    "decimal": "430",
+    "hex": "01AE",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER T WITH RETROFLEX HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ư",
+    "decimal": "431",
+    "hex": "01AF",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U WITH HORN",
+    "note": ""
+  },
+  {
+    "character": "ư",
+    "decimal": "432",
+    "hex": "01B0",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U WITH HORN",
+    "note": ""
+  },
+  {
+    "character": "Ʊ",
+    "decimal": "433",
+    "hex": "01B1",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER UPSILON",
+    "note": ""
+  },
+  {
+    "character": "Ʋ",
+    "decimal": "434",
+    "hex": "01B2",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER V WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ƴ",
+    "decimal": "435",
+    "hex": "01B3",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER Y WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ƴ",
+    "decimal": "436",
+    "hex": "01B4",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Y WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ƶ",
+    "decimal": "437",
+    "hex": "01B5",
+    "entity": "&imped;",
+    "description": "LATIN CAPITAL LETTER Z WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ƶ",
+    "decimal": "438",
+    "hex": "01B6",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Z WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ʒ",
+    "decimal": "439",
+    "hex": "01B7",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER EZH",
+    "note": ""
+  },
+  {
+    "character": "Ƹ",
+    "decimal": "440",
+    "hex": "01B8",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER EZH REVERSED",
+    "note": ""
+  },
+  {
+    "character": "ƹ",
+    "decimal": "441",
+    "hex": "01B9",
+    "entity": "",
+    "description": "LATIN SMALL LETTER EZH REVERSED",
+    "note": ""
+  },
+  {
+    "character": "ƺ",
+    "decimal": "442",
+    "hex": "01BA",
+    "entity": "",
+    "description": "LATIN SMALL LETTER EZH WITH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ƻ",
+    "decimal": "443",
+    "hex": "01BB",
+    "entity": "",
+    "description": "LATIN LETTER TWO WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ƽ",
+    "decimal": "444",
+    "hex": "01BC",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER TONE FIVE",
+    "note": ""
+  },
+  {
+    "character": "ƽ",
+    "decimal": "445",
+    "hex": "01BD",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TONE FIVE",
+    "note": ""
+  },
+  {
+    "character": "ƾ",
+    "decimal": "446",
+    "hex": "01BE",
+    "entity": "",
+    "description": "LATIN LETTER INVERTED GLOTTAL STOP WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ƿ",
+    "decimal": "447",
+    "hex": "01BF",
+    "entity": "",
+    "description": "LATIN LETTER WYNN",
+    "note": ""
+  },
+  {
+    "character": "ǀ",
+    "decimal": "448",
+    "hex": "01C0",
+    "entity": "",
+    "description": "LATIN LETTER DENTAL CLICK",
+    "note": ""
+  },
+  {
+    "character": "ǁ",
+    "decimal": "449",
+    "hex": "01C1",
+    "entity": "",
+    "description": "LATIN LETTER LATERAL CLICK",
+    "note": ""
+  },
+  {
+    "character": "ǂ",
+    "decimal": "450",
+    "hex": "01C2",
+    "entity": "",
+    "description": "LATIN LETTER ALVEOLAR CLICK",
+    "note": ""
+  },
+  {
+    "character": "ǃ",
+    "decimal": "451",
+    "hex": "01C3",
+    "entity": "",
+    "description": "LATIN LETTER RETROFLEX CLICK",
+    "note": ""
+  },
+  {
+    "character": "Ǆ",
+    "decimal": "452",
+    "hex": "01C4",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER DZ WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǅ",
+    "decimal": "453",
+    "hex": "01C5",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǆ",
+    "decimal": "454",
+    "hex": "01C6",
+    "entity": "",
+    "description": "LATIN SMALL LETTER DZ WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǉ",
+    "decimal": "455",
+    "hex": "01C7",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER LJ",
+    "note": ""
+  },
+  {
+    "character": "ǈ",
+    "decimal": "456",
+    "hex": "01C8",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER L WITH SMALL LETTER J",
+    "note": ""
+  },
+  {
+    "character": "ǉ",
+    "decimal": "457",
+    "hex": "01C9",
+    "entity": "",
+    "description": "LATIN SMALL LETTER LJ",
+    "note": ""
+  },
+  {
+    "character": "Ǌ",
+    "decimal": "458",
+    "hex": "01CA",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER NJ",
+    "note": ""
+  },
+  {
+    "character": "ǋ",
+    "decimal": "459",
+    "hex": "01CB",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER N WITH SMALL LETTER J",
+    "note": ""
+  },
+  {
+    "character": "ǌ",
+    "decimal": "460",
+    "hex": "01CC",
+    "entity": "",
+    "description": "LATIN SMALL LETTER NJ",
+    "note": ""
+  },
+  {
+    "character": "Ǎ",
+    "decimal": "461",
+    "hex": "01CD",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǎ",
+    "decimal": "462",
+    "hex": "01CE",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǐ",
+    "decimal": "463",
+    "hex": "01CF",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER I WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǐ",
+    "decimal": "464",
+    "hex": "01D0",
+    "entity": "",
+    "description": "LATIN SMALL LETTER I WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǒ",
+    "decimal": "465",
+    "hex": "01D1",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǒ",
+    "decimal": "466",
+    "hex": "01D2",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǔ",
+    "decimal": "467",
+    "hex": "01D3",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǔ",
+    "decimal": "468",
+    "hex": "01D4",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǖ",
+    "decimal": "469",
+    "hex": "01D5",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "ǖ",
+    "decimal": "470",
+    "hex": "01D6",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U WITH DIAERESIS AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ǘ",
+    "decimal": "471",
+    "hex": "01D7",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ǘ",
+    "decimal": "472",
+    "hex": "01D8",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ǚ",
+    "decimal": "473",
+    "hex": "01D9",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON",
+    "note": ""
+  },
+  {
+    "character": "ǚ",
+    "decimal": "474",
+    "hex": "01DA",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U WITH DIAERESIS AND CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǜ",
+    "decimal": "475",
+    "hex": "01DB",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ǜ",
+    "decimal": "476",
+    "hex": "01DC",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ǝ",
+    "decimal": "477",
+    "hex": "01DD",
+    "entity": "",
+    "description": "LATIN SMALL LETTER TURNED E",
+    "note": ""
+  },
+  {
+    "character": "Ǟ",
+    "decimal": "478",
+    "hex": "01DE",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "ǟ",
+    "decimal": "479",
+    "hex": "01DF",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A WITH DIAERESIS AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ǡ",
+    "decimal": "480",
+    "hex": "1,00E+00",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "ǡ",
+    "decimal": "481",
+    "hex": "1,00E+01",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ǣ",
+    "decimal": "482",
+    "hex": "1,00E+02",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER AE WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ǣ",
+    "decimal": "483",
+    "hex": "1,00E+03",
+    "entity": "",
+    "description": "LATIN SMALL LETTER AE WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ǥ",
+    "decimal": "484",
+    "hex": "1,00E+04",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER G WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ǥ",
+    "decimal": "485",
+    "hex": "1,00E+05",
+    "entity": "",
+    "description": "LATIN SMALL LETTER G WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ǧ",
+    "decimal": "486",
+    "hex": "1,00E+06",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER G WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǧ",
+    "decimal": "487",
+    "hex": "1,00E+07",
+    "entity": "",
+    "description": "LATIN SMALL LETTER G WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǩ",
+    "decimal": "488",
+    "hex": "1,00E+08",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER K WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǩ",
+    "decimal": "489",
+    "hex": "1,00E+09",
+    "entity": "",
+    "description": "LATIN SMALL LETTER K WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǫ",
+    "decimal": "490",
+    "hex": "01EA",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "ǫ",
+    "decimal": "491",
+    "hex": "01EB",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH OGONEK",
+    "note": ""
+  },
+  {
+    "character": "Ǭ",
+    "decimal": "492",
+    "hex": "01EC",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH OGONEK AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "ǭ",
+    "decimal": "493",
+    "hex": "01ED",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH OGONEK AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ǯ",
+    "decimal": "494",
+    "hex": "01EE",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER EZH WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǯ",
+    "decimal": "495",
+    "hex": "01EF",
+    "entity": "",
+    "description": "LATIN SMALL LETTER EZH WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ǰ",
+    "decimal": "496",
+    "hex": "01F0",
+    "entity": "",
+    "description": "LATIN SMALL LETTER J WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ǳ",
+    "decimal": "497",
+    "hex": "01F1",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER DZ",
+    "note": ""
+  },
+  {
+    "character": "ǲ",
+    "decimal": "498",
+    "hex": "01F2",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER D WITH SMALL LETTER Z",
+    "note": ""
+  },
+  {
+    "character": "ǳ",
+    "decimal": "499",
+    "hex": "01F3",
+    "entity": "",
+    "description": "LATIN SMALL LETTER DZ",
+    "note": ""
+  },
+  {
+    "character": "Ǵ",
+    "decimal": "500",
+    "hex": "01F4",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER G WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ǵ",
+    "decimal": "501",
+    "hex": "01F5",
+    "entity": "&gacute;",
+    "description": "LATIN SMALL LETTER G WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ƕ",
+    "decimal": "502",
+    "hex": "01F6",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER HWAIR",
+    "note": ""
+  },
+  {
+    "character": "Ƿ",
+    "decimal": "503",
+    "hex": "01F7",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER WYNN",
+    "note": ""
+  },
+  {
+    "character": "Ǹ",
+    "decimal": "504",
+    "hex": "01F8",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER N WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ǹ",
+    "decimal": "505",
+    "hex": "01F9",
+    "entity": "",
+    "description": "LATIN SMALL LETTER N WITH GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ǻ",
+    "decimal": "506",
+    "hex": "01FA",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ǻ",
+    "decimal": "507",
+    "hex": "01FB",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ǽ",
+    "decimal": "508",
+    "hex": "01FC",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER AE WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ǽ",
+    "decimal": "509",
+    "hex": "01FD",
+    "entity": "",
+    "description": "LATIN SMALL LETTER AE WITH ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ǿ",
+    "decimal": "510",
+    "hex": "01FE",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH STROKE AND ACUTE",
+    "note": ""
+  },
+  {
+    "character": "ǿ",
+    "decimal": "511",
+    "hex": "01FF",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH STROKE AND ACUTE",
+    "note": ""
+  },
+  {
+    "character": "Ȁ",
+    "decimal": "512",
+    "hex": "200",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ȁ",
+    "decimal": "513",
+    "hex": "201",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ȃ",
+    "decimal": "514",
+    "hex": "202",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "ȃ",
+    "decimal": "515",
+    "hex": "203",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ȅ",
+    "decimal": "516",
+    "hex": "204",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER E WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ȅ",
+    "decimal": "517",
+    "hex": "205",
+    "entity": "",
+    "description": "LATIN SMALL LETTER E WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ȇ",
+    "decimal": "518",
+    "hex": "206",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER E WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "ȇ",
+    "decimal": "519",
+    "hex": "207",
+    "entity": "",
+    "description": "LATIN SMALL LETTER E WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ȉ",
+    "decimal": "520",
+    "hex": "208",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER I WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ȉ",
+    "decimal": "521",
+    "hex": "209",
+    "entity": "",
+    "description": "LATIN SMALL LETTER I WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ȋ",
+    "decimal": "522",
+    "hex": "020A",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER I WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "ȋ",
+    "decimal": "523",
+    "hex": "020B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER I WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ȍ",
+    "decimal": "524",
+    "hex": "020C",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ȍ",
+    "decimal": "525",
+    "hex": "020D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ȏ",
+    "decimal": "526",
+    "hex": "020E",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "ȏ",
+    "decimal": "527",
+    "hex": "020F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ȑ",
+    "decimal": "528",
+    "hex": "210",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER R WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ȑ",
+    "decimal": "529",
+    "hex": "211",
+    "entity": "",
+    "description": "LATIN SMALL LETTER R WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ȓ",
+    "decimal": "530",
+    "hex": "212",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER R WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "ȓ",
+    "decimal": "531",
+    "hex": "213",
+    "entity": "",
+    "description": "LATIN SMALL LETTER R WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ȕ",
+    "decimal": "532",
+    "hex": "214",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "ȕ",
+    "decimal": "533",
+    "hex": "215",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U WITH DOUBLE GRAVE",
+    "note": ""
+  },
+  {
+    "character": "Ȗ",
+    "decimal": "534",
+    "hex": "216",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "ȗ",
+    "decimal": "535",
+    "hex": "217",
+    "entity": "",
+    "description": "LATIN SMALL LETTER U WITH INVERTED BREVE",
+    "note": ""
+  },
+  {
+    "character": "Ș",
+    "decimal": "536",
+    "hex": "218",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER S WITH COMMA BELOW",
+    "note": ""
+  },
+  {
+    "character": "ș",
+    "decimal": "537",
+    "hex": "219",
+    "entity": "",
+    "description": "LATIN SMALL LETTER S WITH COMMA BELOW",
+    "note": ""
+  },
+  {
+    "character": "Ț",
+    "decimal": "538",
+    "hex": "021A",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER T WITH COMMA BELOW",
+    "note": ""
+  },
+  {
+    "character": "ț",
+    "decimal": "539",
+    "hex": "021B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER T WITH COMMA BELOW",
+    "note": ""
+  },
+  {
+    "character": "Ȝ",
+    "decimal": "540",
+    "hex": "021C",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER YOGH",
+    "note": ""
+  },
+  {
+    "character": "ȝ",
+    "decimal": "541",
+    "hex": "021D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER YOGH",
+    "note": ""
+  },
+  {
+    "character": "Ȟ",
+    "decimal": "542",
+    "hex": "021E",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER H WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "ȟ",
+    "decimal": "543",
+    "hex": "021F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER H WITH CARON",
+    "note": ""
+  },
+  {
+    "character": "Ƞ",
+    "decimal": "544",
+    "hex": "220",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER N WITH LONG RIGHT LEG",
+    "note": ""
+  },
+  {
+    "character": "ȡ",
+    "decimal": "545",
+    "hex": "221",
+    "entity": "",
+    "description": "LATIN SMALL LETTER D WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "Ȣ",
+    "decimal": "546",
+    "hex": "222",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER OU",
+    "note": ""
+  },
+  {
+    "character": "ȣ",
+    "decimal": "547",
+    "hex": "223",
+    "entity": "",
+    "description": "LATIN SMALL LETTER OU",
+    "note": ""
+  },
+  {
+    "character": "Ȥ",
+    "decimal": "548",
+    "hex": "224",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER Z WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "ȥ",
+    "decimal": "549",
+    "hex": "225",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Z WITH HOOK",
+    "note": ""
+  },
+  {
+    "character": "Ȧ",
+    "decimal": "550",
+    "hex": "226",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ȧ",
+    "decimal": "551",
+    "hex": "227",
+    "entity": "",
+    "description": "LATIN SMALL LETTER A WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "Ȩ",
+    "decimal": "552",
+    "hex": "228",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER E WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "ȩ",
+    "decimal": "553",
+    "hex": "229",
+    "entity": "",
+    "description": "LATIN SMALL LETTER E WITH CEDILLA",
+    "note": ""
+  },
+  {
+    "character": "Ȫ",
+    "decimal": "554",
+    "hex": "022A",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "ȫ",
+    "decimal": "555",
+    "hex": "022B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH DIAERESIS AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ȭ",
+    "decimal": "556",
+    "hex": "022C",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH TILDE AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "ȭ",
+    "decimal": "557",
+    "hex": "022D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH TILDE AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ȯ",
+    "decimal": "558",
+    "hex": "022E",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "ȯ",
+    "decimal": "559",
+    "hex": "022F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH DOT ABOVE",
+    "note": ""
+  },
+  {
+    "character": "Ȱ",
+    "decimal": "560",
+    "hex": "230",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER O WITH DOT ABOVE AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "ȱ",
+    "decimal": "561",
+    "hex": "231",
+    "entity": "",
+    "description": "LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON",
+    "note": ""
+  },
+  {
+    "character": "Ȳ",
+    "decimal": "562",
+    "hex": "232",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER Y WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ȳ",
+    "decimal": "563",
+    "hex": "233",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Y WITH MACRON",
+    "note": ""
+  },
+  {
+    "character": "ȴ",
+    "decimal": "564",
+    "hex": "234",
+    "entity": "",
+    "description": "LATIN SMALL LETTER L WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ȵ",
+    "decimal": "565",
+    "hex": "235",
+    "entity": "",
+    "description": "LATIN SMALL LETTER N WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ȶ",
+    "decimal": "566",
+    "hex": "236",
+    "entity": "",
+    "description": "LATIN SMALL LETTER T WITH CURL",
+    "note": ""
+  },
+  {
+    "character": "ȷ",
+    "decimal": "567",
+    "hex": "237",
+    "entity": "&jmath;",
+    "description": "LATIN SMALL LETTER DOTLESS J",
+    "note": ""
+  },
+  {
+    "character": "ȸ",
+    "decimal": "568",
+    "hex": "238",
+    "entity": "",
+    "description": "LATIN SMALL LETTER DB DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "ȹ",
+    "decimal": "569",
+    "hex": "239",
+    "entity": "",
+    "description": "LATIN SMALL LETTER QP DIGRAPH",
+    "note": ""
+  },
+  {
+    "character": "Ⱥ",
+    "decimal": "570",
+    "hex": "023A",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER A WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ȼ",
+    "decimal": "571",
+    "hex": "023B",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER C WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ȼ",
+    "decimal": "572",
+    "hex": "023C",
+    "entity": "",
+    "description": "LATIN SMALL LETTER C WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ƚ",
+    "decimal": "573",
+    "hex": "023D",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER L WITH BAR",
+    "note": ""
+  },
+  {
+    "character": "Ⱦ",
+    "decimal": "574",
+    "hex": "023E",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER T WITH DIAGONAL STROKE",
+    "note": ""
+  },
+  {
+    "character": "ȿ",
+    "decimal": "575",
+    "hex": "023F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER S WITH SWASH TAIL",
+    "note": ""
+  },
+  {
+    "character": "ɀ",
+    "decimal": "576",
+    "hex": "240",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Z WITH SWASH TAIL",
+    "note": ""
+  },
+  {
+    "character": "Ɂ",
+    "decimal": "577",
+    "hex": "241",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER GLOTTAL STOP",
+    "note": ""
+  },
+  {
+    "character": "ɂ",
+    "decimal": "578",
+    "hex": "242",
+    "entity": "",
+    "description": "LATIN SMALL LETTER GLOTTAL STOP",
+    "note": ""
+  },
+  {
+    "character": "Ƀ",
+    "decimal": "579",
+    "hex": "243",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER B WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ʉ",
+    "decimal": "580",
+    "hex": "244",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER U BAR",
+    "note": ""
+  },
+  {
+    "character": "Ʌ",
+    "decimal": "581",
+    "hex": "245",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER TURNED V",
+    "note": ""
+  },
+  {
+    "character": "Ɇ",
+    "decimal": "582",
+    "hex": "246",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER E WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ɇ",
+    "decimal": "583",
+    "hex": "247",
+    "entity": "",
+    "description": "LATIN SMALL LETTER E WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ɉ",
+    "decimal": "584",
+    "hex": "248",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER J WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ɉ",
+    "decimal": "585",
+    "hex": "249",
+    "entity": "",
+    "description": "LATIN SMALL LETTER J WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ɋ",
+    "decimal": "586",
+    "hex": "024A",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER SMALL Q WITH HOOK TAIL",
+    "note": ""
+  },
+  {
+    "character": "ɋ",
+    "decimal": "587",
+    "hex": "024B",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Q WITH HOOK TAIL",
+    "note": ""
+  },
+  {
+    "character": "Ɍ",
+    "decimal": "588",
+    "hex": "024C",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER R WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ɍ",
+    "decimal": "589",
+    "hex": "024D",
+    "entity": "",
+    "description": "LATIN SMALL LETTER R WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "Ɏ",
+    "decimal": "590",
+    "hex": "024E",
+    "entity": "",
+    "description": "LATIN CAPITAL LETTER Y WITH STROKE",
+    "note": ""
+  },
+  {
+    "character": "ɏ",
+    "decimal": "591",
+    "hex": "024F",
+    "entity": "",
+    "description": "LATIN SMALL LETTER Y WITH STROKE",
+    "note": ""
+  }
+]

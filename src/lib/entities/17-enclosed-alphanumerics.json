@@ -1,0 +1,5210 @@
+[
+  {
+    "character": "①",
+    "decimal": "9312",
+    "hex": "2460",
+    "entity": "",
+    "description": "CIRCLED DIGIT ONE",
+    "note": ""
+  },
+  {
+    "character": "②",
+    "decimal": "9313",
+    "hex": "2461",
+    "entity": "",
+    "description": "CIRCLED DIGIT TWO",
+    "note": ""
+  },
+  {
+    "character": "③",
+    "decimal": "9314",
+    "hex": "2462",
+    "entity": "",
+    "description": "CIRCLED DIGIT THREE",
+    "note": ""
+  },
+  {
+    "character": "④",
+    "decimal": "9315",
+    "hex": "2463",
+    "entity": "",
+    "description": "CIRCLED DIGIT FOUR",
+    "note": ""
+  },
+  {
+    "character": "⑤",
+    "decimal": "9316",
+    "hex": "2464",
+    "entity": "",
+    "description": "CIRCLED DIGIT FIVE",
+    "note": ""
+  },
+  {
+    "character": "⑥",
+    "decimal": "9317",
+    "hex": "2465",
+    "entity": "",
+    "description": "CIRCLED DIGIT SIX",
+    "note": ""
+  },
+  {
+    "character": "⑦",
+    "decimal": "9318",
+    "hex": "2466",
+    "entity": "",
+    "description": "CIRCLED DIGIT SEVEN",
+    "note": ""
+  },
+  {
+    "character": "⑧",
+    "decimal": "9319",
+    "hex": "2467",
+    "entity": "",
+    "description": "CIRCLED DIGIT EIGHT",
+    "note": ""
+  },
+  {
+    "character": "⑨",
+    "decimal": "9320",
+    "hex": "2468",
+    "entity": "",
+    "description": "CIRCLED DIGIT NINE",
+    "note": ""
+  },
+  {
+    "character": "⑩",
+    "decimal": "9321",
+    "hex": "2469",
+    "entity": "",
+    "description": "CIRCLED NUMBER TEN",
+    "note": ""
+  },
+  {
+    "character": "⑪",
+    "decimal": "9322",
+    "hex": "246A",
+    "entity": "",
+    "description": "CIRCLED NUMBER ELEVEN",
+    "note": ""
+  },
+  {
+    "character": "⑫",
+    "decimal": "9323",
+    "hex": "246B",
+    "entity": "",
+    "description": "CIRCLED NUMBER TWELVE",
+    "note": ""
+  },
+  {
+    "character": "⑬",
+    "decimal": "9324",
+    "hex": "246C",
+    "entity": "",
+    "description": "CIRCLED NUMBER THIRTEEN",
+    "note": ""
+  },
+  {
+    "character": "⑭",
+    "decimal": "9325",
+    "hex": "246D",
+    "entity": "",
+    "description": "CIRCLED NUMBER FOURTEEN",
+    "note": ""
+  },
+  {
+    "character": "⑮",
+    "decimal": "9326",
+    "hex": "246E",
+    "entity": "",
+    "description": "CIRCLED NUMBER FIFTEEN",
+    "note": ""
+  },
+  {
+    "character": "⑯",
+    "decimal": "9327",
+    "hex": "246F",
+    "entity": "",
+    "description": "CIRCLED NUMBER SIXTEEN",
+    "note": ""
+  },
+  {
+    "character": "⑰",
+    "decimal": "9328",
+    "hex": "2470",
+    "entity": "",
+    "description": "CIRCLED NUMBER SEVENTEEN",
+    "note": ""
+  },
+  {
+    "character": "⑱",
+    "decimal": "9329",
+    "hex": "2471",
+    "entity": "",
+    "description": "CIRCLED NUMBER EIGHTEEN",
+    "note": ""
+  },
+  {
+    "character": "⑲",
+    "decimal": "9330",
+    "hex": "2472",
+    "entity": "",
+    "description": "CIRCLED NUMBER NINETEEN",
+    "note": ""
+  },
+  {
+    "character": "⑳",
+    "decimal": "9331",
+    "hex": "2473",
+    "entity": "",
+    "description": "CIRCLED NUMBER TWENTY",
+    "note": ""
+  },
+  {
+    "character": "⑴",
+    "decimal": "9332",
+    "hex": "2474",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT ONE",
+    "note": ""
+  },
+  {
+    "character": "⑵",
+    "decimal": "9333",
+    "hex": "2475",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT TWO",
+    "note": ""
+  },
+  {
+    "character": "⑶",
+    "decimal": "9334",
+    "hex": "2476",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT THREE",
+    "note": ""
+  },
+  {
+    "character": "⑷",
+    "decimal": "9335",
+    "hex": "2477",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT FOUR",
+    "note": ""
+  },
+  {
+    "character": "⑸",
+    "decimal": "9336",
+    "hex": "2478",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT FIVE",
+    "note": ""
+  },
+  {
+    "character": "⑹",
+    "decimal": "9337",
+    "hex": "2479",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT SIX",
+    "note": ""
+  },
+  {
+    "character": "⑺",
+    "decimal": "9338",
+    "hex": "247A",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT SEVEN",
+    "note": ""
+  },
+  {
+    "character": "⑻",
+    "decimal": "9339",
+    "hex": "247B",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT EIGHT",
+    "note": ""
+  },
+  {
+    "character": "⑼",
+    "decimal": "9340",
+    "hex": "247C",
+    "entity": "",
+    "description": "PARENTHESIZED DIGIT NINE",
+    "note": ""
+  },
+  {
+    "character": "⑽",
+    "decimal": "9341",
+    "hex": "247D",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER TEN",
+    "note": ""
+  },
+  {
+    "character": "⑾",
+    "decimal": "9342",
+    "hex": "247E",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER ELEVEN",
+    "note": ""
+  },
+  {
+    "character": "⑿",
+    "decimal": "9343",
+    "hex": "247F",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER TWELVE",
+    "note": ""
+  },
+  {
+    "character": "⒀",
+    "decimal": "9344",
+    "hex": "2480",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER THIRTEEN",
+    "note": ""
+  },
+  {
+    "character": "⒁",
+    "decimal": "9345",
+    "hex": "2481",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER FOURTEEN",
+    "note": ""
+  },
+  {
+    "character": "⒂",
+    "decimal": "9346",
+    "hex": "2482",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER FIFTEEN",
+    "note": ""
+  },
+  {
+    "character": "⒃",
+    "decimal": "9347",
+    "hex": "2483",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER SIXTEEN",
+    "note": ""
+  },
+  {
+    "character": "⒄",
+    "decimal": "9348",
+    "hex": "2484",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER SEVENTEEN",
+    "note": ""
+  },
+  {
+    "character": "⒅",
+    "decimal": "9349",
+    "hex": "2485",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER EIGHTEEN",
+    "note": ""
+  },
+  {
+    "character": "⒆",
+    "decimal": "9350",
+    "hex": "2486",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER NINETEEN",
+    "note": ""
+  },
+  {
+    "character": "⒇",
+    "decimal": "9351",
+    "hex": "2487",
+    "entity": "",
+    "description": "PARENTHESIZED NUMBER TWENTY",
+    "note": ""
+  },
+  {
+    "character": "⒈",
+    "decimal": "9352",
+    "hex": "2488",
+    "entity": "",
+    "description": "DIGIT ONE FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒉",
+    "decimal": "9353",
+    "hex": "2489",
+    "entity": "",
+    "description": "DIGIT TWO FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒊",
+    "decimal": "9354",
+    "hex": "248A",
+    "entity": "",
+    "description": "DIGIT THREE FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒋",
+    "decimal": "9355",
+    "hex": "248B",
+    "entity": "",
+    "description": "DIGIT FOUR FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒌",
+    "decimal": "9356",
+    "hex": "248C",
+    "entity": "",
+    "description": "DIGIT FIVE FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒍",
+    "decimal": "9357",
+    "hex": "248D",
+    "entity": "",
+    "description": "DIGIT SIX FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒎",
+    "decimal": "9358",
+    "hex": "248E",
+    "entity": "",
+    "description": "DIGIT SEVEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒏",
+    "decimal": "9359",
+    "hex": "248F",
+    "entity": "",
+    "description": "DIGIT EIGHT FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒐",
+    "decimal": "9360",
+    "hex": "2490",
+    "entity": "",
+    "description": "DIGIT NINE FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒑",
+    "decimal": "9361",
+    "hex": "2491",
+    "entity": "",
+    "description": "NUMBER TEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒒",
+    "decimal": "9362",
+    "hex": "2492",
+    "entity": "",
+    "description": "NUMBER ELEVEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒓",
+    "decimal": "9363",
+    "hex": "2493",
+    "entity": "",
+    "description": "NUMBER TWELVE FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒔",
+    "decimal": "9364",
+    "hex": "2494",
+    "entity": "",
+    "description": "NUMBER THIRTEEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒕",
+    "decimal": "9365",
+    "hex": "2495",
+    "entity": "",
+    "description": "NUMBER FOURTEEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒖",
+    "decimal": "9366",
+    "hex": "2496",
+    "entity": "",
+    "description": "NUMBER FIFTEEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒗",
+    "decimal": "9367",
+    "hex": "2497",
+    "entity": "",
+    "description": "NUMBER SIXTEEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒘",
+    "decimal": "9368",
+    "hex": "2498",
+    "entity": "",
+    "description": "NUMBER SEVENTEEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒙",
+    "decimal": "9369",
+    "hex": "2499",
+    "entity": "",
+    "description": "NUMBER EIGHTEEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒚",
+    "decimal": "9370",
+    "hex": "249A",
+    "entity": "",
+    "description": "NUMBER NINETEEN FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒛",
+    "decimal": "9371",
+    "hex": "249B",
+    "entity": "",
+    "description": "NUMBER TWENTY FULL STOP",
+    "note": ""
+  },
+  {
+    "character": "⒜",
+    "decimal": "9372",
+    "hex": "249C",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER A",
+    "note": ""
+  },
+  {
+    "character": "⒝",
+    "decimal": "9373",
+    "hex": "249D",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER B",
+    "note": ""
+  },
+  {
+    "character": "⒞",
+    "decimal": "9374",
+    "hex": "249E",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER C",
+    "note": ""
+  },
+  {
+    "character": "⒟",
+    "decimal": "9375",
+    "hex": "249F",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER D",
+    "note": ""
+  },
+  {
+    "character": "⒠",
+    "decimal": "9376",
+    "hex": "24A0",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER E",
+    "note": ""
+  },
+  {
+    "character": "⒡",
+    "decimal": "9377",
+    "hex": "24A1",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER F",
+    "note": ""
+  },
+  {
+    "character": "⒢",
+    "decimal": "9378",
+    "hex": "24A2",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER G",
+    "note": ""
+  },
+  {
+    "character": "⒣",
+    "decimal": "9379",
+    "hex": "24A3",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER H",
+    "note": ""
+  },
+  {
+    "character": "⒤",
+    "decimal": "9380",
+    "hex": "24A4",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER I",
+    "note": ""
+  },
+  {
+    "character": "⒥",
+    "decimal": "9381",
+    "hex": "24A5",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER J",
+    "note": ""
+  },
+  {
+    "character": "⒦",
+    "decimal": "9382",
+    "hex": "24A6",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER K",
+    "note": ""
+  },
+  {
+    "character": "⒧",
+    "decimal": "9383",
+    "hex": "24A7",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER L",
+    "note": ""
+  },
+  {
+    "character": "⒨",
+    "decimal": "9384",
+    "hex": "24A8",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER M",
+    "note": ""
+  },
+  {
+    "character": "⒩",
+    "decimal": "9385",
+    "hex": "24A9",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER N",
+    "note": ""
+  },
+  {
+    "character": "⒪",
+    "decimal": "9386",
+    "hex": "24AA",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER O",
+    "note": ""
+  },
+  {
+    "character": "⒫",
+    "decimal": "9387",
+    "hex": "24AB",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER P",
+    "note": ""
+  },
+  {
+    "character": "⒬",
+    "decimal": "9388",
+    "hex": "24AC",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER Q",
+    "note": ""
+  },
+  {
+    "character": "⒭",
+    "decimal": "9389",
+    "hex": "24AD",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER R",
+    "note": ""
+  },
+  {
+    "character": "⒮",
+    "decimal": "9390",
+    "hex": "24AE",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER S",
+    "note": ""
+  },
+  {
+    "character": "⒯",
+    "decimal": "9391",
+    "hex": "24AF",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER T",
+    "note": ""
+  },
+  {
+    "character": "⒰",
+    "decimal": "9392",
+    "hex": "24B0",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER U",
+    "note": ""
+  },
+  {
+    "character": "⒱",
+    "decimal": "9393",
+    "hex": "24B1",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER V",
+    "note": ""
+  },
+  {
+    "character": "⒲",
+    "decimal": "9394",
+    "hex": "24B2",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER W",
+    "note": ""
+  },
+  {
+    "character": "⒳",
+    "decimal": "9395",
+    "hex": "24B3",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER X",
+    "note": ""
+  },
+  {
+    "character": "⒴",
+    "decimal": "9396",
+    "hex": "24B4",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER Y",
+    "note": ""
+  },
+  {
+    "character": "⒵",
+    "decimal": "9397",
+    "hex": "24B5",
+    "entity": "",
+    "description": "PARENTHESIZED LATIN SMALL LETTER Z",
+    "note": ""
+  },
+  {
+    "character": "Ⓐ",
+    "decimal": "9398",
+    "hex": "24B6",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER A",
+    "note": ""
+  },
+  {
+    "character": "Ⓑ",
+    "decimal": "9399",
+    "hex": "24B7",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER B",
+    "note": ""
+  },
+  {
+    "character": "Ⓒ",
+    "decimal": "9400",
+    "hex": "24B8",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER C",
+    "note": ""
+  },
+  {
+    "character": "Ⓓ",
+    "decimal": "9401",
+    "hex": "24B9",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER D",
+    "note": ""
+  },
+  {
+    "character": "Ⓔ",
+    "decimal": "9402",
+    "hex": "24BA",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER E",
+    "note": ""
+  },
+  {
+    "character": "Ⓕ",
+    "decimal": "9403",
+    "hex": "24BB",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER F",
+    "note": ""
+  },
+  {
+    "character": "Ⓖ",
+    "decimal": "9404",
+    "hex": "24BC",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER G",
+    "note": ""
+  },
+  {
+    "character": "Ⓗ",
+    "decimal": "9405",
+    "hex": "24BD",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER H",
+    "note": ""
+  },
+  {
+    "character": "Ⓘ",
+    "decimal": "9406",
+    "hex": "24BE",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER I",
+    "note": ""
+  },
+  {
+    "character": "Ⓙ",
+    "decimal": "9407",
+    "hex": "24BF",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER J",
+    "note": ""
+  },
+  {
+    "character": "Ⓚ",
+    "decimal": "9408",
+    "hex": "24C0",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER K",
+    "note": ""
+  },
+  {
+    "character": "Ⓛ",
+    "decimal": "9409",
+    "hex": "24C1",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER L",
+    "note": ""
+  },
+  {
+    "character": "Ⓜ",
+    "decimal": "9410",
+    "hex": "24C2",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER M",
+    "note": ""
+  },
+  {
+    "character": "Ⓝ",
+    "decimal": "9411",
+    "hex": "24C3",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER N",
+    "note": ""
+  },
+  {
+    "character": "Ⓞ",
+    "decimal": "9412",
+    "hex": "24C4",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER O",
+    "note": ""
+  },
+  {
+    "character": "Ⓟ",
+    "decimal": "9413",
+    "hex": "24C5",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER P",
+    "note": ""
+  },
+  {
+    "character": "Ⓠ",
+    "decimal": "9414",
+    "hex": "24C6",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER Q",
+    "note": ""
+  },
+  {
+    "character": "Ⓡ",
+    "decimal": "9415",
+    "hex": "24C7",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER R",
+    "note": ""
+  },
+  {
+    "character": "Ⓢ",
+    "decimal": "9416",
+    "hex": "24C8",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER S",
+    "note": ""
+  },
+  {
+    "character": "Ⓣ",
+    "decimal": "9417",
+    "hex": "24C9",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER T",
+    "note": ""
+  },
+  {
+    "character": "Ⓤ",
+    "decimal": "9418",
+    "hex": "24CA",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER U",
+    "note": ""
+  },
+  {
+    "character": "Ⓥ",
+    "decimal": "9419",
+    "hex": "24CB",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER V",
+    "note": ""
+  },
+  {
+    "character": "Ⓦ",
+    "decimal": "9420",
+    "hex": "24CC",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER W",
+    "note": ""
+  },
+  {
+    "character": "Ⓧ",
+    "decimal": "9421",
+    "hex": "24CD",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER X",
+    "note": ""
+  },
+  {
+    "character": "Ⓨ",
+    "decimal": "9422",
+    "hex": "24CE",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER Y",
+    "note": ""
+  },
+  {
+    "character": "Ⓩ",
+    "decimal": "9423",
+    "hex": "24CF",
+    "entity": "",
+    "description": "CIRCLED LATIN CAPITAL LETTER Z",
+    "note": ""
+  },
+  {
+    "character": "ⓐ",
+    "decimal": "9424",
+    "hex": "24D0",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER A",
+    "note": ""
+  },
+  {
+    "character": "ⓑ",
+    "decimal": "9425",
+    "hex": "24D1",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER B",
+    "note": ""
+  },
+  {
+    "character": "ⓒ",
+    "decimal": "9426",
+    "hex": "24D2",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER C",
+    "note": ""
+  },
+  {
+    "character": "ⓓ",
+    "decimal": "9427",
+    "hex": "24D3",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER D",
+    "note": ""
+  },
+  {
+    "character": "ⓔ",
+    "decimal": "9428",
+    "hex": "24D4",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER E",
+    "note": ""
+  },
+  {
+    "character": "ⓕ",
+    "decimal": "9429",
+    "hex": "24D5",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER F",
+    "note": ""
+  },
+  {
+    "character": "ⓖ",
+    "decimal": "9430",
+    "hex": "24D6",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER G",
+    "note": ""
+  },
+  {
+    "character": "ⓗ",
+    "decimal": "9431",
+    "hex": "24D7",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER H",
+    "note": ""
+  },
+  {
+    "character": "ⓘ",
+    "decimal": "9432",
+    "hex": "24D8",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER I",
+    "note": ""
+  },
+  {
+    "character": "ⓙ",
+    "decimal": "9433",
+    "hex": "24D9",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER J",
+    "note": ""
+  },
+  {
+    "character": "ⓚ",
+    "decimal": "9434",
+    "hex": "24DA",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER K",
+    "note": ""
+  },
+  {
+    "character": "ⓛ",
+    "decimal": "9435",
+    "hex": "24DB",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER L",
+    "note": ""
+  },
+  {
+    "character": "ⓜ",
+    "decimal": "9436",
+    "hex": "24DC",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER M",
+    "note": ""
+  },
+  {
+    "character": "ⓝ",
+    "decimal": "9437",
+    "hex": "24DD",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER N",
+    "note": ""
+  },
+  {
+    "character": "ⓞ",
+    "decimal": "9438",
+    "hex": "24DE",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER O",
+    "note": ""
+  },
+  {
+    "character": "ⓟ",
+    "decimal": "9439",
+    "hex": "24DF",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER P",
+    "note": ""
+  },
+  {
+    "character": "ⓠ",
+    "decimal": "9440",
+    "hex": "2,40E+01",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER Q",
+    "note": ""
+  },
+  {
+    "character": "ⓡ",
+    "decimal": "9441",
+    "hex": "2,40E+02",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER R",
+    "note": ""
+  },
+  {
+    "character": "ⓢ",
+    "decimal": "9442",
+    "hex": "2,40E+03",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER S",
+    "note": ""
+  },
+  {
+    "character": "ⓣ",
+    "decimal": "9443",
+    "hex": "2,40E+04",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER T",
+    "note": ""
+  },
+  {
+    "character": "ⓤ",
+    "decimal": "9444",
+    "hex": "2,40E+05",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER U",
+    "note": ""
+  },
+  {
+    "character": "ⓥ",
+    "decimal": "9445",
+    "hex": "2,40E+06",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER V",
+    "note": ""
+  },
+  {
+    "character": "ⓦ",
+    "decimal": "9446",
+    "hex": "2,40E+07",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER W",
+    "note": ""
+  },
+  {
+    "character": "ⓧ",
+    "decimal": "9447",
+    "hex": "2,40E+08",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER X",
+    "note": ""
+  },
+  {
+    "character": "ⓨ",
+    "decimal": "9448",
+    "hex": "2,40E+09",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER Y",
+    "note": ""
+  },
+  {
+    "character": "ⓩ",
+    "decimal": "9449",
+    "hex": "2,40E+10",
+    "entity": "",
+    "description": "CIRCLED LATIN SMALL LETTER Z",
+    "note": ""
+  },
+  {
+    "character": "⓪",
+    "decimal": "9450",
+    "hex": "24EA",
+    "entity": "",
+    "description": "CIRCLED DIGIT ZERO",
+    "note": ""
+  },
+  {
+    "character": "🄀",
+    "decimal": "127232",
+    "hex": "1F100",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄁",
+    "decimal": "127233",
+    "hex": "1F101",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄂",
+    "decimal": "127234",
+    "hex": "1F102",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄃",
+    "decimal": "127235",
+    "hex": "1F103",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄄",
+    "decimal": "127236",
+    "hex": "1F104",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄅",
+    "decimal": "127237",
+    "hex": "1F105",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄆",
+    "decimal": "127238",
+    "hex": "1F106",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄇",
+    "decimal": "127239",
+    "hex": "1F107",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄈",
+    "decimal": "127240",
+    "hex": "1F108",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄉",
+    "decimal": "127241",
+    "hex": "1F109",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄊",
+    "decimal": "127242",
+    "hex": "1F10A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄋",
+    "decimal": "127243",
+    "hex": "1F10B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄌",
+    "decimal": "127244",
+    "hex": "1F10C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄍",
+    "decimal": "127245",
+    "hex": "1F10D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄎",
+    "decimal": "127246",
+    "hex": "1F10E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄏",
+    "decimal": "127247",
+    "hex": "1F10F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄐",
+    "decimal": "127248",
+    "hex": "1F110",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄑",
+    "decimal": "127249",
+    "hex": "1F111",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄒",
+    "decimal": "127250",
+    "hex": "1F112",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄓",
+    "decimal": "127251",
+    "hex": "1F113",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄔",
+    "decimal": "127252",
+    "hex": "1F114",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄕",
+    "decimal": "127253",
+    "hex": "1F115",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄖",
+    "decimal": "127254",
+    "hex": "1F116",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄗",
+    "decimal": "127255",
+    "hex": "1F117",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄘",
+    "decimal": "127256",
+    "hex": "1F118",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄙",
+    "decimal": "127257",
+    "hex": "1F119",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄚",
+    "decimal": "127258",
+    "hex": "1F11A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄛",
+    "decimal": "127259",
+    "hex": "1F11B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄜",
+    "decimal": "127260",
+    "hex": "1F11C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄝",
+    "decimal": "127261",
+    "hex": "1F11D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄞",
+    "decimal": "127262",
+    "hex": "1F11E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄟",
+    "decimal": "127263",
+    "hex": "1F11F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄠",
+    "decimal": "127264",
+    "hex": "1F120",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄡",
+    "decimal": "127265",
+    "hex": "1F121",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄢",
+    "decimal": "127266",
+    "hex": "1F122",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄣",
+    "decimal": "127267",
+    "hex": "1F123",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄤",
+    "decimal": "127268",
+    "hex": "1F124",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄥",
+    "decimal": "127269",
+    "hex": "1F125",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄦",
+    "decimal": "127270",
+    "hex": "1F126",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄧",
+    "decimal": "127271",
+    "hex": "1F127",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄨",
+    "decimal": "127272",
+    "hex": "1F128",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄩",
+    "decimal": "127273",
+    "hex": "1F129",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄪",
+    "decimal": "127274",
+    "hex": "1F12A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄫",
+    "decimal": "127275",
+    "hex": "1F12B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄬",
+    "decimal": "127276",
+    "hex": "1F12C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄭",
+    "decimal": "127277",
+    "hex": "1F12D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄮",
+    "decimal": "127278",
+    "hex": "1F12E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄯",
+    "decimal": "127279",
+    "hex": "1F12F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄰",
+    "decimal": "127280",
+    "hex": "1F130",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄱",
+    "decimal": "127281",
+    "hex": "1F131",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄲",
+    "decimal": "127282",
+    "hex": "1F132",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄳",
+    "decimal": "127283",
+    "hex": "1F133",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄴",
+    "decimal": "127284",
+    "hex": "1F134",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄵",
+    "decimal": "127285",
+    "hex": "1F135",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄶",
+    "decimal": "127286",
+    "hex": "1F136",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄷",
+    "decimal": "127287",
+    "hex": "1F137",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄸",
+    "decimal": "127288",
+    "hex": "1F138",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄹",
+    "decimal": "127289",
+    "hex": "1F139",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄺",
+    "decimal": "127290",
+    "hex": "1F13A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄻",
+    "decimal": "127291",
+    "hex": "1F13B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄼",
+    "decimal": "127292",
+    "hex": "1F13C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄽",
+    "decimal": "127293",
+    "hex": "1F13D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄾",
+    "decimal": "127294",
+    "hex": "1F13E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🄿",
+    "decimal": "127295",
+    "hex": "1F13F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅀",
+    "decimal": "127296",
+    "hex": "1F140",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅁",
+    "decimal": "127297",
+    "hex": "1F141",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅂",
+    "decimal": "127298",
+    "hex": "1F142",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅃",
+    "decimal": "127299",
+    "hex": "1F143",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅄",
+    "decimal": "127300",
+    "hex": "1F144",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅅",
+    "decimal": "127301",
+    "hex": "1F145",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅆",
+    "decimal": "127302",
+    "hex": "1F146",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅇",
+    "decimal": "127303",
+    "hex": "1F147",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅈",
+    "decimal": "127304",
+    "hex": "1F148",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅉",
+    "decimal": "127305",
+    "hex": "1F149",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅊",
+    "decimal": "127306",
+    "hex": "1F14A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅋",
+    "decimal": "127307",
+    "hex": "1F14B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅌",
+    "decimal": "127308",
+    "hex": "1F14C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅍",
+    "decimal": "127309",
+    "hex": "1F14D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅎",
+    "decimal": "127310",
+    "hex": "1F14E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅏",
+    "decimal": "127311",
+    "hex": "1F14F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅐",
+    "decimal": "127312",
+    "hex": "1F150",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅑",
+    "decimal": "127313",
+    "hex": "1F151",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅒",
+    "decimal": "127314",
+    "hex": "1F152",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅓",
+    "decimal": "127315",
+    "hex": "1F153",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅔",
+    "decimal": "127316",
+    "hex": "1F154",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅕",
+    "decimal": "127317",
+    "hex": "1F155",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅖",
+    "decimal": "127318",
+    "hex": "1F156",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅗",
+    "decimal": "127319",
+    "hex": "1F157",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅘",
+    "decimal": "127320",
+    "hex": "1F158",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅙",
+    "decimal": "127321",
+    "hex": "1F159",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅚",
+    "decimal": "127322",
+    "hex": "1F15A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅛",
+    "decimal": "127323",
+    "hex": "1F15B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅜",
+    "decimal": "127324",
+    "hex": "1F15C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅝",
+    "decimal": "127325",
+    "hex": "1F15D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅞",
+    "decimal": "127326",
+    "hex": "1F15E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅟",
+    "decimal": "127327",
+    "hex": "1F15F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅠",
+    "decimal": "127328",
+    "hex": "1F160",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅡",
+    "decimal": "127329",
+    "hex": "1F161",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅢",
+    "decimal": "127330",
+    "hex": "1F162",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅣",
+    "decimal": "127331",
+    "hex": "1F163",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅤",
+    "decimal": "127332",
+    "hex": "1F164",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅥",
+    "decimal": "127333",
+    "hex": "1F165",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅦",
+    "decimal": "127334",
+    "hex": "1F166",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅧",
+    "decimal": "127335",
+    "hex": "1F167",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅨",
+    "decimal": "127336",
+    "hex": "1F168",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅩",
+    "decimal": "127337",
+    "hex": "1F169",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅪",
+    "decimal": "127338",
+    "hex": "1F16A",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🅫",
+    "decimal": "127339",
+    "hex": "1F16B",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🅬",
+    "decimal": "127340",
+    "hex": "1F16C",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🅭",
+    "decimal": "127341",
+    "hex": "1F16D",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🅮",
+    "decimal": "127342",
+    "hex": "1F16E",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🅯",
+    "decimal": "127343",
+    "hex": "1F16F",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🅰",
+    "decimal": "127344",
+    "hex": "1F170",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅱",
+    "decimal": "127345",
+    "hex": "1F171",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅲",
+    "decimal": "127346",
+    "hex": "1F172",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅳",
+    "decimal": "127347",
+    "hex": "1F173",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅴",
+    "decimal": "127348",
+    "hex": "1F174",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅵",
+    "decimal": "127349",
+    "hex": "1F175",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅶",
+    "decimal": "127350",
+    "hex": "1F176",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅷",
+    "decimal": "127351",
+    "hex": "1F177",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅸",
+    "decimal": "127352",
+    "hex": "1F178",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅹",
+    "decimal": "127353",
+    "hex": "1F179",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅺",
+    "decimal": "127354",
+    "hex": "1F17A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅻",
+    "decimal": "127355",
+    "hex": "1F17B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅼",
+    "decimal": "127356",
+    "hex": "1F17C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅽",
+    "decimal": "127357",
+    "hex": "1F17D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅾",
+    "decimal": "127358",
+    "hex": "1F17E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🅿",
+    "decimal": "127359",
+    "hex": "1F17F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆀",
+    "decimal": "127360",
+    "hex": "1F180",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆁",
+    "decimal": "127361",
+    "hex": "1F181",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆂",
+    "decimal": "127362",
+    "hex": "1F182",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆃",
+    "decimal": "127363",
+    "hex": "1F183",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆄",
+    "decimal": "127364",
+    "hex": "1F184",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆅",
+    "decimal": "127365",
+    "hex": "1F185",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆆",
+    "decimal": "127366",
+    "hex": "1F186",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆇",
+    "decimal": "127367",
+    "hex": "1F187",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆈",
+    "decimal": "127368",
+    "hex": "1F188",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆉",
+    "decimal": "127369",
+    "hex": "1F189",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆊",
+    "decimal": "127370",
+    "hex": "1F18A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆋",
+    "decimal": "127371",
+    "hex": "1F18B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆌",
+    "decimal": "127372",
+    "hex": "1F18C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆍",
+    "decimal": "127373",
+    "hex": "1F18D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆎",
+    "decimal": "127374",
+    "hex": "1F18E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆏",
+    "decimal": "127375",
+    "hex": "1F18F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆐",
+    "decimal": "127376",
+    "hex": "1F190",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆑",
+    "decimal": "127377",
+    "hex": "1F191",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆒",
+    "decimal": "127378",
+    "hex": "1F192",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆓",
+    "decimal": "127379",
+    "hex": "1F193",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆔",
+    "decimal": "127380",
+    "hex": "1F194",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆕",
+    "decimal": "127381",
+    "hex": "1F195",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆖",
+    "decimal": "127382",
+    "hex": "1F196",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆗",
+    "decimal": "127383",
+    "hex": "1F197",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆘",
+    "decimal": "127384",
+    "hex": "1F198",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆙",
+    "decimal": "127385",
+    "hex": "1F199",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆚",
+    "decimal": "127386",
+    "hex": "1F19A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🆛",
+    "decimal": "127387",
+    "hex": "1F19B",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆜",
+    "decimal": "127388",
+    "hex": "1F19C",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆝",
+    "decimal": "127389",
+    "hex": "1F19D",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆞",
+    "decimal": "127390",
+    "hex": "1F19E",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆟",
+    "decimal": "127391",
+    "hex": "1F19F",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆠",
+    "decimal": "127392",
+    "hex": "1F1A0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆡",
+    "decimal": "127393",
+    "hex": "1F1A1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆢",
+    "decimal": "127394",
+    "hex": "1F1A2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆣",
+    "decimal": "127395",
+    "hex": "1F1A3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆤",
+    "decimal": "127396",
+    "hex": "1F1A4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆥",
+    "decimal": "127397",
+    "hex": "1F1A5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆦",
+    "decimal": "127398",
+    "hex": "1F1A6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆧",
+    "decimal": "127399",
+    "hex": "1F1A7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆨",
+    "decimal": "127400",
+    "hex": "1F1A8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆩",
+    "decimal": "127401",
+    "hex": "1F1A9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆪",
+    "decimal": "127402",
+    "hex": "1F1AA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆫",
+    "decimal": "127403",
+    "hex": "1F1AB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆬",
+    "decimal": "127404",
+    "hex": "1F1AC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆭",
+    "decimal": "127405",
+    "hex": "1F1AD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆮",
+    "decimal": "127406",
+    "hex": "1F1AE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆯",
+    "decimal": "127407",
+    "hex": "1F1AF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆰",
+    "decimal": "127408",
+    "hex": "1F1B0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆱",
+    "decimal": "127409",
+    "hex": "1F1B1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆲",
+    "decimal": "127410",
+    "hex": "1F1B2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆳",
+    "decimal": "127411",
+    "hex": "1F1B3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆴",
+    "decimal": "127412",
+    "hex": "1F1B4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆵",
+    "decimal": "127413",
+    "hex": "1F1B5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆶",
+    "decimal": "127414",
+    "hex": "1F1B6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆷",
+    "decimal": "127415",
+    "hex": "1F1B7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆸",
+    "decimal": "127416",
+    "hex": "1F1B8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆹",
+    "decimal": "127417",
+    "hex": "1F1B9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆺",
+    "decimal": "127418",
+    "hex": "1F1BA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆻",
+    "decimal": "127419",
+    "hex": "1F1BB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆼",
+    "decimal": "127420",
+    "hex": "1F1BC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆽",
+    "decimal": "127421",
+    "hex": "1F1BD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆾",
+    "decimal": "127422",
+    "hex": "1F1BE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🆿",
+    "decimal": "127423",
+    "hex": "1F1BF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇀",
+    "decimal": "127424",
+    "hex": "1F1C0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇁",
+    "decimal": "127425",
+    "hex": "1F1C1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇂",
+    "decimal": "127426",
+    "hex": "1F1C2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇃",
+    "decimal": "127427",
+    "hex": "1F1C3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇄",
+    "decimal": "127428",
+    "hex": "1F1C4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇅",
+    "decimal": "127429",
+    "hex": "1F1C5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇆",
+    "decimal": "127430",
+    "hex": "1F1C6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇇",
+    "decimal": "127431",
+    "hex": "1F1C7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇈",
+    "decimal": "127432",
+    "hex": "1F1C8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇉",
+    "decimal": "127433",
+    "hex": "1F1C9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇊",
+    "decimal": "127434",
+    "hex": "1F1CA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇋",
+    "decimal": "127435",
+    "hex": "1F1CB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇌",
+    "decimal": "127436",
+    "hex": "1F1CC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇍",
+    "decimal": "127437",
+    "hex": "1F1CD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇎",
+    "decimal": "127438",
+    "hex": "1F1CE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇏",
+    "decimal": "127439",
+    "hex": "1F1CF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇐",
+    "decimal": "127440",
+    "hex": "1F1D0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇑",
+    "decimal": "127441",
+    "hex": "1F1D1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇒",
+    "decimal": "127442",
+    "hex": "1F1D2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇓",
+    "decimal": "127443",
+    "hex": "1F1D3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇔",
+    "decimal": "127444",
+    "hex": "1F1D4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇕",
+    "decimal": "127445",
+    "hex": "1F1D5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇖",
+    "decimal": "127446",
+    "hex": "1F1D6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇗",
+    "decimal": "127447",
+    "hex": "1F1D7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇘",
+    "decimal": "127448",
+    "hex": "1F1D8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇙",
+    "decimal": "127449",
+    "hex": "1F1D9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇚",
+    "decimal": "127450",
+    "hex": "1F1DA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇛",
+    "decimal": "127451",
+    "hex": "1F1DB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇜",
+    "decimal": "127452",
+    "hex": "1F1DC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇝",
+    "decimal": "127453",
+    "hex": "1F1DD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇞",
+    "decimal": "127454",
+    "hex": "1F1DE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇟",
+    "decimal": "127455",
+    "hex": "1F1DF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇠",
+    "decimal": "127456",
+    "hex": "1F1E0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇡",
+    "decimal": "127457",
+    "hex": "1F1E1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇢",
+    "decimal": "127458",
+    "hex": "1F1E2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇣",
+    "decimal": "127459",
+    "hex": "1F1E3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇤",
+    "decimal": "127460",
+    "hex": "1F1E4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇥",
+    "decimal": "127461",
+    "hex": "1F1E5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🇦",
+    "decimal": "127462",
+    "hex": "1F1E6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇧",
+    "decimal": "127463",
+    "hex": "1F1E7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇨",
+    "decimal": "127464",
+    "hex": "1F1E8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇩",
+    "decimal": "127465",
+    "hex": "1F1E9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇪",
+    "decimal": "127466",
+    "hex": "1F1EA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇫",
+    "decimal": "127467",
+    "hex": "1F1EB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇬",
+    "decimal": "127468",
+    "hex": "1F1EC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇭",
+    "decimal": "127469",
+    "hex": "1F1ED",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇮",
+    "decimal": "127470",
+    "hex": "1F1EE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇯",
+    "decimal": "127471",
+    "hex": "1F1EF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇰",
+    "decimal": "127472",
+    "hex": "1F1F0",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇱",
+    "decimal": "127473",
+    "hex": "1F1F1",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇲",
+    "decimal": "127474",
+    "hex": "1F1F2",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇳",
+    "decimal": "127475",
+    "hex": "1F1F3",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇴",
+    "decimal": "127476",
+    "hex": "1F1F4",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇵",
+    "decimal": "127477",
+    "hex": "1F1F5",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇶",
+    "decimal": "127478",
+    "hex": "1F1F6",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇷",
+    "decimal": "127479",
+    "hex": "1F1F7",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇸",
+    "decimal": "127480",
+    "hex": "1F1F8",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇹",
+    "decimal": "127481",
+    "hex": "1F1F9",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇺",
+    "decimal": "127482",
+    "hex": "1F1FA",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇻",
+    "decimal": "127483",
+    "hex": "1F1FB",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇼",
+    "decimal": "127484",
+    "hex": "1F1FC",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇽",
+    "decimal": "127485",
+    "hex": "1F1FD",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇾",
+    "decimal": "127486",
+    "hex": "1F1FE",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🇿",
+    "decimal": "127487",
+    "hex": "1F1FF",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈀",
+    "decimal": "127488",
+    "hex": "1F200",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈁",
+    "decimal": "127489",
+    "hex": "1F201",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈂",
+    "decimal": "127490",
+    "hex": "1F202",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈃",
+    "decimal": "127491",
+    "hex": "1F203",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈄",
+    "decimal": "127492",
+    "hex": "1F204",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈅",
+    "decimal": "127493",
+    "hex": "1F205",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈆",
+    "decimal": "127494",
+    "hex": "1F206",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈇",
+    "decimal": "127495",
+    "hex": "1F207",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈈",
+    "decimal": "127496",
+    "hex": "1F208",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈉",
+    "decimal": "127497",
+    "hex": "1F209",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈊",
+    "decimal": "127498",
+    "hex": "1F20A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈋",
+    "decimal": "127499",
+    "hex": "1F20B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈌",
+    "decimal": "127500",
+    "hex": "1F20C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈍",
+    "decimal": "127501",
+    "hex": "1F20D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈎",
+    "decimal": "127502",
+    "hex": "1F20E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈏",
+    "decimal": "127503",
+    "hex": "1F20F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈐",
+    "decimal": "127504",
+    "hex": "1F210",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈑",
+    "decimal": "127505",
+    "hex": "1F211",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈒",
+    "decimal": "127506",
+    "hex": "1F212",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈓",
+    "decimal": "127507",
+    "hex": "1F213",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈔",
+    "decimal": "127508",
+    "hex": "1F214",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈕",
+    "decimal": "127509",
+    "hex": "1F215",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈖",
+    "decimal": "127510",
+    "hex": "1F216",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈗",
+    "decimal": "127511",
+    "hex": "1F217",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈘",
+    "decimal": "127512",
+    "hex": "1F218",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈙",
+    "decimal": "127513",
+    "hex": "1F219",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈚",
+    "decimal": "127514",
+    "hex": "1F21A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈛",
+    "decimal": "127515",
+    "hex": "1F21B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈜",
+    "decimal": "127516",
+    "hex": "1F21C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈝",
+    "decimal": "127517",
+    "hex": "1F21D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈞",
+    "decimal": "127518",
+    "hex": "1F21E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈟",
+    "decimal": "127519",
+    "hex": "1F21F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈠",
+    "decimal": "127520",
+    "hex": "1F220",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈡",
+    "decimal": "127521",
+    "hex": "1F221",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈢",
+    "decimal": "127522",
+    "hex": "1F222",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈣",
+    "decimal": "127523",
+    "hex": "1F223",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈤",
+    "decimal": "127524",
+    "hex": "1F224",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈥",
+    "decimal": "127525",
+    "hex": "1F225",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈦",
+    "decimal": "127526",
+    "hex": "1F226",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈧",
+    "decimal": "127527",
+    "hex": "1F227",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈨",
+    "decimal": "127528",
+    "hex": "1F228",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈩",
+    "decimal": "127529",
+    "hex": "1F229",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈪",
+    "decimal": "127530",
+    "hex": "1F22A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈫",
+    "decimal": "127531",
+    "hex": "1F22B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈬",
+    "decimal": "127532",
+    "hex": "1F22C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈭",
+    "decimal": "127533",
+    "hex": "1F22D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈮",
+    "decimal": "127534",
+    "hex": "1F22E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈯",
+    "decimal": "127535",
+    "hex": "1F22F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈰",
+    "decimal": "127536",
+    "hex": "1F230",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈱",
+    "decimal": "127537",
+    "hex": "1F231",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈲",
+    "decimal": "127538",
+    "hex": "1F232",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈳",
+    "decimal": "127539",
+    "hex": "1F233",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈴",
+    "decimal": "127540",
+    "hex": "1F234",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈵",
+    "decimal": "127541",
+    "hex": "1F235",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈶",
+    "decimal": "127542",
+    "hex": "1F236",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈷",
+    "decimal": "127543",
+    "hex": "1F237",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈸",
+    "decimal": "127544",
+    "hex": "1F238",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈹",
+    "decimal": "127545",
+    "hex": "1F239",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈺",
+    "decimal": "127546",
+    "hex": "1F23A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈻",
+    "decimal": "127547",
+    "hex": "1F23B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈼",
+    "decimal": "127548",
+    "hex": "1F23C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈽",
+    "decimal": "127549",
+    "hex": "1F23D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈾",
+    "decimal": "127550",
+    "hex": "1F23E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🈿",
+    "decimal": "127551",
+    "hex": "1F23F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉀",
+    "decimal": "127552",
+    "hex": "1F240",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉁",
+    "decimal": "127553",
+    "hex": "1F241",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉂",
+    "decimal": "127554",
+    "hex": "1F242",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉃",
+    "decimal": "127555",
+    "hex": "1F243",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉄",
+    "decimal": "127556",
+    "hex": "1F244",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉅",
+    "decimal": "127557",
+    "hex": "1F245",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉆",
+    "decimal": "127558",
+    "hex": "1F246",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉇",
+    "decimal": "127559",
+    "hex": "1F247",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉈",
+    "decimal": "127560",
+    "hex": "1F248",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉉",
+    "decimal": "127561",
+    "hex": "1F249",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉊",
+    "decimal": "127562",
+    "hex": "1F24A",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉋",
+    "decimal": "127563",
+    "hex": "1F24B",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉌",
+    "decimal": "127564",
+    "hex": "1F24C",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉍",
+    "decimal": "127565",
+    "hex": "1F24D",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉎",
+    "decimal": "127566",
+    "hex": "1F24E",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉏",
+    "decimal": "127567",
+    "hex": "1F24F",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉐",
+    "decimal": "127568",
+    "hex": "1F250",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉑",
+    "decimal": "127569",
+    "hex": "1F251",
+    "entity": "",
+    "description": "",
+    "note": ""
+  },
+  {
+    "character": "🉒",
+    "decimal": "127570",
+    "hex": "1F252",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉓",
+    "decimal": "127571",
+    "hex": "1F253",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉔",
+    "decimal": "127572",
+    "hex": "1F254",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉕",
+    "decimal": "127573",
+    "hex": "1F255",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉖",
+    "decimal": "127574",
+    "hex": "1F256",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉗",
+    "decimal": "127575",
+    "hex": "1F257",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉘",
+    "decimal": "127576",
+    "hex": "1F258",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉙",
+    "decimal": "127577",
+    "hex": "1F259",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉚",
+    "decimal": "127578",
+    "hex": "1F25A",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉛",
+    "decimal": "127579",
+    "hex": "1F25B",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉜",
+    "decimal": "127580",
+    "hex": "1F25C",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉝",
+    "decimal": "127581",
+    "hex": "1F25D",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉞",
+    "decimal": "127582",
+    "hex": "1F25E",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉟",
+    "decimal": "127583",
+    "hex": "1F25F",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉠",
+    "decimal": "127584",
+    "hex": "1F260",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉡",
+    "decimal": "127585",
+    "hex": "1F261",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉢",
+    "decimal": "127586",
+    "hex": "1F262",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉣",
+    "decimal": "127587",
+    "hex": "1F263",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉤",
+    "decimal": "127588",
+    "hex": "1F264",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉥",
+    "decimal": "127589",
+    "hex": "1F265",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉦",
+    "decimal": "127590",
+    "hex": "1F266",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉧",
+    "decimal": "127591",
+    "hex": "1F267",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉨",
+    "decimal": "127592",
+    "hex": "1F268",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉩",
+    "decimal": "127593",
+    "hex": "1F269",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉪",
+    "decimal": "127594",
+    "hex": "1F26A",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉫",
+    "decimal": "127595",
+    "hex": "1F26B",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉬",
+    "decimal": "127596",
+    "hex": "1F26C",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉭",
+    "decimal": "127597",
+    "hex": "1F26D",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉮",
+    "decimal": "127598",
+    "hex": "1F26E",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉯",
+    "decimal": "127599",
+    "hex": "1F26F",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉰",
+    "decimal": "127600",
+    "hex": "1F270",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉱",
+    "decimal": "127601",
+    "hex": "1F271",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉲",
+    "decimal": "127602",
+    "hex": "1F272",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉳",
+    "decimal": "127603",
+    "hex": "1F273",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉴",
+    "decimal": "127604",
+    "hex": "1F274",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉵",
+    "decimal": "127605",
+    "hex": "1F275",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉶",
+    "decimal": "127606",
+    "hex": "1F276",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉷",
+    "decimal": "127607",
+    "hex": "1F277",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉸",
+    "decimal": "127608",
+    "hex": "1F278",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉹",
+    "decimal": "127609",
+    "hex": "1F279",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉺",
+    "decimal": "127610",
+    "hex": "1F27A",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉻",
+    "decimal": "127611",
+    "hex": "1F27B",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉼",
+    "decimal": "127612",
+    "hex": "1F27C",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉽",
+    "decimal": "127613",
+    "hex": "1F27D",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉾",
+    "decimal": "127614",
+    "hex": "1F27E",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🉿",
+    "decimal": "127615",
+    "hex": "1F27F",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊀",
+    "decimal": "127616",
+    "hex": "1F280",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊁",
+    "decimal": "127617",
+    "hex": "1F281",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊂",
+    "decimal": "127618",
+    "hex": "1F282",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊃",
+    "decimal": "127619",
+    "hex": "1F283",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊄",
+    "decimal": "127620",
+    "hex": "1F284",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊅",
+    "decimal": "127621",
+    "hex": "1F285",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊆",
+    "decimal": "127622",
+    "hex": "1F286",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊇",
+    "decimal": "127623",
+    "hex": "1F287",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊈",
+    "decimal": "127624",
+    "hex": "1F288",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊉",
+    "decimal": "127625",
+    "hex": "1F289",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊊",
+    "decimal": "127626",
+    "hex": "1F28A",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊋",
+    "decimal": "127627",
+    "hex": "1F28B",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊌",
+    "decimal": "127628",
+    "hex": "1F28C",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊍",
+    "decimal": "127629",
+    "hex": "1F28D",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊎",
+    "decimal": "127630",
+    "hex": "1F28E",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊏",
+    "decimal": "127631",
+    "hex": "1F28F",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊐",
+    "decimal": "127632",
+    "hex": "1F290",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊑",
+    "decimal": "127633",
+    "hex": "1F291",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊒",
+    "decimal": "127634",
+    "hex": "1F292",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊓",
+    "decimal": "127635",
+    "hex": "1F293",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊔",
+    "decimal": "127636",
+    "hex": "1F294",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊕",
+    "decimal": "127637",
+    "hex": "1F295",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊖",
+    "decimal": "127638",
+    "hex": "1F296",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊗",
+    "decimal": "127639",
+    "hex": "1F297",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊘",
+    "decimal": "127640",
+    "hex": "1F298",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊙",
+    "decimal": "127641",
+    "hex": "1F299",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊚",
+    "decimal": "127642",
+    "hex": "1F29A",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊛",
+    "decimal": "127643",
+    "hex": "1F29B",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊜",
+    "decimal": "127644",
+    "hex": "1F29C",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊝",
+    "decimal": "127645",
+    "hex": "1F29D",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊞",
+    "decimal": "127646",
+    "hex": "1F29E",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊟",
+    "decimal": "127647",
+    "hex": "1F29F",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊠",
+    "decimal": "127648",
+    "hex": "1F2A0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊡",
+    "decimal": "127649",
+    "hex": "1F2A1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊢",
+    "decimal": "127650",
+    "hex": "1F2A2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊣",
+    "decimal": "127651",
+    "hex": "1F2A3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊤",
+    "decimal": "127652",
+    "hex": "1F2A4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊥",
+    "decimal": "127653",
+    "hex": "1F2A5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊦",
+    "decimal": "127654",
+    "hex": "1F2A6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊧",
+    "decimal": "127655",
+    "hex": "1F2A7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊨",
+    "decimal": "127656",
+    "hex": "1F2A8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊩",
+    "decimal": "127657",
+    "hex": "1F2A9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊪",
+    "decimal": "127658",
+    "hex": "1F2AA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊫",
+    "decimal": "127659",
+    "hex": "1F2AB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊬",
+    "decimal": "127660",
+    "hex": "1F2AC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊭",
+    "decimal": "127661",
+    "hex": "1F2AD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊮",
+    "decimal": "127662",
+    "hex": "1F2AE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊯",
+    "decimal": "127663",
+    "hex": "1F2AF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊰",
+    "decimal": "127664",
+    "hex": "1F2B0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊱",
+    "decimal": "127665",
+    "hex": "1F2B1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊲",
+    "decimal": "127666",
+    "hex": "1F2B2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊳",
+    "decimal": "127667",
+    "hex": "1F2B3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊴",
+    "decimal": "127668",
+    "hex": "1F2B4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊵",
+    "decimal": "127669",
+    "hex": "1F2B5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊶",
+    "decimal": "127670",
+    "hex": "1F2B6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊷",
+    "decimal": "127671",
+    "hex": "1F2B7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊸",
+    "decimal": "127672",
+    "hex": "1F2B8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊹",
+    "decimal": "127673",
+    "hex": "1F2B9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊺",
+    "decimal": "127674",
+    "hex": "1F2BA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊻",
+    "decimal": "127675",
+    "hex": "1F2BB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊼",
+    "decimal": "127676",
+    "hex": "1F2BC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊽",
+    "decimal": "127677",
+    "hex": "1F2BD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊾",
+    "decimal": "127678",
+    "hex": "1F2BE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🊿",
+    "decimal": "127679",
+    "hex": "1F2BF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋀",
+    "decimal": "127680",
+    "hex": "1F2C0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋁",
+    "decimal": "127681",
+    "hex": "1F2C1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋂",
+    "decimal": "127682",
+    "hex": "1F2C2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋃",
+    "decimal": "127683",
+    "hex": "1F2C3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋄",
+    "decimal": "127684",
+    "hex": "1F2C4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋅",
+    "decimal": "127685",
+    "hex": "1F2C5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋆",
+    "decimal": "127686",
+    "hex": "1F2C6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋇",
+    "decimal": "127687",
+    "hex": "1F2C7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋈",
+    "decimal": "127688",
+    "hex": "1F2C8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋉",
+    "decimal": "127689",
+    "hex": "1F2C9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋊",
+    "decimal": "127690",
+    "hex": "1F2CA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋋",
+    "decimal": "127691",
+    "hex": "1F2CB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋌",
+    "decimal": "127692",
+    "hex": "1F2CC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋍",
+    "decimal": "127693",
+    "hex": "1F2CD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋎",
+    "decimal": "127694",
+    "hex": "1F2CE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋏",
+    "decimal": "127695",
+    "hex": "1F2CF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋐",
+    "decimal": "127696",
+    "hex": "1F2D0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋑",
+    "decimal": "127697",
+    "hex": "1F2D1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋒",
+    "decimal": "127698",
+    "hex": "1F2D2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋓",
+    "decimal": "127699",
+    "hex": "1F2D3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋔",
+    "decimal": "127700",
+    "hex": "1F2D4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋕",
+    "decimal": "127701",
+    "hex": "1F2D5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋖",
+    "decimal": "127702",
+    "hex": "1F2D6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋗",
+    "decimal": "127703",
+    "hex": "1F2D7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋘",
+    "decimal": "127704",
+    "hex": "1F2D8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋙",
+    "decimal": "127705",
+    "hex": "1F2D9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋚",
+    "decimal": "127706",
+    "hex": "1F2DA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋛",
+    "decimal": "127707",
+    "hex": "1F2DB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋜",
+    "decimal": "127708",
+    "hex": "1F2DC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋝",
+    "decimal": "127709",
+    "hex": "1F2DD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋞",
+    "decimal": "127710",
+    "hex": "1F2DE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋟",
+    "decimal": "127711",
+    "hex": "1F2DF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋠",
+    "decimal": "127712",
+    "hex": "1F2E0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋡",
+    "decimal": "127713",
+    "hex": "1F2E1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋢",
+    "decimal": "127714",
+    "hex": "1F2E2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋣",
+    "decimal": "127715",
+    "hex": "1F2E3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋤",
+    "decimal": "127716",
+    "hex": "1F2E4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋥",
+    "decimal": "127717",
+    "hex": "1F2E5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋦",
+    "decimal": "127718",
+    "hex": "1F2E6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋧",
+    "decimal": "127719",
+    "hex": "1F2E7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋨",
+    "decimal": "127720",
+    "hex": "1F2E8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋩",
+    "decimal": "127721",
+    "hex": "1F2E9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋪",
+    "decimal": "127722",
+    "hex": "1F2EA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋫",
+    "decimal": "127723",
+    "hex": "1F2EB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋬",
+    "decimal": "127724",
+    "hex": "1F2EC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋭",
+    "decimal": "127725",
+    "hex": "1F2ED",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋮",
+    "decimal": "127726",
+    "hex": "1F2EE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋯",
+    "decimal": "127727",
+    "hex": "1F2EF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋰",
+    "decimal": "127728",
+    "hex": "1F2F0",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋱",
+    "decimal": "127729",
+    "hex": "1F2F1",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋲",
+    "decimal": "127730",
+    "hex": "1F2F2",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋳",
+    "decimal": "127731",
+    "hex": "1F2F3",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋴",
+    "decimal": "127732",
+    "hex": "1F2F4",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋵",
+    "decimal": "127733",
+    "hex": "1F2F5",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋶",
+    "decimal": "127734",
+    "hex": "1F2F6",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋷",
+    "decimal": "127735",
+    "hex": "1F2F7",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋸",
+    "decimal": "127736",
+    "hex": "1F2F8",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋹",
+    "decimal": "127737",
+    "hex": "1F2F9",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋺",
+    "decimal": "127738",
+    "hex": "1F2FA",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋻",
+    "decimal": "127739",
+    "hex": "1F2FB",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋼",
+    "decimal": "127740",
+    "hex": "1F2FC",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋽",
+    "decimal": "127741",
+    "hex": "1F2FD",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋾",
+    "decimal": "127742",
+    "hex": "1F2FE",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  },
+  {
+    "character": "🋿",
+    "decimal": "127743",
+    "hex": "1F2FF",
+    "entity": "",
+    "description": "",
+    "note": "Not in Use"
+  }
+]

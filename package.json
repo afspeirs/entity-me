@@ -1,0 +1,30 @@
+{
+  "name": "entity-me",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "postbuild": "npm run generate:webmanifest",
+    "preview": "vite preview",
+    "generate:service-worker": "workbox generateSW workbox.config.js",
+    "generate:webmanifest": "node ./scripts/webmanifest",
+    "pwa": "npm run build && npm run preview",
+    "lint": "eslint . --ext .js",
+    "outdated": "npx npm-check-updates -t minor",
+    "update": "npm run outdated -- -u"
+  },
+  "devDependencies": {
+    "@sveltejs/svelte-virtual-list": "^3.0.1",
+    "@sveltejs/vite-plugin-svelte": "^3.0.1",
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "svelte": "^4.2.8",
+    "tailwindcss": "^3.3.7",
+    "tailwindcss-safe-area": "^0.4.1",
+    "vite": "^5.0.8"
+  }
+}
