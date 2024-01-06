@@ -17,6 +17,7 @@
     "update": "npm run outdated -- -u"
   },
   "devDependencies": {
+    "@iconify/svelte": "^3.1.6",
     "@sveltejs/svelte-virtual-list": "^3.0.1",
     "@sveltejs/vite-plugin-svelte": "^3.0.1",
     "@tailwindcss/typography": "^0.5.10",
