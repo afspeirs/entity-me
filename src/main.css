@@ -10,6 +10,10 @@
     text-size-adjust: 100%;
   }
 
+  input[type="search"]::-webkit-search-cancel-button {
+    display: none;
+  }
+
   /* Scrollbar styles */
   ::-webkit-scrollbar {
     max-width: 8px;

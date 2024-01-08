@@ -22,6 +22,7 @@
 
     <!-- svelte-ignore a11y-autofocus -->
     <button
+      type="button"
       autofocus
       on:click={() => dialog.close()}
       class="absolute top-2 right-2 bg-white rounded focus-visible"
