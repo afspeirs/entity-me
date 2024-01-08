@@ -2,6 +2,7 @@
   import { headings } from '../entities';
   import { currentCategory } from '../stores/current-category';
   import { hiddenColumns } from '../stores/hidden-columns';
+  import { search } from '../stores/search';
   import { classNames } from '../utils/classNames';
   import TableCell from './TableCell.svelte';
   import TableHeader from './TableHeader.svelte';
@@ -36,7 +37,15 @@
                   <TableCell colspan="6">Loading...</TableCell>
                 </tr>
               {:then items}
-                {#each items[$currentCategory] as entity, entityIdx}
+                {@const filteredItems = items[$currentCategory].filter((item) => (
+                  item.character.includes($search)
+                  || item.decimal.includes($search)
+                  || item.hex.includes($search)
+                  || item.entity.includes($search)
+                  || item.description.toLowerCase().includes($search.toLowerCase())
+                  || item.note.toLowerCase().includes($search.toLowerCase())
+                ))}
+                {#each filteredItems as entity, entityIdx}
                   <tr class={classNames(entityIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}>
                     <TableCell hidden={$hiddenColumns.includes('character')}>{entity.character}</TableCell>
                     <TableCell hidden={$hiddenColumns.includes('decimal')}>{`&#${entity.decimal || '-'};`}</TableCell>
