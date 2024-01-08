@@ -15,7 +15,7 @@
     name="search"
     id="search"
     bind:value={$search}
-    class="block w-full rounded-none rounded-l-md border-0 py-1.5 pl-10 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus-visible"
+    class="block w-full rounded-none rounded-l-md max-sm:rounded-r-md border-0 py-1.5 pl-10 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus-visible"
     placeholder="Search entities"
   />
   <div class="absolute inset-y-0 right-0">

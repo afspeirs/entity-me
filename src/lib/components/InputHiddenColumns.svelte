@@ -14,19 +14,15 @@
   }
 </script>
 
-<div class="relative flex">
-  <span class="inline-block w-full rounded-md shadow-sm">
-    <button
-      use:listbox.button
-      on:select={onSelect}
-      type="button"
-      class="relative -ml-px inline-flex items-center gap-x-1.5 rounded-r-md px-3 py-2 text-sm font-semibold bg-white text-gray-900 ring-1 ring-inset ring-gray-300 focus-visible hover:bg-gray-50"
-    >
-      <div class="flex flex-wrap gap-2">
-        Hidden Columns ({$listbox.selected.length}/{headings.length})
-      </div>
-    </button>
-  </span>
+<div class="relative flex max-sm:w-full">
+  <button
+    use:listbox.button
+    type="button"
+    on:select={onSelect}
+    class="relative -ml-px flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 rounded-r-md px-3 py-2 text-sm font-semibold bg-white text-gray-900 ring-1 ring-inset ring-gray-300 focus-visible hover:bg-gray-50"
+  >
+    Hidden Columns ({$listbox.selected.length}/{headings.length})
+  </button>
 
   <Transition show={$listbox.expanded} leave="transition ease-in duration-100" leaveFrom="opacity-100" leaveTo="opacity-0">
     <ul

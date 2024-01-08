@@ -4,12 +4,11 @@
   import Search from './Search.svelte';
 </script>
 
-<header class="bg-primary text-light w-full h-32 lg:h-20 drag select-none">
-  <div class="absolute left-titlebar-area-x top-titlebar-area-y w-titlebar-area-width flex flex-col lg:flex-row h-[inherit] items-center gap-6 p-4">
-    <h1 class="text-3xl">EntityMe</h1>
-
-    <div class="flex flex-wrap no-drag w-full">
-      <Search />
+<header class="relative bg-primary text-light w-full select-none">
+  <h1 class="relative left-titlebar-area-x top-titlebar-area-y w-titlebar-area-width flex justify-center drag px-4 pt-4 text-3xl">EntityMe</h1>
+  <div class="flex flex-wrap max-sm:flex-col w-full p-4 gap-y-1">
+    <Search />
+    <div class="flex">
       <InputCurrentCategory />
       <InputHiddenColumns />
     </div>
