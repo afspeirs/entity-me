@@ -6,8 +6,27 @@
   import { classNames } from '../utils/classNames';
   import TableCell from './TableCell.svelte';
   import TableHeader from './TableHeader.svelte';
+  import TablePagination from './TablePagination.svelte';
 
-  const entities = import('../entities');
+  async function getEntities(category) {
+    const entities = await import('../entities');
+    return entities[category];
+  }
+
+  function filter(items) {
+    if (!items) return [];
+    return items.filter((item) => (
+      item.character.includes($search)
+      || item.decimal.includes($search)
+      || item.hex.includes($search)
+      || item.entity.includes($search)
+      || item.description.toLowerCase().includes($search.toLowerCase())
+      || item.note.toLowerCase().includes($search.toLowerCase())
+    )) || [];
+  }
+
+  let values;
+  $: entities = getEntities($currentCategory);
 </script>
 
 <div class="px-4 sm:px-6">
@@ -37,14 +56,7 @@
                   <TableCell colspan="6">Loading...</TableCell>
                 </tr>
               {:then items}
-                {@const filteredItems = items[$currentCategory].filter((item) => (
-                  item.character.includes($search)
-                  || item.decimal.includes($search)
-                  || item.hex.includes($search)
-                  || item.entity.includes($search)
-                  || item.description.toLowerCase().includes($search.toLowerCase())
-                  || item.note.toLowerCase().includes($search.toLowerCase())
-                ))}
+                {@const filteredItems = filter(values)}
                 {#each filteredItems as entity, entityIdx}
                   <tr class={classNames(entityIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}>
                     <TableCell hidden={$hiddenColumns.includes('character')}>{entity.character}</TableCell>
@@ -62,6 +74,14 @@
               {/await}
             </tbody>
           </table>
+          {#key $search}
+            {#await entities then items}
+              <TablePagination
+                items={filter(items)}
+                bind:trimmedData={values}
+              />
+            {/await}
+          {/key}
         </div>
       </div>
     </div>
