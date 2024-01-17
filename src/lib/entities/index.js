@@ -28,6 +28,10 @@ export const headings = Object.keys(latinBasic[0]);
 
 export const categories = [
   {
+    value: 'default',
+    label: 'All',
+  },
+  {
     value: 'latinBasic',
     label: 'latin basic',
   },
@@ -126,10 +130,6 @@ export const categories = [
   {
     value: 'coloredSymbols',
     label: 'colored symbols',
-  },
-  {
-    value: 'default',
-    label: 'All (EXPERIMENTAL)',
   },
 ];
 
