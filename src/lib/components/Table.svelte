@@ -16,12 +16,12 @@
   function filter(items) {
     if (!items) return [];
     return items.filter((item) => (
-      item.character.includes($search)
-      || item.decimal.includes($search)
-      || item.hex.includes($search)
-      || item.entity.includes($search)
-      || item.description.toLowerCase().includes($search.toLowerCase())
-      || item.note.toLowerCase().includes($search.toLowerCase())
+      item.character?.includes($search)
+      || item.decimal?.includes($search)
+      || item.hex?.includes($search)
+      || item.entity?.includes($search)
+      || item.description?.toLowerCase()?.includes($search.toLowerCase())
+      || item.note?.toLowerCase()?.includes($search.toLowerCase())
     )) || [];
   }
 
