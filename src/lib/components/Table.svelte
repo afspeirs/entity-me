@@ -57,6 +57,9 @@
                 </tr>
               {:then items}
                 {@const filteredItems = filter(values)}
+                {#if filteredItems.length === 0}
+                  <TableCell colspan="6">No results found for "{$search}"</TableCell>
+                {/if}
                 {#each filteredItems as entity, entityIdx}
                   <tr class={classNames(entityIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}>
                     <TableCell hidden={$hiddenColumns.includes('character')}>{entity.character}</TableCell>
