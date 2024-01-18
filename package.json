@@ -14,7 +14,7 @@
     "generate:webmanifest": "node ./scripts/webmanifest",
     "pwa": "npm run build && npm run preview",
     "lint": "eslint . --ext .js",
-    "semantic-release:dry": "GITHUB_TOKEN='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' semantic-release --dry-run --no-ci",
+    "semantic-release:dry": "semantic-release --dry-run --no-ci",
     "outdated": "npx npm-check-updates -t minor",
     "update": "npm run outdated -- -u"
   },
