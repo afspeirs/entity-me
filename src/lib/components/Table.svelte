@@ -62,12 +62,12 @@
                 {/if}
                 {#each filteredItems as entity, entityIdx}
                   <tr class={classNames(entityIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}>
-                    <TableCell hidden={$hiddenColumns.includes('character')}>{entity.character}</TableCell>
-                    <TableCell hidden={$hiddenColumns.includes('decimal')}>{`&#${entity.decimal || '-'};`}</TableCell>
-                    <TableCell hidden={$hiddenColumns.includes('hex')}>{`&#x${entity.hex.padStart(4, '0') || '-'};`}</TableCell>
-                    <TableCell hidden={$hiddenColumns.includes('entity')}>{entity.entity || '-'}</TableCell>
-                    <TableCell hidden={$hiddenColumns.includes('description')}>{entity.description || '-'}</TableCell>
-                    <TableCell hidden={$hiddenColumns.includes('note')}>{entity.note || '-'}</TableCell>
+                    <TableCell hidden={$hiddenColumns.includes('character')} label={entity.character} />
+                    <TableCell hidden={$hiddenColumns.includes('decimal')} label={`&#${entity.decimal};`} />
+                    <TableCell hidden={$hiddenColumns.includes('hex')} label={`&#x${entity.hex.padStart(4, '0')};`} />
+                    <TableCell hidden={$hiddenColumns.includes('entity')} label={entity.entity} />
+                    <TableCell hidden={$hiddenColumns.includes('description')} label={entity.description} />
+                    <TableCell hidden={$hiddenColumns.includes('note')} label={entity.note} />
                   </tr>
                 {/each}
               {:catch error}
