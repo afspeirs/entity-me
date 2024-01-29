@@ -1,4 +1,6 @@
 <script>
+  import { SvelteToast } from '@zerodevx/svelte-toast';
+
   import Header from './lib/components/Header.svelte';
   import Table from './lib/components/Table.svelte';
 </script>
@@ -14,3 +16,19 @@
     <Table />
   </main>
 </div>
+
+<SvelteToast
+  options={{
+    reversed: true,
+    intro: { y: 192 },
+  }}
+/>
+
+<style>
+  :root {
+    --toastContainerTop: auto;
+    --toastContainerRight: 1rem;
+    --toastContainerBottom: 1rem;
+    --toastContainerLeft: auto;
+  }
+</style>

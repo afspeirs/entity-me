@@ -25,6 +25,7 @@
     "@sveltejs/svelte-virtual-list": "^3.0.1",
     "@sveltejs/vite-plugin-svelte": "^3.0.1",
     "@tailwindcss/typography": "^0.5.10",
+    "@zerodevx/svelte-toast": "^0.9.5",
     "autoprefixer": "^10.4.17",
     "postcss": "^8.4.33",
     "semantic-release": "^23.0.0",
