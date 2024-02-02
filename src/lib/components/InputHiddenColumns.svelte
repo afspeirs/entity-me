@@ -6,7 +6,7 @@
   import { headings } from '../entities';
   import { hiddenColumns } from '../stores/hidden-columns';
 
-  const listbox = createListbox({ label: 'hidden-columns', selected: ['note'] })
+  const listbox = createListbox({ label: 'hidden-columns', selected: $hiddenColumns })
 
   function onSelect(e) {
     const newValue = e.detail.selected;
