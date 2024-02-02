@@ -11,7 +11,7 @@
       <sup class="absolute text-sm whitespace-nowrap">{import.meta.env.APP_VERSION}</sup>
     </h1>
   </div>
-  <div class="flex flex-wrap max-sm:flex-col w-full p-4 gap-y-1">
+  <div class="flex flex-wrap max-sm:flex-col w-full p-4">
     <Search />
     <div class="flex">
       <InputCurrentCategory />

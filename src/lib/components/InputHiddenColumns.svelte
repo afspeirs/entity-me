@@ -19,7 +19,7 @@
     use:listbox.button
     type="button"
     on:select={onSelect}
-    class="relative -ml-px flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 rounded-r-md px-3 py-2 text-sm font-semibold bg-white text-gray-900 ring-1 ring-inset ring-gray-300 focus-visible hover:bg-gray-50"
+    class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 rounded-br-md sm:rounded-r-md px-3 py-2 text-sm font-semibold bg-white text-gray-900 ring-1 ring-inset ring-gray-300 focus-visible hover:bg-gray-50"
   >
     Hidden Columns ({$listbox.selected.length}/{headings.length})
   </button>
