@@ -1,7 +1,18 @@
 <script>
   import Icon from "@iconify/svelte";
   import { search } from "../stores/search";
+
+  let input;
 </script>
+
+<svelte:window
+  on:keydown={(e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
+      e.preventDefault();
+      input.focus()
+    }
+  }}
+/>
 
 <div class="relative flex flex-grow items-stretch">
   <label for="search" class="sr-only">
@@ -14,6 +25,7 @@
     type="search"
     name="search"
     id="search"
+    bind:this={input}
     bind:value={$search}
     class="block w-full rounded-none rounded-l-md max-sm:rounded-r-md border-0 py-1.5 pl-10 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus-visible"
     placeholder="Search entities"
