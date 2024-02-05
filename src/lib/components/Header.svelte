@@ -8,6 +8,7 @@
 <header class="relative bg-primary text-light w-full select-none">
   <div class="relative left-titlebar-area-x top-titlebar-area-y w-titlebar-area-width flex justify-center drag px-4 pt-4 text-3xl">
     <h1>EntityMe</h1>
+    -2
   </div>
   <HeaderMenu />
   <div class="flex flex-wrap max-sm:flex-col w-full p-4">

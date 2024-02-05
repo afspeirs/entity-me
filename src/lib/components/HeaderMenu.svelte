@@ -8,7 +8,9 @@
 
   const menu = createMenu({ label: 'Actions' });
 
-  const groups = [
+  // $: updateText = $updateAvailable ? 'Update' : 'Check for update';
+
+  let groups = [
     [
       {
         icon: 'wrench',
@@ -23,6 +25,11 @@
       },
     ],
   ];
+
+  // Very hacky thing to get svelte to update the #each for me
+  updateAvailable.subscribe((value) => {
+    groups[1][0].text = value ? 'Update' : 'Check for update';
+  });
 </script>
 
 <div class="absolute left-titlebar-area-x top-titlebar-area-y z-50 no-drag">
@@ -48,24 +55,26 @@
       use:menu.items
       class="absolute left-2 w-56 origin-top-left mt-1 divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
     >
-      {#each groups as group}
-        <div class="px-1 py-1">
-          {#each group as option}
-            {@const isActive = $menu.active === option.text}
-            {@const isButton = option.onClick}
-            <!-- svelte-ignore a11y-no-static-element-interactions -->
-            <svelte:element
-              this={isButton ? 'button' : 'div'}
-              use:menu.item
-              on:click={option.onClick}
-              class="group flex rounded-md items-center w-full px-2 py-2 gap-2 text-sm {isButton && isActive ? 'bg-primary text-white' : 'text-gray-900'}"
-            >
-              <Icon icon={`heroicons:${option.icon}`} class="w-5 h-5" aria-hidden="true" />
-              {option.text}
-            </svelte:element>
-          {/each}
-        </div>
-      {/each}
+      {#key groups}
+        {#each groups as group}
+          <div class="px-1 py-1">
+            {#each group as option}
+              {@const isActive = $menu.active === option.text}
+              {@const isButton = option.onClick}
+              <!-- svelte-ignore a11y-no-static-element-interactions -->
+              <svelte:element
+                this={isButton ? 'button' : 'div'}
+                use:menu.item
+                on:click={option.onClick}
+                class="group flex rounded-md items-center w-full px-2 py-2 gap-2 text-sm {isButton && isActive ? 'bg-primary text-white' : 'text-gray-900'}"
+              >
+                <Icon icon={`heroicons:${option.icon}`} class="w-5 h-5" aria-hidden="true" />
+                {option.text}
+              </svelte:element>
+            {/each}
+          </div>
+        {/each}
+      {/key}
     </div>
   </Transition>
 </div>
