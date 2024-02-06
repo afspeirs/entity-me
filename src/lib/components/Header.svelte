@@ -1,4 +1,5 @@
 <script>
+  import HeaderMenu from './HeaderMenu.svelte';
   import InputCurrentCategory from './InputCurrentCategory.svelte';
   import InputHiddenColumns from './InputHiddenColumns.svelte';
   import Search from './Search.svelte';
@@ -6,11 +7,9 @@
 
 <header class="relative bg-primary text-light w-full select-none">
   <div class="relative left-titlebar-area-x top-titlebar-area-y w-titlebar-area-width flex justify-center drag px-4 pt-4 text-3xl">
-    <h1 class="relative">
-      EntityMe
-      <sup class="absolute text-sm whitespace-nowrap">{import.meta.env.APP_VERSION}</sup>
-    </h1>
+    <h1>EntityMe</h1>
   </div>
+  <HeaderMenu />
   <div class="flex flex-wrap max-sm:flex-col w-full p-4">
     <Search />
     <div class="flex">

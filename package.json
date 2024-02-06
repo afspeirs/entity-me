@@ -8,9 +8,9 @@
     "dev": "vite",
     "prebuild": "npm run semantic-release:dry",
     "build": "vite build",
-    "postbuild": "npm run generate:webmanifest",
+    "postbuild": "npm run generate:webmanifest && npm run generate:service-worker",
     "preview": "vite preview",
-    "generate:service-worker": "workbox generateSW workbox.config.js",
+    "generate:service-worker": "workbox generateSW workbox.config.cjs",
     "generate:webmanifest": "node ./scripts/webmanifest",
     "pwa": "npm run build && npm run preview",
     "lint": "eslint . --ext .js",
@@ -34,6 +34,10 @@
     "svelte-transition": "^0.0.10",
     "tailwindcss": "^3.4.1",
     "tailwindcss-safe-area": "^0.4.1",
-    "vite": "^5.0.11"
+    "vite": "^5.0.11",
+    "workbox-cli": "^7.0.0"
+  },
+  "dependencies": {
+    "workbox-window": "^7.0.0"
   }
 }
