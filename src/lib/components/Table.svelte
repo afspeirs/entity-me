@@ -13,7 +13,12 @@
 
   async function getEntities(category) {
     const entities = await import('../entities');
-    return entities[category];
+
+    if (category === 'favourites') {
+      return entities.default.filter((entity) => $favouriteEntities.includes(entity.description));
+    }
+
+    return entities[category] || [];
   }
 
   function updateFavouriteEntities(value) {

@@ -37,6 +37,10 @@ export const categories = [
     label: 'All',
   },
   {
+    value: 'favourites',
+    label: 'favourites',
+  },
+  {
     value: 'latinBasic',
     label: 'latin basic',
   },
