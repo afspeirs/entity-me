@@ -24,7 +24,7 @@
   function updateFavouriteEntities(value) {
     favouriteEntities.update((prevState) => {
       if ($favouriteEntities.includes(value)) {
-        return prevState.filter(state => state !== value);
+        return prevState.filter((state) => state !== value);
       } else {
         return [...prevState, value];
       }
@@ -85,9 +85,9 @@
                     <TableCell hidden={$hiddenColumns.includes('note')} label={entity.note} />
                     <TableCell hidden={$hiddenColumns.includes('favourite')}>
                       {#if $favouriteEntities.includes(entity.description)}
-                        <Icon icon="heroicons:star-solid" class="size-5 text-primary" aria-hidden="true" />
+                        <Icon icon="heroicons:heart-solid" class="size-5 text-primary" aria-hidden="true" />
                       {:else}
-                        <Icon icon="heroicons:star" class="size-5 text-primary" aria-hidden="true" />
+                        <Icon icon="heroicons:heart" class="size-5 text-primary" aria-hidden="true" />
                       {/if}
                       <button
                         type="button"
