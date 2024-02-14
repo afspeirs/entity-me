@@ -1,3 +1,5 @@
+import { favouriteEntities } from '../stores/favourite-entities';
+
 import latinBasic from './1-latin-basic.json';
 import latinSupplement from './2-latin-supplement.json';
 import latinExtendedA from './3-latin-extended-a.json';
@@ -24,12 +26,19 @@ import braille from './23-braille.json';
 import tilesAndPlayingCards from './24-tiles-and-playing-cards.json';
 import coloredSymbols from './25-colored-symbols.json';
 
-export const headings = Object.keys(latinBasic[0]);
+export const headings = [
+  ...Object.keys(latinBasic[0]),
+  'favourite',
+];
 
 export const categories = [
   {
     value: 'default',
     label: 'All',
+  },
+  {
+    value: 'favourites',
+    label: 'favourites',
   },
   {
     value: 'latinBasic',

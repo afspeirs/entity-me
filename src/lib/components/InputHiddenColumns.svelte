@@ -21,7 +21,7 @@
     on:select={onSelect}
     class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 rounded-br-md sm:rounded-r-md px-3 py-2 text-sm font-semibold bg-white text-gray-900 ring-1 ring-inset ring-gray-300 focus-visible hover:bg-gray-50"
   >
-    <Icon icon="heroicons:eye-slash" class="-ml-0.5 h-5 w-5 text-gray-400" aria-hidden="true" />
+    <Icon icon="heroicons:eye-slash" class="-ml-0.5 size-5 text-gray-400" aria-hidden="true" />
     Hidden Columns ({$listbox.selected.length}/{headings.length})
   </button>
 
@@ -40,7 +40,7 @@
           <span class="block capitalize truncate {selected ? 'font-semibold' : 'font-normal'}">{value}</span>
           {#if selected}
             <span class="absolute inset-y-0 right-0 flex items-center pr-3">
-              <Icon icon="heroicons:check" class="h-5 w-5" aria-hidden="true" />
+              <Icon icon="heroicons:check" class="size-5" aria-hidden="true" />
             </span>
           {/if}
         </li>

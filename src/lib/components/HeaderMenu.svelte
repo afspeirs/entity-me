@@ -68,7 +68,7 @@
                 on:click={option.onClick}
                 class="group flex rounded-md items-center w-full px-2 py-2 gap-2 text-sm {isButton && isActive ? 'bg-primary text-white' : 'text-gray-900'}"
               >
-                <Icon icon={`heroicons:${option.icon}`} class="w-5 h-5" aria-hidden="true" />
+                <Icon icon={`heroicons:${option.icon}`} class="size-5" aria-hidden="true" />
                 {option.text}
               </svelte:element>
             {/each}

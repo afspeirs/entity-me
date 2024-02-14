@@ -1,6 +1,9 @@
 <script>
+  import Icon from '@iconify/svelte';
+
   import { headings } from '../entities';
   import { currentCategory } from '../stores/current-category';
+  import { favouriteEntities } from '../stores/favourite-entities';
   import { hiddenColumns } from '../stores/hidden-columns';
   import { search } from '../stores/search';
   import { classNames } from '../utils/classNames';
@@ -10,7 +13,22 @@
 
   async function getEntities(category) {
     const entities = await import('../entities');
-    return entities[category];
+
+    if (category === 'favourites') {
+      return entities.default.filter((entity) => $favouriteEntities.includes(entity.description));
+    }
+
+    return entities[category] || [];
+  }
+
+  function updateFavouriteEntities(value) {
+    favouriteEntities.update((prevState) => {
+      if ($favouriteEntities.includes(value)) {
+        return prevState.filter((state) => state !== value);
+      } else {
+        return [...prevState, value];
+      }
+    });
   }
 
   function filter(items) {
@@ -37,12 +55,9 @@
           <table class="min-w-full border-separate border-spacing-0 divide-y divide-gray-300">
             <thead>
               <tr>
-                <TableHeader hidden={$hiddenColumns.includes('character')}>Character</TableHeader>
-                <TableHeader hidden={$hiddenColumns.includes('decimal')}>Decimal</TableHeader>
-                <TableHeader hidden={$hiddenColumns.includes('hex')}>Hex</TableHeader>
-                <TableHeader hidden={$hiddenColumns.includes('entity')}>Entity</TableHeader>
-                <TableHeader hidden={$hiddenColumns.includes('description')}>Description</TableHeader>
-                <TableHeader hidden={$hiddenColumns.includes('note')}>Note</TableHeader>
+                {#each headings as heading}
+                  <TableHeader hidden={$hiddenColumns.includes(heading)}>{heading}</TableHeader>
+                {/each}
               </tr>
             </thead>
             <tbody class="divide-y divide-gray-200 bg-white">
@@ -68,6 +83,19 @@
                     <TableCell hidden={$hiddenColumns.includes('entity')} label={entity.entity} />
                     <TableCell hidden={$hiddenColumns.includes('description')} label={entity.description} />
                     <TableCell hidden={$hiddenColumns.includes('note')} label={entity.note} />
+                    <TableCell hidden={$hiddenColumns.includes('favourite')}>
+                      {#if $favouriteEntities.includes(entity.description)}
+                        <Icon icon="heroicons:heart-solid" class="size-5 text-primary" aria-hidden="true" />
+                      {:else}
+                        <Icon icon="heroicons:heart" class="size-5 text-primary" aria-hidden="true" />
+                      {/if}
+                      <button
+                        type="button"
+                        class="absolute inset-0 hover:bg-black/5"
+                        aria-label="favourite"
+                        on:click={() => updateFavouriteEntities(entity.description)}
+                      />
+                    </TableCell>
                   </tr>
                 {/each}
               {:catch error}
