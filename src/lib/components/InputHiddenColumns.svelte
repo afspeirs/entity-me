@@ -23,6 +23,7 @@
   >
     <Icon icon="heroicons:eye-slash" class="-ml-0.5 size-5 text-gray-400" aria-hidden="true" />
     Hidden Columns ({$listbox.selected.length}/{headings.length})
+    <Icon icon="heroicons:chevron-down" class="ml-1 size-4 text-gray-400" aria-hidden="true" />
   </button>
 
   <Transition show={$listbox.expanded} leave="transition ease-in duration-100" leaveFrom="opacity-100" leaveTo="opacity-0">
