@@ -38,107 +38,107 @@ export const categories = [
   },
   {
     value: 'favourites',
-    label: 'favourites',
+    label: 'Favourites',
   },
   {
     value: 'latinBasic',
-    label: 'latin basic',
+    label: 'Latin basic',
   },
   {
     value: 'latinSupplement',
-    label: 'latin supplement',
+    label: 'Latin supplement',
   },
   {
     value: 'latinExtendedA',
-    label: 'latin extended a',
+    label: 'Latin extended a',
   },
   {
     value: 'latinExtendedB',
-    label: 'latin extended b',
+    label: 'Latin extended b',
   },
   {
     value: 'latinIpa',
-    label: 'latin ipa',
+    label: 'Latin ipa',
   },
   {
     value: 'modifierLetters',
-    label: 'modifier letters',
+    label: 'Modifier letters',
   },
   {
     value: 'diacriticalMarks',
-    label: 'diacritical marks',
+    label: 'Diacritical marks',
   },
   {
     value: 'greekAndCoptic',
-    label: 'greek and coptic',
+    label: 'Greek and coptic',
   },
   {
     value: 'cyrillic',
-    label: 'cyrillic',
+    label: 'Cyrillic',
   },
   {
     value: 'punctuation',
-    label: 'punctuation',
+    label: 'Punctuation',
   },
   {
     value: 'currency',
-    label: 'currency',
+    label: 'Currency',
   },
   {
     value: 'letterLikeSymbols',
-    label: 'letter like symbols',
+    label: 'Letter like symbols',
   },
   {
     value: 'numberForms',
-    label: 'number forms',
+    label: 'Number forms',
   },
   {
     value: 'arrows',
-    label: 'arrows',
+    label: 'Arrows',
   },
   {
     value: 'mathematicalOperators',
-    label: 'mathematical operators',
+    label: 'Mathematical operators',
   },
   {
     value: 'miscellaneousTechnical',
-    label: 'miscellaneous technical',
+    label: 'Miscellaneous technical',
   },
   {
     value: 'enclosedAlphanumerics',
-    label: 'enclosed alphanumerics',
+    label: 'Enclosed alphanumerics',
   },
   {
     value: 'boxDrawings',
-    label: 'box drawings',
+    label: 'Box drawings',
   },
   {
     value: 'blockElements',
-    label: 'block elements',
+    label: 'Block elements',
   },
   {
     value: 'geometricShapes',
-    label: 'geometric shapes',
+    label: 'Geometric shapes',
   },
   {
     value: 'miscellaneousSymbols',
-    label: 'miscellaneous symbols',
+    label: 'Miscellaneous symbols',
   },
   {
     value: 'dingbats',
-    label: 'dingbats',
+    label: 'Dingbats',
   },
   {
     value: 'braille',
-    label: 'braille',
+    label: 'Braille',
   },
   {
     value: 'tilesAndPlayingCards',
-    label: 'tiles and playing cards',
+    label: 'Tiles and playing cards',
   },
   {
     value: 'coloredSymbols',
-    label: 'colored symbols',
+    label: 'Coloured symbols',
   },
 ];
 
