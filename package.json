@@ -1,33 +1,43 @@
 {
   "name": "entity-me",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0-develop.11",
   "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
+    "prebuild": "npm run semantic-release:dry",
     "build": "vite build",
-    "postbuild": "npm run generate:webmanifest",
+    "postbuild": "npm run generate:webmanifest && npm run generate:service-worker",
     "preview": "vite preview",
-    "generate:service-worker": "workbox generateSW workbox.config.js",
+    "generate:service-worker": "workbox generateSW workbox.config.cjs",
     "generate:webmanifest": "node ./scripts/webmanifest",
     "pwa": "npm run build && npm run preview",
     "lint": "eslint . --ext .js",
+    "semantic-release:dry": "semantic-release --dry-run --no-ci",
     "outdated": "npx npm-check-updates -t minor",
     "update": "npm run outdated -- -u"
   },
   "devDependencies": {
     "@iconify/svelte": "^3.1.6",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "@sveltejs/svelte-virtual-list": "^3.0.1",
-    "@sveltejs/vite-plugin-svelte": "^3.0.1",
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
     "@tailwindcss/typography": "^0.5.10",
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.32",
-    "svelte": "^4.2.8",
+    "@zerodevx/svelte-toast": "^0.9.5",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "semantic-release": "^23.0.2",
+    "svelte": "^4.2.10",
     "svelte-headlessui": "^0.0.33",
     "svelte-transition": "^0.0.10",
-    "tailwindcss": "^3.3.7",
-    "tailwindcss-safe-area": "^0.4.1",
-    "vite": "^5.0.8"
+    "tailwindcss": "^3.4.1",
+    "tailwindcss-safe-area": "^0.5.1",
+    "vite": "^5.1.2",
+    "workbox-cli": "^7.0.0"
+  },
+  "dependencies": {
+    "workbox-window": "^7.0.0"
   }
 }
