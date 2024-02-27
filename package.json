@@ -1,7 +1,7 @@
 {
   "name": "entity-me",
   "private": true,
-  "version": "1.0.0-develop.11",
+  "version": "1.0.0-develop.12",
   "type": "module",
   "scripts": {
     "start": "vite",
