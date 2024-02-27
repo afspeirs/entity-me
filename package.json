@@ -19,6 +19,7 @@
     "update": "npm run outdated -- -u"
   },
   "devDependencies": {
+    "@afspeirs/service-worker": "^1.0.3",
     "@iconify/svelte": "^3.1.6",
     "@semantic-release/exec": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
