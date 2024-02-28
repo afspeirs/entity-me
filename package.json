@@ -16,7 +16,9 @@
     "lint": "eslint . --ext .js",
     "semantic-release:dry": "semantic-release --dry-run --no-ci",
     "outdated": "npx npm-check-updates",
-    "update": "npm run outdated -- -u"
+    "outdated:minor": "npx npm-check-updates -t minor",
+    "update": "npm run outdated -- -u",
+    "update:minor": "npm run outdated:minor -- -u"
   },
   "devDependencies": {
     "@afspeirs/service-worker": "^1.0.3",
