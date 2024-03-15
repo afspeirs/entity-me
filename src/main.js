@@ -1,12 +1,15 @@
+import { registerServiceWorker } from '@afspeirs/service-worker';
+
 import App from './App.svelte';
 import './main.css';
-import { registerServiceWorker } from './registerServiceWorker';
 import './webmanifest-apple';
 
 const app = new App({
   target: document.getElementById('app'),
 });
 
-registerServiceWorker();
+registerServiceWorker({
+  register: import.meta.env.PROD,
+});
 
 export default app;

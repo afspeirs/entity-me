@@ -35,10 +35,10 @@
       <button
         type="button"
         on:click={() => search.set('')}
-        class="rounded focus-visible"
+        class="p-2 rounded focus-visible ring-inset"
       >
         <span class="sr-only">clear</span>
-        <Icon icon="heroicons:x-mark" class="size-6 text-black" aria-hidden="true" />
+        <Icon icon="heroicons:x-mark" class="size-5 text-black" aria-hidden="true" />
       </button>
     {/if}
   </div>
