@@ -1,4 +1,5 @@
 <script>
+  import { tooltip } from '../actions/tooltip'
   import { copyToClipBoard } from '../utils/copyToClipboard';
 
   export let colspan = null;
@@ -24,6 +25,10 @@
         class="absolute inset-0 hover:bg-black/5"
         aria-label={label}
         on:click={() => copyToClipBoard(label)}
+        use:tooltip={{
+          content: `Copy "${label}" to the clipboard`,
+          placement: 'bottom',
+        }}
       />
     {/if}
   </slot>
