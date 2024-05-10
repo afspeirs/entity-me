@@ -30,7 +30,6 @@
         on:click={() => copyToClipBoard(label)}
         use:tooltip={{
           content: `Copy "${label}" to the clipboard`,
-          placement: 'bottom',
         }}
       />
     {/if}
