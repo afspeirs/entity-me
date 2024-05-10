@@ -16,6 +16,9 @@
     <span
       aria-hidden={!!label}
       class="text-gray-900 opacity-40 aria-hidden:opacity-100"
+      class:underline={!!label}
+      class:decoration-dotted={!!label}
+      class:underline-offset-4={!!label}
     >
       {label || 'N/A'}
     </span>
