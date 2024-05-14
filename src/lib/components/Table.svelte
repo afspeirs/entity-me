@@ -77,13 +77,40 @@
                 {/if}
                 {#each filteredItems as entity, entityIdx}
                   <tr class={classNames(entityIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}>
-                    <TableCell hidden={$hiddenColumns.includes('character')} label={entity.character} />
-                    <TableCell hidden={$hiddenColumns.includes('decimal')} label={`&#${entity.decimal};`} />
-                    <TableCell hidden={$hiddenColumns.includes('hex')} label={`&#x${entity.hex.padStart(4, '0')};`} />
-                    <TableCell hidden={$hiddenColumns.includes('entity')} label={entity.entity} />
-                    <TableCell hidden={$hiddenColumns.includes('description')} label={entity.description} />
-                    <TableCell hidden={$hiddenColumns.includes('note')} label={entity.note} />
-                    <TableCell hidden={$hiddenColumns.includes('favourite')}>
+                    <TableCell
+                      column="character"
+                      hidden={$hiddenColumns.includes('character')}
+                      label={entity.character}
+                    />
+                    <TableCell
+                      column="decimal"
+                      hidden={$hiddenColumns.includes('decimal')}
+                      label={`&#${entity.decimal};`}
+                    />
+                    <TableCell
+                      column="hex"
+                      hidden={$hiddenColumns.includes('hex')}
+                      label={`&#x${entity.hex.padStart(4, '0')};`}
+                    />
+                    <TableCell
+                      column="entity"
+                      hidden={$hiddenColumns.includes('entity')}
+                      label={entity.entity}
+                    />
+                    <TableCell
+                      column="description"
+                      hidden={$hiddenColumns.includes('description')}
+                      label={entity.description}
+                    />
+                    <TableCell
+                      column="note"
+                      hidden={$hiddenColumns.includes('note')}
+                      label={entity.note}
+                    />
+                    <TableCell
+                      column="favourite"
+                      hidden={$hiddenColumns.includes('favourite')}
+                    >
                       {#if $favouriteEntities.includes(entity.description)}
                         <Icon icon="heroicons:heart-solid" class="size-5 text-primary" aria-hidden="true" />
                       {:else}
