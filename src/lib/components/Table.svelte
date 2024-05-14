@@ -1,15 +1,15 @@
 <script>
   import Icon from '@iconify/svelte';
 
-  import { headings } from '../entities';
-  import { currentCategory } from '../stores/current-category';
-  import { favouriteEntities } from '../stores/favourite-entities';
-  import { hiddenColumns } from '../stores/hidden-columns';
-  import { search } from '../stores/search';
-  import { classNames } from '../utils/classNames';
-  import TableCell from './TableCell.svelte';
-  import TableHeader from './TableHeader.svelte';
-  import TablePagination from './TablePagination.svelte';
+  import TableCell from '$lib/components/TableCell.svelte';
+  import TableHeader from '$lib/components/TableHeader.svelte';
+  import TablePagination from '$lib/components/TablePagination.svelte';
+  import { headings } from '$lib/entities';
+  import { currentCategory } from '$lib/stores/current-category';
+  import { favouriteEntities } from '$lib/stores/favourite-entities';
+  import { hiddenColumns } from '$lib/stores/hidden-columns';
+  import { search } from '$lib/stores/search';
+  import { classNames } from '$lib/utils/classNames';
 
   async function getEntities(category) {
     const entities = await import('../entities');

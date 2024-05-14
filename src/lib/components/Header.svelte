@@ -1,8 +1,8 @@
 <script>
-  import HeaderMenu from './HeaderMenu.svelte';
-  import InputCurrentCategory from './InputCurrentCategory.svelte';
-  import InputHiddenColumns from './InputHiddenColumns.svelte';
-  import Search from './Search.svelte';
+  import HeaderMenu from '$lib/components/HeaderMenu.svelte';
+  import InputCurrentCategory from '$lib/components/InputCurrentCategory.svelte';
+  import InputHiddenColumns from '$lib/components/InputHiddenColumns.svelte';
+  import Search from '$lib/components/Search.svelte';
 </script>
 
 <header class="relative bg-primary text-light w-full select-none">
