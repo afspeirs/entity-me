@@ -3,8 +3,8 @@
   import { createListbox } from 'svelte-headlessui'
   import Transition from 'svelte-transition'
 
-  import { headings } from '../entities';
-  import { hiddenColumns } from '../stores/hidden-columns';
+  import { headings } from '$lib/entities';
+  import { hiddenColumns } from '$lib/stores/hidden-columns';
 
   const listbox = createListbox({ label: 'hidden-columns', selected: $hiddenColumns })
 

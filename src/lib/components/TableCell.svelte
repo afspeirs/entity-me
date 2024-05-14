@@ -1,6 +1,6 @@
 <script>
-  import { tooltip } from '../actions/tooltip'
-  import { copyToClipBoard } from '../utils/copyToClipboard';
+  import { tooltip } from '$lib/actions/tooltip'
+  import { copyToClipBoard } from '$lib/utils/copyToClipboard';
 
   export let colspan = null;
   export let hidden = false;

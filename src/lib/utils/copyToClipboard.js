@@ -1,5 +1,4 @@
-import { toast } from '@zerodevx/svelte-toast'
-
+import { toast } from '@zerodevx/svelte-toast';
 
 export function copyToClipBoard(text) {
   navigator.clipboard.writeText(text)

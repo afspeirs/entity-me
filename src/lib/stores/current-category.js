@@ -1,5 +1,5 @@
 import { writable } from 'svelte/store';
-import { categories } from '../entities';
+import { categories } from '$lib/entities';
 
 export const currentCategory = writable(localStorage.getItem('current-category') || categories[0].value);
 

@@ -2,9 +2,9 @@
   import Icon from '@iconify/svelte';
   import { createMenu } from 'svelte-headlessui';
   import Transition from 'svelte-transition';
-  import { updateServiceWorker } from '../utils/updateServiceWorker';
 
-  import { updateAvailable } from '../stores/service-worker';
+  import { updateAvailable } from '$lib/stores/service-worker';
+  import { updateServiceWorker } from '$lib/utils/updateServiceWorker';
 
   const menu = createMenu({ label: 'Actions' });
 
