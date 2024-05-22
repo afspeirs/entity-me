@@ -2,9 +2,10 @@
   import Icon from '@iconify/svelte';
   import { createListbox } from 'svelte-headlessui';
   import Transition from 'svelte-transition';
-  import { categories } from '../entities';
-  import { currentCategory } from '../stores/current-category';
-  import { classNames } from '../utils/classNames';
+
+  import { categories } from '$lib/entities';
+  import { currentCategory } from '$lib/stores/current-category';
+  import { classNames } from '$lib/utils/classNames';
 
   // console.log(categories);
 

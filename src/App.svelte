@@ -1,9 +1,9 @@
 <script>
   import { SvelteToast } from '@zerodevx/svelte-toast';
 
-  import Header from './lib/components/Header.svelte';
-  import ServiceWorkerEvents from './lib/components/ServiceWorkerEvents.svelte';
-  import Table from './lib/components/Table.svelte';
+  import Header from '$lib/components/Header.svelte';
+  import ServiceWorkerEvents from '$lib/components/ServiceWorkerEvents.svelte';
+  import Table from '$lib/components/Table.svelte';
 </script>
 
 <svelte:head>

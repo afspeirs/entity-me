@@ -1,15 +1,15 @@
 <script>
   import Icon from '@iconify/svelte';
 
-  import { headings } from '../entities';
-  import { currentCategory } from '../stores/current-category';
-  import { favouriteEntities } from '../stores/favourite-entities';
-  import { hiddenColumns } from '../stores/hidden-columns';
-  import { search } from '../stores/search';
-  import { classNames } from '../utils/classNames';
-  import TableCell from './TableCell.svelte';
-  import TableHeader from './TableHeader.svelte';
-  import TablePagination from './TablePagination.svelte';
+  import TableCell from '$lib/components/TableCell.svelte';
+  import TableHeader from '$lib/components/TableHeader.svelte';
+  import TablePagination from '$lib/components/TablePagination.svelte';
+  import { headings } from '$lib/entities';
+  import { currentCategory } from '$lib/stores/current-category';
+  import { favouriteEntities } from '$lib/stores/favourite-entities';
+  import { hiddenColumns } from '$lib/stores/hidden-columns';
+  import { search } from '$lib/stores/search';
+  import { classNames } from '$lib/utils/classNames';
 
   async function getEntities(category) {
     const entities = await import('../entities');
@@ -77,13 +77,40 @@
                 {/if}
                 {#each filteredItems as entity, entityIdx}
                   <tr class={classNames(entityIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}>
-                    <TableCell hidden={$hiddenColumns.includes('character')} label={entity.character} />
-                    <TableCell hidden={$hiddenColumns.includes('decimal')} label={`&#${entity.decimal};`} />
-                    <TableCell hidden={$hiddenColumns.includes('hex')} label={`&#x${entity.hex.padStart(4, '0')};`} />
-                    <TableCell hidden={$hiddenColumns.includes('entity')} label={entity.entity} />
-                    <TableCell hidden={$hiddenColumns.includes('description')} label={entity.description} />
-                    <TableCell hidden={$hiddenColumns.includes('note')} label={entity.note} />
-                    <TableCell hidden={$hiddenColumns.includes('favourite')}>
+                    <TableCell
+                      column="character"
+                      hidden={$hiddenColumns.includes('character')}
+                      label={entity.character}
+                    />
+                    <TableCell
+                      column="decimal"
+                      hidden={$hiddenColumns.includes('decimal')}
+                      label={`&#${entity.decimal};`}
+                    />
+                    <TableCell
+                      column="hex"
+                      hidden={$hiddenColumns.includes('hex')}
+                      label={`&#x${entity.hex.padStart(4, '0')};`}
+                    />
+                    <TableCell
+                      column="entity"
+                      hidden={$hiddenColumns.includes('entity')}
+                      label={entity.entity}
+                    />
+                    <TableCell
+                      column="description"
+                      hidden={$hiddenColumns.includes('description')}
+                      label={entity.description}
+                    />
+                    <TableCell
+                      column="note"
+                      hidden={$hiddenColumns.includes('note')}
+                      label={entity.note}
+                    />
+                    <TableCell
+                      column="favourite"
+                      hidden={$hiddenColumns.includes('favourite')}
+                    >
                       {#if $favouriteEntities.includes(entity.description)}
                         <Icon icon="heroicons:heart-solid" class="size-5 text-primary" aria-hidden="true" />
                       {:else}

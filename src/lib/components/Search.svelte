@@ -1,6 +1,6 @@
 <script>
   import Icon from "@iconify/svelte";
-  import { search } from "../stores/search";
+  import { search } from "$lib/stores/search";
 
   let input;
 </script>

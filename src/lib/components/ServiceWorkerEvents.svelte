@@ -1,7 +1,7 @@
 <script>
   import { toast } from '@zerodevx/svelte-toast'
 
-  import { beforeInstallPrompt, updateAvailable } from '../stores/service-worker';
+  import { beforeInstallPrompt, updateAvailable } from '$lib/stores/service-worker';
 
   function swBeforeInstallPrompt(event) {
     event.preventDefault();
