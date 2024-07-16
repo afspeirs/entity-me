@@ -7,7 +7,7 @@
   export let hidden = false;
   export let label = '';
 
-  const showButton = !!label && (column !== 'description');
+  $: showButton = !!label && (column !== 'description');
 </script>
 
 <td
