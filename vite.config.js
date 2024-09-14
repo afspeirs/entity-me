@@ -3,12 +3,12 @@ import { readFileSync } from 'fs';
 import { resolve } from 'path';
 import { defineConfig } from 'vite';
 
-const appVersion = readFileSync('./.version', { encoding: 'utf8' }).trim() || 'N/A';
+import { version } from './package.json';
 
 // https://vitejs.dev/config/
 export default defineConfig({
   define: {
-    'import.meta.env.APP_VERSION': JSON.stringify(appVersion),
+    'import.meta.env.APP_VERSION': JSON.stringify(version),
   },
   plugins: [
     svelte(),
