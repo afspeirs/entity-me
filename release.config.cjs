@@ -22,7 +22,7 @@ module.exports = {
     '@semantic-release/release-notes-generator',
     ...(isDryRun() ? [] : configProduction),
     ['@semantic-release/exec', {
-      verifyReleaseCmd: 'echo ${nextRelease.version} > .version',
+      verifyReleaseCmd: './scripts/release-update-version.sh ${nextRelease.version}',
     }],
   ],
 };
