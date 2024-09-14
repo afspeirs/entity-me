@@ -1,4 +1,5 @@
-<script>
+<script lang="ts">
+  import type { Action } from 'svelte/action';
   import { toast } from '@zerodevx/svelte-toast'
 
   import { beforeInstallPrompt, updateAvailable } from '$lib/stores/service-worker';
@@ -16,10 +17,22 @@
   function swContentCached() {
     toast.push('Caching complete! Now available offline');
   }
+
+  const useServiceWorkerEvents: Action = (node) => {
+    node.addEventListener('beforeinstallprompt', swBeforeInstallPrompt);
+    node.addEventListener('swNewContentAvailable', swNewContentAvailable);
+    node.addEventListener('swContentCached', swContentCached);
+
+    return {
+      destroy() {
+        node.removeEventListener('beforeinstallprompt', swBeforeInstallPrompt);
+        node.removeEventListener('swNewContentAvailable', swNewContentAvailable);
+        node.removeEventListener('swContentCached', swContentCached);
+      },
+    }
+  }
 </script>
 
 <svelte:window
-  on:beforeinstallprompt={swBeforeInstallPrompt}
-  on:swNewContentAvailable={swNewContentAvailable}
-  on:swContentCached={swContentCached}
+  use:useServiceWorkerEvents
 />
