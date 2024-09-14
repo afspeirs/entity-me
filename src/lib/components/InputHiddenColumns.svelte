@@ -18,7 +18,7 @@
   <button
     use:listbox.button
     type="button"
-    on:select={onSelect}
+    on:change={onSelect}
     class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 rounded-br-md sm:rounded-r-md px-3 py-2 text-sm font-semibold bg-white text-gray-900 ring-1 ring-inset ring-gray-300 focus-visible hover:bg-gray-50"
   >
     <Icon icon="heroicons:eye-slash" class="-ml-0.5 size-5 text-gray-400" aria-hidden="true" />
