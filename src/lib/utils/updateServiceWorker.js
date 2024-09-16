@@ -1,3 +1,4 @@
+/** @param {boolean} updateAvailable */
 export function updateServiceWorker(updateAvailable) {
   if (updateAvailable) {
     window.location.reload();
