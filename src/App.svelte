@@ -13,7 +13,7 @@
 <div class="absolute left-0 top-0 flex flex-col h-full w-full bg-light text-dark">
   <Header />
 
-  <main class="flex-1 overflow-auto pb-safe px-safe">
+  <main class="flex-1 overflow-auto">
     <Table />
   </main>
 </div>

@@ -50,7 +50,7 @@
 <div class="px-4 sm:px-6">
   <div class="mt-4 flow-root">
     <div class="-mx-4 -my-4 sm:-mx-6">
-      <div class="inline-block min-w-full align-middle sm:p-4">
+      <div class="inline-block min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
         <div class="shadow ring-1 ring-black ring-opacity-5">
           <table class="min-w-full border-separate border-spacing-0 divide-y divide-gray-300">
             <thead>
