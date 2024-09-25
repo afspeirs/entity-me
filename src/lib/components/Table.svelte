@@ -33,7 +33,7 @@
 
   function filter(items) {
     if (!items) return [];
-    return items.filter((item) => (
+    return items?.filter((item) => (
       item.character?.includes($search)
       || item.decimal?.includes($search)
       || item.hex?.includes($search)
@@ -111,11 +111,16 @@
                       column="favourite"
                       hidden={$hiddenColumns.includes('favourite')}
                     >
-                      {#if $favouriteEntities.includes(entity.description)}
-                        <Icon icon="heroicons:heart-solid" class="size-5 text-primary" aria-hidden="true" />
-                      {:else}
-                        <Icon icon="heroicons:heart" class="size-5 text-primary" aria-hidden="true" />
-                      {/if}
+                      {@const favourite = $favouriteEntities.includes(entity.description)}
+                      <Icon
+                        icon={favourite ? "lucide:heart" : 'lucide:heart-off'}
+                        class={classNames(
+                          "size-5 text-primary",
+                          favourite ? '[&>*]:fill-primary' : ''
+                        )}
+                        aria-hidden="true"
+                      />
+                      <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>
                       <button
                         type="button"
                         class="absolute inset-0 hover:bg-black/5"

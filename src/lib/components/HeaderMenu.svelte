@@ -6,11 +6,9 @@
   import { updateAvailable } from '$lib/stores/service-worker';
   import { updateServiceWorker } from '$lib/utils/updateServiceWorker';
 
+  let checkForUpdateLoading = false;
   const menu = createMenu({ label: 'Actions' });
-
-  // $: updateText = $updateAvailable ? 'Update' : 'Check for update';
-
-  let groups = [
+  const groups = [
     [
       {
         icon: 'wrench',
@@ -19,9 +17,16 @@
     ],
     [
       {
-        icon: 'device-phone-mobile',
+        icon: 'rocket',
         text: $updateAvailable ? 'Update' : 'Check for update',
-        onClick: () => updateServiceWorker($updateAvailable),
+        onClick: () => {
+          menu.close();
+          checkForUpdateLoading = true;
+          setTimeout(() => {
+            checkForUpdateLoading = false;
+          }, 1000);
+          updateServiceWorker($updateAvailable);
+        },
       },
     ],
   ];
@@ -35,9 +40,9 @@
 <div class="absolute left-titlebar-area-x top-titlebar-area-y z-50 no-drag">
   <button
     use:menu.button
-    class="inline-flex w-full justify-center rounded-md p-2 text-sm font-medium text-white hover:bg-black/20 focus-visible ring-inset"
+    class="inline-flex justify-center rounded-md p-2 text-sm font-medium text-white hover:bg-black/20 focus-visible ring-inset"
   >
-    <Icon icon="heroicons:ellipsis-vertical" class="size-6" aria-hidden="true" />
+    <Icon icon="lucide:more-vertical" class="size-6" aria-hidden="true" />
     <span class="sr-only">Open Menu</span>
   </button>
 
@@ -68,7 +73,7 @@
                 on:click={option.onClick}
                 class="group flex rounded-md items-center w-full px-2 py-2 gap-2 text-sm {isButton && isActive ? 'bg-primary text-white' : 'text-gray-900'}"
               >
-                <Icon icon={`heroicons:${option.icon}`} class="size-5" aria-hidden="true" />
+                <Icon icon={`lucide:${option.icon}`} class="size-5" aria-hidden="true" />
                 {option.text}
               </svelte:element>
             {/each}
