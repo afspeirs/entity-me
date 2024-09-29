@@ -1,18 +1,17 @@
 <script lang="ts">
+  import { classNames } from '$lib/utils/classNames';
   import Icon from '@iconify/svelte';
   import { createMenu } from 'svelte-headlessui';
   import Transition from 'svelte-transition';
 
   import { updateAvailable } from '$lib/stores/service-worker';
-  import { updateServiceWorker } from '$lib/utils/updateServiceWorker';
 
   type MenuItem = {
-    icon: string,
-    text: string,
-    onClick?: () => void,
-}
+    icon: string;
+    text: string;
+    onClick?: () => void;
+  };
 
-  let checkForUpdateLoading = false;
   const menu = createMenu({ label: 'Actions' });
   const groups: MenuItem[][] = [
     [
@@ -27,11 +26,15 @@
         text: $updateAvailable ? 'Update' : 'Check for update',
         onClick: () => {
           menu.close();
-          checkForUpdateLoading = true;
-          setTimeout(() => {
-            checkForUpdateLoading = false;
-          }, 1000);
-          updateServiceWorker($updateAvailable);
+          if ($updateAvailable) {
+            $updateAvailable();
+          } else {
+            if ('serviceWorker' in navigator) {
+              navigator.serviceWorker.ready.then((registration) => registration.update());
+            } else {
+              setTimeout(() => window.location.reload(), 1500);
+            }
+          }
         },
       },
     ],
@@ -77,7 +80,10 @@
                 this={isButton ? 'button' : 'div'}
                 use:menu.item
                 on:click={option?.onClick}
-                class="group flex rounded-md items-center w-full px-2 py-2 gap-2 text-sm {isButton && isActive ? 'bg-primary text-white' : 'text-gray-900'}"
+                class={classNames(
+                  'group flex rounded-md items-center w-full px-2 py-2 gap-2 text-sm',
+                  isButton && isActive ? 'bg-primary text-white' : 'text-gray-900',
+                )}
               >
                 <Icon icon={`lucide:${option.icon}`} class="size-5" aria-hidden="true" />
                 {option.text}
