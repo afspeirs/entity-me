@@ -2,7 +2,7 @@
   import { SvelteToast } from '@zerodevx/svelte-toast';
 
   import Header from '$lib/components/Header.svelte';
-  import ReloadPrompt from '$lib/components/ReloadPrompt.svelte';
+  import '$lib/utils/registerServiceWorker';
   import '../webmanifest-apple';
   import '../app.css';
 </script>
@@ -18,8 +18,6 @@
     <slot />
   </main>
 </div>
-
-<ReloadPrompt />
 
 <SvelteToast
   options={{
