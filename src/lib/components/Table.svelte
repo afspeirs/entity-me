@@ -1,17 +1,18 @@
-<script>
+<script lang="ts">
   import Icon from '@iconify/svelte';
 
   import TableCell from '$lib/components/TableCell.svelte';
   import TableHeader from '$lib/components/TableHeader.svelte';
   import TablePagination from '$lib/components/TablePagination.svelte';
   import { headings } from '$lib/entities';
+  import type { CategoryValue, Entity } from '$lib/entities/types';
   import { currentCategory } from '$lib/stores/current-category';
   import { favouriteEntities } from '$lib/stores/favourite-entities';
   import { hiddenColumns } from '$lib/stores/hidden-columns';
   import { search } from '$lib/stores/search';
   import { classNames } from '$lib/utils/classNames';
 
-  async function getEntities(category) {
+  async function getEntities(category: CategoryValue) {
     const entities = await import('../entities');
 
     if (category === 'favourites') {
@@ -21,7 +22,7 @@
     return entities[category] || [];
   }
 
-  function updateFavouriteEntities(value) {
+  function updateFavouriteEntities(value: string) {
     favouriteEntities.update((prevState) => {
       if ($favouriteEntities.includes(value)) {
         return prevState.filter((state) => state !== value);
@@ -31,7 +32,7 @@
     });
   }
 
-  function filter(items) {
+  function filter(items: Entity[]) {
     if (!items) return [];
     return items?.filter((item) => (
       item.character?.includes($search)
@@ -43,7 +44,7 @@
     )) || [];
   }
 
-  let values;
+  let values: Entity[];
   $: entities = getEntities($currentCategory);
 </script>
 
@@ -63,17 +64,17 @@
             <tbody class="divide-y divide-gray-200 bg-white">
               {#if $hiddenColumns.length === headings.length}
                 <tr>
-                  <TableCell colspan="6">Error: All columns are hidden</TableCell>
+                  <TableCell colspan={6}>Error: All columns are hidden</TableCell>
                 </tr>
               {/if}
               {#await entities}
                 <tr>
-                  <TableCell colspan="6">Loading...</TableCell>
+                  <TableCell colspan={6}>Loading...</TableCell>
                 </tr>
-              {:then items}
+              {:then items} <!-- eslint-disable-line @typescript-eslint/no-unused-vars -->
                 {@const filteredItems = filter(values)}
                 {#if filteredItems.length === 0}
-                  <TableCell colspan="6">No results found for "{$search}"</TableCell>
+                  <TableCell colspan={6}>No results found for "{$search}"</TableCell>
                 {/if}
                 {#each filteredItems as entity, entityIdx}
                   <tr class={classNames(entityIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}>
@@ -120,19 +121,19 @@
                         )}
                         aria-hidden="true"
                       />
-                      <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>
                       <button
                         type="button"
                         class="absolute inset-0 hover:bg-black/5"
-                        aria-label="favourite"
                         on:click={() => updateFavouriteEntities(entity.description)}
-                      />
+                      >
+                        <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>
+                      </button>
                     </TableCell>
                   </tr>
                 {/each}
               {:catch error}
                 <tr>
-                  <TableCell colspan="6">Something went wrong: {error.message}</TableCell>
+                  <TableCell colspan={6}>Something went wrong: {error.message}</TableCell>
                 </tr>
               {/await}
             </tbody>

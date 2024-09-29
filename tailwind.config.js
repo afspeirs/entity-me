@@ -1,11 +1,11 @@
-const typography = require('@tailwindcss/typography');
-const safeArea = require('tailwindcss-safe-area');
-const {
+import typography from '@tailwindcss/typography';
+import safeArea from 'tailwindcss-safe-area';
+import {
   gray,
   neutral,
   black,
   white,
-} = require('tailwindcss/colors');
+} from 'tailwindcss/colors';
 
 /** @type {import('tailwindcss').Config} */
 export default {

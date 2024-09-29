@@ -1,10 +1,9 @@
-<script>
+<script lang="ts">
   import Icon from '@iconify/svelte';
 
   export let showModal = false;
 
-  /** @type HTMLDialogElement */
-  let dialog;
+  let dialog: HTMLDialogElement;
 
   $: if (dialog && showModal) dialog.showModal();
 </script>
