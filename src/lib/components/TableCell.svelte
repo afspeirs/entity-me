@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { tooltip } from '$lib/actions/tooltip'
+  import { tooltip } from '$lib/actions/tooltip';
   import { copyToClipBoard } from '$lib/utils/copyToClipboard';
 
   export let column = '';
@@ -7,13 +7,13 @@
   export let hidden = false;
   export let label = '';
 
-  $: showButton = !!label && (column !== 'description');
+  $: showButton = !!label && column !== 'description';
 </script>
 
 <td
   {colspan}
   class="relative px-3 py-4 text-sm first-of-type:pl-6 last-of-type:pr-6"
-  class:hidden={hidden}
+  class:hidden
   class:select-none={showButton || !label}
 >
   <slot>

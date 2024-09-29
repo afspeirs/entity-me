@@ -1,6 +1,6 @@
 <script lang="ts">
-  import Icon from "@iconify/svelte";
-  import { search } from "$lib/stores/search";
+  import Icon from '@iconify/svelte';
+  import { search } from '$lib/stores/search';
 
   let input: HTMLInputElement;
 </script>
@@ -9,15 +9,13 @@
   on:keydown={(e) => {
     if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
       e.preventDefault();
-      input.focus()
+      input.focus();
     }
   }}
 />
 
 <div class="relative flex flex-grow items-stretch">
-  <label for="search" class="sr-only">
-    Search candidates
-  </label>
+  <label for="search" class="sr-only">Search candidates</label>
   <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
     <Icon icon="lucide:search" class="size-5 text-gray-400" aria-hidden="true" />
   </div>

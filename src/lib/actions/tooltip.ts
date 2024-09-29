@@ -9,12 +9,10 @@ export function tooltip(element: HTMLElement, options: Options) {
 
   return {
     update(options: Options) {
-      // update options
-      tooltip.setProps(options)
+      tooltip.setProps(options);
     },
     destroy() {
-      // cleanup
-      tooltip.destroy()
+      tooltip.destroy();
     },
-  }
+  };
 }

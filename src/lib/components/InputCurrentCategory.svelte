@@ -10,15 +10,15 @@
 
   // console.log(categories);
 
-  const listbox = createListbox({ label: 'current-category', selected: categories[0] })
+  const listbox = createListbox({ label: 'current-category', selected: categories[0] });
 
   const onSelect: FormEventHandler<HTMLButtonElement> = (event) => {
     // @ts-expect-error - It doesn't correctly have the detail.selected in the type
-    const { value } = event.detail.selected as typeof categories[number];
+    const { value } = event.detail.selected as (typeof categories)[number];
     // console.log(value);
 
     currentCategory.set(value);
-  }
+  };
 </script>
 
 <div class="relative flex max-sm:w-full">
@@ -33,7 +33,12 @@
     <Icon icon="lucide:chevron-down" class="ml-1 size-4 text-gray-400" aria-hidden="true" />
   </button>
 
-  <Transition show={$listbox.expanded} leave="transition ease-in duration-100" leaveFrom="opacity-100" leaveTo="opacity-0">
+  <Transition
+    show={$listbox.expanded}
+    leave="transition ease-in duration-100"
+    leaveFrom="opacity-100"
+    leaveTo="opacity-0"
+  >
     <ul
       use:listbox.items
       class="absolute z-20 top-full max-sm:left-0 sm:right-0 mt-1 w-80 max-h-96 overflow-auto rounded-md bg-white text-black py-1 text-sm shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"

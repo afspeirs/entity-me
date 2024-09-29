@@ -26,7 +26,7 @@ import coloredSymbols from './25-colored-symbols.json';
 import type { Entity, Heading } from './types';
 
 export const headings = [
-  ...Object.keys(latinBasic[0]) as (keyof Entity)[],
+  ...(Object.keys(latinBasic[0]) as (keyof Entity)[]),
   'favourite',
 ] as Heading[];
 
@@ -143,7 +143,6 @@ export const categories = [
 
 export const categoryValues = categories.map((category) => category.value);
 export const categoryLabels = categories.map((category) => category.label);
-
 
 export {
   latinBasic,
