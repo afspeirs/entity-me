@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   export let items;
   export let perPage = 100;
   export let trimmedData;

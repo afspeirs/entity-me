@@ -1,8 +1,8 @@
-<script>
+<script lang="ts">
   import Icon from "@iconify/svelte";
   import { search } from "$lib/stores/search";
 
-  let input;
+  let input: HTMLInputElement;
 </script>
 
 <svelte:window

@@ -1,9 +1,15 @@
-<script>
+<script lang="ts">
+  import { registerServiceWorker } from '@afspeirs/service-worker';
   import { SvelteToast } from '@zerodevx/svelte-toast';
 
   import Header from '$lib/components/Header.svelte';
   import ServiceWorkerEvents from '$lib/components/ServiceWorkerEvents.svelte';
-  import Table from '$lib/components/Table.svelte';
+  import '../webmanifest-apple';
+  import '../app.css';
+
+  registerServiceWorker({
+    register: import.meta.env.PROD,
+  });
 </script>
 
 <svelte:head>
@@ -14,7 +20,7 @@
   <Header />
 
   <main class="flex-1 overflow-auto">
-    <Table />
+    <slot />
   </main>
 </div>
 

@@ -1,5 +1,6 @@
-<script>
+<script lang="ts">
   import Icon from '@iconify/svelte';
+  import type { FormEventHandler } from 'svelte/elements';
   import { createListbox } from 'svelte-headlessui';
   import Transition from 'svelte-transition';
 
@@ -11,9 +12,10 @@
 
   const listbox = createListbox({ label: 'current-category', selected: categories[0] })
 
-  function onSelect(event) {
-    const { value } = event.detail.selected;
-    console.log(value);
+  const onSelect: FormEventHandler<HTMLButtonElement> = (event) => {
+    // @ts-expect-error - It doesn't correctly have the detail.selected in the type
+    const { value } = event.detail.selected as typeof categories[number];
+    // console.log(value);
 
     currentCategory.set(value);
   }
@@ -36,7 +38,7 @@
       use:listbox.items
       class="absolute z-20 top-full max-sm:left-0 sm:right-0 mt-1 w-80 max-h-96 overflow-auto rounded-md bg-white text-black py-1 text-sm shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
     >
-      {#each categories as option, i}
+      {#each categories as option}
         {@const active = $listbox.active === option}
         {@const selected = $listbox.selected === option}
         <li

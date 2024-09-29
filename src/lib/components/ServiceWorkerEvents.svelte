@@ -4,7 +4,7 @@
 
   import { beforeInstallPrompt, updateAvailable } from '$lib/stores/service-worker';
 
-  function swBeforeInstallPrompt(event) {
+  function swBeforeInstallPrompt(event: Event) {
     event.preventDefault();
     beforeInstallPrompt.set(event);
   }

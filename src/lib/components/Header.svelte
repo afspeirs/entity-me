@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import HeaderMenu from '$lib/components/HeaderMenu.svelte';
   import InputCurrentCategory from '$lib/components/InputCurrentCategory.svelte';
   import InputHiddenColumns from '$lib/components/InputHiddenColumns.svelte';

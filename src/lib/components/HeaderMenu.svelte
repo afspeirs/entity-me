@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import Icon from '@iconify/svelte';
   import { createMenu } from 'svelte-headlessui';
   import Transition from 'svelte-transition';
@@ -6,9 +6,15 @@
   import { updateAvailable } from '$lib/stores/service-worker';
   import { updateServiceWorker } from '$lib/utils/updateServiceWorker';
 
+  type MenuItem = {
+    icon: string,
+    text: string,
+    onClick?: () => void,
+}
+
   let checkForUpdateLoading = false;
   const menu = createMenu({ label: 'Actions' });
-  const groups = [
+  const groups: MenuItem[][] = [
     [
       {
         icon: 'wrench',
@@ -55,7 +61,7 @@
     leaveFrom="transform opacity-100 scale-100"
     leaveTo="transform opacity-0 scale-95"
   >
-    <div class="fixed inset-0" aria-hidden="true" />
+    <div class="fixed inset-0" aria-hidden="true"></div>
     <div
       use:menu.items
       class="absolute left-2 w-56 origin-top-left mt-1 divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
@@ -65,12 +71,12 @@
           <div class="px-1 py-1">
             {#each group as option}
               {@const isActive = $menu.active === option.text}
-              {@const isButton = option.onClick}
+              {@const isButton = option?.onClick}
               <!-- svelte-ignore a11y-no-static-element-interactions -->
               <svelte:element
                 this={isButton ? 'button' : 'div'}
                 use:menu.item
-                on:click={option.onClick}
+                on:click={option?.onClick}
                 class="group flex rounded-md items-center w-full px-2 py-2 gap-2 text-sm {isButton && isActive ? 'bg-primary text-white' : 'text-gray-900'}"
               >
                 <Icon icon={`lucide:${option.icon}`} class="size-5" aria-hidden="true" />

@@ -1,6 +1,6 @@
 import { toast } from '@zerodevx/svelte-toast';
 
-export function copyToClipBoard(text) {
+export function copyToClipBoard(text: string) {
   navigator.clipboard.writeText(text)
     .then(() => {
       toast.push(`"${text}" was copied to your clipboard`);

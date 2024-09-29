@@ -1,5 +1,6 @@
-<script>
+<script lang="ts">
   import Icon from '@iconify/svelte';
+  import type { FormEventHandler } from 'svelte/elements';
   import { createListbox } from 'svelte-headlessui'
   import Transition from 'svelte-transition'
 
@@ -8,9 +9,12 @@
 
   const listbox = createListbox({ label: 'hidden-columns', selected: $hiddenColumns })
 
-  function onSelect(e) {
-    const newValue = e.detail.selected;
-    hiddenColumns.set(newValue);
+  const onSelect: FormEventHandler<HTMLButtonElement> = (event) => {
+    // @ts-expect-error - It doesn't correctly have the detail.selected in the type
+    const { selected } = event.detail;
+    // console.log(selected);
+
+    hiddenColumns.set(selected);
   }
 </script>
 

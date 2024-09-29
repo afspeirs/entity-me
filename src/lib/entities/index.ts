@@ -1,5 +1,3 @@
-import { favouriteEntities } from '../stores/favourite-entities';
-
 import latinBasic from './1-latin-basic.json';
 import latinSupplement from './2-latin-supplement.json';
 import latinExtendedA from './3-latin-extended-a.json';
@@ -25,11 +23,12 @@ import dingbats from './22-dingbats.json';
 import braille from './23-braille.json';
 import tilesAndPlayingCards from './24-tiles-and-playing-cards.json';
 import coloredSymbols from './25-colored-symbols.json';
+import type { Entity, Heading } from './types';
 
 export const headings = [
-  ...Object.keys(latinBasic[0]),
+  ...Object.keys(latinBasic[0]) as (keyof Entity)[],
   'favourite',
-];
+] as Heading[];
 
 export const categories = [
   {
@@ -140,7 +139,11 @@ export const categories = [
     value: 'coloredSymbols',
     label: 'Coloured symbols',
   },
-];
+] as const;
+
+export const categoryValues = categories.map((category) => category.value);
+export const categoryLabels = categories.map((category) => category.label);
+
 
 export {
   latinBasic,
