@@ -1,9 +1,10 @@
-<script>
+<script lang="ts">
   import { SvelteToast } from '@zerodevx/svelte-toast';
 
   import Header from '$lib/components/Header.svelte';
-  import ServiceWorkerEvents from '$lib/components/ServiceWorkerEvents.svelte';
-  import Table from '$lib/components/Table.svelte';
+  import '$lib/utils/registerServiceWorker';
+  import '../webmanifest-apple';
+  import '../app.css';
 </script>
 
 <svelte:head>
@@ -14,11 +15,9 @@
   <Header />
 
   <main class="flex-1 overflow-auto">
-    <Table />
+    <slot />
   </main>
 </div>
-
-<ServiceWorkerEvents />
 
 <SvelteToast
   options={{

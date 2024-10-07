@@ -1,10 +1,9 @@
-<script>
+<script lang="ts">
   import Icon from '@iconify/svelte';
 
   export let showModal = false;
 
-  /** @type HTMLDialogElement */
-  let dialog;
+  let dialog: HTMLDialogElement;
 
   $: if (dialog && showModal) dialog.showModal();
 </script>
@@ -28,7 +27,7 @@
       class="absolute top-2 right-2 bg-white rounded focus-visible"
     >
       <span class="sr-only">close modal</span>
-      <Icon icon="heroicons:x-mark" class="size-8" />
+      <Icon icon="lucide:x" class="size-8" />
     </button>
 
     <hr />

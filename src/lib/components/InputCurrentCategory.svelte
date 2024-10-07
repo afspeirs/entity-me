@@ -1,5 +1,6 @@
-<script>
+<script lang="ts">
   import Icon from '@iconify/svelte';
+  import type { FormEventHandler } from 'svelte/elements';
   import { createListbox } from 'svelte-headlessui';
   import Transition from 'svelte-transition';
 
@@ -9,14 +10,15 @@
 
   // console.log(categories);
 
-  const listbox = createListbox({ label: 'current-category', selected: categories[0] })
+  const listbox = createListbox({ label: 'current-category', selected: categories[0] });
 
-  function onSelect(event) {
-    const { value } = event.detail.selected;
-    console.log(value);
+  const onSelect: FormEventHandler<HTMLButtonElement> = (event) => {
+    // @ts-expect-error - It doesn't correctly have the detail.selected in the type
+    const { value } = event.detail.selected as (typeof categories)[number];
+    // console.log(value);
 
     currentCategory.set(value);
-  }
+  };
 </script>
 
 <div class="relative flex max-sm:w-full">
@@ -26,17 +28,22 @@
     on:change={onSelect}
     class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 max-sm:rounded-bl-md px-3 py-2 text-sm font-semibold bg-white text-gray-900 ring-1 ring-inset ring-gray-300 focus-visible hover:bg-gray-50"
   >
-    <Icon icon="heroicons:funnel" class="-ml-0.5 size-5 text-gray-400" aria-hidden="true" />
+    <Icon icon="lucide:filter" class="-ml-0.5 size-5 text-gray-400" aria-hidden="true" />
     {`Filter: ${$listbox.selected.label}`}
-    <Icon icon="heroicons:chevron-down" class="ml-1 size-4 text-gray-400" aria-hidden="true" />
+    <Icon icon="lucide:chevron-down" class="ml-1 size-4 text-gray-400" aria-hidden="true" />
   </button>
 
-  <Transition show={$listbox.expanded} leave="transition ease-in duration-100" leaveFrom="opacity-100" leaveTo="opacity-0">
+  <Transition
+    show={$listbox.expanded}
+    leave="transition ease-in duration-100"
+    leaveFrom="opacity-100"
+    leaveTo="opacity-0"
+  >
     <ul
       use:listbox.items
       class="absolute z-20 top-full max-sm:left-0 sm:right-0 mt-1 w-80 max-h-96 overflow-auto rounded-md bg-white text-black py-1 text-sm shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
     >
-      {#each categories as option, i}
+      {#each categories as option}
         {@const active = $listbox.active === option}
         {@const selected = $listbox.selected === option}
         <li
@@ -51,7 +58,7 @@
           </span>
           {#if selected}
             <span class="absolute inset-y-0 left-0 flex items-center pl-3">
-              <Icon icon="heroicons:check" class="size-5" aria-hidden="true" />
+              <Icon icon="lucide:check" class="size-5" aria-hidden="true" />
             </span>
           {/if}
         </li>
