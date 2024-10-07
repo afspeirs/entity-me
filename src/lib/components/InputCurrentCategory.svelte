@@ -10,7 +10,12 @@
 
   // console.log(categories);
 
-  const listbox = createListbox({ label: 'current-category', selected: categories[0] });
+  const listbox = createListbox({
+    label: 'current-category',
+    selected: $currentCategory
+      ? categories.find((category) => category.value === $currentCategory)
+      : categories[0]
+  });
 
   const onSelect: FormEventHandler<HTMLButtonElement> = (event) => {
     // @ts-expect-error - It doesn't correctly have the detail.selected in the type
