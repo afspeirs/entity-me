@@ -18,6 +18,10 @@
     @apply select-none;
   }
 
+  ::selection {
+    @apply bg-primary text-white;
+  }
+
   /* Scrollbar styles */
   ::-webkit-scrollbar {
     max-width: 8px;
