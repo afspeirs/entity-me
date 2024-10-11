@@ -15,7 +15,7 @@ const {
     toast.push('Caching complete! Now available offline');
   },
   onRegistered(r) {
-    console.log('SW Registered:', r);
+    console.log('SW Registered:', r?.scope);
   },
   onRegisterError(error) {
     console.log('SW registration error:', error);
