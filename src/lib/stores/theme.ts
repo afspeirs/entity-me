@@ -12,7 +12,7 @@ export const themeUserOptions = {
 type ThemeUserOption = keyof typeof themeUserOptions;
 type TypeSystemOption = keyof typeof themeOptions;
 
-const initialValue = localStorage.getItem('theme') as ThemeUserOption | 'default';
+const initialValue = window.localStorage.getItem('theme') as ThemeUserOption || 'default';
 export const themeUser = writable<ThemeUserOption>(initialValue);
 export const themeMedia = writable<TypeSystemOption>(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
 export const themeSystem = derived([themeUser, themeMedia], ([$themeUser, $themeMedia]) => {
@@ -27,4 +27,4 @@ mql.addEventListener('change', () => {
   themeMedia.set(mql.matches ? 'dark' : 'light');
 });
 
-themeUser.subscribe((value) => localStorage.setItem('theme', value));
+themeUser.subscribe((value) => window.localStorage.setItem('theme', value));

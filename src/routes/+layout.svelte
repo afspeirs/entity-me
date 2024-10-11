@@ -8,8 +8,6 @@
   import '../app.css';
 
   themeSystem.subscribe((theme) => {
-    console.log(theme);
-
     if (theme === 'dark') {
       document.body.classList.add('dark');
     } else {
