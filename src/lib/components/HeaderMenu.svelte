@@ -54,7 +54,7 @@
     groups[1][0].text = value ? 'Update' : 'Check for update';
   });
   // Very hacky thing to get svelte to update the #each for me
-  themeUser.subscribe((value) => {
+  themeSystem.subscribe((value) => {
     groups[1][1].icon = value === 'dark' ? 'moon' : 'sun';
     groups[1][1].text = value === 'dark' ? 'Theme: Dark' : 'Theme: Light';
   });
