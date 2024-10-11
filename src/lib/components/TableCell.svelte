@@ -19,7 +19,7 @@
   <slot>
     <span
       aria-hidden={!!label || showButton}
-      class="text-gray-900 opacity-40 aria-hidden:opacity-100"
+      class="text-gray-900 dark:text-white opacity-40 aria-hidden:opacity-100"
       class:underline={showButton}
       class:decoration-dotted={showButton}
       class:underline-offset-4={showButton}
@@ -29,7 +29,7 @@
     {#if showButton}
       <button
         type="button"
-        class="absolute inset-0 hover:bg-black/5 select-none"
+        class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"
         on:click={() => copyToClipBoard(label)}
         use:tooltip={{
           content: `Copy "${label}" to the clipboard`,

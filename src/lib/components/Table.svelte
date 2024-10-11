@@ -58,7 +58,7 @@
           {/each}
         </tr>
       </thead>
-      <tbody class="divide-y divide-gray-200 bg-white">
+      <tbody class="divide-y divide-gray-200 bg-white dark:bg-dark">
         {#if $hiddenColumns.length === headings.length}
           <tr>
             <TableCell colspan={6}>Error: All columns are hidden</TableCell>
@@ -122,7 +122,7 @@
                 />
                 <button
                   type="button"
-                  class="absolute inset-0 hover:bg-black/5"
+                  class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"
                   on:click={() => updateFavouriteEntities(entity.description)}
                 >
                   <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>

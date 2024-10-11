@@ -1,10 +1,11 @@
 <script lang="ts">
-  import { classNames } from '$lib/utils/classNames';
   import Icon from '@iconify/svelte';
   import { createMenu } from 'svelte-headlessui';
   import Transition from 'svelte-transition';
 
   import { updateAvailable } from '$lib/stores/service-worker';
+  import { themeSystem, themeUser } from '$lib/stores/theme';
+  import { classNames } from '$lib/utils/classNames';
 
   type MenuItem = {
     icon: string;
@@ -37,12 +38,25 @@
           }
         },
       },
+      {
+        icon: $themeSystem === 'dark' ? 'moon' : 'sun',
+        text: $themeSystem === 'dark' ? 'Theme: Dark' : 'Theme: Light',
+        onClick: () => {
+          menu.close();
+          themeUser.set($themeSystem === 'dark' ? 'light' : 'dark')
+        },
+      }
     ],
   ];
 
   // Very hacky thing to get svelte to update the #each for me
   updateAvailable.subscribe((value) => {
     groups[1][0].text = value ? 'Update' : 'Check for update';
+  });
+  // Very hacky thing to get svelte to update the #each for me
+  themeUser.subscribe((value) => {
+    groups[1][1].icon = value === 'dark' ? 'moon' : 'sun';
+    groups[1][1].text = value === 'dark' ? 'Theme: Dark' : 'Theme: Light';
   });
 </script>
 
@@ -67,11 +81,11 @@
     <div class="fixed inset-0" aria-hidden="true"></div>
     <div
       use:menu.items
-      class="absolute left-2 w-56 origin-top-left mt-1 divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
+      class="absolute left-2 w-56 origin-top-left mt-1 divide-y divide-gray-100 dark:divide-gray-700 rounded-md bg-white dark:bg-dark shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
     >
       {#key groups}
         {#each groups as group}
-          <div class="px-1 py-1">
+          <div class="p-1">
             {#each group as option}
               {@const isActive = $menu.active === option.text}
               {@const isButton = option?.onClick}
@@ -81,8 +95,8 @@
                 use:menu.item
                 on:click={option?.onClick}
                 class={classNames(
-                  'group flex rounded-md items-center w-full px-2 py-2 gap-2 text-sm',
-                  isButton && isActive ? 'bg-primary text-white' : 'text-gray-900',
+                  'flex rounded-md items-center w-full p-2 gap-2 text-sm',
+                  isButton && isActive ? 'bg-primary text-white' : 'text-gray-900 dark:text-white',
                 )}
               >
                 <Icon icon={`lucide:${option.icon}`} class="size-5" aria-hidden="true" />
