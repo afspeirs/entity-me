@@ -1,36 +1,42 @@
 <script lang="ts">
   import Icon from '@iconify/svelte';
+  import { onMount } from 'svelte';
 
-  export let showModal = false;
+  export let title = '';
 
   let dialog: HTMLDialogElement;
 
-  $: if (dialog && showModal) dialog.showModal();
+  function handleClose() {
+    dialog.close();
+  }
+
+  onMount(() => dialog.showModal());
 </script>
 
 <!-- svelte-ignore a11y-click-events-have-key-events a11y-no-noninteractive-element-interactions -->
 <dialog
   bind:this={dialog}
-  on:close={() => (showModal = false)}
-  on:click|self={() => dialog.close()}
-  class="max-w-lg p-4 border-none select-none"
+  class="w-full max-w-96 min-h-40 bg-white dark:bg-dark dark:text-white rounded-md"
+  on:close
+  on:click|self={handleClose}
 >
-  <!-- svelte-ignore a11y-no-static-element-interactions -->
-  <div on:click|stopPropagation>
-    <slot name="header" />
+  <div class="p-4 select-none">
+    <header class="flex items-center">
+      <h2 class="flex-1 text-xl">
+        {title}
+      </h2>
 
-    <!-- svelte-ignore a11y-autofocus -->
-    <button
-      type="button"
-      autofocus
-      on:click={() => dialog.close()}
-      class="absolute top-2 right-2 bg-white rounded focus-visible"
-    >
-      <span class="sr-only">close modal</span>
-      <Icon icon="lucide:x" class="size-8" />
-    </button>
+      <button
+        type="button"
+        class="inline-flex justify-center rounded-md p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 focus-visible ring-inset"
+        on:click={handleClose}
+      >
+        <Icon icon="lucide:x" class="size-6" aria-hidden="true" />
+        <span class="sr-only">Close Modal</span>
+      </button>
+    </header>
 
-    <hr />
+    <hr class="my-2">
 
     <slot />
   </div>
@@ -38,10 +44,21 @@
 
 <style>
   dialog::backdrop {
-    @apply bg-primary/70;
+    @apply bg-primary/70 backdrop-blur-sm;
   }
   dialog[open] {
     animation: zoom 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  dialog[open]::backdrop {
+    animation: fade 0.2s ease-out;
+  }
+  @keyframes fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
   }
   @keyframes zoom {
     from {
@@ -49,18 +66,6 @@
     }
     to {
       transform: scale(1);
-    }
-  }
-  dialog[open]::backdrop {
-    animation: fade 0.2s ease-out;
-  }
-
-  @keyframes fade {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
     }
   }
 </style>

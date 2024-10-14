@@ -8,7 +8,10 @@ declare global {
     // interface Error {}
     // interface Locals {}
     // interface PageData {}
-    // interface PageState {}
+    interface PageState {
+      // TODO: update this type to get the names of the modals
+      showModal?: string;
+    }
     // interface Platform {}
   }
 }
