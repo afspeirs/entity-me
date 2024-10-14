@@ -12,7 +12,7 @@
   <div class="absolute left-titlebar-area-x top-titlebar-area-y z-50 no-drag">
     <Settings />
   </div>
-  <div class="flex flex-wrap max-sm:flex-col w-full p-4">
+  <div class="flex flex-wrap max-md:flex-col w-full p-4">
     <Search />
     <div class="flex">
       <InputCurrentCategory />
