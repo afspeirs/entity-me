@@ -19,12 +19,12 @@
   };
 </script>
 
-<div class="relative flex max-sm:w-full">
+<div class="relative flex max-sm:w-full bg-white dark:bg-dark rounded-br-md sm:rounded-r-md">
   <button
     use:listbox.button
     type="button"
     on:change={onSelect}
-    class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 rounded-br-md sm:rounded-r-md px-3 py-2 text-sm font-semibold bg-white hover:bg-gray-50 dark:bg-dark dark:hover:bg-dark/80 text-gray-900 dark:text-white ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible"
+    class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 px-3 py-2 text-sm font-semibold hover:bg-black/5 dark:hover:bg-white/5 text-gray-900 dark:text-white rounded-[inherit] ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible"
   >
     <Icon icon="lucide:eye-off" class="-ml-0.5 size-5 text-gray-400" aria-hidden="true" />
     Hidden Columns ({$listbox.selected.length}/{headings.length})
