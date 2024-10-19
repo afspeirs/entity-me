@@ -12,7 +12,7 @@ export const themeUserOptions = {
 type ThemeUserOption = keyof typeof themeUserOptions;
 type TypeSystemOption = keyof typeof themeOptions;
 
-const initialValue = window.localStorage.getItem('theme') as ThemeUserOption || 'default';
+const initialValue = (window.localStorage.getItem('theme') as ThemeUserOption) || 'default';
 export const themeUser = writable<ThemeUserOption>(initialValue);
 export const themeMedia = writable<TypeSystemOption>(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
 export const themeSystem = derived([themeUser, themeMedia], ([$themeUser, $themeMedia]) => {

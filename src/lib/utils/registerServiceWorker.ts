@@ -2,9 +2,7 @@ import { toast } from '@zerodevx/svelte-toast';
 import { useRegisterSW } from 'virtual:pwa-register/svelte';
 import { updateAvailable } from '$lib/stores/service-worker';
 
-const {
-  updateServiceWorker,
-} = useRegisterSW({
+const { updateServiceWorker } = useRegisterSW({
   onNeedRefresh() {
     console.log('SW: A new version is available');
     toast.push('A new version is available');

@@ -36,7 +36,7 @@
       </button>
     </header>
 
-    <hr class="my-2">
+    <hr class="my-2" />
 
     <slot />
   </div>

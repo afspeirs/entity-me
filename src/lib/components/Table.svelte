@@ -34,14 +34,17 @@
 
   function filter(items: Entity[]) {
     if (!items) return [];
-    return items?.filter((item) => (
-      item.character?.includes($search)
-      || item.decimal?.includes($search)
-      || item.hex?.includes($search)
-      || item.entity?.includes($search)
-      || item.description?.toLowerCase()?.includes($search.toLowerCase())
-      || item.note?.toLowerCase()?.includes($search.toLowerCase())
-    )) || [];
+    return (
+      items?.filter(
+        (item) =>
+          item.character?.includes($search) ||
+          item.decimal?.includes($search) ||
+          item.hex?.includes($search) ||
+          item.entity?.includes($search) ||
+          item.description?.toLowerCase()?.includes($search.toLowerCase()) ||
+          item.note?.toLowerCase()?.includes($search.toLowerCase()),
+      ) || []
+    );
   }
 
   let values: Entity[];
@@ -69,6 +72,7 @@
             <TableCell colspan={6}>Loading...</TableCell>
           </tr>
         {:then items} <!-- eslint-disable-line @typescript-eslint/no-unused-vars -->
+          <!-- eslint-disable-line @typescript-eslint/no-unused-vars -->
           {@const filteredItems = filter(values)}
           {#if filteredItems.length === 0}
             <tr>
@@ -76,7 +80,12 @@
             </tr>
           {/if}
           {#each filteredItems as entity, entityIdx}
-            <tr class={classNames(entityIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}>
+            <tr
+              class={classNames(
+                entityIdx === 0 ? 'border-gray-300' : 'border-gray-200',
+                'border-t',
+              )}
+            >
               <TableCell
                 column="character"
                 hidden={$hiddenColumns.includes('character')}
@@ -113,10 +122,10 @@
               >
                 {@const favourite = $favouriteEntities.includes(entity.description)}
                 <Icon
-                  icon={favourite ? "lucide:heart" : 'lucide:heart-off'}
+                  icon={favourite ? 'lucide:heart' : 'lucide:heart-off'}
                   class={classNames(
-                    "size-5 text-primary",
-                    favourite ? '[&>*]:fill-primary' : ''
+                    'size-5 text-primary',
+                    favourite ? '[&>*]:fill-primary' : '',
                   )}
                   aria-hidden="true"
                 />

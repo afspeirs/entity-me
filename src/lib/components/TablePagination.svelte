@@ -26,7 +26,9 @@
   >
     <div class="hidden sm:block">
       <p class="text-sm text-gray-700 dark:text-white">
-        Showing <span class="font-medium">{start + 1}</span> to <span class="font-medium">{end + 1}</span> of <span class="font-medium">{totalItems}</span> results
+        Showing <span class="font-medium">{start + 1}</span> to
+        <span class="font-medium">{end + 1}</span>
+        of <span class="font-medium">{totalItems}</span> results
       </p>
     </div>
     <div class="flex flex-1 justify-between sm:justify-end">

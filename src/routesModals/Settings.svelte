@@ -47,7 +47,6 @@
   <span class="sr-only">Open Settings</span>
 </button>
 
-
 {#if $page.state.showModal === 'settings'}
   <Modal title="Settings" on:close={() => history.back()}>
     <div class="space-y-2">
@@ -73,7 +72,11 @@
               aria-live="polite"
               class:hidden={!loading}
             >
-              <Icon icon="lucide:refresh-cw" class="size-5 animate-spin text-gray-900 dark:text-white" aria-hidden="true" />
+              <Icon
+                icon="lucide:refresh-cw"
+                class="size-5 animate-spin text-gray-900 dark:text-white"
+                aria-hidden="true"
+              />
               <span class="sr-only">Loading</span>
             </div>
           {/if}
@@ -85,7 +88,11 @@
         on:click={handleUpdateTheme}
         class="flex rounded-md items-center w-full p-2 gap-2 text-sm hover:bg-black/5 dark:hover:bg-white/5 text-gray-900 dark:text-white"
       >
-        <Icon icon={`lucide:${$themeSystem === 'dark' ? 'moon' : 'sun'}`} class="size-5" aria-hidden="true" />
+        <Icon
+          icon={`lucide:${$themeSystem === 'dark' ? 'moon' : 'sun'}`}
+          class="size-5"
+          aria-hidden="true"
+        />
         <span>Theme</span>
         <span class="ml-auto">{themeUserOptions[$themeSystem]}</span>
       </button>

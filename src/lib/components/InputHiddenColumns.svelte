@@ -13,7 +13,7 @@
     helpers: { isSelected, isHighlighted },
   } = createSelect<Heading, true>({
     // TODO: stop the need for all this mapping, and update hiddenColumns to be a label/value pair
-    defaultSelected: $hiddenColumns.map(item => ({ label: item, value: item })),
+    defaultSelected: $hiddenColumns.map((item) => ({ label: item, value: item })),
     forceVisible: true,
     positioning: {
       placement: 'bottom-end',
@@ -30,7 +30,6 @@
   });
 </script>
 
-
 <div class="relative flex max-md:w-full bg-white dark:bg-dark max-md:rounded-bl-md">
   <!-- svelte-ignore a11y-label-has-associated-control -->
   <label class="sr-only" use:melt={$label}>Current Category</label>
@@ -40,7 +39,11 @@
   >
     <Icon icon="lucide:eye-off" class="-ml-0.5 size-5 text-gray-400 shrink-0" aria-hidden="true" />
     Hidden Columns ({$selected?.length || 0}/{headings.length})
-    <Icon icon="lucide:chevron-down" class="ml-auto size-4 text-gray-400 shrink-0" aria-hidden="true" />
+    <Icon
+      icon="lucide:chevron-down"
+      class="ml-auto size-4 text-gray-400 shrink-0"
+      aria-hidden="true"
+    />
   </button>
 
   {#if $open}
@@ -51,10 +54,16 @@
     >
       {#each headings as item}
         <div
-          class="relative cursor-default select-none py-2 pl-10 pr-4 {$isHighlighted(item) ? 'bg-primary text-white' : 'text-gray-900 dark:text-white'}"
+          class="relative cursor-default select-none py-2 pl-10 pr-4 {$isHighlighted(item)
+            ? 'bg-primary text-white'
+            : 'text-gray-900 dark:text-white'}"
           use:melt={$option({ label: item, value: item })}
         >
-          <div class="absolute inset-y-0 left-0 flex items-center px-3 {$isSelected(item) ? 'block' : 'hidden'}">
+          <div
+            class="absolute inset-y-0 left-0 flex items-center px-3 {$isSelected(item)
+              ? 'block'
+              : 'hidden'}"
+          >
             <Icon
               icon="lucide:check"
               class="size-5 {$isHighlighted(item) ? 'text-white' : 'text-black dark:text-white'}"

@@ -36,7 +36,11 @@
   >
     <Icon icon="lucide:filter" class="-ml-0.5 size-5 text-gray-400 shrink-0" aria-hidden="true" />
     <span>{`Filter: ${$selectedLabel}`}</span>
-    <Icon icon="lucide:chevron-down" class="ml-auto size-4 text-gray-400 shrink-0" aria-hidden="true" />
+    <Icon
+      icon="lucide:chevron-down"
+      class="ml-auto size-4 text-gray-400 shrink-0"
+      aria-hidden="true"
+    />
   </button>
 
   {#if $open}
@@ -57,7 +61,7 @@
             />
           </div>
 
-          <span class="{$isSelected(item.value) ? 'font-medium' : 'font-normal'}">
+          <span class={$isSelected(item.value) ? 'font-medium' : 'font-normal'}>
             {item.label}
           </span>
         </div>
