@@ -1,7 +1,6 @@
 <script lang="ts">
-  import { SvelteToast } from '@zerodevx/svelte-toast';
-
   import Header from '$lib/components/Header.svelte';
+  import Toaster from '$lib/components/Toaster.svelte'
   import { themeSystem } from '$lib/stores/theme';
   import '$lib/utils/registerServiceWorker';
   import '../webmanifest-apple';
@@ -28,18 +27,4 @@
   </main>
 </div>
 
-<SvelteToast
-  options={{
-    reversed: true,
-    intro: { y: 192 },
-  }}
-/>
-
-<style>
-  :root {
-    --toastContainerTop: auto;
-    --toastContainerRight: 1rem;
-    --toastContainerBottom: 1rem;
-    --toastContainerLeft: auto;
-  }
-</style>
+<Toaster />

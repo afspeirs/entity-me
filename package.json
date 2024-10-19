@@ -35,7 +35,6 @@
     "@types/eslint": "^9.6.1",
     "@types/node": "^22.7.4",
     "@vite-pwa/sveltekit": "^0.6.5",
-    "@zerodevx/svelte-toast": "^0.9.6",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.11.1",
     "eslint-config-prettier": "^9.1.0",
