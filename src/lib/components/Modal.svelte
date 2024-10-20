@@ -28,7 +28,7 @@
 
       <button
         type="button"
-        class="inline-flex justify-center rounded-md p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 focus-visible ring-inset"
+        class="inline-flex justify-center p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 rounded-md focus-visible ring-inset"
         on:click={handleClose}
       >
         <Icon icon="lucide:x" class="size-6" aria-hidden="true" />
@@ -36,7 +36,7 @@
       </button>
     </header>
 
-    <hr class="my-2">
+    <hr class="my-2" />
 
     <slot />
   </div>

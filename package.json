@@ -1,6 +1,6 @@
 {
   "name": "entity-me",
-  "version": "1.8.0",
+  "version": "1.9.0-develop.1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -23,6 +23,8 @@
   },
   "devDependencies": {
     "@iconify/svelte": "^4.0.2",
+    "@melt-ui/pp": "^0.3.2",
+    "@melt-ui/svelte": "^0.83.0",
     "@semantic-release/exec": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@sveltejs/adapter-static": "^3.0.5",
@@ -33,7 +35,6 @@
     "@types/eslint": "^9.6.1",
     "@types/node": "^22.7.4",
     "@vite-pwa/sveltekit": "^0.6.5",
-    "@zerodevx/svelte-toast": "^0.9.6",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.11.1",
     "eslint-config-prettier": "^9.1.0",
@@ -45,8 +46,6 @@
     "semantic-release": "^24.1.1",
     "svelte": "^4.2.19",
     "svelte-check": "^4.0.3",
-    "svelte-headlessui": "^0.0.42",
-    "svelte-transition": "^0.0.17",
     "tailwindcss": "^3.4.13",
     "tailwindcss-safe-area": "^0.6.0",
     "tippy.js": "^6.3.7",
