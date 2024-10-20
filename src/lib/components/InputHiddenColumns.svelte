@@ -30,7 +30,7 @@
   });
 </script>
 
-<div class="relative flex max-md:w-full bg-white dark:bg-dark max-md:rounded-bl-md">
+<div class="relative flex max-md:w-full bg-white dark:bg-dark rounded-br-md md:rounded-r-md">
   <!-- svelte-ignore a11y-label-has-associated-control -->
   <label class="sr-only" use:melt={$label}>Current Category</label>
   <button
