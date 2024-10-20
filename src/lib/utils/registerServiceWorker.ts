@@ -1,5 +1,5 @@
 import { useRegisterSW } from 'virtual:pwa-register/svelte';
-import { toast } from '$lib/components/Toaster.svelte'
+import { toast } from '$lib/components/Toaster.svelte';
 import { updateAvailable } from '$lib/stores/service-worker';
 
 const { updateServiceWorker } = useRegisterSW({

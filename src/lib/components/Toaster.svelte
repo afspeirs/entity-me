@@ -5,7 +5,7 @@
     title: string;
     description?: string;
   };
-  type ToastAdd = ToastData & Omit<CreateToasterProps, 'hover'>
+  type ToastAdd = ToastData & Omit<CreateToasterProps, 'hover'>;
 
   const {
     elements: { content, title, description, close },

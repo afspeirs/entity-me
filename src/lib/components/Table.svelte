@@ -72,7 +72,6 @@
             <TableCell colspan={6}>Loading...</TableCell>
           </tr>
         {:then items} <!-- eslint-disable-line @typescript-eslint/no-unused-vars -->
-          <!-- eslint-disable-line @typescript-eslint/no-unused-vars -->
           {@const filteredItems = filter(values)}
           {#if filteredItems.length === 0}
             <tr>

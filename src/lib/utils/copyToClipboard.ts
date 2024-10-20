@@ -1,4 +1,4 @@
-import { toast } from '$lib/components/Toaster.svelte'
+import { toast } from '$lib/components/Toaster.svelte';
 
 export function copyToClipBoard(text: string) {
   navigator.clipboard
