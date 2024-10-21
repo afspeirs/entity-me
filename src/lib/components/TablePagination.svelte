@@ -1,15 +1,27 @@
 <script lang="ts">
-  export let items;
-  export let perPage = 100;
-  export let trimmedData;
+  import type { Entity } from '$lib/entities/types';
 
-  $: totalItems = items.length;
-  $: currentPage = 0;
-  $: totalPages = Math.ceil(totalItems / perPage);
-  $: start = currentPage * perPage;
-  $: end = currentPage === totalPages - 1 ? totalItems - 1 : start + perPage - 1;
+  type TablePaginationProps = {
+    items: Entity[],
+    perPage?: number,
+    trimmedData: Entity[],
+  };
 
-  $: trimmedData = items.slice(start, end + 1);
+  let {
+    items,
+    perPage = 100,
+    trimmedData = $bindable(),
+  }: TablePaginationProps = $props();
+
+  let currentPage = $state(0);
+  const totalItems = $derived(items.length);
+  const totalPages = $derived(Math.ceil(totalItems / perPage))
+  const start = $derived(currentPage * perPage)
+  const end = $derived(currentPage === totalPages - 1 ? totalItems - 1 : start + perPage - 1);
+
+  $effect(() => {
+    trimmedData = items.slice(start, end + 1);
+  });
 
   function handlePrevPage() {
     currentPage -= 1;
@@ -34,7 +46,7 @@
     <div class="flex flex-1 justify-between sm:justify-end">
       <button
         type="button"
-        on:click={handlePrevPage}
+        onclick={handlePrevPage}
         disabled={currentPage === 0}
         class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold enabled:hover:bg-black/5 enabled:dark:hover:bg-white/5 text-gray-900 dark:text-white ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible:outline-offset-0 disabled:opacity-40"
       >
@@ -42,7 +54,7 @@
       </button>
       <button
         type="button"
-        on:click={handleNextPage}
+        onclick={handleNextPage}
         disabled={end + 1 === totalItems}
         class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold enabled:hover:bg-black/5 enabled:dark:hover:bg-white/5 text-gray-900 dark:text-white ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible:outline-offset-0 disabled:opacity-40"
       >

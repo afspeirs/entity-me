@@ -47,8 +47,8 @@
     );
   }
 
-  let values: Entity[];
-  $: entities = getEntities($currentCategory);
+  let values: Entity[] = $state([]);
+  const entities = $derived(getEntities($currentCategory))
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
@@ -131,7 +131,7 @@
                 <button
                   type="button"
                   class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"
-                  on:click={() => updateFavouriteEntities(entity.description)}
+                  onclick={() => updateFavouriteEntities(entity.description)}
                 >
                   <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>
                 </button>

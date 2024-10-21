@@ -1,13 +1,25 @@
 <script lang="ts">
+  import type { Snippet } from 'svelte';
   import { tooltip } from '$lib/actions/tooltip';
   import { copyToClipBoard } from '$lib/utils/copyToClipboard';
 
-  export let column = '';
-  export let colspan: number | null = null;
-  export let hidden = false;
-  export let label = '';
+  type TableCellProps = {
+    children?: Snippet,
+    column?: string,
+    colspan?: number,
+    hidden?: boolean,
+    label?: string,
+  };
 
-  $: showButton = !!label && column !== 'description';
+  const {
+    children,
+    column = '',
+    colspan,
+    hidden = false,
+    label = '',
+  }: TableCellProps = $props();
+
+  const showButton = $derived(!!label && column !== 'description')
 </script>
 
 <td
@@ -16,7 +28,9 @@
   class:hidden
   class:select-none={showButton || !label}
 >
-  <slot>
+  {#if children}
+    {@render children()}
+  {:else}
     <span
       aria-hidden={!!label || showButton}
       class="text-gray-900 dark:text-white opacity-40 aria-hidden:opacity-100"
@@ -30,7 +44,7 @@
       <button
         type="button"
         class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"
-        on:click={() => copyToClipBoard(label)}
+        onclick={() => copyToClipBoard(label)}
         use:tooltip={{
           content: `Copy "${label}" to the clipboard`,
         }}
@@ -38,5 +52,5 @@
         <span class="sr-only">{label}</span>
       </button>
     {/if}
-  </slot>
+  {/if}
 </td>
