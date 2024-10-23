@@ -48,7 +48,7 @@
   }
 
   let values: Entity[] = $state([]);
-  const entities = $derived(getEntities($currentCategory))
+  const entities = $derived(getEntities($currentCategory));
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
@@ -121,17 +121,11 @@
                 hidden={$hiddenColumns.includes('note')}
                 label={entity.note}
               />
-              <TableCell
-                column="favourite"
-                hidden={$hiddenColumns.includes('favourite')}
-              >
+              <TableCell column="favourite" hidden={$hiddenColumns.includes('favourite')}>
                 {@const favourite = $favouriteEntities.includes(entity.description)}
                 <Icon
                   icon={favourite ? 'lucide:heart' : 'lucide:heart-off'}
-                  class={classNames(
-                    'size-5 text-primary',
-                    favourite ? '[&>*]:fill-primary' : '',
-                  )}
+                  class={classNames('size-5 text-primary', favourite ? '[&>*]:fill-primary' : '')}
                   aria-hidden="true"
                 />
                 <button
@@ -153,10 +147,7 @@
     </table>
     {#key $search}
       {#await entities then items}
-        <TablePagination
-          items={filter(items)}
-          bind:trimmedData={values}
-        />
+        <TablePagination items={filter(items)} bind:trimmedData={values} />
       {/await}
     {/key}
   </div>

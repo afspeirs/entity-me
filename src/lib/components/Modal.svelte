@@ -3,15 +3,15 @@
   import { onMount, type Snippet } from 'svelte';
 
   type ModalProps = {
-    children: Snippet,
-    title: string,
-    onclose: () => void,
+    children: Snippet;
+    title: string;
+    onclose: () => void;
   };
 
   const {
     children,
     title,
-    onclose
+    onclose,
   }: ModalProps = $props();
 
   let dialog: HTMLDialogElement;
@@ -29,7 +29,7 @@
   bind:this={dialog}
   class="w-full max-w-96 min-h-40 bg-white dark:bg-dark dark:text-white rounded-md"
   onclick={(event) => event.target === event.currentTarget && handleClose()}
-  onclose={onclose}
+  {onclose}
 >
   <div class="p-4 select-none">
     <header class="flex items-center">

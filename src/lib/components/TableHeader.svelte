@@ -1,9 +1,9 @@
 <script lang="ts">
-  import type { Snippet } from "svelte";
+  import type { Snippet } from 'svelte';
 
   type TableHeaderProps = {
-    children: Snippet,
-    hidden?: boolean,
+    children: Snippet;
+    hidden?: boolean;
   };
 
   const {

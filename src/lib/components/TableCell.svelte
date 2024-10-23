@@ -4,11 +4,11 @@
   import { copyToClipBoard } from '$lib/utils/copyToClipboard';
 
   type TableCellProps = {
-    children?: Snippet,
-    column?: string,
-    colspan?: number,
-    hidden?: boolean,
-    label?: string,
+    children?: Snippet;
+    column?: string;
+    colspan?: number;
+    hidden?: boolean;
+    label?: string;
   };
 
   const {
@@ -19,7 +19,7 @@
     label = '',
   }: TableCellProps = $props();
 
-  const showButton = $derived(!!label && column !== 'description')
+  const showButton = $derived(!!label && column !== 'description');
 </script>
 
 <td

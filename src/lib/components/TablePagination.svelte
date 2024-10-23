@@ -2,9 +2,9 @@
   import type { Entity } from '$lib/entities/types';
 
   type TablePaginationProps = {
-    items: Entity[],
-    perPage?: number,
-    trimmedData: Entity[],
+    items: Entity[];
+    perPage?: number;
+    trimmedData: Entity[];
   };
 
   let {
@@ -15,8 +15,8 @@
 
   let currentPage = $state(0);
   const totalItems = $derived(items.length);
-  const totalPages = $derived(Math.ceil(totalItems / perPage))
-  const start = $derived(currentPage * perPage)
+  const totalPages = $derived(Math.ceil(totalItems / perPage));
+  const start = $derived(currentPage * perPage);
   const end = $derived(currentPage === totalPages - 1 ? totalItems - 1 : start + perPage - 1);
 
   $effect(() => {

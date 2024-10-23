@@ -5,13 +5,13 @@
   import { classNames } from '$lib/utils/classNames';
 
   type ButtonProps = {
-    children: Snippet,
-    class?: string,
-    icon?: string,
-    iconOnly?: boolean,
-    invert?: boolean,
-    onclick: () => void,
-    text: string,
+    children: Snippet;
+    class?: string;
+    icon?: string;
+    iconOnly?: boolean;
+    invert?: boolean;
+    onclick: () => void;
+    text: string;
   };
 
   const {
@@ -32,7 +32,7 @@
     !iconOnly ? 'flex items-center w-full gap-2 text-gray-900 dark:text-white' : '',
     className,
   )}
-  onclick={onclick}
+  {onclick}
 >
   {#if icon !== ''}<Icon icon={`lucide:${icon}`} class="size-5" aria-hidden="true" />{/if}
   <span class={iconOnly ? 'sr-only' : ''}>{text}</span>
