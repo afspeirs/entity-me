@@ -75,7 +75,13 @@
           {@const filteredItems = filter(values)}
           {#if filteredItems.length === 0}
             <tr>
-              <TableCell colspan={6}>No results found for "{$search}"</TableCell>
+              <TableCell colspan={6}>
+                {#if $currentCategory === 'favourites' && $search.length === 0}
+                  No favourites found
+                {:else}
+                  No results found for "{$search}"
+                {/if}
+              </TableCell>
             </tr>
           {/if}
           {#each filteredItems as entity, entityIdx}
