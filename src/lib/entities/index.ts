@@ -141,9 +141,6 @@ export const categories = [
   },
 ] as const;
 
-export const categoryValues = categories.map((category) => category.value);
-export const categoryLabels = categories.map((category) => category.label);
-
 export {
   latinBasic,
   latinSupplement,
