@@ -1,4 +1,3 @@
-/* eslint-disable no-template-curly-in-string */
 function isDryRun() {
   return process.argv.includes('--dry-run');
 }

@@ -1,3 +1,4 @@
+import type { Config } from 'tailwindcss';
 import typography from '@tailwindcss/typography';
 import safeArea from 'tailwindcss-safe-area';
 import {
@@ -7,7 +8,6 @@ import {
   white,
 } from 'tailwindcss/colors';
 
-/** @type {import('tailwindcss').Config} */
 export default {
   content: [
     './index.html',
@@ -43,4 +43,4 @@ export default {
     safeArea,
     typography,
   ],
-};
+} as Config;
