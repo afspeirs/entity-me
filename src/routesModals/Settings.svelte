@@ -31,7 +31,7 @@
     } else if (!loading) {
       loading = true;
       updateServiceWorker();
-      setTimeout(() => (loading = false), 2000);
+      setTimeout(() => loading = false, 2000);
     }
   }
 

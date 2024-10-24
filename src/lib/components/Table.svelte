@@ -26,9 +26,8 @@
     favouriteEntities.update((prevState) => {
       if ($favouriteEntities.includes(value)) {
         return prevState.filter((state) => state !== value);
-      } else {
-        return [...prevState, value];
       }
+      return [...prevState, value];
     });
   }
 

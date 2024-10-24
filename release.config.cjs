@@ -18,7 +18,7 @@ module.exports = {
   plugins: [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
-    ...(isDryRun() ? [] : configProduction),
+    ...isDryRun() ? [] : configProduction,
     [
       '@semantic-release/exec',
       {
