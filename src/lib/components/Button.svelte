@@ -5,7 +5,7 @@
   import { classNames } from '$lib/utils/classNames';
 
   type ButtonProps = {
-    children: Snippet;
+    children?: Snippet;
     class?: string;
     icon?: string;
     iconOnly?: boolean;

@@ -48,7 +48,7 @@
   <span class="sr-only">Open Settings</span>
 </button>
 
-{#if $page.state.showModal === 'settings'}
+{#if $page.state?.showModal === 'settings'}
   <Modal title="Settings" onclose={() => history.back()}>
     <div class="space-y-2">
       <div class="flex items-center w-full gap-2 text-gray-900 dark:text-white p-2 text-sm">
