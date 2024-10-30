@@ -5,7 +5,13 @@ import { updateAvailable } from '$lib/stores/service-worker';
 const { updateServiceWorker } = useRegisterSW({
   onNeedRefresh() {
     console.log('SW: A new version is available'); // eslint-disable-line no-console
-    toast.add({ title: 'A new version is available' });
+    toast.add({
+      title: 'A new version is available',
+      button: {
+        title: 'Update',
+        onclick: () => window.location.reload(),
+      },
+    });
     updateAvailable.set(updateServiceWorker);
   },
   onOfflineReady() {

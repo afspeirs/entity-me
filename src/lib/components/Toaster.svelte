@@ -4,6 +4,10 @@
   type ToastData = {
     title: string;
     description?: string;
+    button?: {
+      title: string;
+      onclick: () => void;
+    }
   };
   type ToastAdd = ToastData & Omit<CreateToasterProps, 'hover'>;
 
@@ -15,10 +19,11 @@
   } = createToaster<ToastData>();
 
   export const toast = {
-    add: ({ title, description, ...options }: ToastAdd) => helpers.addToast({
+    add: ({ title, description, button, ...options }: ToastAdd) => helpers.addToast({
       data: {
         title,
         description,
+        button,
       },
       ...options,
     }),
@@ -44,13 +49,21 @@
       use:melt={$content(id)}
     >
       <div class="relative min-w-36 max-w-[calc(100vw-2rem)] p-2">
-        <div class="flex gap-2">
+        <div class="flex gap-2 font-semibold">
           <h3
-            class="flex items-center gap-2 px-2 font-semibold"
+            class="flex items-center gap-2 px-2"
             use:melt={$title(id)}
           >
             {data.title}
           </h3>
+          {#if data.button}
+            <button
+              class="p-2 rounded-md text-dark dark:text-white bg-white dark:bg-dark hover:bg-white/80 dark:hover:bg-dark/80"
+              onclick={data.button.onclick}
+            >
+              <span>{data.button.title}</span>
+            </button>
+          {/if}
           <button
             class="p-2 rounded-md text-white dark:text-dark hover:bg-white/10 dark:hover:bg-black/10"
             use:melt={$close(id)}
