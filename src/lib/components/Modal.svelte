@@ -1,8 +1,18 @@
 <script lang="ts">
   import Icon from '@iconify/svelte';
-  import { onMount } from 'svelte';
+  import { onMount, type Snippet } from 'svelte';
 
-  export let title = '';
+  type ModalProps = {
+    children: Snippet;
+    title: string;
+    onclose: () => void;
+  };
+
+  const {
+    children,
+    title,
+    onclose,
+  }: ModalProps = $props();
 
   let dialog: HTMLDialogElement;
 
@@ -13,12 +23,13 @@
   onMount(() => dialog.showModal());
 </script>
 
-<!-- svelte-ignore a11y-click-events-have-key-events a11y-no-noninteractive-element-interactions -->
+<!-- svelte-ignore a11y_click_events_have_key_events -->
+<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 <dialog
   bind:this={dialog}
   class="w-full max-w-96 min-h-40 bg-white dark:bg-dark dark:text-white rounded-md"
-  on:close
-  on:click|self={handleClose}
+  onclick={(event) => event.target === event.currentTarget && handleClose()}
+  {onclose}
 >
   <div class="p-4 select-none">
     <header class="flex items-center">
@@ -29,7 +40,7 @@
       <button
         type="button"
         class="inline-flex justify-center p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 rounded-md focus-visible ring-inset"
-        on:click={handleClose}
+        onclick={handleClose}
       >
         <Icon icon="lucide:x" class="size-6" aria-hidden="true" />
         <span class="sr-only">Close Modal</span>
@@ -38,11 +49,11 @@
 
     <hr class="my-2" />
 
-    <slot />
+    {@render children?.()}
   </div>
 </dialog>
 
-<style>
+<style lang="postcss">
   dialog::backdrop {
     @apply bg-primary/70 backdrop-blur-sm;
   }

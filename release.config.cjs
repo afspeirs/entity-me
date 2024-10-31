@@ -1,4 +1,3 @@
-/* eslint-disable no-template-curly-in-string */
 function isDryRun() {
   return process.argv.includes('--dry-run');
 }
@@ -19,7 +18,7 @@ module.exports = {
   plugins: [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
-    ...(isDryRun() ? [] : configProduction),
+    ...isDryRun() ? [] : configProduction,
     [
       '@semantic-release/exec',
       {

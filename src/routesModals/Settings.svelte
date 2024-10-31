@@ -8,7 +8,7 @@
   import { updateAvailable } from '$lib/stores/service-worker';
   import { themeSystem, themeUser, themeUserOptions } from '$lib/stores/theme';
 
-  let loading = false;
+  let loading = $state(false);
 
   // TODO: Refactor this into a store of modals to open and close the correct one
   function openSettings() {
@@ -31,7 +31,7 @@
     } else if (!loading) {
       loading = true;
       updateServiceWorker();
-      setTimeout(() => (loading = false), 2000);
+      setTimeout(() => loading = false, 2000);
     }
   }
 
@@ -42,14 +42,14 @@
 
 <button
   class="p-2 rounded-md text-white hover:bg-black/20 focus-visible ring-inset"
-  on:click={openSettings}
+  onclick={openSettings}
 >
   <Icon icon="lucide:settings" class="size-6" aria-hidden="true" />
   <span class="sr-only">Open Settings</span>
 </button>
 
 {#if $page.state.showModal === 'settings'}
-  <Modal title="Settings" on:close={() => history.back()}>
+  <Modal title="Settings" onclose={() => history.back()}>
     <div class="space-y-2">
       <div class="flex items-center w-full gap-2 text-gray-900 dark:text-white p-2 text-sm">
         <Icon icon="lucide:wrench" class="size-5" aria-hidden="true" />
@@ -60,11 +60,11 @@
       <Button
         icon="rocket"
         text="Check for update"
-        on:click={handleCheckForUpdate}
+        onclick={handleCheckForUpdate}
       >
         <span class="ml-auto">
           {#if $updateAvailable}
-            Update
+            <span class="px-3 py-1.5 rounded-full bg-primary text-white">Update</span>
           {:else}
             <div
               aria-busy={loading}
@@ -81,7 +81,7 @@
       <Button
         icon={$themeSystem === 'dark' ? 'moon' : 'sun'}
         text="Theme"
-        on:click={handleUpdateTheme}
+        onclick={handleUpdateTheme}
       >
         <span class="ml-auto">{themeUserOptions[$themeSystem]}</span>
       </Button>

@@ -1,14 +1,28 @@
 <script lang="ts">
   import Icon from '@iconify/svelte';
+  import type { Snippet } from 'svelte';
 
   import { classNames } from '$lib/utils/classNames';
 
-  let className = '';
-  export { className as class };
-  export let icon = '';
-  export let iconOnly = false;
-  export let invert = false;
-  export let text;
+  type ButtonProps = {
+    children: Snippet;
+    class?: string;
+    icon?: string;
+    iconOnly?: boolean;
+    invert?: boolean;
+    onclick: () => void;
+    text: string;
+  };
+
+  const {
+    children,
+    class: className = '',
+    icon = '',
+    iconOnly = false,
+    invert = false,
+    onclick,
+    text,
+  }: ButtonProps = $props();
 </script>
 
 <button
@@ -18,9 +32,12 @@
     !iconOnly ? 'flex items-center w-full gap-2 text-gray-900 dark:text-white' : '',
     className,
   )}
-  on:click
+  {onclick}
 >
-  {#if icon}<Icon icon={`lucide:${icon}`} class="size-5" aria-hidden="true" />{/if}
+  {#if icon !== ''}<Icon icon={`lucide:${icon}`} class="size-5" aria-hidden="true" />{/if}
   <span class={iconOnly ? 'sr-only' : ''}>{text}</span>
-  <slot />
+
+  {#if children}
+    {@render children()}
+  {/if}
 </button>

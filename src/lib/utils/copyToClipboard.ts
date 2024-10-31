@@ -7,12 +7,12 @@ export function copyToClipBoard(text: string) {
       toast.add({
         title: `"${text}" was copied to your clipboard`,
       });
-      console.log(`"${text}" was copied to your clipboard`);
+      console.log(`"${text}" was copied to your clipboard`); // eslint-disable-line no-console
     })
     .catch((error) => {
       toast.add({
         title: `An error occurred: "${error}"`,
       });
-      console.error(error);
+      console.error(error); // eslint-disable-line no-console
     });
 }

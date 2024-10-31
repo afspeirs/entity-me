@@ -26,9 +26,8 @@
     favouriteEntities.update((prevState) => {
       if ($favouriteEntities.includes(value)) {
         return prevState.filter((state) => state !== value);
-      } else {
-        return [...prevState, value];
       }
+      return [...prevState, value];
     });
   }
 
@@ -47,8 +46,8 @@
     );
   }
 
-  let values: Entity[];
-  $: entities = getEntities($currentCategory);
+  let values: Entity[] = $state([]);
+  const entities = $derived(getEntities($currentCategory));
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
@@ -75,7 +74,13 @@
           {@const filteredItems = filter(values)}
           {#if filteredItems.length === 0}
             <tr>
-              <TableCell colspan={6}>No results found for "{$search}"</TableCell>
+              <TableCell colspan={6}>
+                {#if $currentCategory === 'favourites' && $search.length === 0}
+                  No favourites found
+                {:else}
+                  No results found for "{$search}"
+                {/if}
+              </TableCell>
             </tr>
           {/if}
           {#each filteredItems as entity, entityIdx}
@@ -115,23 +120,17 @@
                 hidden={$hiddenColumns.includes('note')}
                 label={entity.note}
               />
-              <TableCell
-                column="favourite"
-                hidden={$hiddenColumns.includes('favourite')}
-              >
+              <TableCell column="favourite" hidden={$hiddenColumns.includes('favourite')}>
                 {@const favourite = $favouriteEntities.includes(entity.description)}
                 <Icon
                   icon={favourite ? 'lucide:heart' : 'lucide:heart-off'}
-                  class={classNames(
-                    'size-5 text-primary',
-                    favourite ? '[&>*]:fill-primary' : '',
-                  )}
+                  class={classNames('size-5 text-primary', favourite ? '[&>*]:fill-primary' : '')}
                   aria-hidden="true"
                 />
                 <button
                   type="button"
                   class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"
-                  on:click={() => updateFavouriteEntities(entity.description)}
+                  onclick={() => updateFavouriteEntities(entity.description)}
                 >
                   <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>
                 </button>
@@ -147,10 +146,7 @@
     </table>
     {#key $search}
       {#await entities then items}
-        <TablePagination
-          items={filter(items)}
-          bind:trimmedData={values}
-        />
+        <TablePagination items={filter(items)} bind:trimmedData={values} />
       {/await}
     {/key}
   </div>
