@@ -64,7 +64,7 @@
       >
         <span class="ml-auto">
           {#if $updateAvailable}
-            Update
+            <span class="px-3 py-1.5 rounded-full bg-primary text-white">Update</span>
           {:else}
             <div
               aria-busy={loading}
