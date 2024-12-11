@@ -23,7 +23,6 @@
     "update:minor": "npm run outdated:minor -- -u"
   },
   "devDependencies": {
-    "@iconify/svelte": "^4.1.0",
     "@melt-ui/pp": "^0.3.2",
     "@melt-ui/svelte": "^0.86.2",
     "@semantic-release/exec": "^6.0.3",
@@ -41,6 +40,7 @@
     "eslint": "^9.16.0",
     "eslint-plugin-svelte": "^2.46.1",
     "globals": "^15.13.0",
+    "lucide-svelte": "^0.468.0",
     "postcss": "^8.4.49",
     "semantic-release": "^24.2.0",
     "svelte": "^5.11.0",

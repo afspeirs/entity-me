@@ -1,16 +1,15 @@
 <script lang="ts">
-  import Icon from '@iconify/svelte';
+  import { HeartIcon, HeartOffIcon } from 'lucide-svelte';
 
   import TableCell from '$lib/components/TableCell.svelte';
   import TableHeader from '$lib/components/TableHeader.svelte';
   import TablePagination from '$lib/components/TablePagination.svelte';
-  import { headings } from '$lib/entities';
-  import type { CategoryValue, Entity } from '$lib/entities/types';
   import { currentCategory } from '$lib/context/current-category.svelte';
   import { favouriteEntities } from '$lib/context/favourite-entities.svelte';
   import { hiddenColumns } from '$lib/context/hidden-columns.svelte';
   import { search } from '$lib/context/search.svelte';
-  import { classNames } from '$lib/utils/classNames';
+  import { headings } from '$lib/entities';
+  import type { CategoryValue, Entity } from '$lib/entities/types';
 
   async function getEntities(category: CategoryValue) {
     const entities = await import('../entities');
@@ -75,12 +74,7 @@
             </tr>
           {/if}
           {#each filteredItems as entity, entityIdx}
-            <tr
-              class={classNames(
-                entityIdx === 0 ? 'border-gray-300' : 'border-gray-200',
-                'border-t',
-              )}
-            >
+            <tr class="border-t {entityIdx === 0 ? 'border-gray-300' : 'border-gray-200'}">
               <TableCell
                 column="character"
                 hidden={hiddenColumns.value.includes('character')}
@@ -113,11 +107,13 @@
               />
               <TableCell column="favourite" hidden={hiddenColumns.value.includes('favourite')}>
                 {@const favourite = favouriteEntities.value.includes(entity.description)}
-                <Icon
-                  icon={favourite ? 'lucide:heart' : 'lucide:heart-off'}
-                  class={classNames('size-5 text-primary', favourite ? '[&>*]:fill-primary' : '')}
-                  aria-hidden="true"
-                />
+
+                {#if favourite}
+                  <HeartIcon class="size-5 text-primary [&>*]:fill-primary" aria-hidden="true" />
+                {:else}
+                  <HeartOffIcon class="size-5 text-primary" aria-hidden="true" />
+                {/if}
+
                 <button
                   type="button"
                   class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"

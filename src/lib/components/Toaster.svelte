@@ -33,8 +33,8 @@
 </script>
 
 <script lang="ts">
-  import Icon from '@iconify/svelte';
   import { createToaster, melt } from '@melt-ui/svelte';
+  import { XIcon } from 'lucide-svelte';
   import { flip } from 'svelte/animate';
   import { fly } from 'svelte/transition';
 </script>
@@ -68,7 +68,7 @@
             class="p-2 rounded-md text-white dark:text-dark hover:bg-white/10 dark:hover:bg-black/10"
             use:melt={$close(id)}
           >
-            <Icon icon="lucide:x" class="size-6" aria-hidden="true" />
+            <XIcon class="size-6" aria-hidden="true" />
             <span class="sr-only">Close notification</span>
           </button>
         </div>

@@ -1,10 +1,10 @@
 <script lang="ts">
-  import Icon from '@iconify/svelte';
   import { createSelect, melt } from '@melt-ui/svelte';
+  import { CheckIcon, ChevronDownIcon, FilterIcon } from 'lucide-svelte';
   import { fade } from 'svelte/transition';
 
-  import { categories } from '$lib/entities';
   import { currentCategory } from '$lib/context/current-category.svelte';
+  import { categories } from '$lib/entities';
   import type { CategoryValue } from '$lib/entities/types';
 
   const {
@@ -34,13 +34,9 @@
     class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 px-3 py-2 text-sm font-semibold hover:bg-black/5 dark:hover:bg-white/5 text-gray-900 dark:text-white rounded-[inherit] ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible"
     use:melt={$trigger}
   >
-    <Icon icon="lucide:filter" class="-ml-0.5 size-5 text-gray-400 shrink-0" aria-hidden="true" />
+    <FilterIcon class="-ml-0.5 size-5 text-gray-400 shrink-0" aria-hidden="true" />
     <span>{`Filter: ${$selectedLabel}`}</span>
-    <Icon
-      icon="lucide:chevron-down"
-      class="ml-auto size-4 text-gray-400 shrink-0"
-      aria-hidden="true"
-    />
+    <ChevronDownIcon class="ml-auto size-4 text-gray-400 shrink-0" aria-hidden="true" />
   </button>
 
   {#if $open}
@@ -55,10 +51,7 @@
           use:melt={$option(item)}
         >
           <div class="absolute inset-y-0 left-0 flex items-center px-3 {$isSelected(item.value) ? 'block' : 'hidden'}">
-            <Icon
-              icon="lucide:check"
-              class="size-5 {$isHighlighted(item.value) ? 'text-white' : 'text-black dark:text-white'}"
-            />
+            <CheckIcon class="size-5 {$isHighlighted(item.value) ? 'text-white' : 'text-black dark:text-white'}" />
           </div>
 
           <span class={$isSelected(item.value) ? 'font-medium' : 'font-normal'}>

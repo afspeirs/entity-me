@@ -1,6 +1,6 @@
 <script lang="ts">
-  import Icon from '@iconify/svelte';
   import { search } from '$lib/context/search.svelte';
+  import { SearchIcon, XIcon } from 'lucide-svelte';
 
   let input: HTMLInputElement;
 </script>
@@ -17,7 +17,7 @@
 <div class="relative flex flex-grow items-stretch">
   <label for="search" class="sr-only">Search candidates</label>
   <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
-    <Icon icon="lucide:search" class="size-5 text-gray-400" aria-hidden="true" />
+    <SearchIcon class="size-5 text-gray-400" aria-hidden="true" />
   </div>
   <input
     type="search"
@@ -36,7 +36,7 @@
         on:click={() => search.set('')}
       >
         <span class="sr-only">clear</span>
-        <Icon icon="lucide:x" class="size-5 text-black dark:text-white" aria-hidden="true" />
+        <XIcon class="size-5 text-black dark:text-white" aria-hidden="true" />
       </button>
     </div>
   {/if}
