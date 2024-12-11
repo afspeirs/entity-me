@@ -4,7 +4,7 @@
   import { fade } from 'svelte/transition';
 
   import { headings } from '$lib/entities';
-  import { hiddenColumns } from '$lib/stores/hidden-columns';
+  import { hiddenColumns } from '$lib/context/hidden-columns.svelte';
   import type { Heading } from '$lib/entities/types';
 
   const {
@@ -13,7 +13,7 @@
     helpers: { isSelected, isHighlighted },
   } = createSelect<Heading, true>({
     // TODO: stop the need for all this mapping, and update hiddenColumns to be a label/value pair
-    defaultSelected: $hiddenColumns.map((item) => ({ label: item, value: item })),
+    defaultSelected: hiddenColumns.value.map((item) => ({ label: item, value: item })),
     forceVisible: true,
     positioning: {
       placement: 'bottom-end',

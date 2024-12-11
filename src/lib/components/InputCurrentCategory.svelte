@@ -4,7 +4,7 @@
   import { fade } from 'svelte/transition';
 
   import { categories } from '$lib/entities';
-  import { currentCategory } from '$lib/stores/current-category';
+  import { currentCategory } from '$lib/context/current-category.svelte';
   import type { CategoryValue } from '$lib/entities/types';
 
   const {
@@ -12,8 +12,8 @@
     states: { selectedLabel, open },
     helpers: { isSelected, isHighlighted },
   } = createSelect<CategoryValue>({
-    defaultSelected: $currentCategory
-      ? categories.find((category) => category.value === $currentCategory)
+    defaultSelected: currentCategory.value
+      ? categories.find((category) => category.value === currentCategory.value)
       : categories[0],
     forceVisible: true,
     positioning: {

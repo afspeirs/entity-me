@@ -5,8 +5,8 @@
 
   import Button from '$lib/components/Button.svelte';
   import Modal from '$lib/components/Modal.svelte';
-  import { updateAvailable } from '$lib/stores/service-worker';
-  import { themeSystem, themeUser, themeUserOptions } from '$lib/stores/theme';
+  import { updateAvailable } from '$lib/context/service-worker.svelte';
+  import { themeSystem, themeUser, themeUserOptions } from '$lib/context/theme.svelte';
 
   let loading = $state(false);
 
@@ -26,8 +26,8 @@
   }
 
   function handleCheckForUpdate() {
-    if ($updateAvailable) {
-      $updateAvailable();
+    if (updateAvailable.value) {
+      updateAvailable.value();
     } else if (!loading) {
       loading = true;
       updateServiceWorker();
@@ -63,7 +63,7 @@
         onclick={handleCheckForUpdate}
       >
         <span class="ml-auto">
-          {#if $updateAvailable}
+          {#if updateAvailable.value}
             <span class="px-3 py-1.5 rounded-full bg-primary text-white">Update</span>
           {:else}
             <div
