@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Icon from '@iconify/svelte';
+  import type { Icon as IconType } from 'lucide-svelte';
   import type { Snippet } from 'svelte';
 
   import { classNames } from '$lib/utils/classNames';
@@ -7,7 +7,7 @@
   type ButtonProps = {
     children: Snippet;
     class?: string;
-    icon?: string;
+    icon?: typeof IconType;
     iconOnly?: boolean;
     invert?: boolean;
     onclick: () => void;
@@ -17,7 +17,7 @@
   const {
     children,
     class: className = '',
-    icon = '',
+    icon: Icon,
     iconOnly = false,
     invert = false,
     onclick,
@@ -34,7 +34,10 @@
   )}
   {onclick}
 >
-  {#if icon !== ''}<Icon icon={`lucide:${icon}`} class="size-5" aria-hidden="true" />{/if}
+  {#if Icon}
+    <Icon class="size-5" aria-hidden="true" />
+  {/if}
+
   <span class={iconOnly ? 'sr-only' : ''}>{text}</span>
 
   {#if children}

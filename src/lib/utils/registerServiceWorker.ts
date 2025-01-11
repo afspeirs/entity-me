@@ -1,6 +1,6 @@
 import { useRegisterSW } from 'virtual:pwa-register/svelte';
 import { toast } from '$lib/components/Toaster.svelte';
-import { updateAvailable } from '$lib/stores/service-worker';
+import { updateAvailable } from '$lib/context/service-worker.svelte';
 
 const { updateServiceWorker } = useRegisterSW({
   onNeedRefresh() {

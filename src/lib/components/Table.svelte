@@ -1,34 +1,24 @@
 <script lang="ts">
-  import Icon from '@iconify/svelte';
+  import { HeartIcon, HeartOffIcon } from 'lucide-svelte';
 
   import TableCell from '$lib/components/TableCell.svelte';
   import TableHeader from '$lib/components/TableHeader.svelte';
   import TablePagination from '$lib/components/TablePagination.svelte';
+  import { currentCategory } from '$lib/context/current-category.svelte';
+  import { favouriteEntities } from '$lib/context/favourite-entities.svelte';
+  import { hiddenColumns } from '$lib/context/hidden-columns.svelte';
+  import { search } from '$lib/context/search.svelte';
   import { headings } from '$lib/entities';
   import type { CategoryValue, Entity } from '$lib/entities/types';
-  import { currentCategory } from '$lib/stores/current-category';
-  import { favouriteEntities } from '$lib/stores/favourite-entities';
-  import { hiddenColumns } from '$lib/stores/hidden-columns';
-  import { search } from '$lib/stores/search';
-  import { classNames } from '$lib/utils/classNames';
 
   async function getEntities(category: CategoryValue) {
     const entities = await import('../entities');
 
     if (category === 'favourites') {
-      return entities.default.filter((entity) => $favouriteEntities.includes(entity.description));
+      return entities.default.filter((entity) => favouriteEntities.value.includes(entity.description));
     }
 
     return entities[category] || [];
-  }
-
-  function updateFavouriteEntities(value: string) {
-    favouriteEntities.update((prevState) => {
-      if ($favouriteEntities.includes(value)) {
-        return prevState.filter((state) => state !== value);
-      }
-      return [...prevState, value];
-    });
   }
 
   function filter(items: Entity[]) {
@@ -36,18 +26,18 @@
     return (
       items?.filter(
         (item) =>
-          item.character?.includes($search) ||
-          item.decimal?.includes($search) ||
-          item.hex?.includes($search) ||
-          item.entity?.includes($search) ||
-          item.description?.toLowerCase()?.includes($search.toLowerCase()) ||
-          item.note?.toLowerCase()?.includes($search.toLowerCase()),
+          item.character?.includes(search.value) ||
+          item.decimal?.includes(search.value) ||
+          item.hex?.includes(search.value) ||
+          item.entity?.includes(search.value) ||
+          item.description?.toLowerCase()?.includes(search.value.toLowerCase()) ||
+          item.note?.toLowerCase()?.includes(search.value.toLowerCase()),
       ) || []
     );
   }
 
   let values: Entity[] = $state([]);
-  const entities = $derived(getEntities($currentCategory));
+  const entities = $derived(getEntities(currentCategory.value));
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
@@ -56,12 +46,12 @@
       <thead>
         <tr>
           {#each headings as heading}
-            <TableHeader hidden={$hiddenColumns.includes(heading)}>{heading}</TableHeader>
+            <TableHeader hidden={hiddenColumns.value.includes(heading)}>{heading}</TableHeader>
           {/each}
         </tr>
       </thead>
       <tbody class="divide-y divide-gray-200 bg-white dark:bg-dark">
-        {#if $hiddenColumns.length === headings.length}
+        {#if hiddenColumns.value.length === headings.length}
           <tr>
             <TableCell colspan={6}>Error: All columns are hidden</TableCell>
           </tr>
@@ -75,62 +65,59 @@
           {#if filteredItems.length === 0}
             <tr>
               <TableCell colspan={6}>
-                {#if $currentCategory === 'favourites' && $search.length === 0}
+                {#if currentCategory.value === 'favourites' && search.value.length === 0}
                   No favourites found
                 {:else}
-                  No results found for "{$search}"
+                  No results found for "{search.value}"
                 {/if}
               </TableCell>
             </tr>
           {/if}
           {#each filteredItems as entity, entityIdx}
-            <tr
-              class={classNames(
-                entityIdx === 0 ? 'border-gray-300' : 'border-gray-200',
-                'border-t',
-              )}
-            >
+            <tr class="border-t {entityIdx === 0 ? 'border-gray-300' : 'border-gray-200'}">
               <TableCell
                 column="character"
-                hidden={$hiddenColumns.includes('character')}
+                hidden={hiddenColumns.value.includes('character')}
                 label={entity.character}
               />
               <TableCell
                 column="decimal"
-                hidden={$hiddenColumns.includes('decimal')}
+                hidden={hiddenColumns.value.includes('decimal')}
                 label={`&#${entity.decimal};`}
               />
               <TableCell
                 column="hex"
-                hidden={$hiddenColumns.includes('hex')}
+                hidden={hiddenColumns.value.includes('hex')}
                 label={`&#x${entity.hex.padStart(4, '0')};`}
               />
               <TableCell
                 column="entity"
-                hidden={$hiddenColumns.includes('entity')}
+                hidden={hiddenColumns.value.includes('entity')}
                 label={entity.entity}
               />
               <TableCell
                 column="description"
-                hidden={$hiddenColumns.includes('description')}
+                hidden={hiddenColumns.value.includes('description')}
                 label={entity.description}
               />
               <TableCell
                 column="note"
-                hidden={$hiddenColumns.includes('note')}
+                hidden={hiddenColumns.value.includes('note')}
                 label={entity.note}
               />
-              <TableCell column="favourite" hidden={$hiddenColumns.includes('favourite')}>
-                {@const favourite = $favouriteEntities.includes(entity.description)}
-                <Icon
-                  icon={favourite ? 'lucide:heart' : 'lucide:heart-off'}
-                  class={classNames('size-5 text-primary', favourite ? '[&>*]:fill-primary' : '')}
-                  aria-hidden="true"
-                />
+              <TableCell column="favourite" hidden={hiddenColumns.value.includes('favourite')}>
+                {@const favourite = favouriteEntities.value.includes(entity.description)}
+
+                {#if favourite}
+                  <HeartIcon class="size-5 text-primary [&>*]:fill-primary" aria-hidden="true" />
+                {:else}
+                  <HeartOffIcon class="size-5 text-primary" aria-hidden="true" />
+                {/if}
+
                 <button
                   type="button"
                   class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"
-                  onclick={() => updateFavouriteEntities(entity.description)}
+                  onclick={() => favouriteEntities.update(entity.description)}
                 >
                   <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>
                 </button>
@@ -144,7 +131,7 @@
         {/await}
       </tbody>
     </table>
-    {#key $search}
+    {#key search.value}
       {#await entities then items}
         <TablePagination items={filter(items)} bind:trimmedData={values} />
       {/await}

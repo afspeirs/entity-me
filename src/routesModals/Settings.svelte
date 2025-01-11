@@ -1,12 +1,19 @@
 <script lang="ts">
-  import Icon from '@iconify/svelte';
   import { pushState } from '$app/navigation';
   import { page } from '$app/stores';
+  import {
+    MoonIcon,
+    RefreshCwIcon as RefreshIcon,
+    RocketIcon,
+    SettingsIcon,
+    SunIcon,
+    WrenchIcon,
+  } from 'lucide-svelte';
 
   import Button from '$lib/components/Button.svelte';
   import Modal from '$lib/components/Modal.svelte';
-  import { updateAvailable } from '$lib/stores/service-worker';
-  import { themeSystem, themeUser, themeUserOptions } from '$lib/stores/theme';
+  import { updateAvailable } from '$lib/context/service-worker.svelte';
+  import { themeSystem, themeUser, themeUserOptions } from '$lib/context/theme.svelte';
 
   let loading = $state(false);
 
@@ -26,8 +33,8 @@
   }
 
   function handleCheckForUpdate() {
-    if ($updateAvailable) {
-      $updateAvailable();
+    if (updateAvailable.value) {
+      updateAvailable.value();
     } else if (!loading) {
       loading = true;
       updateServiceWorker();
@@ -44,7 +51,7 @@
   class="p-2 rounded-md text-white hover:bg-black/20 focus-visible ring-inset"
   onclick={openSettings}
 >
-  <Icon icon="lucide:settings" class="size-6" aria-hidden="true" />
+  <SettingsIcon class="size-6" aria-hidden="true" />
   <span class="sr-only">Open Settings</span>
 </button>
 
@@ -52,18 +59,18 @@
   <Modal title="Settings" onclose={() => history.back()}>
     <div class="space-y-2">
       <div class="flex items-center w-full gap-2 text-gray-900 dark:text-white p-2 text-sm">
-        <Icon icon="lucide:wrench" class="size-5" aria-hidden="true" />
+        <WrenchIcon class="size-5" aria-hidden="true" />
         <span>Version</span>
         <span class="ml-auto">{import.meta.env.APP_VERSION}</span>
       </div>
 
       <Button
-        icon="rocket"
+        icon={RocketIcon}
         text="Check for update"
         onclick={handleCheckForUpdate}
       >
         <span class="ml-auto">
-          {#if $updateAvailable}
+          {#if updateAvailable.value}
             <span class="px-3 py-1.5 rounded-full bg-primary text-white">Update</span>
           {:else}
             <div
@@ -71,7 +78,7 @@
               aria-live="polite"
               class:hidden={!loading}
             >
-              <Icon icon="lucide:refresh-cw" class="size-5 animate-spin" aria-hidden="true" />
+              <RefreshIcon class="size-5 animate-spin" aria-hidden="true" />
               <span class="sr-only">Loading</span>
             </div>
           {/if}
@@ -79,7 +86,7 @@
       </Button>
 
       <Button
-        icon={$themeSystem === 'dark' ? 'moon' : 'sun'}
+        icon={$themeSystem === 'dark' ? MoonIcon : SunIcon}
         text="Theme"
         onclick={handleUpdateTheme}
       >

@@ -1,7 +1,7 @@
 <script lang="ts">
-  import type { Snippet } from 'svelte';
   import { tooltip } from '$lib/actions/tooltip';
   import { copyToClipBoard } from '$lib/utils/copyToClipboard';
+  import type { Snippet } from 'svelte';
 
   type TableCellProps = {
     children?: Snippet;

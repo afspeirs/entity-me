@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Icon from '@iconify/svelte';
+  import { XIcon } from 'lucide-svelte';
   import { onMount, type Snippet } from 'svelte';
 
   type ModalProps = {
@@ -42,7 +42,7 @@
         class="inline-flex justify-center p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 rounded-md focus-visible ring-inset"
         onclick={handleClose}
       >
-        <Icon icon="lucide:x" class="size-6" aria-hidden="true" />
+        <XIcon class="size-6" aria-hidden="true" />
         <span class="sr-only">Close Modal</span>
       </button>
     </header>
