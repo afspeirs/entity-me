@@ -41,7 +41,7 @@
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
-  <div class="shadow ring-1 ring-black ring-opacity-5">
+  <div class="shadow-sm ring-1 ring-black ring-opacity-5">
     <table class="min-w-full border-separate border-spacing-0 divide-y divide-gray-300">
       <thead>
         <tr>
@@ -109,14 +109,14 @@
                 {@const favourite = favouriteEntities.value.includes(entity.description)}
 
                 {#if favourite}
-                  <HeartIcon class="size-5 text-primary [&>*]:fill-primary" aria-hidden="true" />
+                  <HeartIcon class="size-5 text-primary *:fill-primary" aria-hidden="true" />
                 {:else}
                   <HeartOffIcon class="size-5 text-primary" aria-hidden="true" />
                 {/if}
 
                 <button
                   type="button"
-                  class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"
+                  class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer"
                   onclick={() => favouriteEntities.update(entity.description)}
                 >
                   <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>

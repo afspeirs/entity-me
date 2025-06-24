@@ -14,7 +14,7 @@
   }}
 />
 
-<div class="relative flex flex-grow items-stretch">
+<div class="relative flex grow items-stretch">
   <label for="search" class="sr-only">Search candidates</label>
   <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
     <SearchIcon class="size-5 text-gray-400" aria-hidden="true" />
@@ -32,7 +32,7 @@
     <div class="absolute inset-y-0 right-0">
       <button
         type="button"
-        class="p-2 hover:bg-black/5 dark:hover:bg-white/5 focus-visible ring-inset"
+        class="p-2 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-visible ring-inset"
         on:click={() => search.set('')}
       >
         <span class="sr-only">clear</span>

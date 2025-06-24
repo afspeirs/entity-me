@@ -27,7 +27,7 @@
 
 <button
   class={classNames(
-    'p-2 text-sm rounded-md focus-visible ring-inset',
+    'p-2 text-sm rounded-md cursor-pointer focus-visible ring-inset',
     invert ? 'hover:bg-black/20' : 'hover:bg-black/5 dark:hover:bg-white/5',
     !iconOnly ? 'flex items-center w-full gap-2 text-gray-900 dark:text-white' : '',
     className,

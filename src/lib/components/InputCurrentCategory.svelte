@@ -31,7 +31,7 @@
   <!-- svelte-ignore a11y-label-has-associated-control -->
   <label class="sr-only" use:melt={$label}>Current Category</label>
   <button
-    class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 px-3 py-2 text-sm font-semibold hover:bg-black/5 dark:hover:bg-white/5 text-gray-900 dark:text-white rounded-[inherit] ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible"
+    class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 px-3 py-2 text-sm font-semibold cursor-pointer hover:bg-black/5 dark:hover:bg-white/5 text-gray-900 dark:text-white rounded-[inherit] ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible"
     use:melt={$trigger}
   >
     <FilterIcon class="-ml-0.5 size-5 text-gray-400 shrink-0" aria-hidden="true" />
@@ -41,7 +41,7 @@
 
   {#if $open}
     <div
-      class="absolute z-20 top-full w-72 overflow-auto rounded-md bg-white dark:bg-dark text-black dark:text-white py-1 text-sm shadow-lg ring-1 ring-black/5 focus:outline-none"
+      class="absolute z-20 top-full w-72 overflow-auto rounded-md bg-white dark:bg-dark text-black dark:text-white py-1 text-sm shadow-lg ring-1 ring-black/5 focus:outline-hidden"
       transition:fade={{ duration: 150 }}
       use:melt={$menu}
     >

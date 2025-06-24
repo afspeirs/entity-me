@@ -58,14 +58,14 @@
           </h3>
           {#if data.button}
             <button
-              class="p-2 rounded-md text-dark dark:text-white bg-white dark:bg-dark hover:bg-white/80 dark:hover:bg-dark/80"
+              class="p-2 rounded-md text-dark dark:text-white bg-white dark:bg-dark hover:bg-white/80 dark:hover:bg-dark/80 cursor-pointer"
               onclick={data.button.onclick}
             >
               <span>{data.button.title}</span>
             </button>
           {/if}
           <button
-            class="p-2 rounded-md text-white dark:text-dark hover:bg-white/10 dark:hover:bg-black/10"
+            class="p-2 rounded-md text-white dark:text-dark hover:bg-white/10 dark:hover:bg-black/10 cursor-pointer"
             use:melt={$close(id)}
           >
             <XIcon class="size-6" aria-hidden="true" />

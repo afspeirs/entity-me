@@ -27,7 +27,7 @@
 <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 <dialog
   bind:this={dialog}
-  class="w-full max-w-96 min-h-40 bg-white dark:bg-dark dark:text-white rounded-md"
+  class="m-auto w-full max-w-96 min-h-40 bg-white dark:bg-dark dark:text-white rounded-md"
   onclick={(event) => event.target === event.currentTarget && handleClose()}
   {onclose}
 >
@@ -39,7 +39,7 @@
 
       <button
         type="button"
-        class="inline-flex justify-center p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 rounded-md focus-visible ring-inset"
+        class="inline-flex justify-center p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 rounded-md cursor-pointer focus-visible ring-inset"
         onclick={handleClose}
       >
         <XIcon class="size-6" aria-hidden="true" />
@@ -54,8 +54,10 @@
 </dialog>
 
 <style lang="postcss">
+  @reference "../../app.css";
+
   dialog::backdrop {
-    @apply bg-primary/70 backdrop-blur-sm;
+    @apply bg-primary/70 backdrop-blur-xs;
   }
   dialog[open] {
     animation: zoom 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);

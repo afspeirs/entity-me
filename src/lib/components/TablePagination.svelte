@@ -48,7 +48,7 @@
         type="button"
         onclick={handlePrevPage}
         disabled={currentPage === 0}
-        class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold enabled:hover:bg-black/5 enabled:dark:hover:bg-white/5 text-gray-900 dark:text-white ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible:outline-offset-0 disabled:opacity-40"
+        class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold cursor-pointer enabled:hover:bg-black/5 dark:enabled:hover:bg-white/5 text-gray-900 dark:text-white ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible:outline-offset-0 disabled:opacity-40"
       >
         Previous
       </button>
@@ -56,7 +56,7 @@
         type="button"
         onclick={handleNextPage}
         disabled={end + 1 === totalItems}
-        class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold enabled:hover:bg-black/5 enabled:dark:hover:bg-white/5 text-gray-900 dark:text-white ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible:outline-offset-0 disabled:opacity-40"
+        class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold cursor-pointer enabled:hover:bg-black/5 dark:enabled:hover:bg-white/5 text-gray-900 dark:text-white ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible:outline-offset-0 disabled:opacity-40"
       >
         Next
       </button>
