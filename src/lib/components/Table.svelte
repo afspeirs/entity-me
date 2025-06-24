@@ -38,6 +38,7 @@
 
   let values: Entity[] = $state([]);
   const entities = $derived(getEntities(currentCategory.value));
+  const maxColumns = headings.length;
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
@@ -51,20 +52,20 @@
         </tr>
       </thead>
       <tbody class="divide-y divide-gray-200 bg-white dark:bg-dark">
-        {#if hiddenColumns.value.length === headings.length}
+        {#if hiddenColumns.value.length === maxColumns}
           <tr>
-            <TableCell colspan={6}>Error: All columns are hidden</TableCell>
+            <TableCell colspan={maxColumns}>Error: All columns are hidden</TableCell>
           </tr>
         {/if}
         {#await entities}
           <tr>
-            <TableCell colspan={6}>Loading...</TableCell>
+            <TableCell colspan={maxColumns}>Loading...</TableCell>
           </tr>
         {:then items} <!-- eslint-disable-line @typescript-eslint/no-unused-vars -->
           {@const filteredItems = filter(values)}
           {#if filteredItems.length === 0}
             <tr>
-              <TableCell colspan={6}>
+              <TableCell colspan={maxColumns}>
                 {#if currentCategory.value === 'favourites' && search.value.length === 0}
                   No favourites found
                 {:else}
