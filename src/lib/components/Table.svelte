@@ -42,7 +42,7 @@
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
-  <div class="shadow-sm ring-1 ring-black ring-opacity-5">
+  <div class="shadow-sm ring-1 ring-black/5">
     <table class="min-w-full border-separate border-spacing-0 divide-y divide-gray-300">
       <thead>
         <tr>
