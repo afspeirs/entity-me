@@ -23,8 +23,6 @@
     "update:minor": "npm run outdated:minor -- -u"
   },
   "devDependencies": {
-    "@melt-ui/pp": "^0.3.2",
-    "@melt-ui/svelte": "^0.86.6",
     "@semantic-release/exec": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@stylistic/eslint-plugin": "^2.13.0",

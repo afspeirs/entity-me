@@ -1,4 +1,3 @@
-import { preprocessMeltUI, sequence } from '@melt-ui/pp';
 import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
@@ -6,10 +5,9 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 const config = {
   // Consult https://svelte.dev/docs/kit/integrations#preprocessors
   // for more information about preprocessors
-  preprocess: sequence([
+  preprocess: [
     vitePreprocess(),
-    preprocessMeltUI(),
-  ]),
+  ],
   kit: {
     adapter: adapter(),
     serviceWorker: {
