@@ -38,10 +38,11 @@
 
   let values: Entity[] = $state([]);
   const entities = $derived(getEntities(currentCategory.value));
+  const maxColumns = headings.length;
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe sm:px-safe-offset-4 sm:pt-4 sm:pb-safe-offset-4">
-  <div class="shadow ring-1 ring-black ring-opacity-5">
+  <div class="shadow-sm ring-1 ring-black/5">
     <table class="min-w-full border-separate border-spacing-0 divide-y divide-gray-300">
       <thead>
         <tr>
@@ -51,20 +52,20 @@
         </tr>
       </thead>
       <tbody class="divide-y divide-gray-200 bg-white dark:bg-dark">
-        {#if hiddenColumns.value.length === headings.length}
+        {#if hiddenColumns.value.length === maxColumns}
           <tr>
-            <TableCell colspan={6}>Error: All columns are hidden</TableCell>
+            <TableCell colspan={maxColumns}>Error: All columns are hidden</TableCell>
           </tr>
         {/if}
         {#await entities}
           <tr>
-            <TableCell colspan={6}>Loading...</TableCell>
+            <TableCell colspan={maxColumns}>Loading...</TableCell>
           </tr>
         {:then items} <!-- eslint-disable-line @typescript-eslint/no-unused-vars -->
           {@const filteredItems = filter(values)}
           {#if filteredItems.length === 0}
             <tr>
-              <TableCell colspan={6}>
+              <TableCell colspan={maxColumns}>
                 {#if currentCategory.value === 'favourites' && search.value.length === 0}
                   No favourites found
                 {:else}
@@ -109,14 +110,14 @@
                 {@const favourite = favouriteEntities.value.includes(entity.description)}
 
                 {#if favourite}
-                  <HeartIcon class="size-5 text-primary [&>*]:fill-primary" aria-hidden="true" />
+                  <HeartIcon class="size-5 text-primary *:fill-primary" aria-hidden="true" />
                 {:else}
                   <HeartOffIcon class="size-5 text-primary" aria-hidden="true" />
                 {/if}
 
                 <button
                   type="button"
-                  class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5"
+                  class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer"
                   onclick={() => favouriteEntities.update(entity.description)}
                 >
                   <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>
