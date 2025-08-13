@@ -25,6 +25,16 @@ export default ts.config(
     },
   },
   {
+    // New block to target all TypeScript files
+    files: ['**/*.ts'],
+    languageOptions: {
+      parser: ts.parser,
+      parserOptions: {
+        project: './tsconfig.json',
+      },
+    },
+  },
+  {
     plugins: {
       '@stylistic': stylistic,
     },

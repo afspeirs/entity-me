@@ -23,8 +23,6 @@
   onMount(() => dialog.showModal());
 </script>
 
-<!-- svelte-ignore a11y_click_events_have_key_events -->
-<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 <dialog
   bind:this={dialog}
   class="m-auto w-full max-w-96 min-h-40 bg-white dark:bg-dark dark:text-white rounded-md"
