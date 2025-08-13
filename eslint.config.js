@@ -25,7 +25,6 @@ export default ts.config(
     },
   },
   {
-    // New block to target all TypeScript files
     files: ['**/*.ts'],
     languageOptions: {
       parser: ts.parser,
