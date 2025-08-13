@@ -27,7 +27,7 @@
     "@semantic-release/git": "^10.0.1",
     "@stylistic/eslint-plugin": "^5.2.3",
     "@sveltejs/adapter-static": "^3.0.9",
-    "@sveltejs/kit": "^2.29.0",
+    "@sveltejs/kit": "^2.29.1",
     "@sveltejs/svelte-virtual-list": "^3.0.1",
     "@sveltejs/vite-plugin-svelte": "^5.1.1",
     "@tailwindcss/typography": "^0.5.16",
