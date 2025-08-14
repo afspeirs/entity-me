@@ -1,6 +1,6 @@
 {
   "name": "entity-me",
-  "version": "1.11.1-develop.1",
+  "version": "1.11.1",
   "private": true,
   "type": "module",
   "scripts": {
