@@ -46,7 +46,7 @@
     <table class="min-w-full border-separate border-spacing-0 divide-y divide-gray-300">
       <thead>
         <tr>
-          {#each headings as heading}
+          {#each headings as heading (heading)}
             <TableHeader hidden={hiddenColumns.value.includes(heading)}>{heading}</TableHeader>
           {/each}
         </tr>
@@ -74,7 +74,7 @@
               </TableCell>
             </tr>
           {/if}
-          {#each filteredItems as entity, entityIdx}
+          {#each filteredItems as entity, entityIdx (entity.description)}
             <tr class="border-t {entityIdx === 0 ? 'border-gray-300' : 'border-gray-200'}">
               <TableCell
                 column="character"

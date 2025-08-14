@@ -25,6 +25,15 @@ export default ts.config(
     },
   },
   {
+    files: ['**/*.ts'],
+    languageOptions: {
+      parser: ts.parser,
+      parserOptions: {
+        project: './tsconfig.json',
+      },
+    },
+  },
+  {
     plugins: {
       '@stylistic': stylistic,
     },

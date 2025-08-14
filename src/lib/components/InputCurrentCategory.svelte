@@ -43,7 +43,7 @@
       transition:fade={{ duration: 150 }}
       {...select.content}
     >
-      {#each categories as item}
+      {#each categories as item (item.value)}
         <div
           class="relative cursor-default select-none py-2 pl-10 pr-4 text-gray-900 dark:text-white data-highlighted:bg-primary data-highlighted:text-white group/item"
           {...select.getOption(item.value)}
