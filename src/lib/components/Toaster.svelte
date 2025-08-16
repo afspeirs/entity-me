@@ -5,7 +5,7 @@
     action?: {
       title: string;
       onclick: () => void;
-    }
+    };
   };
 
   const toaster = new Toaster<ToastData>();
