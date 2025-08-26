@@ -39,7 +39,7 @@
     "eslint": "^9.33.0",
     "eslint-plugin-svelte": "^3.11.0",
     "globals": "^16.3.0",
-    "lucide-svelte": "^0.539.0",
+    "lucide-svelte": "^0.541.0",
     "melt": "^0.38.0",
     "postcss": "^8.5.6",
     "semantic-release": "^24.2.7",
