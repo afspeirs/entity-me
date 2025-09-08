@@ -50,6 +50,6 @@
     "tippy.js": "^6.3.7",
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.41.0",
-    "vite": "^7.1.3"
+    "vite": "^7.1.5"
   }
 }
