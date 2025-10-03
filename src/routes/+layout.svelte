@@ -16,7 +16,7 @@
 </script>
 
 <svelte:head>
-  <title>EntityMe</title>
+  <meta name="version" content={import.meta.env.APP_VERSION}>
 </svelte:head>
 
 <div class="absolute left-0 top-0 flex flex-col h-full w-full bg-light text-dark dark:bg-black/95 dark:text-white">
