@@ -7,11 +7,7 @@
   import '../app.css';
 
   themeSystem.subscribe((theme) => {
-    if (theme === 'dark') {
-      document.body.classList.add('dark');
-    } else {
-      document.body.classList.remove('dark');
-    }
+    document.documentElement.setAttribute('data-theme', theme);
   });
 </script>
 

@@ -2,7 +2,7 @@
 @import 'tailwindcss-safe-area';
 @plugin '@tailwindcss/typography';
 
-@custom-variant dark (&:is(.dark *));
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 @theme {
   --color-*: initial;
