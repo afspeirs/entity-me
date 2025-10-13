@@ -48,7 +48,7 @@
 </script>
 
 <button
-  class="p-2 rounded-md text-white hover:bg-black/20 cursor-pointer focus-visible ring-inset"
+  class="p-2 rounded-md text-white hover:bg-black/20 cursor-pointer focus-outline-inset"
   onclick={openSettings}
 >
   <SettingsIcon class="size-6" aria-hidden="true" />

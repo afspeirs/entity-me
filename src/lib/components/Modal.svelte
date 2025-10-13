@@ -37,7 +37,7 @@
 
       <button
         type="button"
-        class="inline-flex justify-center p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 rounded-md cursor-pointer focus-visible ring-inset"
+        class="inline-flex justify-center p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 rounded-md cursor-pointer focus-outline-inset"
         onclick={handleClose}
       >
         <XIcon class="size-6" aria-hidden="true" />

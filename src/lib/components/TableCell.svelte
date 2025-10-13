@@ -24,7 +24,7 @@
 
 <td
   {colspan}
-  class="relative px-3 py-4 text-sm first-of-type:pl-6 last-of-type:pr-6"
+  class="relative px-3 py-4 text-sm first-of-type:pl-6 last-of-type:pr-6 outline-none"
   class:hidden
   class:select-none={showButton || !label}
 >
@@ -43,7 +43,7 @@
     {#if showButton}
       <button
         type="button"
-        class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer"
+        class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-outline-inset"
         onclick={() => copyToClipBoard(label)}
         use:tooltip={{
           content: `Copy "${label}" to the clipboard`,
