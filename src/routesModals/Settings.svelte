@@ -34,7 +34,7 @@
 
   function handleCheckForUpdate() {
     if (updateAvailable.value) {
-      updateAvailable.value();
+      updateAvailable.value(true);
     } else if (!loading) {
       loading = true;
       updateServiceWorker();
