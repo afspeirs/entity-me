@@ -117,7 +117,7 @@
 
                 <button
                   type="button"
-                  class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer"
+                  class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-outline-inset"
                   onclick={() => favouriteEntities.update(entity.description)}
                 >
                   <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>

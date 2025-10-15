@@ -40,8 +40,12 @@
   @apply underline text-primary hover:text-current;
 }
 
-@utility focus-visible {
+@utility focus-outline {
   @apply outline-hidden focus-visible:ring-2 focus-visible:ring-black dark:focus-visible:ring-white;
+}
+
+@utility focus-outline-inset {
+  @apply focus-outline focus-visible:ring-inset;
 }
 
 @utility drag {
