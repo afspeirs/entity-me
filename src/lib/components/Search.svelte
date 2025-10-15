@@ -32,7 +32,7 @@
     <div class="absolute inset-y-0 right-0">
       <button
         type="button"
-        class="p-2 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-outline-inset"
+        class="p-2 hover:bg-black/5 dark:hover:bg-white/5 max-sm:rounded-tr-md cursor-pointer focus-outline-inset"
         on:click={() => search.set('')}
       >
         <span class="sr-only">clear</span>
