@@ -14,7 +14,7 @@
   import Button from '$lib/components/Button.svelte';
   import Modal from '$lib/components/Modal.svelte';
   import { updateAvailable } from '$lib/context/service-worker.svelte';
-  import { themeSystem, themeUser, themeUserOptions } from '$lib/context/theme.svelte';
+  import { theme, themeUserOptions } from '$lib/context/theme.svelte';
 
   let loading = $state(false);
 
@@ -44,7 +44,7 @@
   }
 
   function handleUpdateTheme() {
-    themeUser.set($themeSystem === 'dark' ? 'light' : 'dark');
+    theme.user = theme.system === 'dark' ? 'light' : 'dark';
   }
 </script>
 
@@ -87,11 +87,11 @@
       </Button>
 
       <Button
-        icon={$themeSystem === 'dark' ? MoonIcon : SunIcon}
+        icon={theme.system === 'dark' ? MoonIcon : SunIcon}
         text="Theme"
         onclick={handleUpdateTheme}
       >
-        <span class="ml-auto">{themeUserOptions[$themeSystem]}</span>
+        <span class="ml-auto">{themeUserOptions[theme.system]}</span>
       </Button>
     </div>
   </Modal>

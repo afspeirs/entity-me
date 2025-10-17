@@ -1,13 +1,15 @@
 <script lang="ts">
   import Header from '$lib/components/Header.svelte';
   import Toaster from '$lib/components/Toaster.svelte';
-  import { themeSystem } from '$lib/context/theme.svelte';
+  import { theme } from '$lib/context/theme.svelte';
   import '$lib/utils/registerServiceWorker';
   import '../webmanifest-apple';
   import '../app.css';
 
-  themeSystem.subscribe((theme) => {
-    document.documentElement.setAttribute('data-theme', theme);
+  let { children } = $props();
+
+  $effect(() => {
+    document.documentElement.setAttribute('data-theme', theme.system);
   });
 </script>
 
@@ -19,7 +21,7 @@
   <Header />
 
   <main class="flex-1 overflow-auto">
-    <slot />
+    {@render children()}
   </main>
 </div>
 
