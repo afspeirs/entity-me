@@ -1,6 +1,4 @@
 <script lang="ts">
-  import { pushState } from '$app/navigation';
-  import { page } from '$app/stores';
   import {
     MoonIcon,
     RefreshCwIcon as RefreshIcon,
@@ -8,7 +6,10 @@
     SettingsIcon,
     SunIcon,
     WrenchIcon,
-  } from 'lucide-svelte';
+  } from '@lucide/svelte';
+
+  import { pushState } from '$app/navigation';
+  import { page } from '$app/state';
 
   import Button from '$lib/components/Button.svelte';
   import Modal from '$lib/components/Modal.svelte';
@@ -55,7 +56,7 @@
   <span class="sr-only">Open Settings</span>
 </button>
 
-{#if $page.state.showModal === 'settings'}
+{#if page.state.showModal === 'settings'}
   <Modal title="Settings" onclose={() => history.back()}>
     <div class="space-y-2">
       <div class="flex items-center w-full gap-2 text-gray-900 dark:text-white p-2 text-sm">

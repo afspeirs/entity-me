@@ -1,5 +1,5 @@
 <script lang="ts">
-  import type { Icon as IconType } from 'lucide-svelte';
+  import type { Icon as IconType } from '@lucide/svelte';
   import type { Snippet } from 'svelte';
 
   import { classNames } from '$lib/utils/classNames';

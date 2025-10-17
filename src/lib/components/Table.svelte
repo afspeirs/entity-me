@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { HeartIcon, HeartOffIcon } from 'lucide-svelte';
+  import { HeartIcon, HeartOffIcon } from '@lucide/svelte';
 
   import TableCell from '$lib/components/TableCell.svelte';
   import TableHeader from '$lib/components/TableHeader.svelte';
