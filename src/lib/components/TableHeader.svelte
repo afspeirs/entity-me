@@ -6,7 +6,7 @@
     hidden?: boolean;
   };
 
-  const {
+  let {
     children,
     hidden = false,
   }: TableHeaderProps = $props();

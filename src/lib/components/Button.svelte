@@ -14,7 +14,7 @@
     text: string;
   };
 
-  const {
+  let {
     children,
     class: className = '',
     icon: Icon,

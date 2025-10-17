@@ -8,7 +8,7 @@
     onclose: () => void;
   };
 
-  const {
+  let {
     children,
     title,
     onclose,
