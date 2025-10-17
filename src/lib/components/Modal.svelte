@@ -25,7 +25,7 @@
 
 <dialog
   bind:this={dialog}
-  class="m-auto w-full max-w-96 min-h-40 bg-white dark:bg-dark dark:text-white rounded-md"
+  class="m-auto w-full max-w-96 min-h-40 bg-white dark:bg-dark dark:text-white rounded-md backdrop:bg-primary/70 backdrop:backdrop-blur-xs"
   onclick={(event) => event.target === event.currentTarget && handleClose()}
   {onclose}
 >
@@ -51,12 +51,7 @@
   </div>
 </dialog>
 
-<style lang="postcss">
-  @reference "../../app.css";
-
-  dialog::backdrop {
-    @apply bg-primary/70 backdrop-blur-xs;
-  }
+<style>
   dialog[open] {
     animation: zoom 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
   }
