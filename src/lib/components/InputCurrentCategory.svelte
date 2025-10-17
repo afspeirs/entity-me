@@ -1,6 +1,6 @@
 <script lang="ts">
+  import { CheckIcon, ChevronDownIcon, FunnelIcon } from '@lucide/svelte';
   import { Select } from 'melt/builders';
-  import { CheckIcon, ChevronDownIcon, FunnelIcon } from 'lucide-svelte';
   import { fade } from 'svelte/transition';
 
   import { currentCategory } from '$lib/context/current-category.svelte';

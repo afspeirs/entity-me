@@ -11,7 +11,7 @@
     label?: string;
   };
 
-  const {
+  let {
     children,
     column = '',
     colspan,
@@ -19,7 +19,7 @@
     label = '',
   }: TableCellProps = $props();
 
-  const showButton = $derived(!!label && column !== 'description');
+  let showButton = $derived(!!label && column !== 'description');
 </script>
 
 <td

@@ -1,6 +1,4 @@
 <script lang="ts">
-  import { pushState } from '$app/navigation';
-  import { page } from '$app/stores';
   import {
     MoonIcon,
     RefreshCwIcon as RefreshIcon,
@@ -8,12 +6,15 @@
     SettingsIcon,
     SunIcon,
     WrenchIcon,
-  } from 'lucide-svelte';
+  } from '@lucide/svelte';
+
+  import { pushState } from '$app/navigation';
+  import { page } from '$app/state';
 
   import Button from '$lib/components/Button.svelte';
   import Modal from '$lib/components/Modal.svelte';
   import { updateAvailable } from '$lib/context/service-worker.svelte';
-  import { themeSystem, themeUser, themeUserOptions } from '$lib/context/theme.svelte';
+  import { theme, themeUserOptions } from '$lib/context/theme.svelte';
 
   let loading = $state(false);
 
@@ -34,7 +35,7 @@
 
   function handleCheckForUpdate() {
     if (updateAvailable.value) {
-      updateAvailable.value();
+      updateAvailable.value(true);
     } else if (!loading) {
       loading = true;
       updateServiceWorker();
@@ -43,7 +44,7 @@
   }
 
   function handleUpdateTheme() {
-    themeUser.set($themeSystem === 'dark' ? 'light' : 'dark');
+    theme.user = theme.system === 'dark' ? 'light' : 'dark';
   }
 </script>
 
@@ -55,7 +56,7 @@
   <span class="sr-only">Open Settings</span>
 </button>
 
-{#if $page.state.showModal === 'settings'}
+{#if page.state.showModal === 'settings'}
   <Modal title="Settings" onclose={() => history.back()}>
     <div class="space-y-2">
       <div class="flex items-center w-full gap-2 text-gray-900 dark:text-white p-2 text-sm">
@@ -86,11 +87,11 @@
       </Button>
 
       <Button
-        icon={$themeSystem === 'dark' ? MoonIcon : SunIcon}
+        icon={theme.system === 'dark' ? MoonIcon : SunIcon}
         text="Theme"
         onclick={handleUpdateTheme}
       >
-        <span class="ml-auto">{themeUserOptions[$themeSystem]}</span>
+        <span class="ml-auto">{themeUserOptions[theme.system]}</span>
       </Button>
     </div>
   </Modal>

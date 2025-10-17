@@ -1,6 +1,6 @@
 <script lang="ts">
+  import { CheckIcon, ChevronDownIcon, EyeOffIcon } from '@lucide/svelte';
   import { Select } from 'melt/builders';
-  import { CheckIcon, ChevronDownIcon, EyeOffIcon } from 'lucide-svelte';
   import { fade } from 'svelte/transition';
 
   import { hiddenColumns } from '$lib/context/hidden-columns.svelte';
