@@ -21,10 +21,15 @@
     return entities[category] || [];
   }
 
-  function filter(items: Entity[]) {
-    if (!items) return [];
-    return (
-      items?.filter(
+  let paginatedEntities: Entity[] = $state([]);
+  const entitiesPromise = $derived(getEntities(currentCategory.value));
+  const maxColumns = headings.length;
+
+  let filteredEntities: Entity[] = $state([]);
+
+  $effect(() => {
+    entitiesPromise.then((items) => {
+      filteredEntities = items.filter(
         (item) =>
           item.character?.includes(search.value) ||
           item.decimal?.includes(search.value) ||
@@ -32,13 +37,9 @@
           item.entity?.includes(search.value) ||
           item.description?.toLowerCase()?.includes(search.value.toLowerCase()) ||
           item.note?.toLowerCase()?.includes(search.value.toLowerCase()),
-      ) || []
-    );
-  }
-
-  let values: Entity[] = $state([]);
-  const entities = $derived(getEntities(currentCategory.value));
-  const maxColumns = headings.length;
+      );
+    });
+  });
 </script>
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe">
@@ -57,13 +58,12 @@
             <TableCell colspan={maxColumns}>Error: All columns are hidden</TableCell>
           </tr>
         {/if}
-        {#await entities}
+        {#await entitiesPromise}
           <tr>
             <TableCell colspan={maxColumns}>Loading...</TableCell>
           </tr>
-        {:then items} <!-- eslint-disable-line @typescript-eslint/no-unused-vars -->
-          {@const filteredItems = filter(values)}
-          {#if filteredItems.length === 0}
+        {:then}
+          {#if filteredEntities.length === 0}
             <tr>
               <TableCell colspan={maxColumns}>
                 {#if currentCategory.value === 'favourites' && search.value.length === 0}
@@ -74,7 +74,7 @@
               </TableCell>
             </tr>
           {/if}
-          {#each filteredItems as entity, entityIdx (entity.description)}
+          {#each paginatedEntities as entity, entityIdx (entity.description)}
             <tr class="border-t {entityIdx === 0 ? 'border-gray-300' : 'border-gray-200'}">
               <TableCell
                 column="character"
@@ -132,10 +132,6 @@
         {/await}
       </tbody>
     </table>
-    {#key search.value}
-      {#await entities then items}
-        <TablePagination items={filter(items)} bind:trimmedData={values} />
-      {/await}
-    {/key}
+    <TablePagination items={filteredEntities} bind:trimmedData={paginatedEntities} />
   </div>
 </div>
