@@ -32,7 +32,7 @@
     "@sveltejs/svelte-virtual-list": "^3.0.1",
     "@sveltejs/vite-plugin-svelte": "^6.2.1",
     "@tailwindcss/typography": "^0.5.19",
-    "@tailwindcss/vite": "^4.1.14",
+    "@tailwindcss/vite": "^4.1.15",
     "@types/eslint": "^9.6.1",
     "@types/node": "^24.8.1",
     "@vite-pwa/sveltekit": "^1.0.1",
