@@ -41,7 +41,7 @@
     "globals": "^16.4.0",
     "melt": "^0.41.0",
     "semantic-release": "^25.0.0",
-    "svelte": "^5.41.0",
+    "svelte": "^5.41.1",
     "svelte-check": "^4.3.3",
     "tailwindcss": "^4.1.14",
     "tailwindcss-safe-area": "^1.1.0",
