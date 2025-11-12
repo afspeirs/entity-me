@@ -26,6 +26,7 @@
     id="search"
     bind:this={input}
     bind:value={search.value}
+    data-cy="search-input"
     class="block w-full bg-white dark:bg-dark py-1.5 pl-10 text-gray-900 dark:text-white placeholder:text-gray-400 border-0 rounded-none rounded-tl-md max-md:rounded-tr-md md:rounded-l-md ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-outline"
     placeholder="Search entities"
   />

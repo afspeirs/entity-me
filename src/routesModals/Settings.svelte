@@ -1,50 +1,18 @@
 <script lang="ts">
-  import {
-    MoonIcon,
-    RefreshCwIcon as RefreshIcon,
-    RocketIcon,
-    SettingsIcon,
-    SunIcon,
-    WrenchIcon,
-  } from '@lucide/svelte';
+  import { SettingsIcon } from '@lucide/svelte';
 
   import { pushState } from '$app/navigation';
   import { page } from '$app/state';
-
-  import Button from '$lib/components/Button.svelte';
+  import AppVersion from '$lib/components/AppVersion.svelte';
+  import CheckForUpdate from '$lib/components/CheckForUpdate.svelte';
   import Modal from '$lib/components/Modal.svelte';
-  import { updateAvailable } from '$lib/context/service-worker.svelte';
-  import { theme, themeUserOptions } from '$lib/context/theme.svelte';
-
-  let loading = $state(false);
+  import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 
   // TODO: Refactor this into a store of modals to open and close the correct one
   function openSettings() {
     pushState('', {
       showModal: 'settings',
     });
-  }
-
-  function updateServiceWorker() {
-    if ('serviceWorker' in window.navigator) {
-      window.navigator.serviceWorker.ready.then((registration) => registration.update());
-    } else {
-      setTimeout(() => window.location.reload(), 1500);
-    }
-  }
-
-  function handleCheckForUpdate() {
-    if (updateAvailable.value) {
-      updateAvailable.value(true);
-    } else if (!loading) {
-      loading = true;
-      updateServiceWorker();
-      setTimeout(() => loading = false, 2000);
-    }
-  }
-
-  function handleUpdateTheme() {
-    theme.user = theme.system === 'dark' ? 'light' : 'dark';
   }
 </script>
 
@@ -59,40 +27,9 @@
 {#if page.state.showModal === 'settings'}
   <Modal title="Settings" onclose={() => history.back()}>
     <div class="space-y-2">
-      <div class="flex items-center w-full gap-2 text-gray-900 dark:text-white p-2 text-sm">
-        <WrenchIcon class="size-5" aria-hidden="true" />
-        <span>Version</span>
-        <span class="ml-auto">{import.meta.env.APP_VERSION}</span>
-      </div>
-
-      <Button
-        icon={RocketIcon}
-        text="Check for update"
-        onclick={handleCheckForUpdate}
-      >
-        <span class="ml-auto">
-          {#if updateAvailable.value}
-            <span class="px-3 py-1.5 rounded-full bg-primary text-white">Update</span>
-          {:else}
-            <div
-              aria-busy={loading}
-              aria-live="polite"
-              class:hidden={!loading}
-            >
-              <RefreshIcon class="size-5 animate-spin" aria-hidden="true" />
-              <span class="sr-only">Loading</span>
-            </div>
-          {/if}
-        </span>
-      </Button>
-
-      <Button
-        icon={theme.system === 'dark' ? MoonIcon : SunIcon}
-        text="Theme"
-        onclick={handleUpdateTheme}
-      >
-        <span class="ml-auto">{themeUserOptions[theme.system]}</span>
-      </Button>
+      <AppVersion />
+      <CheckForUpdate />
+      <ThemeToggle />
     </div>
   </Modal>
 {/if}

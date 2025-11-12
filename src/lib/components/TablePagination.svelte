@@ -1,27 +1,19 @@
 <script lang="ts">
-  import type { Entity } from '$lib/entities/types';
-
   type TablePaginationProps = {
-    items: Entity[];
+    totalItems: number;
     perPage?: number;
-    trimmedData: Entity[];
+    currentPage: number;
   };
 
   let {
-    items,
+    totalItems,
     perPage = 100,
-    trimmedData = $bindable(),
+    currentPage = $bindable(),
   }: TablePaginationProps = $props();
 
-  let currentPage = $state(0);
-  const totalItems = $derived(items.length);
   const totalPages = $derived(Math.ceil(totalItems / perPage));
   const start = $derived(currentPage * perPage);
   const end = $derived(currentPage === totalPages - 1 ? totalItems - 1 : start + perPage - 1);
-
-  $effect(() => {
-    trimmedData = items.slice(start, end + 1);
-  });
 
   function handlePrevPage() {
     currentPage -= 1;
