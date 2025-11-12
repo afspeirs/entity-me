@@ -29,6 +29,7 @@
   <label class="sr-only" {...select.label}>Current Category</label>
   <button
     class="relative flex-1 whitespace-nowrap inline-flex items-center gap-x-1.5 px-3 py-2 text-sm font-semibold cursor-pointer hover:bg-black/5 dark:hover:bg-white/5 text-gray-900 dark:text-white rounded-[inherit] ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-outline"
+    data-cy="hidden-columns-button"
     {...select.trigger}
   >
     <EyeOffIcon class="-ml-0.5 size-5 text-gray-400 shrink-0" aria-hidden="true" />
@@ -45,6 +46,7 @@
       {#each headings as item (item)}
         <div
           class="relative cursor-default select-none py-2 pl-10 pr-4 text-gray-900 dark:text-white data-highlighted:bg-primary data-highlighted:text-white group/item"
+          data-cy="hidden-column-option"
           {...select.getOption(item)}
         >
           <div class="absolute inset-y-0 left-0 flex items-center px-3 {select.isSelected(item) ? 'block' : 'hidden'}">

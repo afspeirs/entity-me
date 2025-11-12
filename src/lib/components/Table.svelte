@@ -43,17 +43,23 @@
 
 <div class="flow-root min-w-full align-middle px-safe pb-safe">
   <div class="shadow-sm ring-1 ring-black/5">
-    <table class="min-w-full border-separate border-spacing-0 divide-y divide-gray-300">
-      <thead>
+    <table
+      class="min-w-full border-separate border-spacing-0 divide-y divide-gray-300"
+      data-cy="table-root"
+    >
+      <thead data-cy="table-head">
         <tr>
           {#each headings as heading (heading)}
             <TableHeader hidden={hiddenColumns.value.includes(heading)}>{heading}</TableHeader>
           {/each}
         </tr>
       </thead>
-      <tbody class="divide-y divide-gray-200 bg-white dark:bg-dark">
+      <tbody
+        class="divide-y divide-gray-200 bg-white dark:bg-dark"
+        data-cy="table-body"
+      >
         {#await filteredItemsPromise}
-          <tr>
+          <tr data-cy="table-loading">
             <TableCell colspan={maxColumns}>Loading...</TableCell>
           </tr>
         {:then filteredItems}
@@ -77,7 +83,10 @@
             </tr>
           {:else}
             {#each paginatedEntities as entity, entityIdx (entityIdx)}
-              <tr class="border-t {entityIdx === 0 ? 'border-gray-300' : 'border-gray-200'}">
+              <tr
+                class="border-t {entityIdx === 0 ? 'border-gray-300' : 'border-gray-200'}"
+                data-cy="table-row"
+              >
                 <TableCell
                   column="character"
                   hidden={hiddenColumns.value.includes('character')}
@@ -120,6 +129,7 @@
                   <button
                     type="button"
                     class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-outline-inset"
+                    data-cy="favourite-button"
                     onclick={() => favouriteEntities.update(entity.description)}
                   >
                     <span class="sr-only">{favourite ? 'Favourite' : 'Not a favourite'}</span>
