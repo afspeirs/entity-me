@@ -44,7 +44,7 @@
     "melt": "^0.41.0",
     "semantic-release": "^25.0.2",
     "start-server-and-test": "^2.1.2",
-    "svelte": "^5.43.6",
+    "svelte": "^5.43.8",
     "svelte-check": "^4.3.4",
     "tailwindcss": "^4.1.17",
     "tailwindcss-safe-area": "^1.1.0",
