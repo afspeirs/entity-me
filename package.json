@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@eslint/compat": "^1.4.1",
-    "@lucide/svelte": "^0.553.0",
+    "@lucide/svelte": "^0.554.0",
     "@semantic-release/exec": "^7.1.0",
     "@semantic-release/git": "^10.0.1",
     "@stylistic/eslint-plugin": "^5.5.0",
