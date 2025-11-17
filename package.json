@@ -23,7 +23,7 @@
     "update:minor": "npm run outdated:minor -- -u"
   },
   "devDependencies": {
-    "@eslint/compat": "^1.4.1",
+    "@eslint/compat": "^2.0.0",
     "@lucide/svelte": "^0.553.0",
     "@semantic-release/exec": "^7.1.0",
     "@semantic-release/git": "^10.0.1",
