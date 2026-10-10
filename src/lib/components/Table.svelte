@@ -38,6 +38,15 @@
       item.note?.toLowerCase()?.includes(currentSearchValue.toLowerCase()),
     );
   })());
+
+  $effect(() => {
+    const currentSearchValue = search.value;
+    const currentCategoryValue = currentCategory.value;
+
+    void currentSearchValue;
+    void currentCategoryValue;
+    currentPage = 0;
+  });
   const maxColumns = headings.length;
 </script>
 
