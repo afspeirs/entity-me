@@ -26,7 +26,7 @@ describe('Main Functionality', () => {
     cy.get('[data-cy="table-body"]').contains('th', 'decimal').should('not.exist');
   });
 
-  it.only('should favourite an item and see it in the favourites list', () => {
+  it('should favourite an item and see it in the favourites list', () => {
     // Search for the item first to ensure it is visible
     cy.get('[data-cy="search-input"]').type('copyright');
     cy.get('[data-cy="table-body"]').contains('tr', 'copyright', { matchCase: false }).should('be.visible');
