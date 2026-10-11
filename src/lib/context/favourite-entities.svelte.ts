@@ -1,4 +1,4 @@
-import type { Entity } from '$lib/entities/types';
+import type { Entity } from '#lib/entities/types.js';
 
 type FavouriteEntityId = Entity['description'];
 

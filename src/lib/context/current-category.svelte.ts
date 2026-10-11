@@ -1,5 +1,5 @@
-import { categories } from '$lib/entities';
-import type { CategoryValue } from '$lib/entities/types';
+import { categories } from '#lib/entities/index.js';
+import type { CategoryValue } from '#lib/entities/types.js';
 
 const defaultValue = categories[0].value;
 

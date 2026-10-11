@@ -1,8 +1,8 @@
 <script lang="ts">
   import { RefreshCwIcon as RefreshIcon, RocketIcon } from '@lucide/svelte';
 
-  import Button from '$lib/components/Button.svelte';
-  import { updateAvailable } from '$lib/context/service-worker.svelte';
+  import Button from '#lib/components/Button.svelte';
+  import { updateAvailable } from '#lib/context/service-worker.svelte.js';
 
   let loading = $state(false);
 

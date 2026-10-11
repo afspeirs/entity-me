@@ -1,4 +1,4 @@
-import type { Heading } from '$lib/entities/types';
+import type { Heading } from '#lib/entities/types.js';
 
 const defaultValue: Heading[] = ['note'];
 

@@ -1,7 +1,7 @@
 <script lang="ts">
-  import InputCurrentCategory from '$lib/components/InputCurrentCategory.svelte';
-  import InputHiddenColumns from '$lib/components/InputHiddenColumns.svelte';
-  import Search from '$lib/components/Search.svelte';
+  import InputCurrentCategory from '#lib/components/InputCurrentCategory.svelte';
+  import InputHiddenColumns from '#lib/components/InputHiddenColumns.svelte';
+  import Search from '#lib/components/Search.svelte';
   import Settings from '../../routesModals/Settings.svelte';
 </script>
 

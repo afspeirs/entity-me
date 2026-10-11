@@ -1,4 +1,4 @@
-import { getWebmanifest } from '$lib/utils/webmanifest';
+import { getWebmanifest } from '#lib/utils/webmanifest.js';
 import manifestRaw from './site.webmanifest?raw';
 
 export function GET() {

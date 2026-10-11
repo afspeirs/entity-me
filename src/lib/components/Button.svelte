@@ -1,7 +1,7 @@
 <script lang="ts">
   import type { Component, Snippet } from 'svelte';
 
-  import { classNames } from '$lib/utils/classNames';
+  import { classNames } from '#lib/utils/classNames.js';
 
   type ButtonProps = {
     children: Snippet;

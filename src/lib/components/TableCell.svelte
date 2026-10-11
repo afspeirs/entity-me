@@ -1,6 +1,6 @@
 <script lang="ts">
-  import { tooltip } from '$lib/actions/tooltip';
-  import { copyToClipBoard } from '$lib/utils/copyToClipboard';
+  import { tooltip } from '#lib/actions/tooltip.js';
+  import { copyToClipBoard } from '#lib/utils/copyToClipboard.js';
   import type { Snippet } from 'svelte';
 
   type TableCellProps = {
