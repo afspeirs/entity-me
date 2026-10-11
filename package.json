@@ -55,6 +55,11 @@
     "typescript-eslint": "^8.71.1",
     "vite": "^8.3.4"
   },
+  "overrides": {
+    "@vite-pwa/sveltekit": {
+      "@sveltejs/kit": "$@sveltejs/kit"
+    }
+  },
   "imports": {
     "#lib": "./src/lib/index.js",
     "#lib/*": "./src/lib/*"
