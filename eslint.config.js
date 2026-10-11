@@ -30,17 +30,17 @@ export default tseslint.config(
     },
   },
   {
-    files: ['cypress/**/*.ts', 'cypress.config.ts'],
+    files: ['playwright/**/*.ts', 'playwright.config.ts'],
     languageOptions: {
       parser: tseslint.parser,
       parserOptions: {
-        project: './cypress/tsconfig.json',
+        project: './playwright/tsconfig.json',
       },
     },
   },
   {
     files: ['**/*.ts'],
-    ignores: ['cypress/**/*.ts', 'cypress.config.ts'],
+    ignores: ['playwright/**/*.ts', 'playwright.config.ts'],
     languageOptions: {
       parser: tseslint.parser,
       parserOptions: {

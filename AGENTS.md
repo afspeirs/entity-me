@@ -12,15 +12,15 @@
 - Lint: `npm run lint`
 - Typecheck: `npm run check` (runs `svelte-kit sync` first)
 - Build: `npm run build`
-- Full e2e flow: `npm test` (starts dev server, waits for `http://localhost:5173`, then runs Cypress)
-- Cypress only: `npm run test:e2e` or interactive `npm run test:open`
+- Full e2e flow: `npm test` (starts dev server, waits for `http://localhost:5173`, then runs Playwright)
+- Playwright only: `npm run test:e2e` or interactive `npm run test:open`
 
 ## Verification order
 - Match CI order before finishing major changes: `npm run lint` -> `npm run check` -> `npm run build` -> `npm test`.
 
 ## Testing and env quirks
-- Cypress `baseUrl` is hardcoded to `http://localhost:5173` in `cypress.config.ts`; if that port is occupied locally, `npm test` can fail even when app starts on another port.
-- Cypress artifacts are ignored (`cypress/screenshots/*`, `cypress/videos/*`); do not commit generated test outputs.
+- Playwright `baseURL` is `http://localhost:5173` in `playwright.config.ts`; if that port is occupied locally, `npm test` can fail even when app starts on another port.
+- Playwright artifacts are ignored (`playwright-report/`, `test-results/`); do not commit generated test outputs.
 
 ## CI / release / deploy flow
 - CI workflow: `.github/workflows/release.yml` on pushes to `main`, `develop`, `next`.
