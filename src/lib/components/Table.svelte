@@ -1,15 +1,15 @@
 <script lang="ts">
   import { HeartIcon, HeartOffIcon } from '@lucide/svelte';
 
-  import TableCell from '$lib/components/TableCell.svelte';
-  import TableHeader from '$lib/components/TableHeader.svelte';
-  import TablePagination from '$lib/components/TablePagination.svelte';
-  import { currentCategory } from '$lib/context/current-category.svelte';
-  import { favouriteEntities } from '$lib/context/favourite-entities.svelte';
-  import { hiddenColumns } from '$lib/context/hidden-columns.svelte';
-  import { search } from '$lib/context/search.svelte';
-  import { headings } from '$lib/entities';
-  import type { CategoryValue, Entity } from '$lib/entities/types';
+  import TableCell from '#lib/components/TableCell.svelte';
+  import TableHeader from '#lib/components/TableHeader.svelte';
+  import TablePagination from '#lib/components/TablePagination.svelte';
+  import { currentCategory } from '#lib/context/current-category.svelte.js';
+  import { favouriteEntities } from '#lib/context/favourite-entities.svelte.js';
+  import { hiddenColumns } from '#lib/context/hidden-columns.svelte.js';
+  import { search } from '#lib/context/search.svelte.js';
+  import { headings } from '#lib/entities/index.js';
+  import type { CategoryValue, Entity } from '#lib/entities/types.js';
 
   async function getEntities(category: CategoryValue): Promise<Entity[]> {
     const entities = await import('../entities');
@@ -38,6 +38,15 @@
       item.note?.toLowerCase()?.includes(currentSearchValue.toLowerCase()),
     );
   })());
+
+  $effect(() => {
+    const currentSearchValue = search.value;
+    const currentCategoryValue = currentCategory.value;
+
+    void currentSearchValue;
+    void currentCategoryValue;
+    currentPage = 0;
+  });
   const maxColumns = headings.length;
 </script>
 

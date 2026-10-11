@@ -3,9 +3,9 @@
   import { Select } from 'melt/builders';
   import { fade } from 'svelte/transition';
 
-  import { hiddenColumns } from '$lib/context/hidden-columns.svelte';
-  import { headings } from '$lib/entities';
-  import type { Heading } from '$lib/entities/types';
+  import { hiddenColumns } from '#lib/context/hidden-columns.svelte.js';
+  import { headings } from '#lib/entities/index.js';
+  import type { Heading } from '#lib/entities/types.js';
 
   const select = new Select<Heading, true>({
     floatingConfig: {

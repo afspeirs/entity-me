@@ -1,7 +1,7 @@
 <script lang="ts">
   import { SearchIcon, XIcon } from '@lucide/svelte';
 
-  import { search } from '$lib/context/search.svelte';
+  import { search } from '#lib/context/search.svelte.js';
 
   let input: HTMLInputElement;
 </script>

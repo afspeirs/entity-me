@@ -30,7 +30,17 @@ export default tseslint.config(
     },
   },
   {
+    files: ['playwright/**/*.ts', 'playwright.config.ts'],
+    languageOptions: {
+      parser: tseslint.parser,
+      parserOptions: {
+        project: './playwright/tsconfig.json',
+      },
+    },
+  },
+  {
     files: ['**/*.ts'],
+    ignores: ['playwright/**/*.ts', 'playwright.config.ts'],
     languageOptions: {
       parser: tseslint.parser,
       parserOptions: {

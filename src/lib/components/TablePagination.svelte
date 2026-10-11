@@ -15,6 +15,22 @@
   const start = $derived(currentPage * perPage);
   const end = $derived(currentPage === totalPages - 1 ? totalItems - 1 : start + perPage - 1);
 
+  $effect(() => {
+    if (currentPage < 0) {
+      currentPage = 0;
+      return;
+    }
+
+    if (totalPages === 0) {
+      currentPage = 0;
+      return;
+    }
+
+    if (currentPage >= totalPages) {
+      currentPage = totalPages - 1;
+    }
+  });
+
   function handlePrevPage() {
     currentPage -= 1;
   }

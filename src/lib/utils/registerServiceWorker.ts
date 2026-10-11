@@ -1,16 +1,17 @@
 import { useRegisterSW } from 'virtual:pwa-register/svelte';
-import { addToast } from '$lib/components/Toaster.svelte';
-import { updateAvailable } from '$lib/context/service-worker.svelte';
+import { addToast } from '#lib/components/Toaster.svelte';
+import { updateAvailable } from '#lib/context/service-worker.svelte.js';
 
 const { updateServiceWorker } = useRegisterSW({
   onNeedRefresh() {
     console.log('SW: A new version is available'); // eslint-disable-line no-console
     addToast({
+      id: 'sw:update-available',
       data: {
         title: 'A new version is available',
         action: {
           title: 'Update',
-          onclick: () => window.location.reload(),
+          onclick: () => updateServiceWorker(true),
         },
       },
     });
@@ -19,6 +20,7 @@ const { updateServiceWorker } = useRegisterSW({
   onOfflineReady() {
     console.log('SW: Caching complete! Now available offline'); // eslint-disable-line no-console
     addToast({
+      id: 'sw:caching-complete',
       data: {
         title: 'Caching complete! Now available offline',
       },

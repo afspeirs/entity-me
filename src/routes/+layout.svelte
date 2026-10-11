@@ -1,8 +1,8 @@
 <script lang="ts">
-  import Header from '$lib/components/Header.svelte';
-  import Toaster from '$lib/components/Toaster.svelte';
-  import { theme } from '$lib/context/theme.svelte';
-  import '$lib/utils/registerServiceWorker';
+  import Header from '#lib/components/Header.svelte';
+  import Toaster from '#lib/components/Toaster.svelte';
+  import { theme } from '#lib/context/theme.svelte.js';
+  import '#lib/utils/registerServiceWorker.js';
   import '../webmanifest-apple';
   import '../app.css';
 

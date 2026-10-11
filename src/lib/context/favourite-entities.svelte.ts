@@ -1,14 +1,29 @@
-import type { Entity } from '$lib/entities/types';
+import type { Entity } from '#lib/entities/types.js';
 
-const initialValue = JSON.parse(window.localStorage.getItem('favourite-entities') || '[]') as Entity['description'][];
+type FavouriteEntityId = Entity['description'];
+
+const STORAGE_KEY = 'favourite-entities';
+
+function getInitialValue(): FavouriteEntityId[] {
+  if (typeof window === 'undefined') return [];
+
+  const rawValue = window.localStorage.getItem(STORAGE_KEY);
+  if (!rawValue) return [];
+
+  const parsed = JSON.parse(rawValue) as string[];
+  if (!Array.isArray(parsed) || parsed.length === 0) return [];
+
+  return parsed as FavouriteEntityId[];
+}
 
 export const favouriteEntities = $state({
-  value: initialValue,
-  set(value: Entity['description'][]) {
+  value: getInitialValue(),
+  set(value: FavouriteEntityId[]) {
     this.value = value;
-    window.localStorage.setItem('favourite-entities', JSON.stringify(value));
+    if (typeof window === 'undefined') return;
+    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(value));
   },
-  update(value: string) {
+  update(value: FavouriteEntityId) {
     if (this.value.includes(value)) {
       this.set(this.value.filter((state) => state !== value));
     } else {

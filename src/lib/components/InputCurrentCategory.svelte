@@ -3,9 +3,9 @@
   import { Select } from 'melt/builders';
   import { fade } from 'svelte/transition';
 
-  import { currentCategory } from '$lib/context/current-category.svelte';
-  import { categories } from '$lib/entities';
-  import type { CategoryValue } from '$lib/entities/types';
+  import { currentCategory } from '#lib/context/current-category.svelte.js';
+  import { categories } from '#lib/entities/index.js';
+  import type { CategoryValue } from '#lib/entities/types.js';
 
   const select = new Select<CategoryValue>({
     floatingConfig: {

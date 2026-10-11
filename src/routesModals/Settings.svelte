@@ -1,18 +1,17 @@
 <script lang="ts">
   import { SettingsIcon } from '@lucide/svelte';
 
-  import { pushState } from '$app/navigation';
+  import { goto } from '$app/navigation';
+  import { resolve } from '$app/paths';
   import { page } from '$app/state';
-  import AppVersion from '$lib/components/AppVersion.svelte';
-  import CheckForUpdate from '$lib/components/CheckForUpdate.svelte';
-  import Modal from '$lib/components/Modal.svelte';
-  import ThemeToggle from '$lib/components/ThemeToggle.svelte';
+  import AppVersion from '#lib/components/AppVersion.svelte';
+  import CheckForUpdate from '#lib/components/CheckForUpdate.svelte';
+  import Modal from '#lib/components/Modal.svelte';
+  import ThemeToggle from '#lib/components/ThemeToggle.svelte';
 
   // TODO: Refactor this into a store of modals to open and close the correct one
   function openSettings() {
-    pushState('', {
-      showModal: 'settings',
-    });
+    goto(resolve('/'), { shallow: true, state: { showModal: 'settings' } });
   }
 </script>
 
