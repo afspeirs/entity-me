@@ -3,12 +3,12 @@ import tailwindcss from '@tailwindcss/vite';
 import { SvelteKitPWA } from '@vite-pwa/sveltekit';
 import { defineConfig } from 'vite';
 
-import { version } from './package.json';
+import packageJson from './package.json' with { type: 'json' };
 
 export default defineConfig({
   define: {
     // 'import.meta.env.APP_BUILD_DATE': `'${new Date().toISOString()}'`,
-    'import.meta.env.APP_VERSION': JSON.stringify(version),
+    'import.meta.env.APP_VERSION': JSON.stringify(packageJson.version),
   },
   plugins: [
     tailwindcss(),

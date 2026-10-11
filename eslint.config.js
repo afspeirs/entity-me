@@ -30,7 +30,17 @@ export default tseslint.config(
     },
   },
   {
+    files: ['cypress/**/*.ts', 'cypress.config.ts'],
+    languageOptions: {
+      parser: tseslint.parser,
+      parserOptions: {
+        project: './cypress/tsconfig.json',
+      },
+    },
+  },
+  {
     files: ['**/*.ts'],
+    ignores: ['cypress/**/*.ts', 'cypress.config.ts'],
     languageOptions: {
       parser: tseslint.parser,
       parserOptions: {

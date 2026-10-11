@@ -1,13 +1,12 @@
 <script lang="ts">
-  import type { Icon as IconType } from '@lucide/svelte';
-  import type { Snippet } from 'svelte';
+  import type { Component, Snippet } from 'svelte';
 
   import { classNames } from '$lib/utils/classNames';
 
   type ButtonProps = {
     children: Snippet;
     class?: string;
-    icon?: typeof IconType;
+    icon?: Component;
     iconOnly?: boolean;
     invert?: boolean;
     onclick: () => void;
