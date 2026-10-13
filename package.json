@@ -45,7 +45,7 @@
     "globals": "^17.13.0",
     "melt": "^0.44.0",
     "semantic-release": "^25.0.9",
-    "start-server-and-test": "^2.1.5",
+    "start-server-and-test": "^3.0.13",
     "svelte": "^5.57.2",
     "svelte-check": "^4.7.6",
     "tailwindcss": "^4.3.3",
