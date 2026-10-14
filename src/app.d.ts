@@ -1,5 +1,6 @@
 import 'vite-plugin-pwa/svelte';
 import 'vite-plugin-pwa/info';
+import type { ModalName } from '#lib/context/modals.svelte.js';
 
 // See https://kit.svelte.dev/docs/types#app
 // for information about these interfaces
@@ -9,8 +10,7 @@ declare global {
     // interface Locals {}
     // interface PageData {}
     interface PageState {
-      // TODO: update this type to get the names of the modals
-      showModal?: string;
+      showModal?: ModalName;
     }
     // interface Platform {}
   }
