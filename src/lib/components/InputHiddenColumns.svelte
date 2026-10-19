@@ -33,7 +33,7 @@
     {...select.trigger}
   >
     <EyeOffIcon class="-ml-0.5 size-5 text-gray-400 shrink-0" aria-hidden="true" />
-    Hidden Columns ({select.value.size || 0}/{headings.length})
+    Hidden Columns: {select.value.size || 0}/{headings.length}
     <ChevronDownIcon class="ml-auto size-4 text-gray-400 shrink-0" aria-hidden="true" />
   </button>
 
