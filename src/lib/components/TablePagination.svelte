@@ -54,7 +54,7 @@
         type="button"
         onclick={handlePrevPage}
         disabled={currentPage === 0}
-        class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold enabled:hover:bg-black/5 dark:enabled:hover:bg-white/5 text-gray-900 dark:text-white not-disabled:cursor-pointer disabled:opacity-40 ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-outline"
+        class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold enabled:hover:bg-black/5 dark:enabled:hover:bg-white/5 text-gray-900 dark:text-white not-disabled:cursor-pointer disabled:opacity-40 ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible"
       >
         Previous
       </button>
@@ -62,7 +62,7 @@
         type="button"
         onclick={handleNextPage}
         disabled={end + 1 === totalItems}
-        class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold enabled:hover:bg-black/5 dark:enabled:hover:bg-white/5 text-gray-900 dark:text-white not-disabled:cursor-pointer disabled:opacity-40 ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-outline"
+        class="relative ml-3 inline-flex items-center rounded-md px-3 py-2 text-sm font-semibold enabled:hover:bg-black/5 dark:enabled:hover:bg-white/5 text-gray-900 dark:text-white not-disabled:cursor-pointer disabled:opacity-40 ring-1 ring-inset ring-gray-300 dark:ring-gray-600 focus-visible"
       >
         Next
       </button>

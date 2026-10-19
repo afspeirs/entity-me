@@ -1,10 +1,12 @@
 @import 'tailwindcss';
 @import 'tailwindcss-safe-area';
-@plugin '@tailwindcss/typography';
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 @theme {
+  --animate-modal-show: modal-show 0.2s ease-out;
+  --animate-backdrop-show: backdrop-show 0.2s ease-out;
+
   --color-*: initial;
   --color-current: currentColor;
   --color-inherit: inherit;
@@ -13,7 +15,7 @@
   --color-black: hsl(0, 0%, 0%);
   --color-white: hsl(0, 0%, 100%);
   --color-dark: hsl(0, 0%, 7%);
-  --color-light: hsl(0, 0%, 96%);
+  --color-light: hsl(0, 0%, 98%);
 
   --color-gray-50: hsl(210, 20%, 98%);
   --color-gray-100: hsl(220, 14%, 96%);
@@ -34,28 +36,6 @@
   --spacing-titlebar-area-y: env(titlebar-area-y, 0);
   --spacing-titlebar-area-width: env(titlebar-area-width, 100%);
   --spacing-titlebar-area-height: env(titlebar-area-height, 16rem);
-}
-
-@utility text-link {
-  @apply underline text-primary hover:text-current;
-}
-
-@utility focus-outline {
-  @apply outline-hidden focus-visible:ring-2 focus-visible:ring-black dark:focus-visible:ring-white;
-}
-
-@utility focus-outline-inset {
-  @apply focus-outline focus-visible:ring-inset;
-}
-
-@utility drag {
-  -webkit-app-region: drag;
-  app-region: drag;
-}
-
-@utility no-drag {
-  -webkit-app-region: no-drag;
-  app-region: no-drag;
 }
 
 @layer base {
@@ -97,5 +77,43 @@
   }
   ::-webkit-scrollbar-button {
     @apply size-0;
+  }
+}
+
+@utility text-link {
+  @apply underline text-primary hover:text-current;
+}
+
+@utility focus-visible {
+  @apply outline-hidden focus-visible:ring-2 focus-visible:ring-black dark:focus-visible:ring-white;
+}
+
+@utility drag {
+  -webkit-app-region: drag;
+  app-region: drag;
+}
+
+@utility no-drag {
+  -webkit-app-region: no-drag;
+  app-region: no-drag;
+}
+
+@keyframes modal-show {
+  from {
+    opacity: 0;
+    transform: scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes backdrop-show {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
   }
 }

@@ -9,10 +9,15 @@
   }
 </script>
 
+{#snippet secondaryAction()}
+  {themeUserOptions[theme.system]}
+{/snippet}
+
 <Button
+  colour="primaryHover"
   icon={theme.system === 'dark' ? MoonIcon : SunIcon}
-  text="Theme"
   onclick={handleUpdateTheme}
+  {secondaryAction}
 >
-  <span class="ml-auto">{themeUserOptions[theme.system]}</span>
+  Theme
 </Button>

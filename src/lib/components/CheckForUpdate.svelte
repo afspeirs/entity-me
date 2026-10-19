@@ -25,23 +25,26 @@
   }
 </script>
 
+{#snippet secondaryAction()}
+  {#if updateAvailable.value}
+    <span class="px-3 py-1.5 rounded-full bg-primary text-white">Update</span>
+  {:else}
+    <div
+      aria-live="polite"
+      aria-busy={loading}
+      class:hidden={!loading}
+    >
+      <RefreshIcon class="size-5 animate-spin" aria-hidden="true" />
+      <span class="sr-only">Loading</span>
+    </div>
+  {/if}
+{/snippet}
+
 <Button
+  colour="primaryHover"
   icon={RocketIcon}
-  text="Check for update"
   onclick={handleCheckForUpdate}
+  {secondaryAction}
 >
-  <span class="ml-auto">
-    {#if updateAvailable.value}
-      <span class="px-3 py-1.5 rounded-full bg-primary text-white">Update</span>
-    {:else}
-      <div
-        aria-busy={loading}
-        aria-live="polite"
-        class:hidden={!loading}
-      >
-        <RefreshIcon class="size-5 animate-spin" aria-hidden="true" />
-        <span class="sr-only">Loading</span>
-      </div>
-    {/if}
-  </span>
+  Check for update
 </Button>

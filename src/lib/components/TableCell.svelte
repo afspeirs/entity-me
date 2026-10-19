@@ -43,7 +43,7 @@
     {#if showButton}
       <button
         type="button"
-        class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-outline-inset"
+        class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-visible ring-inset"
         onclick={() => copyToClipBoard(label)}
         use:tooltip={{
           content: `Copy "${label}" to the clipboard`,

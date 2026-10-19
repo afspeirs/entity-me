@@ -9,7 +9,7 @@
 </script>
 
 <button
-  class="p-2 rounded-md text-white hover:bg-black/20 cursor-pointer focus-outline-inset"
+  class="p-2 rounded-md text-white hover:bg-black/20 cursor-pointer focus-visible ring-inset"
   onclick={() => modals.open('settings')}
 >
   <SettingsIcon class="size-6" aria-hidden="true" />

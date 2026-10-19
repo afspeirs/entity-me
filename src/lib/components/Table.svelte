@@ -137,7 +137,7 @@
 
                   <button
                     type="button"
-                    class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-outline-inset"
+                    class="absolute inset-0 hover:bg-black/5 dark:hover:bg-white/5 cursor-pointer focus-visible ring-inset"
                     data-cy="favourite-button"
                     onclick={() => favouriteEntities.update(entity.description)}
                   >

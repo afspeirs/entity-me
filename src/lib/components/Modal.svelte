@@ -2,6 +2,8 @@
   import { XIcon } from '@lucide/svelte';
   import { onMount, type Snippet } from 'svelte';
 
+  import Button from '#lib/components/Button.svelte';
+
   type ModalProps = {
     children: Snippet;
     title: string;
@@ -35,14 +37,14 @@
         {title}
       </h2>
 
-      <button
-        type="button"
-        class="inline-flex justify-center p-2 text-sm font-medium text-dark hover:bg-black/5 dark:text-white dark:hover:bg-white/5 rounded-md cursor-pointer focus-outline-inset"
+      <Button
+        colour="primaryHover"
+        icon={XIcon}
+        iconOnly
         onclick={handleClose}
       >
-        <XIcon class="size-6" aria-hidden="true" />
-        <span class="sr-only">Close Modal</span>
-      </button>
+        Close "{title}"
+      </Button>
     </header>
 
     <hr class="my-2" />
